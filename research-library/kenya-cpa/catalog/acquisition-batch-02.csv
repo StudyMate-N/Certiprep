@@ -1,0 +1,10 @@
+id,media_type,paper_codes,title,official_source_url,status,reuse_policy,next_action
+K001,pdf,ALL,KASNEB revised CPA syllabus June 2024,https://www.kasneb.or.ke/wp-content/uploads/2024/09/CPA-Syllabus-Reviewed-June-2024.pdf,link_verified,restricted_link_only,request_permission_for_hosting
+K002,pdf,ALL,KASNEB examination information booklet,https://www.kasneb.or.ke/sites/default/files/Assets/Kasneb%20Brochure.pdf,link_verified,restricted_link_only,request_permission_for_hosting
+K003,library,ALL,KASNEB e-Library,https://www.kasneb.or.ke/e-library,link_verified,subscriber_access,obtain_institutional_rights
+K004,pdf,CA26|CA34S1,KRA publications including Income Tax Act July 2026,https://www.kra.go.ke/publications,source_page_verified,terms_review,inspect_actual_pdf_links_and_reuse_terms
+K005,website,CA26|CA34S1,KRA Finance Act 2026 guidance,https://www.kra.go.ke/individual?start=0,source_page_verified,terms_review,review_effective_dates
+I001,course_pdf_set,CA11|CA25,MIT 15.501 Financial and Managerial Accounting,https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/download/,source_page_verified,CC_BY_NC_SA_noncommercial,obtain_files_for_separate_noncommercial_research
+I002,reference,CA23|CA32,IFRS issued standards,https://www.ifrs.org/issued-standards/,source_page_verified,restricted_link_only,link_without_republication
+I003,reference,CA24|CA34S2,IAASB standards,https://www.iaasb.org/publications/2026-handbook-international-quality-management-auditing-review-sustainability-and-other-assurance,source_page_verified,terms_review,check_reproduction_rights
+I004,reference,CA26|CA34S4,PSASB Kenyan accounting standards,https://psasb.go.ke/accounting-standards/,source_page_verified,terms_review,identify_downloadable_files
