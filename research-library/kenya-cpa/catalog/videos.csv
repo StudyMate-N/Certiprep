@@ -1,0 +1,4 @@
+id,paper_codes,title,publisher,url,review_status,media_file_present,license_status
+VID001,CA11|CA25,MIT OpenCourseWare course catalogue,MIT OCW,https://ocw.mit.edu/,discovery_only,false,noncommercial_licence_check
+VID002,CA11,CPA Financial Reporting and Analysis revision video,YouTube,https://www.youtube.com/watch?v=Vy8eXggidug,unreviewed,false,stream_link_only
+VID003,ALL,KASNEB relevant video discovery,YouTube,https://www.youtube.com/results?search_query=KASNEB+CPA+revision+Kenya,discovery_only,false,stream_link_only
