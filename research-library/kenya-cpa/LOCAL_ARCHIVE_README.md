@@ -1,10 +1,3 @@
-# Locally downloadable master library — 31 Oct 2026
+# Local master archive
 
-The chat deliverable is `Kenya_CPA_Master_Library.zip`. The snapshot contains:
-- **One validated original CA11 Financial Accounting PDF binary** (locally generated).
-- A Phase 02 ZIP containing source research and paper mapping.
-- A new twelve-source index (including three video source links).
-- SHA256-based file manifest, rights notes, and permission-gated downloader.
-- **Zero third-party PDFs or video binaries.** The archive does not claim otherwise.
-
-External third-party file downloads could not complete because the execution environment could not resolve asset hosts. The local ZIP is provided in the associated ChatGPT conversation, not checked into this GitHub repository. Future updates should validate and include actual copyrighted media only after rights checks.
+Open START_HERE.html in the delivered ZIP after extracting it. Media are arranged by level, paper and topic; cross-mapped works are stored once. Verify MANIFEST.sha256 with scripts/verify_library.py. Source catalogue, rights, coverage and rejection records are included. GitHub contains metadata only for this acquisition; media paths refer to the ZIP.

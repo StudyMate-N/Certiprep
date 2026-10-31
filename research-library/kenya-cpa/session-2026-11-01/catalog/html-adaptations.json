@@ -1,0 +1,425 @@
+[
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter1/",
+    "source_sha256": "216436e06f072f43e41768133865fa83e06a357dcdede915cf074062633749ba",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter01.html",
+    "sha256": "5ea1d48411f0a4c1350255f5e63a7522954eff7892eccda605a0bc3aa4976f3b",
+    "title": "Open Cost Accounting: 1: Managerial & Cost Accounting",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/0731180955a-768x353.jpg"
+    ],
+    "changes": "Derived from Open Cost Accounting: 1: Managerial & Cost Accounting by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter1/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter2/",
+    "source_sha256": "b3abcab0410199773ccb89c8749454c34f7773a60f3a97e6c8334882fc310cca",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter02.html",
+    "sha256": "b0cee3dab129800470c91bd96849aec59151f26bc7727baf5e8b50bda982e479",
+    "title": "Open Cost Accounting: 2: Relevant & Strategic Cost Analysis",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/rca.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/Differentiation-chapter-2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/Cost-leadership-chapter-2.png"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/David-ricardo-gif.gif"
+    ],
+    "changes": "Derived from Open Cost Accounting: 2: Relevant & Strategic Cost Analysis by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter2/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter3/",
+    "source_sha256": "cccee791151f3d0e834e58cfa4addf5d52653e884a884c3a127fbfa3dfc574ab",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter03.html",
+    "sha256": "88729848c2c92b44d60781c2f1d8de43eefdc277320dc9b54a3de7e01bb5997f",
+    "title": "Open Cost Accounting: 3: Cost-Volume-Profit Analysis",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/unit_cm_and_cm_ratio.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/b_e_unit_cm_and_cm_ratio-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/multi_product_unit_cm_and_cm_ratio.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/dol_fig-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/01/Constrainted-CM2a.png"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/Copy-of-0804181129_HDR-768x432.jpg"
+    ],
+    "changes": "Derived from Open Cost Accounting: 3: Cost-Volume-Profit Analysis by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter3/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter4/",
+    "source_sha256": "939858716b4466b785d8d4d5a163a8a2e36bcdaa2e49c1a8d2997ee68c743210",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter04.html",
+    "sha256": "49e61a8160d26d2995faf3f2c118f8b061b0a5665cb1aef3dfdcb5ebc02caa19",
+    "title": "Open Cost Accounting: 4: Job-Order Costing",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/location1_base2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/location1_labels2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/OHabsorptionGIF.gif",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/09/OH-ctrl2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/Inventory-flow.gif"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/MarcoPoloGIF.gif",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/Ch4-Ed-768x946.png"
+    ],
+    "changes": "Derived from Open Cost Accounting: 4: Job-Order Costing by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter4/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter5/",
+    "source_sha256": "a5807efdebe6a446aec5f45e437a70b2515bf8b7ea1cc6fb01dd9904d727c13e",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter05.html",
+    "sha256": "328de989471664eb5ede2c3309e46fdf3e261a836c94b265459f77c47608d931",
+    "title": "Open Cost Accounting: 5: Activity-Based Costing",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/09/location2_abc-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-Customer-Profitability1-2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-Customer-Profitability2-4.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-Customer-Profitability3-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-ABM-product-mix-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-ABM-product-offerings-634x1024.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-ABM-product-improvements-1-594x1024.png"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/08/0803181736a2.jpg"
+    ],
+    "changes": "Derived from Open Cost Accounting: 5: Activity-Based Costing by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter5/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter6/",
+    "source_sha256": "b5c775f2c03610a155a87966411f314d30dae78434e92a54666c732a115ff9b6",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter06.html",
+    "sha256": "38cbc2975ec360e9ae058a7eda0013f03e844f47bee9747eda2ff46fe95b8e85",
+    "title": "Open Cost Accounting: 6: Process Costing",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-gif1.gif",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-wa-v-fifo1-2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/09/process-costing11.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-WA-eqn1-TEU-1024x90.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-wa-teu1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-FIFO-eqn1-TEU-1024x63.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-FIFO-eqn3-TEU-1024x61.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-wa-v-fifo1-2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/09/process-costing11.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-WA-eqn1-rates-1024x91.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch6-WA-ex1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-gif1.gif",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch6-WA-ex2-2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-FIFO-eqn1-rates-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch6-FIFO-ex1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2023/02/Chapter-6-FIFO-Step-3-Figure.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-FIFO-eqn3-TEU-1-1024x61.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-wa-v-fifo1-2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2023/02/Chapter-6-Additive-Equation-Figure-1024x45.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2023/02/Chapter-6-FIFO-Step-3-Figure-Additive2.png"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Chapter-6-video-v2.gif"
+    ],
+    "changes": "Derived from Open Cost Accounting: 6: Process Costing by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter6/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter7/",
+    "source_sha256": "1724971da6aae8af3a02de3a2b210d5437f635a9a2508584b82155a801dd0792",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter07.html",
+    "sha256": "2e5bd37655b5a727bd239b26376189fa44d1a442add21886676969cb97c4a40b",
+    "title": "Open Cost Accounting: 7: Variance Analysis",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VA1-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/03/variance_analysis_example_redo_v2-3.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-spv-v2-1024x36.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-spv-v2-pt-2-1024x44.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-svv-v2-1-1024x36.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-svv-v2-pt2-1024x45.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/03/variance_analysis_example_redo_v2-2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-Flexible-Budget-v2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-CV-FB1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DLQ1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DLQ2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DLP1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DLPV3.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DL-JE.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DMQV1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DMQV2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DMPV1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DMPV2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DM-T-acct2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VOH-Q1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VOH-Q2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VOH-P1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VOH-P2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2024/04/variance_analysis_fo_example3-fix-2024.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2024/04/FOH-Volume-Variance-Formula-fix-2024-1024x37.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-FOH-SPEND3.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/mix-var-eqn1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/02/mix-var-table1-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/03/Yield-Variance1-1024x41.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/03/yield-variance-example-1-1.png"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-7-image1-300x287.jpg"
+    ],
+    "changes": "Derived from Open Cost Accounting: 7: Variance Analysis by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter7/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter8/",
+    "source_sha256": "2cccc71905aee501d54cb0136658fde8da2b2af158fc51111e894d74e70e0a25",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter08.html",
+    "sha256": "a225c774bf81bd7f91103a1f155e6601ee398d704b6997dbe3de89c571318f16",
+    "title": "Open Cost Accounting: 8: Lean Accounting",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-new-profit.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-value-stream-income-stmt1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-value-stream-income-stmt4.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-value-stream-income-stmt3.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-value-stream-income-stmt5.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-backflush2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-backflush3.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-8-bachflush-example-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-direct-costing1-1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-direct-costing2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-direct-costing3.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-backflush4.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/ch-8-throughput1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2020/04/throughput-constraint-1-1024x112.png"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/jean-sibelius-vid-gif3.gif"
+    ],
+    "changes": "Derived from Open Cost Accounting: 8: Lean Accounting by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter8/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter9/",
+    "source_sha256": "88bf130ec9bbeea763a576b0dc6a922a47976e24e69721152976a23fea9aea9b",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter09.html",
+    "sha256": "288024caee89c08a79751f1b8f54d1d82ca7e4d09de11da58e1f5558454abc22",
+    "title": "Open Cost Accounting: 9: Budgeting",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/master_budget_illustration2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget1-sales-budget2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget2-cash-collection-sched2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget3-production2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget4-direct-materials.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget5-cash-purchases-sched.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget6-direct-labor.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget7-OH.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget8-FG-INV.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget9-SGA.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget10-Cash-budget3.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget11-I-S2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget12-B-S2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget12-capital2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget15-25-lower-I-S1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget15-25-lower-B-S1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget15-25-higher-I-S1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget15-25-higher-B-S1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget14-capital-sens1.png"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-9-image-768x512.jpg",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-9-UB-map2.png"
+    ],
+    "changes": "Derived from Open Cost Accounting: 9: Budgeting by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter9/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter10/",
+    "source_sha256": "7d118b3605961a0c5a559b9ca63947473c3f63e4e72d1e011322a5e43fb99d1e",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter10.html",
+    "sha256": "518f658701e2680243c7fc5356fd63e2ead65dd1228720ba3415bc4375485e56",
+    "title": "Open Cost Accounting: 10: Responsibility Accounting",
+    "included_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/profit_centers1.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-interdependency.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-direct-method-2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-step-down-2.gif",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-step-down-example.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-reciprocal-example.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch3-SO2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2024/04/ch-10-transfer-price-example2.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-10-ROI-eqn.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-10-ROI-example.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-10-RI-eqn.png",
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-10-ROI-and-RI-example.png"
+    ],
+    "omitted_image_urls": [
+      "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Chapter-7-gif2.gif"
+    ],
+    "changes": "Derived from Open Cost Accounting: 10: Responsibility Accounting by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter10/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://www.opencostaccounting.org/toc/chapter11/",
+    "source_sha256": "ea8d497bd91d40dc206f58961618424dcfba3926691147baf4edea9e8c9adc4e",
+    "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter11.html",
+    "sha256": "522182c6542ada33f0972e76cd0a7c8458b67d3f6a630e92c6e74247f6fe5636",
+    "title": "Open Cost Accounting: 11: Data Analytics",
+    "included_image_urls": [],
+    "omitted_image_urls": [],
+    "changes": "Derived from Open Cost Accounting: 11: Data Analytics by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter11/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
+  },
+  {
+    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/7-2-organization-and-key-idea/",
+    "source_sha256": "69ea48a2faa1509bf1163d4ba642e516f8554f2fa5c8424028b628a45c362755",
+    "package_path": "media/Foundation/CA12/communication/section-9-2.html",
+    "sha256": "dc3ae65ca23b056014d7a4403d217a1d9456ba6a19f0b4e17e31bae144d0ffac",
+    "title": "Communication Essentials for Business: 9.2 Message Structure",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2022/02/direct-indirect-org.jpeg",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2022/02/netiquette-sidebar.jpg",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2022/02/06-netiquette-consequences.jpg"
+    ],
+    "changes": "Derived from Communication Essentials for Business: 9.2 Message Structure by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/7-2-organization-and-key-idea/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
+  },
+  {
+    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/7-3-persuasive-messages/",
+    "source_sha256": "d69afaa69378ddca39de9810671cd2b0e67b089a8b548b5e7bd0c802464ea8a4",
+    "package_path": "media/Foundation/CA12/communication/section-9-5.html",
+    "sha256": "f63b2d1aa1a38d6368011b0e7f25393a6b16229227f99ae11e15a3c74f1f03b6",
+    "title": "Communication Essentials for Business: 9.5 Persuasive Messages",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2022/02/AIDA.jpg"
+    ],
+    "changes": "Derived from Communication Essentials for Business: 9.5 Persuasive Messages by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/7-3-persuasive-messages/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
+  },
+  {
+    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/writinginstructions/",
+    "source_sha256": "1462cd760d9b9747b5baffa16f87df20ab86e722520e69b10c84fd660b5074a2",
+    "package_path": "media/Foundation/CA12/communication/section-9-6.html",
+    "sha256": "cd086c1108d5e655583421079fe2ca39514a1a02f622cb1c82d47ef36d5f29c1",
+    "title": "Communication Essentials for Business: 9.6 Instructions",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2018/11/Task-Instructions.jpg",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2018/11/Copy-of-instructions.1.png",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2018/11/Copy-of-instructions.2.png",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2018/11/instructions-illustration.png.jpg"
+    ],
+    "changes": "Derived from Communication Essentials for Business: 9.6 Instructions by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/writinginstructions/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
+  },
+  {
+    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/proposals/",
+    "source_sha256": "53ee6805b1c46b8a1bef3b773c059b3458ec11c13cfe1f4eec4f6c7b8f105691",
+    "package_path": "media/Foundation/CA12/communication/section-10-2.html",
+    "sha256": "6a9da12396b4e5d2fdcd22cb154d7ec508cba17144371285582b1a22fbac9c67",
+    "title": "Communication Essentials for Business: 10.2 Proposals",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2021/12/PhasesOfAProject_REV.png",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2021/04/proposal.png",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2017/12/proposal.jpg",
+      "https://pressbooks.bccampus.ca/businesswritingessentials/wp-content/uploads/sites/982/2020/04/Letter-Proposal-1-837x1024.png",
+      "https://pressbooks.bccampus.ca/businesswritingessentials/wp-content/uploads/sites/982/2020/04/Letter-Proposal-2-872x1024.png",
+      "https://pressbooks.bccampus.ca/businesswritingessentials/wp-content/uploads/sites/982/2020/04/Letter-Proposal-3-1024x407.png"
+    ],
+    "changes": "Derived from Communication Essentials for Business: 10.2 Proposals by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/proposals/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
+  },
+  {
+    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/recommendationreports/",
+    "source_sha256": "994b5fea631fc5144e30b9ac990f100c13f8b187f5e217ad7d3587545f606a79",
+    "package_path": "media/Foundation/CA12/communication/section-10-3.html",
+    "sha256": "d3498b2d9f3a679271ee958b2c19c21b8c4759d1fc6a5c42dfc4073f61066af6",
+    "title": "Communication Essentials for Business: 10.3 Recommendation Reports and Feasibility Studies",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2018/05/feasibility.jpg",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/120/2018/05/feasibility-outline-1-1024x654.jpg",
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2025/04/Decision-Matrix-Design-300x213.jpg"
+    ],
+    "changes": "Derived from Communication Essentials for Business: 10.3 Recommendation Reports and Feasibility Studies by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/recommendationreports/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
+  },
+  {
+    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/buildingconfidence/",
+    "source_sha256": "352c2cfd3c2f3471ae5f324cbba66bbbc5955ebc7de0ce65a461a1c837cb5a27",
+    "package_path": "media/Foundation/CA12/communication/section-11-1.html",
+    "sha256": "6a1353b26e89e64c31ceeacb9e4c7c2c89bf8ce9cadea20f4abd5aa397282690",
+    "title": "Communication Essentials for Business: 11.1 Building Confidence as a Presenter",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2018/12/masterclass_blog_1.png"
+    ],
+    "changes": "Derived from Communication Essentials for Business: 11.1 Building Confidence as a Presenter by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/buildingconfidence/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
+  },
+  {
+    "source": "https://swcarpentry.github.io/python-novice-gapminder/aio.html",
+    "source_sha256": "fae17b118a0021db0cd98eb75c687b2b76347062f7e3e9d73c8224686b355afb",
+    "package_path": "media/Practical/CA35P/data-skills/py-lesson.html",
+    "sha256": "b15d0886fed921ad5fd650a226716b2930f8897fc3a82f99f90146d3a664469e",
+    "title": "Plotting and Programming in Python",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/0_anaconda_navigator_landing_page.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/0_jupyterlab_landing_page.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/0_jupyterlab_menu_bar.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/0_jupyterlab_left_side_bar.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/0_jupyterlab_main_work_area.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/0_jupyterlab_notebook_screenshot.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/0_multipanel_jupyterlab_screenshot.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/2_indexing.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_simple_position_time_plot.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_gdp_australia.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_gdp_australia_nz.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_gdp_bar.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_gdp_australia_formatted.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_gdp_australia_nz_formatted.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_gdp_correlation_plt.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_gdp_correlation_data.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_minima_maxima_solution.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_correlations_solution1.svg",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_correlations_solution2.png",
+      "https://swcarpentry.github.io/python-novice-gapminder/fig/9_more_correlations_solution.svg"
+    ],
+    "changes": "Derived from Plotting and Programming in Python by The Carpentries and credited contributors. Source: https://swcarpentry.github.io/python-novice-gapminder/aio.html. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Illustrations omitted from this text view; pinned source ZIP contains original lesson source, figures, code and available data. Embedded code licence is MIT."
+  },
+  {
+    "source": "https://datacarpentry.github.io/spreadsheet-ecology-lesson/aio.html",
+    "source_sha256": "3a018c31e04cfab785f7963e781a95b2e2c0b4fbc97c1e8bc4c9bd830e38c467",
+    "package_path": "media/Practical/CA35P/data-skills/sheet-lesson.html",
+    "sha256": "45322a427a0a712f0e4eac7d1df275005f3d693bb50e98cee051330a76941daa",
+    "title": "Data Organization in Spreadsheets",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/spreadsheet-setup-updated.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/multiple-info.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/single-info.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/2_datasheet_example.jpg",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/formatting.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/good_formatting.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/solution_exercise_1_dates.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/5_excel_dates_1.jpg",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/6_excel_dates_2.jpg",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/7_excel_dates_3.jpg",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/data_validation.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/data_validation_window.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/plot_validation.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/invalid_value.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/input_message.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/error_alert.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/drop_down_list2.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/sorting_button.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/sorting_example.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/sorting_solution_1.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/sorting_solution_2.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/conditional_formating.png",
+      "https://datacarpentry.github.io/spreadsheet-ecology-lesson/fig/excel-to-csv.png",
+      "https://cloud.githubusercontent.com/assets/13110354/24560663/db4a5786-1643-11e7-931a-ca2c72336878.png",
+      "https://cloud.githubusercontent.com/assets/13110354/24561066/a990327c-1645-11e7-90b5-35a44e90f8d9.png"
+    ],
+    "changes": "Derived from Data Organization in Spreadsheets by The Carpentries and credited contributors. Source: https://datacarpentry.github.io/spreadsheet-ecology-lesson/aio.html. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Illustrations omitted from this text view; pinned source ZIP contains original lesson source, figures, code and available data. Embedded code licence is MIT."
+  },
+  {
+    "source": "https://swcarpentry.github.io/sql-novice-survey/aio.html",
+    "source_sha256": "20a67164bb853aaceded71571a1215cd32e485971f299e136ee8d3173713de0d",
+    "package_path": "media/Practical/CA35P/data-skills/sql-lesson.html",
+    "sha256": "fee172beab4c1c15c1252d2b5d6c6102030ef52feed8733c500cc49209ed385f",
+    "title": "Databases and SQL",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://swcarpentry.github.io/sql-novice-survey/fig/database-diagram.svg",
+      "https://swcarpentry.github.io/sql-novice-survey/fig/sql-filter.svg",
+      "https://swcarpentry.github.io/sql-novice-survey/fig/sql-aggregation.svg",
+      "https://swcarpentry.github.io/sql-novice-survey/fig/sql-join-structure.svg",
+      "https://imgs.xkcd.com/comics/exploits_of_a_mom.png"
+    ],
+    "changes": "Derived from Databases and SQL by The Carpentries and credited contributors. Source: https://swcarpentry.github.io/sql-novice-survey/aio.html. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Illustrations omitted from this text view; pinned source ZIP contains original lesson source, figures, code and available data. Embedded code licence is MIT."
+  }
+]

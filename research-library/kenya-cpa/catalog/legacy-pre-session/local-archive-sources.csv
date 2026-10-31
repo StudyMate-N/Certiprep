@@ -1,0 +1,13 @@
+id,title,type,papers,source_url,license_note,archive_status
+OFF01,KASNEB CPA current course structure,web,ALL,https://www.kasneb.or.ke/node/196,all_rights_reserved,link_only
+OFF02,KASNEB reviewed syllabus June 2024,pdf,ALL,https://www.kasneb.or.ke/wp-content/uploads/2024/09/CPA-Syllabus-Reviewed-June-2024.pdf,permission_required,link_only
+OFF03,KASNEB e-Library,portal,ALL,https://www.kasneb.or.ke/e-library,subscription,link_only
+KEN01,KRA publications,portal,CA26|CA34S1,https://www.kra.go.ke/publications/publications,rights_review,link_only
+KEN02,PSASB accounting standards,portal,CA26|CA34S4,https://psasb.go.ke/accounting-standards/,rights_review,link_only
+INT01,MIT accounting materials,course,CA11|CA25,https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/download/,CC_BY_NC_SA,link_only
+INT02,Open Cost Accounting,textbook,CA25|CA34S3,https://www.opencostaccounting.org/,CC_BY_4.0_attribution,link_only
+INT03,OpenStax Principles of Finance PDF,pdf,CA22|CA33,https://assets.openstax.org/oscms-prodcms/media/documents/PrinciplesofFinance-WEB.pdf,check_edition_rights,download_failed_network
+INT04,IFRS issued standards,portal,CA23|CA32,https://www.ifrs.org/issued-standards/,rights_review,link_only
+VID01,MIT OCW course video discovery,video,CA11|CA25,https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/,noncommercial,stream_link_only
+VID02,Kenyan CPA Advanced Taxation,video,CA34S1,https://www.youtube.com/watch?v=9yPrW2IYNG8,creator_permission_required,stream_link_only
+VID03,Public Finance and Taxation video,video,CA26,https://www.youtube.com/watch?v=oeZJQzzIpNI,creator_permission_required,stream_link_only

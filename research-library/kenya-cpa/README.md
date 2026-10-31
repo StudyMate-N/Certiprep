@@ -1,27 +1,15 @@
-# Kenya CPA Research Library
+# Kenya CPA preparation library
 
-**Status:** acquisition staging — metadata and source pointers only; **zero external PDF/video assets uploaded**.
+Current research edition: [session-2026-11-01](session-2026-11-01/README.md).
 
-## Scope
-KASNEB CPA Foundation, Intermediate and Advanced papers. Kenyan law, tax and exam syllabuses override international supplemental teaching sources.
+The 60-minute acquisition session distinguishes genuine downloaded material from access links. The downloadable master archive holds the approved media; GitHub holds the catalogue, rights/provenance records, acquisition hashes, coverage and review reports. **GitHub does not hold the new session media.** A catalogue path is a location inside the delivered archive, not proof that GitHub hosts the binary.
 
-## Structure
-- `catalog/resources.csv` — verified source leads; URLs are source pages unless marked direct PDF
-- `catalog/videos.csv` — video teaching discovery; URLs are external, not downloaded media
-- `assets/pdfs/` — put actual authorised PDF files here after rights checks
-- `assets/videos/` — use Git LFS only for files with explicit hosting rights; otherwise external streaming URLs
-- `rights/` — permission and provenance records before distribution
-- `scripts/` — ingestion and validation scripts (future)
+- [Current source catalogue](session-2026-11-01/catalog/source-catalogue.csv)
+- [Rights register](session-2026-11-01/rights/rights-register.csv) and [attribution/adaptation notices](session-2026-11-01/rights/ATTRIBUTION.md)
+- [Actual acquisitions](session-2026-11-01/catalog/acquisitions.csv)
+- [Coverage and remaining gaps](session-2026-11-01/reports/COVERAGE.md)
+- [Acceptance/rejection decisions](session-2026-11-01/reports/ACCEPTANCE_REJECTION.md)
 
-## Acquisition policy
-1. Check each PDF/video URL, edition, target paper and author.
-2. Record source URL, publisher, effective date, license, use permission, SHA256, size and file path.
-3. **No reproduction of KASNEB past papers, proprietary IFRS texts, paid textbooks, or YouTube videos without permission.**
-4. MIT OCW is commonly CC BY-NC-SA; it is not cleared for a paid exam tool.
-5. Content status values: `discovered`, `downloaded`, `verified`, `licensed_for_distribution`, `restricted_link_only`.
-6. Keep local tax/legal materials current. External accounting lectures should be labelled supplemental rather than authoritative Kenyan exam teaching.
+Kenyan law, the applicable accounting/audit standards and KASNEB sitting instructions override international supplements. No paper is certified complete. Zero KASNEB past-paper PDFs and zero video recordings were acquired. No LFS pointer is counted as media.
 
-## GitHub storage
-Ordinary Git warns for files above 50 MiB and blocks above 100 MiB; use Git LFS for authorised large binaries. Avoid treating GitHub as an unrestricted commercial video CDN.
-
-Next step: ingest actual authorised binaries, validate hashes and map each to exact KASNEB syllabus objectives.
+The earlier catalogue is preserved under catalog/legacy-pre-session for audit, with its unverified licence claims expressly superseded. Earlier research notes and video batches remain historical discovery evidence, not accepted-media inventories.

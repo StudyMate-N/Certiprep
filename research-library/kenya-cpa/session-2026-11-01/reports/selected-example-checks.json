@@ -1,0 +1,195 @@
+[
+  {
+    "resource_id": "TXT-MA",
+    "check": "PDF page 63 contribution margin",
+    "computed": 15000,
+    "expected": 15000,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-MA",
+    "check": "PDF page 63 operating income",
+    "computed": 7000,
+    "expected": 7000,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-MA",
+    "check": "PDF page 66 break-even units",
+    "computed": 1000.0,
+    "expected": 1000,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-FINITE",
+    "check": "PDF page 187 effective annual rate, 7.2% monthly compounding",
+    "computed": 7.44,
+    "expected": 7.44,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-FINITE",
+    "check": "PDF page 187 effective annual rate, 7.25% semiannually",
+    "computed": 7.38,
+    "expected": 7.38,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-MICRO",
+    "check": "PDF page 425 producer surplus",
+    "computed": 359.69999999999993,
+    "expected": 359.7,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-FA",
+    "check": "PDF page 115 gross profit example FIFO",
+    "computed": 9,
+    "expected": 9,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-FA",
+    "check": "PDF page 115 gross profit example LIFO (US GAAP context)",
+    "computed": 7,
+    "expected": 7,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-PY",
+    "check": "ZIP CRC, licence and data inventory",
+    "pass": true,
+    "archive_members": 92,
+    "data_files": [
+      "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/asia_gdp_per_capita.csv",
+      "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_all.csv",
+      "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_africa.csv",
+      "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_americas.csv",
+      "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_asia.csv",
+      "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_europe.csv",
+      "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_oceania.csv"
+    ]
+  },
+  {
+    "resource_id": "COURSE-PY",
+    "check": "CSV parses",
+    "file": "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/asia_gdp_per_capita.csv",
+    "rows": 12,
+    "columns": 34,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-PY",
+    "check": "CSV parses",
+    "file": "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_all.csv",
+    "rows": 142,
+    "columns": 38,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-PY",
+    "check": "CSV parses",
+    "file": "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_africa.csv",
+    "rows": 52,
+    "columns": 13,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-PY",
+    "check": "CSV parses",
+    "file": "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_americas.csv",
+    "rows": 25,
+    "columns": 14,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-PY",
+    "check": "CSV parses",
+    "file": "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_asia.csv",
+    "rows": 33,
+    "columns": 13,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-PY",
+    "check": "CSV parses",
+    "file": "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_europe.csv",
+    "rows": 30,
+    "columns": 13,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-PY",
+    "check": "CSV parses",
+    "file": "python-novice-gapminder-03c39315c48b6a13c4b887bb200cbcd83ac6915c/episodes/data/gapminder_gdp_oceania.csv",
+    "rows": 2,
+    "columns": 13,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-SHEET",
+    "check": "ZIP CRC, licence and data inventory",
+    "pass": true,
+    "archive_members": 85,
+    "data_files": [
+      "spreadsheet-ecology-lesson-7de126d91c0d02634e127bd36035d25bd034f01e/episodes/data/survey_sorting_exercise.xlsx"
+    ]
+  },
+  {
+    "resource_id": "COURSE-SQL",
+    "check": "ZIP CRC, licence and data inventory",
+    "pass": true,
+    "archive_members": 68,
+    "data_files": [
+      "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/data/person.csv",
+      "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/data/site.csv",
+      "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/data/survey.csv",
+      "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/data/visited.csv",
+      "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/files/survey.db"
+    ]
+  },
+  {
+    "resource_id": "COURSE-SQL",
+    "check": "CSV parses",
+    "file": "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/data/person.csv",
+    "rows": 4,
+    "columns": 3,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-SQL",
+    "check": "CSV parses",
+    "file": "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/data/site.csv",
+    "rows": 2,
+    "columns": 3,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-SQL",
+    "check": "CSV parses",
+    "file": "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/data/survey.csv",
+    "rows": 20,
+    "columns": 4,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-SQL",
+    "check": "CSV parses",
+    "file": "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/data/visited.csv",
+    "rows": 7,
+    "columns": 3,
+    "pass": true
+  },
+  {
+    "resource_id": "COURSE-SQL",
+    "check": "SQLite read-only integrity",
+    "file": "sql-novice-survey-690c506ced52644813d2e7709aa7a2d70226ca66/episodes/files/survey.db",
+    "tables": [
+      "Person",
+      "Site",
+      "Survey",
+      "Visited"
+    ],
+    "pass": true
+  }
+]

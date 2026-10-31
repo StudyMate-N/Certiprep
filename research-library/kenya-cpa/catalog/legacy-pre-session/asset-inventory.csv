@@ -1,0 +1,2 @@
+asset_id,asset_path,asset_type,source,stored_as,verified_pdf_binary,sha256,redistribution_approved
+ORIG001,assets/pdfs/CA11-accounting-foundations-original.pdf,pdf,Certiprep original,git_lfs_pointer_detected,false,,original_material
