@@ -1,3 +1,3 @@
 # Acquisition status
 
-See [current session summary](session-2026-11-01/reports/SESSION_SUMMARY.md) and [acquisitions.csv](session-2026-11-01/catalog/acquisitions.csv). New media are in the delivered ZIP only, not GitHub/LFS. All current records distinguish acquired files, accepted access links, candidates and exclusions.
+**ZIP packaging and saving blocked by execution-environment outage.** See [session status](session-2026-11-01/reports/SESSION_SUMMARY.md). No new archive was created or delivered.

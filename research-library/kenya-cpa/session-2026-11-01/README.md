@@ -1,10 +1,9 @@
-# Kenyan CPA research acquisition — 1 November 2026 EAT
+# Kenya CPA research library
 
-The deliverable is the downloadable master ZIP. Open `START_HERE.html` after extracting it; relative media links work offline. GitHub contains the reviewable catalogue and audit records, **not the new media binaries**.
+**The acquisition session was interrupted by an execution-environment outage before ZIP packaging. No new master ZIP has been delivered.**
 
-- [Sources](catalog/source-catalogue.csv) and [actual acquisitions](catalog/acquisitions.csv)
-- [Coverage](reports/COVERAGE.md), [decisions](reports/ACCEPTANCE_REJECTION.md) and [session summary](reports/SESSION_SUMMARY.md)
-- [Rights](rights/rights-register.csv) and [attribution](rights/ATTRIBUTION.md)
-- [Request provenance](catalog/request-provenance.jsonl) and [selected example checks](reports/selected-example-checks.json)
+See [session status and recovery](reports/SESSION_SUMMARY.md), [reconciled source catalogue](catalog/source-catalogue.csv), [rights register](rights/rights-register.csv), [coverage assessment](reports/COVERAGE.md) and [decisions](reports/ACCEPTANCE_REJECTION.md).
 
-37 approved resource records: 17 PDFs, 11 cost-accounting chapters, six communication chapters and three pinned data-skills lesson/source bundles. The latter bundles each include a readable HTML lesson. Supporting diagrams are assets, not additional textbooks. No downloaded video or past-paper PDF is claimed. No full-paper coverage is claimed. Redistribution remains subject to individual licences and exceptions.
+The last observed local collection had 37 prepared resources, including 17 PDFs. GitHub holds metadata, not new session media. Null presence/hash values identify inaccessible final artifacts; historical checkpoint hashes are not final delivery verification. No source link or Git LFS pointer counts as downloaded media. Zero video recordings or KASNEB past-paper PDFs were acquired. No paper is certified complete.
+
+The catalogue incorporates later rights corrections, including exclusion of four mixed-licence communication derivatives. Historical inherited catalogues remain superseded audit evidence, not commercial rights clearances.

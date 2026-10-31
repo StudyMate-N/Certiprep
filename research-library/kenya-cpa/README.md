@@ -1,15 +1,9 @@
-# Kenya CPA preparation library
+# Kenya CPA research library
 
-Current research edition: [session-2026-11-01](session-2026-11-01/README.md).
+**The acquisition session was interrupted by an execution-environment outage before ZIP packaging. No new master ZIP has been delivered.**
 
-The 60-minute acquisition session distinguishes genuine downloaded material from access links. The downloadable master archive holds the approved media; GitHub holds the catalogue, rights/provenance records, acquisition hashes, coverage and review reports. **GitHub does not hold the new session media.** A catalogue path is a location inside the delivered archive, not proof that GitHub hosts the binary.
+See [session status and recovery](session-2026-11-01/reports/SESSION_SUMMARY.md), [reconciled source catalogue](session-2026-11-01/catalog/source-catalogue.csv), [rights register](session-2026-11-01/rights/rights-register.csv), [coverage assessment](session-2026-11-01/reports/COVERAGE.md) and [decisions](session-2026-11-01/reports/ACCEPTANCE_REJECTION.md).
 
-- [Current source catalogue](session-2026-11-01/catalog/source-catalogue.csv)
-- [Rights register](session-2026-11-01/rights/rights-register.csv) and [attribution/adaptation notices](session-2026-11-01/rights/ATTRIBUTION.md)
-- [Actual acquisitions](session-2026-11-01/catalog/acquisitions.csv)
-- [Coverage and remaining gaps](session-2026-11-01/reports/COVERAGE.md)
-- [Acceptance/rejection decisions](session-2026-11-01/reports/ACCEPTANCE_REJECTION.md)
+The last observed local collection had 37 prepared resources, including 17 PDFs. GitHub holds metadata, not new session media. Null presence/hash values identify inaccessible final artifacts; historical checkpoint hashes are not final delivery verification. No source link or Git LFS pointer counts as downloaded media. Zero video recordings or KASNEB past-paper PDFs were acquired. No paper is certified complete.
 
-Kenyan law, the applicable accounting/audit standards and KASNEB sitting instructions override international supplements. No paper is certified complete. Zero KASNEB past-paper PDFs and zero video recordings were acquired. No LFS pointer is counted as media.
-
-The earlier catalogue is preserved under catalog/legacy-pre-session for audit, with its unverified licence claims expressly superseded. Earlier research notes and video batches remain historical discovery evidence, not accepted-media inventories.
+The catalogue incorporates later rights corrections, including exclusion of four mixed-licence communication derivatives. Historical inherited catalogues remain superseded audit evidence, not commercial rights clearances.
