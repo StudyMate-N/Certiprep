@@ -1,0 +1,44 @@
+name: Build Kenya CPA original PDF library
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'research-library/kenya-cpa/original/**'
+      - 'research-library/kenya-cpa/scripts/build_original_pdf.py'
+      - '.github/workflows/cpa-library-original-pdf.yml'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install reportlab==4.2.5
+      - name: Create original PDF
+        run: python research-library/kenya-cpa/scripts/build_original_pdf.py
+      - name: Validate PDF
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path("research-library/kenya-cpa/assets/pdfs/CA11-accounting-foundations-original.pdf")
+          assert p.read_bytes()[:5] == b"%PDF-"
+          print("Validated",p,p.stat().st_size,"bytes")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cpa-original-pdf
+          path: research-library/kenya-cpa/assets/pdfs/*.pdf
+      - name: Publish generated original document to repo
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f research-library/kenya-cpa/assets/pdfs/CA11-accounting-foundations-original.pdf
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publish original CA11 study PDF'
+            git push
+          fi
