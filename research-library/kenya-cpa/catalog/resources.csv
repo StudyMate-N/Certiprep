@@ -1,0 +1,11 @@
+id,paper_codes,type,title,publisher,url,rights,storage_status,priority
+CPA001,ALL,syllabus,KASNEB CPA course structure,KASNEB,https://kasneb.or.ke/cpa,all_rights_reserved,restricted_link_only,A
+CPA002,ALL,pdf,KASNEB CPA reviewed syllabus June 2024,KASNEB,https://www.kasneb.or.ke/wp-content/uploads/2024/09/CPA-Syllabus-Reviewed-June-2024.pdf,permission_required,restricted_link_only,A
+CPA003,ALL,past_papers,KASNEB e-Library,KASNEB,https://www.kasneb.or.ke/e-library,subscriber_access,restricted_link_only,A
+CPA004,CA11|CA25,course,Introduction to Financial and Managerial Accounting,MIT OCW,https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/,CC-BY-NC-SA,restricted_link_only,B
+CPA005,CA11|CA25,open_textbook,OpenStax business textbooks,OpenStax,https://openstax.org/new-subjects/business-books,verify_per_title,discovered,A
+CPA006,CA23|CA32,standards,Issued IFRS Standards,IFRS Foundation,https://www.ifrs.org/issued-standards/,permission_required,restricted_link_only,A
+CPA007,CA24,standards,IAASB 2026 Handbook,IAASB,https://www.iaasb.org/publications/2026-handbook-international-quality-management-auditing-review-sustainability-and-other-assurance,terms_check_required,restricted_link_only,A
+CPA008,CA26|CA34S4,standards,Kenya public sector accounting standards,PSASB,https://psasb.go.ke/accounting-standards/,terms_check_required,discovered,A
+CPA009,CA26|CA34S1,legislation,KRA publications,Kenya Revenue Authority,https://www.kra.go.ke/publications/publications,terms_check_required,discovered,A
+CPA010,CA26|CA34S4,legislation,Kenya public sector laws and regulations,PSASB,https://psasb.go.ke/law-and-regulations/,terms_check_required,discovered,A
