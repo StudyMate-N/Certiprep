@@ -1,0 +1,2 @@
+assets/videos/** filter=lfs diff=lfs merge=lfs -text
+assets/pdfs/** filter=lfs diff=lfs merge=lfs -text
