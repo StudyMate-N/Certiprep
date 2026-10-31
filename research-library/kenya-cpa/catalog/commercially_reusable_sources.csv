@@ -1,0 +1,8 @@
+id,title,publisher,subject,paper_codes,source_url,license,commercial_redistribution,status,notes
+OPEN001,Open Cost Accounting,Dr Brian D Knox Boise State University,Cost accounting,CA25|CA34S3,https://www.opencostaccounting.org/,CC BY 4.0,yes_with_attribution,source_verified,Web native textbook review images and external material exceptions before copying
+OPEN002,Principles of Finance,OpenStax,Finance,CA22|CA33,https://openstax.org/higher-education,CC BY 4.0,yes_with_attribution,discovery_verified,Verify title edition and downloadable PDF before acquisition
+OPEN003,Principles of Economics,OpenStax,Economics,CA14,https://openstax.org/higher-education,CC BY 4.0,yes_with_attribution,discovery_verified,Verify title edition and downloadable PDF before acquisition
+OPEN004,Introduction to Financial Accounting 2024,David Annand et al Lyryx,Financial accounting,CA11,https://open.umn.edu/opentextbooks/textbooks/introduction-to-financial-accounting,CC BY-NC-SA,no,restricted_link_only,Free PDF but not licensed for commercial republication
+OPEN005,Financial Accounting,University of Minnesota Libraries,Financial accounting,CA11,https://open.lib.umn.edu/financialaccounting/,CC BY-NC-SA 4.0,no,restricted_link_only,Free study source not commercial asset
+OPEN006,MIT Financial and Managerial Accounting,MIT OpenCourseWare,Financial and managerial accounting,CA11|CA25,https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/download/,CC BY-NC-SA,no,restricted_link_only,Separate teaching reference
+OFF001,KASNEB CPA Syllabus June 2024,KASNEB,CPA syllabus,ALL,https://www.kasneb.or.ke/wp-content/uploads/2024/09/CPA-Syllabus-Reviewed-June-2024.pdf,all rights reserved,no,restricted_link_only,Permission required for reproduction
