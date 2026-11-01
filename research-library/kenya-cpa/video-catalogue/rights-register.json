@@ -479,5 +479,181 @@
     },
     "checked_utc": "2026-11-01T04:51:17.446154+00:00",
     "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-ADAMAS-COMM",
+    "source_url": "https://adamascollege.com/courses/cpa-communication-skills/",
+    "licence": "No exact-recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "provider-authorised access only; no bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and ordinary link only",
+      "no_endorsement": "no publisher affiliation implied"
+    },
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "scope": "external/HOLD only; no media",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "id": "VIDEO-TV47-MKU-COMM2020",
+    "source_url": "https://www.tv47.digital/tv_video/ducu001-communication-skills/",
+    "licence": "No exact-recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "provider-authorised access only; no bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and ordinary link only",
+      "no_endorsement": "no publisher affiliation implied"
+    },
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "scope": "external/HOLD only; no media",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "id": "VIDEO-ADAMAS-LAW",
+    "source_url": "https://adamascollege.com/courses/cpa-introduction-to-law-and-governance/",
+    "licence": "No exact-recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "provider-authorised access only; no bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and ordinary link only",
+      "no_endorsement": "no publisher affiliation implied"
+    },
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "scope": "external/HOLD only; no media",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "id": "VIDEO-BRS-CHANGE-OFFICIALS",
+    "source_url": "https://brs.go.ke/videos/",
+    "licence": "No exact-recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "provider-authorised access only; no bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and ordinary link only",
+      "no_endorsement": "no publisher affiliation implied"
+    },
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "scope": "external/HOLD only; no media",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "id": "VIDEO-ICPAK-AUDIT-SOFTWARE2020",
+    "source_url": "https://audit.icpak.com/manual/guide/video-tutorials/planning.html",
+    "licence": "No exact-recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "provider-authorised access only; no bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and ordinary link only",
+      "no_endorsement": "no publisher affiliation implied"
+    },
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "scope": "external/HOLD only; no media",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "id": "VIDEO-ADAMAS-ADV-TAX",
+    "source_url": "https://adamascollege.com/courses/advanced-taxation/",
+    "licence": "No exact-recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "provider-authorised access only; no bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and ordinary link only",
+      "no_endorsement": "no publisher affiliation implied"
+    },
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "scope": "external/HOLD only; no media",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "id": "VIDEO-PSASB-ACCRUAL-Y2P2",
+    "source_url": "https://masomo.psasb.go.ke/course/details/4/cash-to-accrual-transition-in-kenya-year-2-part-2",
+    "licence": "No exact-recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "provider-authorised access only; no bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and ordinary link only",
+      "no_endorsement": "no publisher affiliation implied"
+    },
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "scope": "external/HOLD only; no media",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "id": "VIDEO-WB-IESBA-ETHICS2020",
+    "source_url": "https://cfrr.worldbank.org/index.php/node/4217",
+    "licence": "No exact-recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "provider-authorised access only; no bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and ordinary link only",
+      "no_endorsement": "no publisher affiliation implied"
+    },
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "scope": "external/HOLD only; no media",
+    "next_review_due": "2026-12-01"
   }
 ]
