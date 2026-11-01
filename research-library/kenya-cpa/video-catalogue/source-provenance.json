@@ -394,5 +394,93 @@
     "mime": "text/html; charset=utf-8",
     "bytes": 104147,
     "evidence_sha256": "c54f106a27dff8c9a6b2c8422887dae2fbbc104de209ee1d3f8b76abdfc2533a"
+  },
+  {
+    "key": "VIDEO-ADAMAS-COMM",
+    "url": "https://adamascollege.com/courses/cpa-communication-skills/",
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "retrieval": "primary web page inspected",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "course index only; no playback"
+  },
+  {
+    "key": "VIDEO-TV47-MKU-COMM2020",
+    "url": "https://www.tv47.digital/tv_video/ducu001-communication-skills/",
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "retrieval": "primary web page inspected",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "course index only; no playback"
+  },
+  {
+    "key": "VIDEO-ADAMAS-LAW",
+    "url": "https://adamascollege.com/courses/cpa-introduction-to-law-and-governance/",
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "retrieval": "primary web page inspected",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "course index only; no playback"
+  },
+  {
+    "key": "VIDEO-BRS-CHANGE-OFFICIALS",
+    "url": "https://brs.go.ke/videos/",
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "retrieval": "primary web page inspected",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "course index only; no playback"
+  },
+  {
+    "key": "VIDEO-ICPAK-AUDIT-SOFTWARE2020",
+    "url": "https://audit.icpak.com/manual/guide/video-tutorials/planning.html",
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "retrieval": "primary web page inspected",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "course index only; no playback"
+  },
+  {
+    "key": "VIDEO-ADAMAS-ADV-TAX",
+    "url": "https://adamascollege.com/courses/advanced-taxation/",
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "retrieval": "primary web page inspected",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "course index only; no playback"
+  },
+  {
+    "key": "VIDEO-PSASB-ACCRUAL-Y2P2",
+    "url": "https://masomo.psasb.go.ke/course/details/4/cash-to-accrual-transition-in-kenya-year-2-part-2",
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "retrieval": "primary web page inspected",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "course index only; no playback"
+  },
+  {
+    "key": "VIDEO-WB-IESBA-ETHICS2020",
+    "url": "https://cfrr.worldbank.org/index.php/node/4217",
+    "checked_utc": "2026-11-01T20:17:13.140Z",
+    "retrieval": "primary web page inspected",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "course index only; no playback"
   }
 ]
