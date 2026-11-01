@@ -1,0 +1,17 @@
+{
+  "date_utc": "2026-11-01",
+  "status": "arithmetic_verified_independent_academic_review_pending",
+  "rows": 12,
+  "unique_ids": 12,
+  "gross_kes": 34000,
+  "refunded_kes": 9000,
+  "net_kes": 25000,
+  "refund_percentage": 26.4706,
+  "branch_net_kes": {
+    "Kisumu": 5300,
+    "Mombasa": 5800,
+    "Nairobi": 13900
+  },
+  "original_synthetic_data": true,
+  "licensed_external_media_included": false
+}
