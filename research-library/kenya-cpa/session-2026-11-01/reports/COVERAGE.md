@@ -54,3 +54,10 @@ Working map: 19 academic paper/specialisation entries plus three practical/works
 - **CA34S4 original practice:** Two fictional FIFO and weighted-average inventory costing cases and independently recomputed numeric answers committed under `maintenance/practice/CA34S4_original_inventory_costing.md`. This is **cost-flow practice only**, not verified IPSAS 12 financial statement valuation or independent expert review.
 - **CA16 / CA35P:** Official ODPC FAQ's data-processor answer placed on narrow accuracy HOLD; use a verified primary definition instead. Other ODPC guidance unaffected (`HOLD-ODPC-FAQ-PROCESSOR`).
 - **Collection:** 157 decisions, 68 accepted external links, 43 acquired entries / 29 substantial works, 162 hosted media objects unchanged. No paper certified complete.
+
+## Targeted CA21 statutory-procedure update — 2026-11-01 18:08 UTC
+
+- **CA21:** 2021 Insolvency (Amendment) Regulations LN64 and 2022 Kenya Law consolidated Insolvency Regulations added as **external-only** primary legislative links. The consolidated PDF is explicitly **CC BY-NC-SA 4.0**, and neither source is cleared for commercial hosting or question extraction. The 2021 notice adds Form 38, regulation 134A, Fourth Schedule and monitor/court filing details; current November 2026 consolidated law and exact sitting cut-off still unverified.
+- **BRS 2024 moratorium guide:** narrowed as a practitioner overview, not exhaustive legal eligibility; additional exclusions, time limits, filing evidence and court recognition require statutory checks.
+- **Original practice:** Three newly authored filing/timing scenarios under maintenance/practice/CA21_moratorium_filing_original_2026-11-01.md. Selected primary procedural details checked; independent legal/academic review pending.
+- **No new third-party binaries, recordings or KASNEB papers.** CA21 remains incomplete; no paper certified complete.
