@@ -40,8 +40,8 @@
   "archive_snapshot_note": "The delivered ZIP was created before this private mirror completed. Its checksum and original hosting-status snapshot are unchanged; current hosting is recorded here and in the database.",
   "post_release_catalogue": {
     "last_review_date": "2026-11-01",
-    "live_resource_count": 154,
-    "live_accepted_links": 66,
+    "live_resource_count": 157,
+    "live_accepted_links": 68,
     "live_acquired_entries": 43,
     "live_distinct_substantial_works": 29,
     "added_link_ids": [
@@ -54,8 +54,8 @@
     "release_resource_inventory_md5_note": "Top-level resource_inventory_md5 remains the original 144-record verified snapshot fingerprint; current 146-record catalogue is documented in maintenance/snapshots/2026-11-01-0625Z.json; do not compare the old fingerprint to current data.",
     "snapshot_path": "../../maintenance/snapshots/2026-11-01-0625Z.json",
     "media_storage_unchanged": true,
-    "latest_snapshot_path": "../../maintenance/snapshots/2026-11-01-0911Z.json",
-    "latest_review_path": "../../maintenance/reviews/2026-11-01-0911Z.md",
+    "latest_snapshot_path": "../../maintenance/snapshots/2026-11-01-1018Z.json",
+    "latest_review_path": "../../maintenance/reviews/2026-11-01-1018Z.md",
     "new_link_ids_since_release": [
       "STD-IFRS20-2026",
       "STD-IFRS-SMES-2025-MODULES",
@@ -64,13 +64,16 @@
       "OFF-KASNEB-CBE-TRAINING2026",
       "ICT-ODPC-DPIA-GUIDANCE2024",
       "LAW-BRS-BO-LN162-2023",
-      "DATA-CA-Q4-2025-26"
+      "DATA-CA-Q4-2025-26",
+      "PFM-PSASB-ELRN-Y2-2026",
+      "PFM-PSASB-TEMPLATES-FY2025-26"
     ],
     "hold_ids_since_release": [
       "LAW-TRUSTREG-DRAFT2026",
-      "HOLD-BRS-BO-GUIDE2023"
+      "HOLD-BRS-BO-GUIDE2023",
+      "HOLD-ODPC-FAQ-PROCESSOR"
     ],
-    "latest_resource_inventory_md5": "6ef900a1a81261aa378c3ccee5de2ac5",
+    "latest_resource_inventory_md5": "470d062f22e076515fb873bf13fa2524",
     "latest_asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
     "live_storage_bytes": 277700279,
     "live_storage_objects": 162,
