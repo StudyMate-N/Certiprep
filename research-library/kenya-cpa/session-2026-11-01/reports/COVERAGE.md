@@ -46,3 +46,11 @@ Working map: 19 academic paper/specialisation entries plus three practical/works
 - **CA16 / CA35P (data interpretation):** Communications Authority's Q4 FY2025/26 sector statistics report accepted as dated external reference (`DATA-CA-Q4-2025-26`); no chart/table redistribution or bulk dataset extraction rights established.
 - **CA35P original practice:** New fictional 12-row sales-analysis CSV and answer key added under `maintenance/practice/`. Arithmetic verified; **independent academic review and official software/outcome mapping pending**. It does not confer completion of CA35P.
 - **Collection:** 154 source decisions, 43 acquired entries grouped into 29 substantial works, 162 hosted media objects unchanged. No paper certified complete.
+
+## Targeted public-sector and data-protection review — 2026-11-01 10:18 UTC
+
+- **CA34S4 / CA26:** Official PSASB Year 2 cash-to-accrual e-learning portal accepted as **external-only**: Part 1 IPSAS 12 inventory, Part 2 other assets. Access requires enrolment; 57 listed lectures are **not downloaded recordings**. No official KASNEB outcome or exam cut-off certified (`PFM-PSASB-ELRN-Y2-2026`).
+- **CA34S4 / CA26:** FY2025/26 PSASB financial reporting template index accepted as dated official external reference, **not an inspected/redistributable DOCX**. The page also contains earlier-year templates; avoid edition mixing (`PFM-PSASB-TEMPLATES-FY2025-26`).
+- **CA34S4 original practice:** Two fictional FIFO and weighted-average inventory costing cases and independently recomputed numeric answers committed under `maintenance/practice/CA34S4_original_inventory_costing.md`. This is **cost-flow practice only**, not verified IPSAS 12 financial statement valuation or independent expert review.
+- **CA16 / CA35P:** Official ODPC FAQ's data-processor answer placed on narrow accuracy HOLD; use a verified primary definition instead. Other ODPC guidance unaffected (`HOLD-ODPC-FAQ-PROCESSOR`).
+- **Collection:** 157 decisions, 68 accepted external links, 43 acquired entries / 29 substantial works, 162 hosted media objects unchanged. No paper certified complete.
