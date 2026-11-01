@@ -35,5 +35,10 @@
   "existing_master_release_sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
   "new_master_zip_created": false,
   "temporary_transfer_endpoint_opened": false,
-  "storage_credentials_issued": false
+  "storage_credentials_issued": false,
+  "observed_total_storage_bytes": 598089979,
+  "observed_total_storage_cap_bytes": 838860800,
+  "cpa_storage_cap_bytes": 524288000,
+  "cpa_bucket_public": false,
+  "cpa_bucket_file_limit_bytes": 40000000
 }
