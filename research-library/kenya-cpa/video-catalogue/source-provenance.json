@@ -1,0 +1,398 @@
+[
+  {
+    "key": "manifest-fa",
+    "url": "https://manifestedpublishers.com/course/FA_FL_Class",
+    "final_url": "https://manifestedpublishers.com/course/FA_FL_Class",
+    "status": 200,
+    "bytes": 253209,
+    "checked_utc": "2026-11-01",
+    "evidence_sha256": "5704b11ab8c8b8b606ff026ccc8694542b17c8caf9a9e2cd261c19174acbc84a",
+    "date_precision": "day"
+  },
+  {
+    "key": "manifest-at",
+    "url": "https://manifestedpublishers.com/course/AT_AL_Class",
+    "final_url": "https://manifestedpublishers.com/course/AT_AL_Class",
+    "status": 200,
+    "bytes": 259100,
+    "checked_utc": "2026-11-01",
+    "evidence_sha256": "5491c03c58ef03440e938c9da6859af1d572f3b44d4096a01e53c5624612f894",
+    "date_precision": "day"
+  },
+  {
+    "key": "ot-fr",
+    "url": "https://opentuition.com/acca/fr/acca-financial-reporting-fr-lectures/",
+    "final_url": "https://opentuition.com/acca/fr/acca-financial-reporting-fr-lectures/",
+    "status": 200,
+    "bytes": 154150,
+    "checked_utc": "2026-11-01",
+    "evidence_sha256": "f087554cee3226ff417e33d775e7a04a4101ba07c42576c56cb67afa3b2bf750",
+    "date_precision": "day"
+  },
+  {
+    "key": "damodaran-home",
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm",
+    "final_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm",
+    "status": 200,
+    "bytes": 17069,
+    "checked_utc": "2026-11-01",
+    "evidence_sha256": "755ad4d972431c7852bc0a723630d86cbfc84b14febb259858d1938458c0e0c7",
+    "date_precision": "day"
+  },
+  {
+    "key": "py4e-materials",
+    "url": "https://www.py4e.com/materials",
+    "final_url": "https://www.py4e.com/materials",
+    "status": 200,
+    "bytes": 13434,
+    "checked_utc": "2026-11-01",
+    "evidence_sha256": "6d21334e6b89824408f19aaade510acc788f58fe8aa2a4d00ecb6411b1ec78d9",
+    "date_precision": "day"
+  },
+  {
+    "key": "ot-fa",
+    "url": "https://opentuition.com/acca/fa/acca-financial-accounting-fa-lectures/",
+    "checked_utc": "2026-11-01T19:12:48.645705+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/fa/acca-financial-accounting-fa-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 140384,
+    "evidence_sha256": "5a2942ffac701dfa1e75c18439750631adb489be71ac56864d68561581070999"
+  },
+  {
+    "key": "ot-ma",
+    "url": "https://opentuition.com/acca/ma/acca-management-accounting-ma-lectures/",
+    "checked_utc": "2026-11-01T19:12:48.646347+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/ma/acca-management-accounting-ma-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 133110,
+    "evidence_sha256": "822edc320f51d0ce46b6a24f3077cbab1a773d4d5d8c3a68cd694c23a3043970"
+  },
+  {
+    "key": "ot-pm",
+    "url": "https://opentuition.com/acca/pm/acca-performance-management-pm-lectures/",
+    "checked_utc": "2026-11-01T19:12:48.647395+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/pm/acca-performance-management-pm-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 135680,
+    "evidence_sha256": "1ca5b51e31987070616cf2e911e4c2951ea7be2d0ea7936d211588729bfbafd2"
+  },
+  {
+    "key": "ot-aa",
+    "url": "https://opentuition.com/acca/aa/acca-audit-assurance-aa-lectures/",
+    "checked_utc": "2026-11-01T19:12:48.647547+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/aa/acca-audit-assurance-aa-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 128782,
+    "evidence_sha256": "d863398bc1c22de954ad74801ade215b11c5ec999ad3a4f44fa88d5d75f972a8"
+  },
+  {
+    "key": "ot-sbr",
+    "url": "https://opentuition.com/acca/sbr/acca-strategic-business-reporting-sbr-lectures/",
+    "checked_utc": "2026-11-01T19:12:48.647696+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/sbr/acca-strategic-business-reporting-sbr-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 146787,
+    "evidence_sha256": "06163b85ed1ab78b343ed40c3bf477d5a506c1305ada728695841e746690925c"
+  },
+  {
+    "key": "ot-sbl",
+    "url": "https://opentuition.com/acca/sbl/acca-strategic-business-leader-sbl-lectures/",
+    "checked_utc": "2026-11-01T19:12:48.647845+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/sbl/acca-strategic-business-leader-sbl-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 128865,
+    "evidence_sha256": "c190bb4daab700fa5985bd9c0f0feec8825242b734115cf89673dadc93d558b8"
+  },
+  {
+    "key": "ot-apm",
+    "url": "https://opentuition.com/acca/apm/acca-advanced-performance-management-apm-lectures/",
+    "checked_utc": "2026-11-01T19:12:55.486783+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/apm/acca-advanced-performance-management-apm-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 123104,
+    "evidence_sha256": "54fa871273819baaf654f4f70f74f20b8e494c90a5e821c30b942ba19ae88114"
+  },
+  {
+    "key": "ot-aaa",
+    "url": "https://opentuition.com/acca/aaa/acca-advanced-audit-assurance-aaa-lectures/",
+    "checked_utc": "2026-11-01T19:12:55.538136+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/aaa/acca-advanced-audit-assurance-aaa-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 127561,
+    "evidence_sha256": "370b5d6a240c1935424f9adbc173c60452a25a2c31608b93e04ce25d81b91b02"
+  },
+  {
+    "key": "ot-fm",
+    "url": "https://opentuition.com/acca/fm/acca-financial-management-fm-lectures/",
+    "checked_utc": "2026-11-01T19:13:03.878246+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/fm/acca-financial-management-fm-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 134231,
+    "evidence_sha256": "087ea1187f00c3c034f8795ac2a8aff7af46fa98e477d99ad77036c602b00de3"
+  },
+  {
+    "key": "ot-policy",
+    "url": "https://opentuition.com/acca/free-acca-lectures/",
+    "checked_utc": "2026-11-01T19:13:04.130702+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 115079,
+    "evidence_sha256": "fc0a64f3a2986fe8906145a63e1b45faa7ee7d4c4dbd03e9e4a87e6b9d947620"
+  },
+  {
+    "key": "ot-about",
+    "url": "https://opentuition.com/about/",
+    "checked_utc": "2026-11-01T19:13:12.277904+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/about/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 105030,
+    "evidence_sha256": "3845f0a059f6d643e8bf429d38704b81bc0be23bca75b97ef2be03306cdb4c26"
+  },
+  {
+    "key": "mit-micro2023",
+    "url": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/video_galleries/video-lectures/",
+    "checked_utc": "2026-11-01T19:13:12.325978+00:00",
+    "status": 200,
+    "final_url": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/video_galleries/video-lectures/",
+    "mime": "text/html",
+    "bytes": 71844,
+    "evidence_sha256": "c7b51046cd9b9619e18e79797f3442cba9d280486fd809df8febfb9a782f4d5c"
+  },
+  {
+    "key": "mit-prob",
+    "url": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/pages/part-i-the-fundamentals/",
+    "checked_utc": "2026-11-01T19:13:18.465565+00:00",
+    "status": 200,
+    "final_url": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/pages/part-i-the-fundamentals/",
+    "mime": "text/html",
+    "bytes": 85034,
+    "evidence_sha256": "0d888fb1ec27aa5276c5b97523ed27c82888c6b5f94e18ce1dcf765f20be3bf0"
+  },
+  {
+    "key": "nyu-cf2025",
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastcfspr25.htm",
+    "checked_utc": "2026-11-01T19:13:20.777839+00:00",
+    "status": 200,
+    "final_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastcfspr25.htm",
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 70785,
+    "evidence_sha256": "3be1f3cbbda233c48f1f8eb686c041c1cff116737cc332048428ec029fb0a6f7"
+  },
+  {
+    "key": "nyu-val2025",
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcasteqspr25.htm",
+    "checked_utc": "2026-11-01T19:13:20.785656+00:00",
+    "status": 200,
+    "final_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcasteqspr25.htm",
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 82087,
+    "evidence_sha256": "f38726a6f469e08272a2f8c0dca20a21e9bee004710fb9f4c394ee69358bf781"
+  },
+  {
+    "key": "nyu-accounting",
+    "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastacctg.htm",
+    "checked_utc": "2026-11-01T19:13:24.961908+00:00",
+    "status": 200,
+    "final_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastacctg.htm",
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 126301,
+    "evidence_sha256": "3fef6c4c0c910b0e90ee240671ac3cb71d1f79dd84c7653c503dfc2871c93147"
+  },
+  {
+    "key": "psasb-year2",
+    "url": "https://masomo.psasb.go.ke/course/details/3/cash-to-accrual-transition-in-kenya-year-2-part-1",
+    "checked_utc": "2026-11-01T19:13:25.586286+00:00",
+    "status": 200,
+    "final_url": "https://masomo.psasb.go.ke/course/details/3/cash-to-accrual-transition-in-kenya-year-2-part-1",
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 59755,
+    "evidence_sha256": "554989230894b49753fe31d8eed68ba533871fd435a8754940e14326ee75deff"
+  },
+  {
+    "key": "harvard-sql",
+    "url": "https://cs50.harvard.edu/sql/weeks/0/",
+    "checked_utc": "2026-11-01T19:13:25.704433+00:00",
+    "status": 200,
+    "final_url": "https://cs50.harvard.edu/sql/weeks/0/",
+    "mime": "text/html",
+    "bytes": 19658,
+    "evidence_sha256": "f2a9c1bf86924e7b424646ba114ddd8e5c9714829e832dd84f991e7c5daa5e96"
+  },
+  {
+    "key": "harvard-license",
+    "url": "https://cs50.harvard.edu/sql/license/",
+    "checked_utc": "2026-11-01T19:13:29.097919+00:00",
+    "status": 200,
+    "final_url": "https://cs50.harvard.edu/sql/license/",
+    "mime": "text/html",
+    "bytes": 16125,
+    "evidence_sha256": "e0e931b750feffe37231cb08ea4cabc08fa60a155a609cf7b72e18c7223bea4c"
+  },
+  {
+    "key": "rcm-samples",
+    "url": "https://rcmonlinecollege.co.ke/cpa-kasneb-units/",
+    "checked_utc": "2026-11-01T19:13:29.101691+00:00",
+    "status": 200,
+    "final_url": "https://rcmonlinecollege.co.ke/cpa-kasneb-units/",
+    "mime": "text/html; charset=UTF-8",
+    "bytes": 921221,
+    "evidence_sha256": "2a0343c932693cf3fcdfefdd4c334238cba8c225a1fda7d097087d0e3a319ee6"
+  },
+  {
+    "key": "kra-video",
+    "url": "https://www.kra.go.ke/news-center/videos",
+    "checked_utc": "2026-11-01T19:13:32.256056+00:00",
+    "error": "HTTPError: HTTP Error 503: Service Unavailable"
+  },
+  {
+    "key": "kasneb-cbe",
+    "url": "https://kasneb.or.ke/computer-based-examinations-cbe-training",
+    "checked_utc": "2026-11-01T19:13:32.823630+00:00",
+    "status": 200,
+    "final_url": "https://kasneb.or.ke/computer-based-examinations-cbe-training",
+    "mime": "text/html",
+    "bytes": 195,
+    "evidence_sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7"
+  },
+  {
+    "key": "ot-fa-sample",
+    "url": "https://opentuition.com/acca/fa/statement-financial-position-income-statement-part-d/",
+    "checked_utc": "2026-11-01T19:17:48.300818+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/fa/statement-financial-position-income-statement-part-d/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 194024,
+    "evidence_sha256": "d3f9267fc5ac5ddaa8f1c331d413ff3f706b1b139e20cf7b5b8e8fab93579295"
+  },
+  {
+    "key": "ot-ma-sample",
+    "url": "https://opentuition.com/acca/ma/accounting-for-management-acca-management-accounting-ma/",
+    "checked_utc": "2026-11-01T19:17:48.301513+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/ma/accounting-for-management-acca-management-accounting-ma/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 270934,
+    "evidence_sha256": "73f7dced5cf37d10e5ac0248675652e42d6c250d36c4befb90dac9ac5305865f"
+  },
+  {
+    "key": "ot-pm-sample",
+    "url": "https://opentuition.com/acca/pm/activity-based-costing-part-1-acca-performance-management-pm/",
+    "checked_utc": "2026-11-01T19:17:48.302020+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/pm/activity-based-costing-part-1-acca-performance-management-pm/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 280138,
+    "evidence_sha256": "d1d94e47abc042d545d7718ccefe669a1d30ce88a90cfd7427d94583f4554346"
+  },
+  {
+    "key": "ot-fm-sample",
+    "url": "https://opentuition.com/acca/fm/financial-management-objectives-acca-financial-management-fm/",
+    "checked_utc": "2026-11-01T19:17:48.302187+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/fm/financial-management-objectives-acca-financial-management-fm/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 292078,
+    "evidence_sha256": "65997c1f331e6a06a40f6169c7d796fea8adad27b651cfbae7b26e3a8c0fdaad"
+  },
+  {
+    "key": "ot-fr-sample",
+    "url": "https://opentuition.com/acca/fr/framework-introduction-acca-financial-reporting-fr/",
+    "checked_utc": "2026-11-01T19:17:48.302322+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/fr/framework-introduction-acca-financial-reporting-fr/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 265740,
+    "evidence_sha256": "6918cbd99d3a118833c839de9cd9f68f145f44c3cd1fa04ba26f30c9371c6f6d"
+  },
+  {
+    "key": "ot-aa-sample",
+    "url": "https://opentuition.com/acca/aa/what-is-assurance-acca-audit-and-assurance-aa/",
+    "checked_utc": "2026-11-01T19:17:48.302457+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/aa/what-is-assurance-acca-audit-and-assurance-aa/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 317068,
+    "evidence_sha256": "cc1eb2fc1825e4a49703a98a64957f6a5ddc30a34cccb5b7716eba15568b11bb"
+  },
+  {
+    "key": "ot-sbl-sample",
+    "url": "https://opentuition.com/acca/sbl/professionalism-ethical-codes-and-the-public-interest-acca-strategic-business-leader-sbl/",
+    "checked_utc": "2026-11-01T19:17:57.710246+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/sbl/professionalism-ethical-codes-and-the-public-interest-acca-strategic-business-leader-sbl/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 229522,
+    "evidence_sha256": "b2bdfaf4ab36edbe034fbde0512cc7658754fe8a73feaafdd157ac3d35e2c60f"
+  },
+  {
+    "key": "ot-sbr-sample",
+    "url": "https://opentuition.com/acca/sbr/conceptual-framework-acca-sbr-lecture/",
+    "checked_utc": "2026-11-01T19:17:57.782435+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/sbr/conceptual-framework-acca-sbr-lecture/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 165161,
+    "evidence_sha256": "6c706648a3d90e2d879735d7e287b6a869544b945600b65a8ec8d6849716f039"
+  },
+  {
+    "key": "ot-apm-sample",
+    "url": "https://opentuition.com/acca/apm/the-nature-of-performance-management-acca-advanced-performance-management-apm/",
+    "checked_utc": "2026-11-01T19:18:05.993926+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/apm/the-nature-of-performance-management-acca-advanced-performance-management-apm/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 226335,
+    "evidence_sha256": "d94e729556474ff8735a49fba310e5efc94a78e054ccd39fcac4093138e1d5bc"
+  },
+  {
+    "key": "ot-aaa-sample",
+    "url": "https://opentuition.com/acca/aaa/acca-advanced-audit-and-assurance-aaa-what-is-assurance/",
+    "checked_utc": "2026-11-01T19:18:06.069538+00:00",
+    "status": 200,
+    "final_url": "https://opentuition.com/acca/aaa/acca-advanced-audit-and-assurance-aaa-what-is-assurance/",
+    "mime": "text/html;charset=utf-8",
+    "bytes": 158003,
+    "evidence_sha256": "fa392446c4ccbf34b42c627dbc5da5c49ccf13876263e1c010b929431f848e2f"
+  },
+  {
+    "key": "mit-micro-sample",
+    "url": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/lec-1-introduction-to-principles-of-microeconomics-and-supply-demand/",
+    "checked_utc": "2026-11-01T19:18:14.190472+00:00",
+    "status": 200,
+    "final_url": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/resources/lec-1-introduction-to-principles-of-microeconomics-and-supply-demand/",
+    "mime": "text/html",
+    "bytes": 66261,
+    "evidence_sha256": "6da08a9ee6b168813cd1dc5c015018a9e3e362d356dc638a8c3ddf9b9e7e95d6"
+  },
+  {
+    "key": "mit-prob-sample",
+    "url": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/die-roll-example/",
+    "checked_utc": "2026-11-01T19:18:14.206143+00:00",
+    "status": 200,
+    "final_url": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/die-roll-example/",
+    "mime": "text/html",
+    "bytes": 60372,
+    "evidence_sha256": "07b6e485198ea677c313e56bc66be9c2d0690c2a9280b40d7d2b40f05ab300f2"
+  },
+  {
+    "key": "kra-etims",
+    "url": "https://www.kra.go.ke/business/etims-electronic-tax-invoice-management-system/learn-about-etims/etims-tutorials",
+    "checked_utc": "2026-11-01T19:18:17.205795+00:00",
+    "status": 200,
+    "final_url": "https://www.kra.go.ke/business/etims-electronic-tax-invoice-management-system/learn-about-etims/etims-tutorials",
+    "mime": "text/html; charset=utf-8",
+    "bytes": 104147,
+    "evidence_sha256": "c54f106a27dff8c9a6b2c8422887dae2fbbc104de209ee1d3f8b76abdfc2533a"
+  }
+]

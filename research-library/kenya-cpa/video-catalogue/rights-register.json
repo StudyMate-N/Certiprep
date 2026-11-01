@@ -1,0 +1,483 @@
+[
+  {
+    "id": "VIDEO-OT-FA",
+    "source_url": "https://opentuition.com/acca/fa/acca-financial-accounting-fa-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-MA",
+    "source_url": "https://opentuition.com/acca/ma/acca-management-accounting-ma-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-PM",
+    "source_url": "https://opentuition.com/acca/pm/acca-performance-management-pm-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-FM",
+    "source_url": "https://opentuition.com/acca/fm/acca-financial-management-fm-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-FR",
+    "source_url": "https://opentuition.com/acca/fr/acca-financial-reporting-fr-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-AA",
+    "source_url": "https://opentuition.com/acca/aa/acca-audit-assurance-aa-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-SBL",
+    "source_url": "https://opentuition.com/acca/sbl/acca-strategic-business-leader-sbl-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-SBR",
+    "source_url": "https://opentuition.com/acca/sbr/acca-strategic-business-reporting-sbr-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-APM",
+    "source_url": "https://opentuition.com/acca/apm/acca-advanced-performance-management-apm-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-OT-AAA",
+    "source_url": "https://opentuition.com/acca/aaa/acca-advanced-audit-assurance-aaa-lectures/",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-MIT-MICRO2023",
+    "source_url": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2023/video_galleries/video-lectures/",
+    "licence": "CC BY-NC-SA; commercial rehosting not approved",
+    "licence_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-MIT-PROB2018",
+    "source_url": "https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/pages/part-i-the-fundamentals/",
+    "licence": "CC BY-NC-SA; commercial rehosting not approved",
+    "licence_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-HARVARD-SQL",
+    "source_url": "https://cs50.harvard.edu/sql/weeks/0/",
+    "licence": "CC BY-NC-SA 4.0",
+    "licence_url": "https://cs50.harvard.edu/sql/license/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-NYU-CF2025",
+    "source_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastcfspr25.htm",
+    "licence": "Public faculty teaching access; commercial recording permission not established",
+    "licence_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/teaching.html",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-NYU-VAL2025",
+    "source_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcasteqspr25.htm",
+    "licence": "Public faculty teaching access; commercial recording permission not established",
+    "licence_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/teaching.html",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-NYU-ACCOUNTING",
+    "source_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastacctg.htm",
+    "licence": "Public faculty teaching access; commercial recording permission not established",
+    "licence_url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/teaching.html",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-PSASB-ACCRUAL-Y2P1",
+    "source_url": "https://masomo.psasb.go.ke/course/details/3/cash-to-accrual-transition-in-kenya-year-2-part-1",
+    "licence": "All rights reserved; no commercial recording grant established",
+    "licence_url": "https://masomo.psasb.go.ke/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-KRA-ETIMS",
+    "source_url": "https://www.kra.go.ke/business/etims-electronic-tax-invoice-management-system/learn-about-etims/etims-tutorials",
+    "licence": "KRA/licensors reserve rights; commercialisation restricted",
+    "licence_url": "https://www.kra.go.ke/images/Corporate_Website_Terms_Conditions.pdf",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required",
+      "automated_extraction": "not_approved; no recurring crawling under current KRA terms"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-RCM-AFM-SAMPLE",
+    "source_url": "https://rcmonlinecollege.co.ke/cpa-kasneb-units/",
+    "licence": "Public video access; reuse permission not established",
+    "licence_url": "https://rcmonlinecollege.co.ke/cpa-kasneb-units/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-RCM-QA-SAMPLE2022",
+    "source_url": "https://rcmonlinecollege.co.ke/cpa-kasneb-units/",
+    "licence": "Public video access; reuse permission not established",
+    "licence_url": "https://rcmonlinecollege.co.ke/cpa-kasneb-units/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-MIT-FINANCE",
+    "source_url": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/video_galleries/video-lectures/",
+    "licence": "CC BY-NC-SA; no commercial hosting",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "allowed_as_ordinary_reference; no access bypass or endorsement",
+      "read_at_source": "subject_to_source_access_terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_independently_cleared_as_a_standalone_question_bank; original CC-licensed questions may be reused under their terms only after attribution/component review",
+      "ai_model_training": "not_assessed; no project-wide permission claim",
+      "rag_or_generated_outputs": "separate_use_review_required; preserve attribution, source boundaries and copyright limits",
+      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights"
+    },
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-RCM-AFR",
+    "source_url": "https://rcmonlinecollege.co.ke/courses/advanced-financial-reporting-evening/",
+    "licence": "Paid individual access; no redistribution rights",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "allowed_as_ordinary_reference; no access bypass or endorsement",
+      "read_at_source": "subject_to_source_access_terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_independently_cleared_as_a_standalone_question_bank; original CC-licensed questions may be reused under their terms only after attribution/component review",
+      "ai_model_training": "not_assessed; no project-wide permission claim",
+      "rag_or_generated_outputs": "separate_use_review_required; preserve attribution, source boundaries and copyright limits",
+      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights"
+    },
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-RCM-AA",
+    "source_url": "https://rcmonlinecollege.co.ke/courses/auditing-and-assurance-aa/",
+    "licence": "Paid individual access; no redistribution rights",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "allowed_as_ordinary_reference; no access bypass or endorsement",
+      "read_at_source": "subject_to_source_access_terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_independently_cleared_as_a_standalone_question_bank; original CC-licensed questions may be reused under their terms only after attribution/component review",
+      "ai_model_training": "not_assessed; no project-wide permission claim",
+      "rag_or_generated_outputs": "separate_use_review_required; preserve attribution, source boundaries and copyright limits",
+      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights"
+    },
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-LIPPMAN",
+    "source_url": "https://www.opentextbookstore.com/mathinsociety/",
+    "licence": "Book licence does not establish individual video download rights",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "allowed_as_ordinary_reference; no access bypass or endorsement",
+      "read_at_source": "subject_to_source_access_terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_independently_cleared_as_a_standalone_question_bank; original CC-licensed questions may be reused under their terms only after attribution/component review",
+      "ai_model_training": "not_assessed; no project-wide permission claim",
+      "rag_or_generated_outputs": "separate_use_review_required; preserve attribution, source boundaries and copyright limits",
+      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights"
+    },
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "scope": "external access only; no recordings distributed"
+  },
+  {
+    "id": "VIDEO-PY4E-SQL",
+    "source_url": "https://www.py4e.com/lessons/database",
+    "licence": "Per-recording rights not independently established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "allowed_as_ordinary_reference; no access bypass or endorsement",
+      "read_at_source": "subject_to_source_access_terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_independently_cleared_as_a_standalone_question_bank; original CC-licensed questions may be reused under their terms only after attribution/component review",
+      "ai_model_training": "not_assessed; no project-wide permission claim",
+      "rag_or_generated_outputs": "separate_use_review_required; preserve attribution, source boundaries and copyright limits",
+      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights"
+    },
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "scope": "external access only; no recordings distributed"
+  }
+]

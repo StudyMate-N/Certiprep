@@ -1,0 +1,44 @@
+[
+  {
+    "source": "MIT 15.501 Spring 2004 accounting",
+    "url": "https://ocw.mit.edu/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/",
+    "decision": "REJECT_VIDEO_CLASSIFICATION",
+    "reason": "Official course lists notes/exams; no lecture video gallery established. Existing non-video access record retained."
+  },
+  {
+    "source": "MIT microeconomics Fall 2018 course URL",
+    "url": "https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2018/",
+    "decision": "REJECT_BROKEN_VERSION_URL",
+    "reason": "404 in this review; use verified Fall 2023 gallery. Course ZIP is not proof of included videos."
+  },
+  {
+    "source": "OpenTuition LW-ENG/LW-GLO and TX-UK",
+    "url": "https://opentuition.com/acca/free-acca-lectures/",
+    "decision": "REJECT_KENYAN_LAW_TAX_MAPPING",
+    "reason": "Different legal/tax jurisdiction; not accepted as current Kenyan law or taxation teaching."
+  },
+  {
+    "source": "Manifested Publishers Financial Accounting",
+    "url": "https://manifestedpublishers.com/course/FA_FL_Class",
+    "decision": "HOLD_PREVIEW_AND_QUALITY",
+    "reason": "Course listing retrieved, but public recording/player availability and sample teaching not validated. Subscription access is not redistribution permission."
+  },
+  {
+    "source": "Manifested Publishers Advanced Taxation",
+    "url": "https://manifestedpublishers.com/course/AT_AL_Class",
+    "decision": "HOLD_CURRENCY_AND_RIGHTS",
+    "reason": "Individual recording dates, current Kenya-law accuracy and commercial permissions unresolved."
+  },
+  {
+    "source": "KRA generic video hub",
+    "url": "https://www.kra.go.ke/news-center/videos",
+    "decision": "REJECT_THIS_ACCESS_ROUTE",
+    "reason": "503 on fetch; use official eTIMS tutorial page. No existing source history deleted."
+  },
+  {
+    "source": "KASNEB CBE training direct fetch",
+    "url": "https://kasneb.or.ke/computer-based-examinations-cbe-training",
+    "decision": "HOLD_VIDEO_VERIFICATION",
+    "reason": "Direct response only 195 bytes; playable recording and download availability not established. Existing official access record retained."
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+  "new_video_files_acquired": 0,
+  "new_video_bytes_acquired": 0,
+  "acquired_video_sha256": [],
+  "new_catalogue_records": 20,
+  "new_accepted_access": 18,
+  "new_candidates": 2,
+  "new_by_primary_level": {
+    "Foundation": 6,
+    "Intermediate": 6,
+    "Advanced": 8
+  },
+  "existing_access_records_retained": 5,
+  "metadata_checks": 18,
+  "full_playback_reviews": 0,
+  "private_review_transcript": {
+    "url": "https://cdn.cs50.net/sql/2023/x/lectures/0/lang/en/lecture0.srt",
+    "bytes": 117949,
+    "sha256": "b4183251198bf453b7a3dd864cd2bc1a5f81a84d8291cc6243679b087675d5b9",
+    "contains_select": true,
+    "contains_order_by": true,
+    "contains_limit": true,
+    "distribution": "private review only; NC content excluded from public archive"
+  },
+  "rights_note": "Private NC transcript and source HTML excluded from public package. Metadata/page hashes are provenance only, never media checksums.",
+  "scope": "Manual user-directed multi-level catalogue batch; hourly acquisition limits unchanged."
+}

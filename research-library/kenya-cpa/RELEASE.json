@@ -48,8 +48,44 @@
         "research-library/kenya-cpa/maintenance/practice/CA35P_synthetic_sales.csv",
         "research-library/kenya-cpa/maintenance/practice/CA35P_synthetic_sales_practice.md"
       ]
+    },
+    {
+      "updated_utc": "2026-11-01T19:24:05.356Z",
+      "new_records": 20,
+      "new_accepted_access": 18,
+      "new_candidates": 2,
+      "total_video_records": 25,
+      "full_playback_reviews": 0,
+      "video_recordings_acquired": 0,
+      "new_by_primary_level": {
+        "Foundation": 6,
+        "Intermediate": 6,
+        "Advanced": 8
+      },
+      "github_path": "research-library/kenya-cpa/video-catalogue",
+      "library_file_id": "libfile_4bf5f80a51088191bf81077e54aa9283",
+      "zip_bytes": 62479,
+      "zip_sha256": "182fe42ee7172f9b859679df0b08a8474d4f9f15f6766b7444e6163e5a76f39e",
+      "type": "video_catalogue_metadata_only",
+      "filename": "CPA_Video_Catalogue_2026-11-01.zip",
+      "download_url": "https://chatgpt.com/library?file_id=libfile_4bf5f80a51088191bf81077e54aa9283&account_id=personal",
+      "archive_crc": "passed",
+      "file_checksums_verified": true
     }
   ],
   "dropbox_use_authorized": false,
-  "dropbox_status": "declined_for_this_request; do_not_use_or_suggest"
+  "dropbox_status": "declined_for_this_request; do_not_use_or_suggest",
+  "current_catalogue": {
+    "updated_utc": "2026-11-01T19:25:13.715Z",
+    "source_records": 199,
+    "accepted_links": 103,
+    "candidate_links": 14,
+    "acquired_entries": 43,
+    "grouped_substantial_works": 29,
+    "actual_media_assets": 162,
+    "video_recordings_acquired": 0,
+    "video_catalogue_records": 25,
+    "video_catalogue_path": "research-library/kenya-cpa/video-catalogue/README.md",
+    "full_playback_reviewed": 0
+  }
 }
