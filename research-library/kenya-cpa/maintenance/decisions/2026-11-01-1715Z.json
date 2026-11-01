@@ -1,0 +1,162 @@
+{
+  "review_utc": "2026-11-01T17:15:05.802Z",
+  "run_owner": "cpa-auto-20261101-1715Z-a12",
+  "candidate_count": 4,
+  "assessed": [
+    "KASNEB 2024 syllabus recheck",
+    "BRS pre-insolvency moratorium 2024 guide",
+    "BRS CVA procedure",
+    "BRS Official Receiver FAQ contextual check"
+  ],
+  "new_external_links": 2,
+  "new_binary_count": 0,
+  "records": [
+    {
+      "papers": [
+        "CA21"
+      ],
+      "sha256": "",
+      "source_sha256": "",
+      "packaged_bytes": 0,
+      "decision": "ACCEPT_LINK",
+      "licence": "BRS copyright 2025 all rights reserved; commercial reuse permission not established",
+      "licence_expiry": "No redistribution grant established; no expiry assumed",
+      "rights_actions": {
+        "read_at_source": "public_reference_subject_to_site_terms",
+        "link_to_primary_source": "ordinary_unframed_bibliographic_reference; no access bypass or endorsement",
+        "download_for_private_inspection": "not_performed; exact access conditions and bytes must be verified first",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "database_bibliographic_metadata": "factual_metadata_only",
+        "database_fulltext_ingestion": "not_approved",
+        "database_rights": "fulltext_and_compilation_rights_unresolved",
+        "extract_questions_and_solutions": "not_approved; no publisher questions or solutions copied",
+        "third_party_components": "figures_photographs_tables_questions_solutions_and_other_components_not_cleared",
+        "ai_model_training": "separate_unresolved_gate; not_approved",
+        "ai_ocr_reformatting": "does_not_clear_source_rights; not_performed",
+        "rag_or_generated_outputs": "separate_output_rights_review_required",
+        "no_endorsement": "no_BRS_or_KASNEB_affiliation_claim"
+      },
+      "checked_utc": "2026-11-01T17:15:05.802Z",
+      "rights_review_utc": "2026-11-01T17:15:05.802Z",
+      "acquisition_status": "external_access_only",
+      "local_media_present": false,
+      "github_media_present": false,
+      "quality_review_status": "selected official content checked; independent legal and academic review pending",
+      "exam_sitting_certification": "not_certified",
+      "commercial_redistribution": "not_approved",
+      "pdf_pages": null,
+      "package_path": "",
+      "asset_key": "",
+      "source_download_url": "",
+      "download_availability": "public official reference; no downloaded signature/hash-verified binary",
+      "rights_review_basis": "BRS primary pages, copyright footer and selected content checked 2026-11-01; no component audit or exact-file licence",
+      "rights_recheck_trigger": "Updated Insolvency Act or regulations, new BRS version, access/rights change, next KASNEB sitting",
+      "question_rights_note": "No protected questions or answers extracted; original teaching cases separately authored",
+      "id": "LAW-BRS-MORATORIUM-GUIDE2024",
+      "work_id": "LAW-BRS-MORATORIUM-GUIDE2024",
+      "title": "BRS Pre-Insolvency Moratorium practitioner guide — Sylvia Githungo",
+      "authors": "Sylvia Githungo, Assistant Official Receiver",
+      "publisher": "Business Registration Service / Office of the Official Receiver",
+      "publication_date": "2024-08 inferred from publisher URL directory; no explicit in-file date verified",
+      "source_url": "https://brs.go.ke/wp-content/uploads/2024/08/Pre-Insolvency-Moratorium.pdf",
+      "topics": [
+        "corporate restructuring",
+        "pre-insolvency moratorium",
+        "directors and licensed monitor",
+        "creditor protection"
+      ],
+      "syllabus_scope": "KASNEB June 2024 CA21 corporate restructuring and section 15 insolvency mechanisms; partial only",
+      "academic_quality": "Named government practitioner, BRS-hosted PDF; public text inspected, not full exact-file or latest statutory verification",
+      "accuracy_review": "BRS describes directors' continuing role under a monitor and temporary protection. Duration, eligibility, filings and restrictions require reconciliation with currently amended Act and regulations.",
+      "decision_reason": "Useful specific official practitioner overview in undercovered CA21; guidance is not legislation and rights are not cleared for hosting.",
+      "rights_evidence": "BRS official PDF identifies author; website footer Copyright 2025 | Business Registration Service | All Rights Reserved. No in-file commercial licence verified; no full PDF downloaded, hashed or component-audited.",
+      "source_edition_note": "2024 guide may not incorporate 2026 legal changes."
+    },
+    {
+      "papers": [
+        "CA21"
+      ],
+      "sha256": "",
+      "source_sha256": "",
+      "packaged_bytes": 0,
+      "decision": "ACCEPT_LINK",
+      "licence": "BRS copyright 2025 all rights reserved; commercial reuse permission not established",
+      "licence_expiry": "No redistribution grant established; no expiry assumed",
+      "rights_actions": {
+        "read_at_source": "public_reference_subject_to_site_terms",
+        "link_to_primary_source": "ordinary_unframed_bibliographic_reference; no access bypass or endorsement",
+        "download_for_private_inspection": "not_performed; exact access conditions and bytes must be verified first",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "database_bibliographic_metadata": "factual_metadata_only",
+        "database_fulltext_ingestion": "not_approved",
+        "database_rights": "fulltext_and_compilation_rights_unresolved",
+        "extract_questions_and_solutions": "not_approved; no publisher questions or solutions copied",
+        "third_party_components": "figures_photographs_tables_questions_solutions_and_other_components_not_cleared",
+        "ai_model_training": "separate_unresolved_gate; not_approved",
+        "ai_ocr_reformatting": "does_not_clear_source_rights; not_performed",
+        "rag_or_generated_outputs": "separate_output_rights_review_required",
+        "no_endorsement": "no_BRS_or_KASNEB_affiliation_claim"
+      },
+      "checked_utc": "2026-11-01T17:15:05.802Z",
+      "rights_review_utc": "2026-11-01T17:15:05.802Z",
+      "acquisition_status": "external_access_only",
+      "local_media_present": false,
+      "github_media_present": false,
+      "quality_review_status": "selected official content checked; independent legal and academic review pending",
+      "exam_sitting_certification": "not_certified",
+      "commercial_redistribution": "not_approved",
+      "pdf_pages": null,
+      "package_path": "",
+      "asset_key": "",
+      "source_download_url": "",
+      "download_availability": "public official reference; no downloaded signature/hash-verified binary",
+      "rights_review_basis": "BRS primary pages, copyright footer and selected content checked 2026-11-01; no component audit or exact-file licence",
+      "rights_recheck_trigger": "Updated Insolvency Act or regulations, new BRS version, access/rights change, next KASNEB sitting",
+      "question_rights_note": "No protected questions or answers extracted; original teaching cases separately authored",
+      "id": "LAW-BRS-CVA-PROCEDURE",
+      "work_id": "LAW-BRS-CVA-PROCEDURE",
+      "title": "BRS Company Voluntary Arrangement — Official Receiver procedure",
+      "authors": "Business Registration Service, Office of the Official Receiver",
+      "publisher": "Business Registration Service",
+      "publication_date": "Undated live BRS webpage; checked 2026-11-01",
+      "source_url": "https://brs.go.ke/company-voluntary-arrangement/",
+      "topics": [
+        "company voluntary arrangements",
+        "creditor approval and court adoption",
+        "restructuring proposal",
+        "supervisor role"
+      ],
+      "syllabus_scope": "KASNEB June 2024 CA21 section 15.9 and corporate restructuring section 14; not comprehensive law teaching",
+      "academic_quality": "Official Receiver procedural page; selected statements checked, statutory currentness and full expert review pending",
+      "accuracy_review": "BRS says proposals require creditor consideration and court adoption; no automatic approval or binding status asserted; precise thresholds and deadlines unverified.",
+      "decision_reason": "Focused official CVA procedural reference adds a different mechanism from moratorium guide; external only.",
+      "rights_evidence": "BRS webpage footer Copyright 2025 | Business Registration Service | All Rights Reserved; no explicit commercial reuse, adaptation, question extraction, database full-text or AI-training grant.",
+      "source_edition_note": "Undated dynamic webpage; monitor changes."
+    }
+  ],
+  "updated_existing": [
+    {
+      "id": "OFF-SYLLABUS2024",
+      "change": "public PDF viewer now exposes primary text and explicit copyright; no verified downloaded PDF"
+    }
+  ],
+  "excluded_as_duplicate": [
+    {
+      "source_url": "https://brs.go.ke/official-receiver-faqs/",
+      "reason": "overlapping overview; retained as context not new catalogue item"
+    }
+  ],
+  "catalogue_reconciliation": {
+    "old_git_records": 144,
+    "prior_live_database_records": 175,
+    "prior_unmerged_records": 31,
+    "updated_existing_record": "PFM-ACCRUAL",
+    "result_records": 177
+  }
+}

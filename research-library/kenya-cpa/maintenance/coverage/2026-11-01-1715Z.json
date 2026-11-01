@@ -1,0 +1,30 @@
+{
+  "review_utc": "2026-11-01T17:15:05.802Z",
+  "paper": "CA21",
+  "syllabus": "KASNEB June 2024 official PDF checked at source; no acquired PDF or 2026 sitting certification",
+  "topic_rows": [
+    {
+      "topic": "14 Corporate restructuring",
+      "source_ids": [
+        "LAW-BRS-MORATORIUM-GUIDE2024",
+        "LAW-BRS-CVA-PROCEDURE"
+      ],
+      "practice": "maintenance/practice/CA21_restructuring_routes_original_2026-11-01.md",
+      "teaching_completeness": "partial",
+      "independent_review": false
+    },
+    {
+      "topic": "15.5–15.9 administration and CVA",
+      "source_ids": [
+        "LAW-BRS-MORATORIUM-GUIDE2024",
+        "LAW-BRS-CVA-PROCEDURE"
+      ],
+      "practice": "maintenance/practice/CA21_restructuring_routes_original_2026-11-01.md",
+      "teaching_completeness": "partial",
+      "independent_review": false
+    }
+  ],
+  "other_CA21_topics": "not resolved",
+  "current_statutory_amendments_verified": false,
+  "certified_complete": false
+}

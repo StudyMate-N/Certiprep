@@ -1,0 +1,5 @@
+id,decision,change,media_bytes,distribution,review_utc
+LAW-BRS-MORATORIUM-GUIDE2024,ACCEPT_LINK,official 2024 rescue guide,0,external_only,2026-11-01T17:15:05.802Z
+LAW-BRS-CVA-PROCEDURE,ACCEPT_LINK,official CVA procedure,0,external_only,2026-11-01T17:15:05.802Z
+OFF-SYLLABUS2024,RECHECK_EXISTING,public PDF text and copyright verified; no acquired binary,0,external_only,2026-11-01T17:15:05.802Z
+CATALOGUE-RECONCILIATION,METADATA_ONLY,31 prior database decisions and one updated record merged into canonical GitHub catalogue,0,no_media_change,2026-11-01T17:15:05.802Z
