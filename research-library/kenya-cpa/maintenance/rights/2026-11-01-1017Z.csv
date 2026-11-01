@@ -1,0 +1,4 @@
+id,decision,read_at_source,link,download_for_redistribution,commercial_hosting,adaptation,commercial_reuse,question_bank_extraction,metadata_db,fulltext_db,third_party_components,ai_training,review_trigger
+"PFM-PSASB-ELRN-Y2-2026","ACCEPT_LINK","subject_to_access_terms","plain_link_only","not_approved","not_approved","not_approved","not_approved","not_approved","factual_only","not_approved","unresolved","unresolved_not_approved","PSASB new course or terms"
+"PFM-PSASB-TEMPLATES-FY2025-26","ACCEPT_LINK","subject_to_access_terms","plain_link_only","not_approved","not_approved","not_approved","not_approved","not_approved","factual_only","not_approved","unresolved","unresolved_not_approved","new FY template or licence"
+"HOLD-ODPC-FAQ-PROCESSOR","HOLD_ACCURACY","subject_to_access_terms","plain_link_only","not_approved","not_approved","not_approved","not_approved","not_approved","factual_only","not_approved","unresolved","unresolved_not_approved","ODPC FAQ correction"
