@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-11-01T04:51:17.446154+00:00",
+  "updated_utc": "2026-11-01T18:58:52.274Z",
   "philosophy": "Quality, usefulness and defensible rights drive acquisition; the target never overrides an acceptance gate.",
   "first_release_target_substantial_files": 120,
   "targets_by_level": {
@@ -54,5 +54,9 @@
     "max_cpa_bytes": 524288000,
     "max_object_bytes": 40000000
   },
-  "hosting_workflow": "maintenance/README.md; use scoped temporary exact-content upload proxy and close it after verified transfers"
+  "hosting_workflow": "maintenance/README.md; use scoped temporary exact-content upload proxy and close it after verified transfers",
+  "excluded_integrations_for_this_request": [
+    "Dropbox"
+  ],
+  "integration_policy": "Continue with available Supabase, GitHub, research APIs, Library and scheduling. Do not use or suggest Dropbox again for this request."
 }
