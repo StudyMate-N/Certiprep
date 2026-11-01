@@ -33,3 +33,8 @@ Working map: 19 academic paper/specialisation entries plus three practical/works
 2. Secure lawful KASNEB past-paper and solutions access/republication scope; no exam PDFs or recordings have been acquired.
 3. Fill current Kenyan company/substantive law, advanced reporting, tax computations and ISA/IPSAS cases with subject-expert-reviewed material.
 4. Add reviewed worked practice and practical-exam workflows before expanding already well-covered introductory theory.
+
+## Targeted evidence update — 2026-11-01 08:16 UTC
+
+- **CA34S4 / CA26:** Treasury Circular 12/2025 (26 November 2025) provides primary Year 2 FY2025/26 IPSAS transition guidance on inventories; link-only. This improves dated authority, **not** independently reviewed worked practice or paper completion. See `PFM-TREASURY-CIRCULAR12-2025`.
+- **CA35P:** KASNEB's official CBE training portal links recordings and interface guidance. KASNEB explicitly says this is exam-environment familiarisation, **not subject instruction**. No videos, mock papers or answers were acquired or verified. See `OFF-KASNEB-CBE-TRAINING2026`.
