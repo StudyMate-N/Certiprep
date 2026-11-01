@@ -1,0 +1,132 @@
+{
+  "review_utc": "2026-11-01T13:15:00Z",
+  "scope": "CA26/CA34S1 tax amnesty current-vs-legacy source control",
+  "candidate_count": 4,
+  "new_binary_count": 0,
+  "records": [
+    {
+      "id": "TAX-KRA-AMNESTY-2026",
+      "decision": "ACCEPT_LINK",
+      "title": "KRA 2026 Tax Amnesty Programme — current conditions and 31 December deadline",
+      "authors": "Kenya Revenue Authority",
+      "publisher": "KRA",
+      "source_url": "https://www.kra.go.ke/2026-tax-amnesty-programme-at-a-glance",
+      "primary_comparison_urls": [
+        "https://www.kra.go.ke/news-center/public-notices/2391-tax-amnesty-on-interest,-penalties-and-fines",
+        "https://www.kra.go.ke/finance-act-2026-what-it-means-for-you",
+        "https://www.kra.go.ke/images/tenderdocs/data-privacy-statement.pdf"
+      ],
+      "papers": [
+        "CA26",
+        "CA34S1"
+      ],
+      "topics": [
+        "Tax Procedures Act section 37E",
+        "2026 tax amnesty eligibility",
+        "principal settlement deadline 2026-12-31",
+        "2025 and earlier tax-period cutoff",
+        "late-return filing",
+        "customs exclusion",
+        "separate 2026 tax debts"
+      ],
+      "publication_date": "KRA FAQ dated 2026-07-21; public notice 2026-09-07; checked 2026-11-01",
+      "syllabus_scope": "CA26/CA34S1 current Kenyan tax procedures, exact December 2026 sitting cutoff not independently certified",
+      "accuracy_review": "KRA 2026 programme and 2026-09-07 public notice agree: eligible tax periods through 2025-12-31, full principal payment by 2026-12-31, penalty/interest/fines waiver subject to statutory conditions; EACCMA customs duties excluded. KRA legacy FAQ retains superseded 2025 deadline and is not controlling. Full statutory and specialist legal review pending.",
+      "decision_reason": "Primary tax administrator, useful current tax compliance guidance. External link only; no commercial redistribution licence.",
+      "licence": "KRA site privacy/copyright notice permits specified KRA-owned material only for noncommercial original-format download/print with attribution; commercial reuse requires written consent.",
+      "licence_expiry": "No commercial licence; web terms subject to revision",
+      "rights_recheck_trigger": "2026-12-31 amnesty expiry; KRA programme/terms update; Finance Act amendment; next exam sitting",
+      "work_id": "TAX-KRA-AMNESTY-2026",
+      "source_sha256": "",
+      "sha256": "",
+      "packaged_bytes": 0,
+      "acquisition_status": "external_access_only",
+      "local_media_present": false,
+      "github_media_present": false,
+      "quality_review_status": "selected primary statements cross-checked against dated public notice; independent review pending",
+      "exam_sitting_certification": "not_certified",
+      "rights_evidence": "KRA privacy statement pp.2-3 copyright notice read 2026-11-01; 2026 KRA FAQ and 2026-09-07 public notice read 2026-11-01; HTML has no in-file CC grant; component inventory not inspected.",
+      "rights_actions": {
+        "read_at_source": "allowed_subject_to_site_terms",
+        "link_to_primary_source": "ordinary_reference_no_endorsement",
+        "download_for_private_inspection": "noncommercial_original_format_only_if_KRA_owned_and_terms_allow; not_performed",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved_without_written_consent",
+        "commercial_redistribution": "not_approved",
+        "database_bibliographic_metadata": "factual_metadata_only",
+        "database_fulltext_ingestion": "not_approved",
+        "extract_questions_and_solutions": "not_approved; original independently authored practice only",
+        "third_party_components": "not_inspected; no copying",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_rights_review_required"
+      },
+      "checked_utc": "2026-11-01T13:15:00Z",
+      "rights_review_utc": "2026-11-01T13:15:00Z"
+    },
+    {
+      "id": "HOLD-KRA-AMNESTY-LEGACY-FAQ",
+      "decision": "HOLD_ACCURACY",
+      "title": "KRA legacy amnesty FAQ (2024–25 scheme) — superseded deadline warning",
+      "authors": "Kenya Revenue Authority",
+      "publisher": "KRA",
+      "source_url": "https://www.kra.go.ke/component/kra_faq/faqcategory/56",
+      "primary_comparison_urls": [
+        "https://www.kra.go.ke/2026-tax-amnesty-programme-at-a-glance",
+        "https://www.kra.go.ke/news-center/public-notices/2391-tax-amnesty-on-interest,-penalties-and-fines"
+      ],
+      "papers": [
+        "CA26",
+        "CA34S1"
+      ],
+      "topics": [
+        "historical tax amnesty cutoff",
+        "avoid applying 2025 deadline to 2026 scheme",
+        "source version control"
+      ],
+      "publication_date": "Legacy page references 2024 amendment and 2025-06-30 close; undated webpage; checked 2026-11-01",
+      "syllabus_scope": "Historical comparison only; not current 2026 amnesty guidance",
+      "accuracy_review": "Legacy FAQ states 2023-12-31 debt-period cutoff and 2025-06-30 settlement deadline; current KRA 2026 programme and 2026-09-07 public notice instead apply 2025-12-31 debt-period cutoff and 2026-12-31 principal settlement deadline. Do not present historical FAQ as current.",
+      "decision_reason": "Narrow HOLD_ACCURACY for current-year teaching; preserve as historical source, no hard deletion.",
+      "licence": "KRA site copyright notice noncommercial limited; no commercial grant",
+      "licence_expiry": "No commercial licence; terms subject to change",
+      "rights_recheck_trigger": "Legacy FAQ relabelled/archived; KRA current amnesty revised; new exam cut-off",
+      "work_id": "HOLD-KRA-AMNESTY-LEGACY-FAQ",
+      "source_sha256": "",
+      "sha256": "",
+      "packaged_bytes": 0,
+      "acquisition_status": "external_access_only",
+      "local_media_present": false,
+      "github_media_present": false,
+      "quality_review_status": "targeted official-source comparison; independent review pending",
+      "exam_sitting_certification": "not_certified",
+      "rights_evidence": "KRA legacy FAQ, 2026 programme, 2026-09-07 notice and KRA privacy statement checked 2026-11-01; no HTML/component reuse permission established.",
+      "rights_actions": {
+        "read_at_source": "allowed_subject_to_site_terms",
+        "link_to_primary_source": "ordinary_reference_no_endorsement",
+        "download_for_private_inspection": "noncommercial_original_format_only_if_KRA_owned_and_terms_allow; not_performed",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved_without_written_consent",
+        "commercial_redistribution": "not_approved",
+        "database_bibliographic_metadata": "factual_metadata_only",
+        "database_fulltext_ingestion": "not_approved",
+        "extract_questions_and_solutions": "not_approved; original independently authored practice only",
+        "third_party_components": "not_inspected; no copying",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_rights_review_required"
+      },
+      "checked_utc": "2026-11-01T13:15:00Z",
+      "rights_review_utc": "2026-11-01T13:15:00Z"
+    }
+  ],
+  "original_practice": "maintenance/practice/CA26_CA34S1_2026_tax_amnesty_original_2026-11-01.md",
+  "evidence_urls": [
+    "https://www.kra.go.ke/2026-tax-amnesty-programme-at-a-glance",
+    "https://www.kra.go.ke/news-center/public-notices/2391-tax-amnesty-on-interest,-penalties-and-fines",
+    "https://www.kra.go.ke/finance-act-2026-what-it-means-for-you",
+    "https://www.kra.go.ke/images/tenderdocs/data-privacy-statement.pdf",
+    "https://www.kra.go.ke/component/kra_faq/faqcategory/56"
+  ],
+  "rights_note": "HTML pages link-only; no binary acquired, no in-file licence applicable, third-party components uninspected, commercial hosting/adaptation/question extraction and AI training not approved."
+}
