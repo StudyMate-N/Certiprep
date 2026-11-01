@@ -1,0 +1,33 @@
+{
+  "run": "2026-11-01-0816Z",
+  "owner": "cpa-auto-20261101-0814-turn4",
+  "project_ref": "pebkqsyfliytbowxzyun",
+  "schema": "cpa_library",
+  "bucket": "cpa-verified-library",
+  "private": true,
+  "source_records": 150,
+  "accepted_links": 63,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "asset_count": 162,
+  "asset_bytes": 277700279,
+  "storage_objects": 162,
+  "storage_bytes": 277700279,
+  "missing_objects": 0,
+  "size_mismatches": 0,
+  "bad_content_address_binding": 0,
+  "prior_download_unverified_flags": 0,
+  "new_media_files": 0,
+  "new_media_bytes": 0,
+  "resource_inventory_md5": "92fa55b59985a3d6bf8a3eb6bfb7f995",
+  "resource_digest_formula": "md5(string_agg(id||'|'||decision||'|'||record::text,E'\\n' order by id COLLATE C))",
+  "asset_inventory_md5_previous_release": "45bc6d9dfddbeac50f1355c2431a06c2",
+  "asset_inventory_unchanged": true,
+  "release_sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+  "release_unchanged": true,
+  "storage_note": "Read-back of metadata and prior download verification; no fresh 162-object binary redownload; no media transferred",
+  "new_link_ids": [
+    "PFM-TREASURY-CIRCULAR12-2025",
+    "OFF-KASNEB-CBE-TRAINING2026"
+  ]
+}
