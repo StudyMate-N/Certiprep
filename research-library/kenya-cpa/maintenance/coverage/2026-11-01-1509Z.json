@@ -1,0 +1,46 @@
+{
+  "as_of_utc": "2026-11-01T15:09:00Z",
+  "status": "partial_current_topic_coverage_not_certified",
+  "papers": {
+    "CA34S1": {
+      "topics": [
+        "Kenya-Singapore treaty entry-into-force versus tax-effective date",
+        "conditional treaty WHT ceilings",
+        "APA draft vs enacted law"
+      ],
+      "sources": [
+        "TAX-KE-DTA-TREASURY-2026",
+        "TAX-KE-SG-DTA-RATIFIED-2026",
+        "HOLD-KRA-APA-DRAFT-2025"
+      ],
+      "worked_practice": "maintenance/practice/CA34S1_Kenya_Singapore_DTA_timing_original_2026-11-01.md",
+      "selected_arithmetic_verified": true,
+      "independent_academic_review": false,
+      "exam_cutoff_verified": false,
+      "remaining_gaps": [
+        "treaty eligibility and domestic WHT reconciliation",
+        "APA final instrument/commencement",
+        "comprehensive transfer-pricing methods",
+        "independent subject review"
+      ]
+    },
+    "CA26": {
+      "topics": [
+        "international tax treaty date gates"
+      ],
+      "sources": [
+        "TAX-KE-DTA-TREASURY-2026",
+        "TAX-KE-SG-DTA-RATIFIED-2026"
+      ],
+      "worked_practice": "same original exercise",
+      "independent_academic_review": false,
+      "remaining_gaps": [
+        "2026 domestic-law treatment",
+        "current official exam cutoff",
+        "broader syllabus"
+      ]
+    }
+  },
+  "certified_complete_papers": 0,
+  "hold": "HOLD-KRA-APA-DRAFT-2025"
+}
