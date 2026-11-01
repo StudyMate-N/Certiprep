@@ -1,12 +1,12 @@
 {
-  "checked_utc": "2026-11-01T05:31:41.992972+00:00",
+  "checked_utc": "2026-11-01T18:58:52.274Z",
   "github": "connected_verified",
   "supabase": "connected_private_catalogue_and_162_verified_hosted_media_objects",
   "web": "primary_retrieval_working",
   "world_bank_api": "native_bytes_and_series_metadata_verified",
   "library": "verified_master_archive_saved; exact receipt in repository RELEASE.json",
   "hourly_automation": "enabled",
-  "dropbox": "connected_identity_verified; optional backup not yet uploaded",
+  "dropbox": "declined_for_this_request; do_not_use_or_suggest",
   "personal_skill": "installed_and_remote_path_verified",
   "scope": "Only CPA catalogue and authorized reusable assets; no unrelated records, new charges or global permission changes",
   "skill_detail_url": "https://chatgpt.com/skills?skill_id=6ae6c7a9b8808191997af44dc16207ff"
