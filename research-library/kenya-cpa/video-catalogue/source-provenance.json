@@ -482,5 +482,60 @@
     "media_sha256": null,
     "media_downloaded": false,
     "review_scope": "course index only; no playback"
+  },
+  {
+    "key": "VIDEO-RCM-CA13-2026",
+    "url": "https://rcmonlinecollege.co.ke/courses/introduction-to-law-and-governance/",
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "retrieval": "Primary page or public listing inspected; no raw bytes downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Index or public video metadata only; no audiovisual playback"
+  },
+  {
+    "key": "VIDEO-GLOBOPOINT-CA13",
+    "url": "https://www.globopointlearningcentre.com/courses/cpa-003-introduction-to-law-and-governance/",
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "retrieval": "Primary page or public listing inspected; no raw bytes downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Index and one textual legal claim; no audiovisual playback"
+  },
+  {
+    "key": "VIDEO-RCM-CA21-2026",
+    "url": "https://rcmonlinecollege.co.ke/courses/company-law/",
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "retrieval": "Primary page or public listing inspected; no raw bytes downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Index or public video metadata only; no audiovisual playback"
+  },
+  {
+    "key": "VIDEO-SGB-CA21-2025",
+    "url": "https://sgb.ac.ke/courses/company-law/",
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "retrieval": "Primary page or public listing inspected; no raw bytes downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Index or public video metadata only; no audiovisual playback"
+  },
+  {
+    "key": "VIDEO-RCM-CA21-YT2024",
+    "url": "https://www.youtube.com/watch?v=1_3aFT4icLM",
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "retrieval": "Primary page or public listing inspected; no raw bytes downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Index or public video metadata only; no audiovisual playback"
   }
 ]

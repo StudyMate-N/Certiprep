@@ -1,15 +1,15 @@
 {
-  "checked_utc": "2026-11-01T20:17:13.140Z",
+  "checked_utc": "2026-11-01T21:10:52.139Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
-  "new_catalogue_records": 28,
-  "new_accepted_access": 24,
+  "new_catalogue_records": 33,
+  "new_accepted_access": 29,
   "new_candidates": 2,
   "new_by_primary_level": {
-    "Foundation": 6,
-    "Intermediate": 6,
-    "Advanced": 8
+    "Foundation": 13,
+    "Intermediate": 13,
+    "Advanced": 12
   },
   "existing_access_records_retained": 5,
   "metadata_checks": 18,
@@ -25,14 +25,14 @@
   },
   "rights_note": "Private NC transcript and source HTML excluded from public package. Metadata/page hashes are provenance only, never media checksums.",
   "scope": "Manual user-directed multi-level catalogue batch; hourly acquisition limits unchanged.",
-  "latest_batch": "video-hourly-2026-11-01-2020Z",
-  "latest_candidates_assessed": 9,
-  "latest_new_catalogue_records": 8,
-  "latest_accepted_links": 6,
-  "latest_holds": 2,
-  "latest_rejected_classifications": 1,
+  "latest_batch": "video-hourly-2026-11-01-21Z",
+  "latest_candidates_assessed": 5,
+  "latest_new_catalogue_records": 5,
+  "latest_accepted_links": 5,
+  "latest_holds": 0,
+  "latest_rejected_classifications": 0,
   "latest_video_recordings_acquired": 0,
   "latest_video_bytes_acquired": 0,
   "latest_full_playback_reviews": 0,
-  "notes": "Cumulative 20 prior + 8 new; 6 new links and 2 HOLD. No media bytes acquired. Original ZIP/SQLite export unchanged."
+  "notes": "5 Kenyan CA13/CA21 external-only access points; 1 public textual constitutional proposition checked; zero video playback, zero media acquisitions."
 }

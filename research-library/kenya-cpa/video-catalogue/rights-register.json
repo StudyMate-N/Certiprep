@@ -655,5 +655,120 @@
     "checked_utc": "2026-11-01T20:17:13.140Z",
     "scope": "external/HOLD only; no media",
     "next_review_due": "2026-12-01"
+  },
+  {
+    "id": "VIDEO-RCM-CA13-2026",
+    "source_url": "https://rcmonlinecollege.co.ke/courses/introduction-to-law-and-governance/",
+    "licence": "No exact audiovisual recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "only public preview or authorised personal enrolment; no access bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; slides, images, photographs, audio and speaker rights unverified",
+      "extract_questions_and_solutions": "not_cleared; independent KASNEB and publisher rights required",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and link only; no bulk provider content extraction",
+      "no_endorsement": "no provider, tutor or KASNEB endorsement"
+    },
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "scope": "external link only; no audiovisual rights or media",
+    "next_review_due": "2026-12-01",
+    "rights_evidence": "Publisher course and RCM May 2026 terms; personal educational use only; no recording-level grant. https://rcmonlinecollege.co.ke/terms-of-service/ https://rcmonlinecollege.co.ke/terms-of-use/"
+  },
+  {
+    "id": "VIDEO-GLOBOPOINT-CA13",
+    "source_url": "https://www.globopointlearningcentre.com/courses/cpa-003-introduction-to-law-and-governance/",
+    "licence": "No exact audiovisual recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "only public preview or authorised personal enrolment; no access bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; slides, images, photographs, audio and speaker rights unverified",
+      "extract_questions_and_solutions": "not_cleared; independent KASNEB and publisher rights required",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and link only; no bulk provider content extraction",
+      "no_endorsement": "no provider, tutor or KASNEB endorsement"
+    },
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "scope": "external link only; no audiovisual rights or media",
+    "next_review_due": "2026-12-01",
+    "rights_evidence": "Publisher page; exact recording licence and third-party question/answer permissions unverified."
+  },
+  {
+    "id": "VIDEO-RCM-CA21-2026",
+    "source_url": "https://rcmonlinecollege.co.ke/courses/company-law/",
+    "licence": "No exact audiovisual recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "only public preview or authorised personal enrolment; no access bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; slides, images, photographs, audio and speaker rights unverified",
+      "extract_questions_and_solutions": "not_cleared; independent KASNEB and publisher rights required",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and link only; no bulk provider content extraction",
+      "no_endorsement": "no provider, tutor or KASNEB endorsement"
+    },
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "scope": "external link only; no audiovisual rights or media",
+    "next_review_due": "2026-12-01",
+    "rights_evidence": "Publisher course and RCM May 2026 terms; personal educational use only; no commercial rights. https://rcmonlinecollege.co.ke/terms-of-service/ https://rcmonlinecollege.co.ke/terms-of-use/"
+  },
+  {
+    "id": "VIDEO-SGB-CA21-2025",
+    "source_url": "https://sgb.ac.ke/courses/company-law/",
+    "licence": "No exact audiovisual recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "only public preview or authorised personal enrolment; no access bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; slides, images, photographs, audio and speaker rights unverified",
+      "extract_questions_and_solutions": "not_cleared; independent KASNEB and publisher rights required",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and link only; no bulk provider content extraction",
+      "no_endorsement": "no provider, tutor or KASNEB endorsement"
+    },
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "scope": "external link only; no audiovisual rights or media",
+    "next_review_due": "2026-12-01",
+    "rights_evidence": "Official course page; no exact recording commercial grant or third-party component permission established."
+  },
+  {
+    "id": "VIDEO-RCM-CA21-YT2024",
+    "source_url": "https://www.youtube.com/watch?v=1_3aFT4icLM",
+    "licence": "No exact audiovisual recording licence established",
+    "licence_url": "",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary link only; no endorsement",
+      "read_at_source": "only public preview or authorised personal enrolment; no access bypass",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; slides, images, photographs, audio and speaker rights unverified",
+      "extract_questions_and_solutions": "not_cleared; independent KASNEB and publisher rights required",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "not_cleared",
+      "database_rights": "bibliographic facts and link only; no bulk provider content extraction",
+      "no_endorsement": "no provider, tutor or KASNEB endorsement"
+    },
+    "checked_utc": "2026-11-01T21:10:52.139Z",
+    "scope": "external link only; no audiovisual rights or media",
+    "next_review_due": "2026-12-01",
+    "rights_evidence": "YouTube public listing and RCM terms; public streaming does not license rehosting, adaptation or commercial use. https://rcmonlinecollege.co.ke/terms-of-service/ https://rcmonlinecollege.co.ke/terms-of-use/"
   }
 ]

@@ -1,0 +1,36 @@
+{
+  "checked_utc": "2026-11-01T21:10:52.139Z",
+  "run_owner": "cpa-auto-20261101-2107Z-video12",
+  "source_decisions": 212,
+  "accepted_external_links": 114,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "video_access_records": 38,
+  "video_recordings_acquired": 0,
+  "new_candidates_assessed": 5,
+  "new_external_links": 5,
+  "full_playback_reviews": 0,
+  "limited_textual_claims_checked": 1,
+  "private_storage": {
+    "project_ref": "pebkqsyfliytbowxzyun",
+    "bucket": "cpa-verified-library",
+    "public": false,
+    "asset_rows": 162,
+    "storage_objects": 162,
+    "cpa_bytes": 277700279,
+    "observed_total_storage_bytes": 598089979,
+    "missing_objects": 0,
+    "size_mismatches": 0,
+    "address_mismatches": 0,
+    "prior_download_verified_rows": 162,
+    "fresh_full_byte_downloads": 0
+  },
+  "release": {
+    "new_binary_acquisitions": 0,
+    "original_zip_unchanged": true,
+    "original_release_json_unchanged": true,
+    "metadata_export": "GitHub JSON/CSV"
+  },
+  "academic_complete": false,
+  "next_review_due": "2026-12-01"
+}
