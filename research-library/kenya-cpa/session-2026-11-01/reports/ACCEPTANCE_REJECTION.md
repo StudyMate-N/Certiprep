@@ -175,3 +175,13 @@ Each row is a decision about the named resource/version. Acceptance of an access
 ## Review limits
 
 Publisher identity, author accountability, edition/rights evidence, topic fit, file signatures and selected content/examples were checked. This session did not independently solve every exercise, peer-review every chapter, watch every linked lecture, inspect subscription holdings or certify April 2027 examinability. Those limits are recorded instead of treating unperformed checks as passed.
+
+## Post-release maintenance decisions — 2026-11-01 06:25 UTC
+
+| ID | Decision | Topic | Evidence and restriction |
+|---|---|---|---|
+| STD-IFRS20-2026 | ACCEPT_LINK | CA32 IFRS 20 regulatory assets and liabilities | IASB issued 27 May 2026; effective 1 January 2029 (early application permitted). Official implementation page only; no licensed commercial media or examiner applicability confirmed. |
+| STD-IFRS-SMES-2025-MODULES | ACCEPT_LINK | CA23/CA32 SME reporting transition and worked educational modules | 2025 third edition, 2026 modules, effective 1 January 2027. SME standards are not full IFRS; publisher examples, case studies and assessment reuse not licensed. Link only. |
+| TAX-OCT2026-ALERT | CANDIDATE_LINK retained | CA26/CA34S1 October petroleum VAT amendment | Parliament confirms National Assembly passage of Bill No.65 on 16 October 2026. Primary enacted Gazette and commencement not independently obtained; **do not teach proposal as operative law**. |
+
+No acquired media added, removed, or changed. The immutable 2026-11-01 release ZIP and its SHA-256 remain unchanged; this is a post-release metadata update.
