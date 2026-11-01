@@ -176,7 +176,7 @@ Each row is a decision about the named resource/version. Acceptance of an access
 
 Publisher identity, author accountability, edition/rights evidence, topic fit, file signatures and selected content/examples were checked. This session did not independently solve every exercise, peer-review every chapter, watch every linked lecture, inspect subscription holdings or certify April 2027 examinability. Those limits are recorded instead of treating unperformed checks as passed.
 
-## Post-release maintenance decisions — 2026-11-01 06:25 UTC
+## Post-release maintenance decisions — 2026-11-01 06:19 UTC
 
 | ID | Decision | Topic | Evidence and restriction |
 |---|---|---|---|
