@@ -28,5 +28,26 @@
   "all_hosted_objects_downloaded_and_sha256_verified": true,
   "storage_verified_utc": "2026-11-01T05:24:47.547403+00:00",
   "dropbox_backup_uploaded": false,
-  "post_archive_hosting_update": true
+  "post_archive_hosting_update": true,
+  "supplemental_releases": [
+    {
+      "type": "original_practice_only_not_master_media_replacement",
+      "filename": "CPA_Library_2026-11-01_Practice_Update.zip",
+      "library_path": "/CPA/CPA_Library_2026-11-01_Practice_Update.zip",
+      "library_file_id": "libfile_af07979aae148191a696a29f6319c938",
+      "file_id": "file_000000004ee8820ca9f8b04f76366f02",
+      "bytes": 2698,
+      "sha256": "7cc3d48b12376a33feaa8709c0f085da106579eaf350f2d49c44b2e6101c4aa3",
+      "archive_crc": "passed",
+      "manifest_file_sha256": "validated",
+      "source": "original synthetic CA35P exercise; not third-party acquired media",
+      "verified_utc": "2026-11-01T09:11:00Z",
+      "delivery_status": "saved_successfully",
+      "academic_review": "pending",
+      "github_source_paths": [
+        "research-library/kenya-cpa/maintenance/practice/CA35P_synthetic_sales.csv",
+        "research-library/kenya-cpa/maintenance/practice/CA35P_synthetic_sales_practice.md"
+      ]
+    }
+  ]
 }
