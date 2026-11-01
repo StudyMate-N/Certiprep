@@ -1,0 +1,39 @@
+{
+  "as_of_utc": "2026-11-01T09:11Z",
+  "status": "maintained_research_collection_not_complete_course",
+  "source_records": 154,
+  "accepted_external_links": 66,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "media_objects": 162,
+  "media_bytes": 277700279,
+  "db_asset_rows": 162,
+  "storage_object_rows": 162,
+  "missing_objects": 0,
+  "size_mismatches": 0,
+  "content_address_mismatches": 0,
+  "previous_binary_verification": "retained; no full redownload in this run",
+  "asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
+  "resource_inventory_md5": "6ef900a1a81261aa378c3ccee5de2ac5",
+  "sort_order": "PostgreSQL COLLATE C",
+  "new_source_ids": [
+    "ICT-ODPC-DPIA-GUIDANCE2024",
+    "LAW-BRS-BO-LN162-2023",
+    "DATA-CA-Q4-2025-26",
+    "HOLD-BRS-BO-GUIDE2023"
+  ],
+  "new_binary_media": 0,
+  "hosted_new_media": 0,
+  "original_practice": {
+    "status": "arithmetic_checked_not_independently_academic_reviewed",
+    "dataset_rows": 12,
+    "gross_kes": 34000,
+    "refund_kes": 9000,
+    "net_kes": 25000,
+    "local_practice_zip_sha256": "7cc3d48b12376a33feaa8709c0f085da106579eaf350f2d49c44b2e6101c4aa3"
+  },
+  "existing_master_release_sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+  "new_master_zip_created": false,
+  "temporary_transfer_endpoint_opened": false,
+  "storage_credentials_issued": false
+}
