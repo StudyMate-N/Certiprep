@@ -1,0 +1,32 @@
+{
+  "run": "2026-11-01-0710Z",
+  "owner": "cpa-auto-20261101-0708-turn3",
+  "project_ref": "pebkqsyfliytbowxzyun",
+  "schema": "cpa_library",
+  "bucket": "cpa-verified-library",
+  "private": true,
+  "source_records": 148,
+  "accepted_links": 61,
+  "hold_accuracy": 2,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "asset_count": 162,
+  "asset_bytes": 277700279,
+  "storage_objects": 162,
+  "storage_bytes": 277700279,
+  "missing_objects": 0,
+  "size_mismatches": 0,
+  "sha_path_or_bucket_mismatches": 0,
+  "prior_download_unverified_flags": 0,
+  "new_media_files": 0,
+  "new_media_bytes": 0,
+  "resource_inventory_md5": "4a26d4394fb774530598af04e01a5cfd",
+  "asset_inventory_md5": "45bc6d9dfddbeac50f1355c2431a06c2",
+  "new_source_ids": [
+    "LAW-TRUSTADMIN2026",
+    "LAW-TRUSTREG-DRAFT2026"
+  ],
+  "archive_unchanged": true,
+  "release_sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+  "note": "metadata readback and prior hash verification only; no new media acquired"
+}
