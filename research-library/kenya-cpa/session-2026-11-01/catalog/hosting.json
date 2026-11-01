@@ -37,5 +37,22 @@
   "all_hosted_objects_downloaded_and_sha256_verified": true,
   "storage_verification": "../../STORAGE_VERIFICATION.json",
   "temporary_transfer_endpoint": "closed; former valid credential returns 403",
-  "archive_snapshot_note": "The delivered ZIP was created before this private mirror completed. Its checksum and original hosting-status snapshot are unchanged; current hosting is recorded here and in the database."
+  "archive_snapshot_note": "The delivered ZIP was created before this private mirror completed. Its checksum and original hosting-status snapshot are unchanged; current hosting is recorded here and in the database.",
+  "post_release_catalogue": {
+    "last_review_date": "2026-11-01",
+    "live_resource_count": 146,
+    "live_accepted_links": 60,
+    "live_acquired_entries": 43,
+    "live_distinct_substantial_works": 29,
+    "added_link_ids": [
+      "STD-IFRS20-2026",
+      "STD-IFRS-SMES-2025-MODULES"
+    ],
+    "updated_link_ids": [
+      "TAX-OCT2026-ALERT"
+    ],
+    "release_resource_inventory_md5_note": "Top-level resource_inventory_md5 remains the original 144-record verified snapshot fingerprint; current 146-record catalogue is documented in maintenance/snapshots/2026-11-01-0625Z.json; do not compare the old fingerprint to current data.",
+    "snapshot_path": "../../maintenance/snapshots/2026-11-01-0625Z.json",
+    "media_storage_unchanged": true
+  }
 }
