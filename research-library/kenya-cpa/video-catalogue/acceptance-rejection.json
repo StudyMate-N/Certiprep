@@ -40,5 +40,23 @@
     "url": "https://kasneb.or.ke/computer-based-examinations-cbe-training",
     "decision": "HOLD_VIDEO_VERIFICATION",
     "reason": "Direct response only 195 bytes; playable recording and download availability not established. Existing official access record retained."
+  },
+  {
+    "source": "Adamas CPA Introduction to Law and Governance",
+    "url": "https://adamascollege.com/courses/cpa-introduction-to-law-and-governance/",
+    "decision": "HOLD_ACCESS",
+    "reason": "Closed paid course; lessons gated; no verified playback or rights"
+  },
+  {
+    "source": "BRS change-of-officials webinar",
+    "url": "https://brs.go.ke/videos/",
+    "decision": "HOLD_FORMAT_RIGHTS",
+    "reason": "Google Drive Download link not a commercial grant; format and access unverified"
+  },
+  {
+    "source": "KASNEB CBE familiarisation",
+    "url": "https://www.kasneb.or.ke/index.php/computer-based-examinations-cbe-training",
+    "decision": "REJECT_TEACHING_VIDEO_CLASSIFICATION",
+    "reason": "Official KASNEB explicitly says exam-platform familiarisation is not instructional support"
   }
 ]
