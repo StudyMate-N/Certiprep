@@ -621,5 +621,53 @@
     "media_downloaded": false,
     "review_scope": "Metadata only; no playback or worked-answer verification",
     "rights_url": "https://su-plus.strathmore.edu/info/end-user-agreement"
+  },
+  {
+    "key": "VIDEO-MIT-MACRO2023",
+    "url": "https://ocw.mit.edu/courses/14-02-principles-of-macroeconomics-spring-2023/video_galleries/1402-lecture-videos/",
+    "checked_utc": "2026-11-01T23:18:00Z",
+    "retrieval": "Primary publisher HTML; no video download",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "metadata only; no playback or worked answer",
+    "rights_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/"
+  },
+  {
+    "key": "VIDEO-MIT-STRATEGIC-COMM2012",
+    "url": "https://ocw.mit.edu/courses/res-tll-004-stem-concept-videos-fall-2013/resources/strategic-communication/",
+    "checked_utc": "2026-11-01T23:18:00Z",
+    "retrieval": "Primary publisher HTML; no video download",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "metadata only; no playback or worked answer",
+    "rights_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/"
+  },
+  {
+    "key": "VIDEO-IFRS18-WEBINARS2024",
+    "url": "https://www.ifrs.org/supporting-implementation/supporting-materials-by-ifrs-standards/ifrs-18/webinar-series-new-requirements-in-ifrs18-explained/",
+    "checked_utc": "2026-11-01T23:18:00Z",
+    "retrieval": "Primary publisher HTML; no video download",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "metadata only; no playback or worked answer",
+    "rights_url": "https://www.ifrs.org/legal/terms-and-conditions/"
+  },
+  {
+    "key": "VIDEO-MS-DAX-VIDEOS2023",
+    "url": "https://learn.microsoft.com/en-us/dax/dax-learn-videos",
+    "checked_utc": "2026-11-01T23:18:00Z",
+    "retrieval": "Primary publisher HTML; no video download",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "metadata only; no playback or worked answer",
+    "rights_url": "https://learn.microsoft.com/en-us/legal/termsofuse"
   }
 ]

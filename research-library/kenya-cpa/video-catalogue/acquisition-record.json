@@ -1,10 +1,10 @@
 {
-  "checked_utc": "2026-11-01T22:08:56Z",
+  "checked_utc": "2026-11-01T23:18:00Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
-  "new_catalogue_records": 40,
-  "new_accepted_access": 29,
+  "new_catalogue_records": 44,
+  "new_accepted_access": 33,
   "new_candidates": 2,
   "new_by_primary_level": {
     "Foundation": 13,
@@ -25,15 +25,15 @@
   },
   "rights_note": "Private NC transcript and source HTML excluded from public package. Metadata/page hashes are provenance only, never media checksums.",
   "scope": "Manual user-directed multi-level catalogue batch; hourly acquisition limits unchanged.",
-  "latest_batch": "video-hourly-2026-11-01-22Z",
-  "latest_candidates_assessed": 7,
-  "latest_new_catalogue_records": 7,
-  "latest_accepted_links": 5,
-  "latest_holds": 2,
+  "latest_batch": "video-hourly-2026-11-01-23Z",
+  "latest_candidates_assessed": 4,
+  "latest_new_catalogue_records": 4,
+  "latest_accepted_links": 4,
+  "latest_holds": 0,
   "latest_rejected_classifications": 0,
   "latest_video_recordings_acquired": 0,
   "latest_video_bytes_acquired": 0,
   "latest_full_playback_reviews": 0,
-  "notes": "Five metadata-only access links: CA16 (2), CA24/CA34S2 PSASB (1), CA31 (1), CA34S4 (1). Two HOLDs for BDA classification/count discrepancy and historical Strathmore licence/scope. No media acquired.",
-  "latest_rights_review_utc": "2026-11-01T22:08:56Z"
+  "notes": "Four official external video access records: CA12, CA14, CA32, CA35P; 0 media, playback reviews, worked answers or commercial permissions.",
+  "latest_rights_review_utc": "2026-11-01T23:18:00Z"
 }
