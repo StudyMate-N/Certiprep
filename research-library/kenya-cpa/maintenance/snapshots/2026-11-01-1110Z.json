@@ -1,0 +1,40 @@
+{
+  "as_of_utc": "2026-11-01T11:10Z",
+  "status": "maintained_research_collection_not_complete_course",
+  "source_records": 160,
+  "accepted_external_links": 70,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "media_objects": 162,
+  "media_bytes": 277700279,
+  "db_asset_rows": 162,
+  "storage_object_rows": 162,
+  "missing_objects": 0,
+  "size_mismatches": 0,
+  "content_address_mismatches": 0,
+  "asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
+  "resource_inventory_md5": "d7cccf16cab2d2d58c4be891d6973bed",
+  "sort_order": "PostgreSQL COLLATE C",
+  "new_source_ids": [
+    "PFM-PSASB-IPSAS12-GUIDE-2026",
+    "PFM-TREASURY-ACCOUNTING-POLICIES-2026",
+    "HOLD-IPSAS12-KENYA-COST-FORMULA-SCOPE"
+  ],
+  "new_binary_media": 0,
+  "hosted_new_media": 0,
+  "previous_binary_verification": "retained; no fresh full-byte downloads this run",
+  "original_practice_paths": [
+    "maintenance/practice/CA34S4_IPSAS12_measurement_original_2026-11-01.md",
+    "maintenance/practice/CA34S4_inventory_costing_policy_erratum_2026-11-01.md"
+  ],
+  "independent_review": "pending",
+  "existing_master_release_sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+  "new_master_zip_created": false,
+  "temporary_transfer_endpoint_opened": false,
+  "storage_credentials_issued": false,
+  "observed_total_storage_bytes": 598089979,
+  "observed_total_storage_cap_bytes": 838860800,
+  "cpa_storage_cap_bytes": 524288000,
+  "cpa_bucket_public": false,
+  "cpa_bucket_file_limit_bytes": 40000000
+}
