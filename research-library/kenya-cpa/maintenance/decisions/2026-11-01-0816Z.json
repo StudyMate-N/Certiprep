@@ -1,0 +1,86 @@
+{
+  "review_utc": "2026-11-01T08:16:00Z",
+  "owner": "cpa-auto-20261101-0814-turn4",
+  "project_ref": "pebkqsyfliytbowxzyun",
+  "schema": "cpa_library",
+  "decisions": [
+    {
+      "id": "PFM-TREASURY-CIRCULAR12-2025",
+      "decision": "ACCEPT_LINK",
+      "source_url": "https://www.psasb.go.ke/Documents/Accounting%20Standards/Transition%20Documents/Transition%20Circular%202.pdf",
+      "index_url": "https://psasb.go.ke/transition-documents/",
+      "authority": "National Treasury of Kenya; PSASB official host",
+      "edition": "Treasury Circular 12/2025 dated 26 November 2025, 12-page PDF",
+      "papers": [
+        "CA26",
+        "CA34S4"
+      ],
+      "selected_review": "Pages 1-2 visually checked: Year 2 FY2025/26 inventories recognised alongside financial assets and liabilities; FY2026/27 full accrual target. Remaining pages and selected worked solutions not independently reviewed.",
+      "rights": {
+        "read": "source_access_only",
+        "link": "approved",
+        "download_for_redistribution": "not_approved",
+        "commercial_hosting": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_reuse": "not_approved",
+        "question_extraction": "not_approved",
+        "database_bibliography": "approved",
+        "database_fulltext": "not_approved",
+        "ai_training": "unresolved_not_approved"
+      },
+      "components": "National coat of arms on cover; no third-party or embedded-content clearance",
+      "bytes_acquired": 0,
+      "source_sha256": null,
+      "expiry": "no granted permission",
+      "next_review": "new Treasury circular, changed PDF/terms, KASNEB exam cut-off, rights grant"
+    },
+    {
+      "id": "OFF-KASNEB-CBE-TRAINING2026",
+      "decision": "ACCEPT_LINK",
+      "source_url": "https://kasneb.or.ke/computer-based-examinations-cbe-training",
+      "linked_course": "https://cbetraining.kasneb.or.ke/course/view.php?id=46",
+      "authority": "KASNEB official training/FAQ",
+      "edition": "live page reviewed 1 Nov 2026; 2025 training recordings indexed",
+      "papers": [
+        "CA35P",
+        "CA16"
+      ],
+      "selected_review": "Official KASNEB FAQ confirms training recordings and mocks are accessible through training portal. Publisher explicitly states it familiarises candidates with exam system and does not provide subject instruction. Direct course timed out.",
+      "rights": {
+        "read": "subject_to_student_portal_access",
+        "link": "approved",
+        "download_for_redistribution": "not_approved",
+        "commercial_hosting": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_reuse": "not_approved",
+        "question_extraction": "not_approved",
+        "database_bibliography": "approved",
+        "database_fulltext": "not_approved",
+        "ai_training": "unresolved_not_approved"
+      },
+      "components": "All-rights-reserved training videos/manuals and possible controlled mock questions; no permissions for copying",
+      "bytes_acquired": 0,
+      "source_sha256": null,
+      "expiry": "no granted permission",
+      "next_review": "exam workflow changes, portal terms/access, new BDA recordings, rights grant"
+    }
+  ],
+  "screened_no_new_record": [
+    {
+      "source": "https://www.kra.go.ke/finance-act-2026-what-it-means-for-you",
+      "reason": "Already recorded TAX-EXPLAINER; do not duplicate"
+    },
+    {
+      "source": "https://psasb.go.ke/transition-documents/",
+      "reason": "Existing PFM-PSASB-2026 is general access point; new record only for specifically reviewed Circular 12/2025"
+    },
+    {
+      "source": "https://www.treasury.go.ke/wp-content/uploads/2025/08/ROADMAP-to-Accrual-Accounting-KE.pdf",
+      "reason": "Already mapped PFM-ACCRUAL; no duplicate"
+    },
+    {
+      "source": "https://www.psasb.go.ke/Documents/Accounting%20Standards/Transition%20Documents/Transition%20Circular%201.pdf",
+      "reason": "Year 1 historical reference, no new catalogue entry until topic-specific review"
+    }
+  ]
+}
