@@ -38,3 +38,11 @@ Working map: 19 academic paper/specialisation entries plus three practical/works
 
 - **CA34S4 / CA26:** Treasury Circular 12/2025 (26 November 2025) provides primary Year 2 FY2025/26 IPSAS transition guidance on inventories; link-only. This improves dated authority, **not** independently reviewed worked practice or paper completion. See `PFM-TREASURY-CIRCULAR12-2025`.
 - **CA35P:** KASNEB's official CBE training portal links recordings and interface guidance. KASNEB explicitly says this is exam-environment familiarisation, **not subject instruction**. No videos, mock papers or answers were acquired or verified. See `OFF-KASNEB-CBE-TRAINING2026`.
+
+## Targeted evidence and original-practice update — 2026-11-01 09:11 UTC
+
+- **CA16 (data protection):** ODPC official DPIA guidance accepted as external reference only (`ICT-ODPC-DPIA-GUIDANCE2024`); practical compliance and legal examples require independent review. No PDF licensed for commercial mirroring.
+- **CA21 / CA13 (company law):** Official Gazette Legal Notice 162/2023 on beneficial ownership accepted as dated primary law reference (`LAW-BRS-BO-LN162-2023`). Older BRS guide placed on accuracy HOLD until reconciled with later amendments (`HOLD-BRS-BO-GUIDE2023`). No 2026 consolidated legal teaching certification.
+- **CA16 / CA35P (data interpretation):** Communications Authority's Q4 FY2025/26 sector statistics report accepted as dated external reference (`DATA-CA-Q4-2025-26`); no chart/table redistribution or bulk dataset extraction rights established.
+- **CA35P original practice:** New fictional 12-row sales-analysis CSV and answer key added under `maintenance/practice/`. Arithmetic verified; **independent academic review and official software/outcome mapping pending**. It does not confer completion of CA35P.
+- **Collection:** 154 source decisions, 43 acquired entries grouped into 29 substantial works, 162 hosted media objects unchanged. No paper certified complete.
