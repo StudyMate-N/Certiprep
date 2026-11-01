@@ -1,0 +1,65 @@
+{
+  "review_utc": "2026-11-01T15:09:00Z",
+  "run_owner": "cpa-auto-20261101-1806-turn11",
+  "status": "maintained_research_collection_not_certified_complete",
+  "verified_live_database": {
+    "project_ref": "pebkqsyfliytbowxzyun",
+    "schema": "cpa_library",
+    "resource_records": 171,
+    "decisions": {
+      "ACCEPT_FILE": 43,
+      "ACCEPT_LINK": 77,
+      "CANDIDATE_LINK": 12,
+      "HOLD_ACCURACY": 9,
+      "HOLD_RIGHTS": 1,
+      "REJECT_BINARY": 19,
+      "REJECT_CURRENT": 5,
+      "REJECT_DUPLICATE": 2,
+      "REJECT_EMPTY_DATA": 1,
+      "REJECT_SOURCE": 2
+    },
+    "acquired_entries": 43,
+    "grouped_substantial_works": 29,
+    "resource_inventory_md5": "7cee17c6ab4d207421616d937c6918e9",
+    "asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
+    "digest_order": "PostgreSQL COLLATE C, md5 metadata fingerprint only; content integrity uses existing SHA-256 evidence"
+  },
+  "verified_private_storage": {
+    "bucket": "cpa-verified-library",
+    "public": false,
+    "objects": 162,
+    "bytes": 277700279,
+    "observed_all_buckets_bytes": 598089979,
+    "missing_objects": 0,
+    "size_mismatches": 0,
+    "content_address_mismatches": 0,
+    "previously_verified_download_flags": 162,
+    "new_binary_downloads": 0,
+    "new_hosted_objects": 0,
+    "verification_scope": "live metadata map and prior full-download SHA-256 evidence; no fresh re-download"
+  },
+  "rights_and_sources": {
+    "new_external_links": 2,
+    "new_accuracy_holds": 1,
+    "third_party_binaries_acquired": 0,
+    "source_ids": [
+      "TAX-KE-DTA-TREASURY-2026",
+      "TAX-KE-SG-DTA-RATIFIED-2026",
+      "HOLD-KRA-APA-DRAFT-2025"
+    ],
+    "decision_file": "maintenance/decisions/2026-11-01-1509Z.json",
+    "rights_file": "maintenance/rights/2026-11-01-1509Z.csv",
+    "practice_file": "maintenance/practice/CA34S1_Kenya_Singapore_DTA_timing_original_2026-11-01.md"
+  },
+  "archive": {
+    "status": "unchanged_previous_verified_master",
+    "filename": "Kenya_CPA_Verified_Master_2026-11-01.zip",
+    "sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+    "receipt": "RELEASE.json",
+    "new_zip_created": false,
+    "reason": "No new approved third-party media; preserve immutable release and checksum"
+  },
+  "certified_complete_papers": 0,
+  "independent_academic_review": "pending",
+  "notes": "Original worked practice committed in GitHub; not counted as acquired third-party media or an independently reviewed substantial work."
+}
