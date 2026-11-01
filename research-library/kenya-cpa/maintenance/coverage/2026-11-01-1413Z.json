@@ -1,0 +1,55 @@
+{
+  "as_of_utc": "2026-11-01T14:13:40Z",
+  "status": "partial_current_topic_coverage_not_certified",
+  "papers": {
+    "CA26": {
+      "topics": [
+        "2026 eTIMS income/expense validation",
+        "CGT computation"
+      ],
+      "sources": [
+        "TAX-KRA-ETIMS-VALIDATION-2026",
+        "TAX-KRA-ITAX-VALIDATION-GUIDE-2026",
+        "LAW-ETI-LN64-2024",
+        "TAX-KRA-CGT-CURRENT-2026"
+      ],
+      "worked_practice": "maintenance/practice/CA26_CA34S1_eTIMS_CGT_original_2026-11-01.md",
+      "selected_arithmetic_verified": true,
+      "independent_academic_review": false,
+      "legal_consolidation_verified": false,
+      "exam_cutoff_verified": false,
+      "remaining_gaps": [
+        "2026 consolidated section 23A and any amendments",
+        "CGT payment trigger litigation",
+        "other CA26 outcomes"
+      ]
+    },
+    "CA34S1": {
+      "topics": [
+        "electronic tax invoice exceptions",
+        "capital gains computation"
+      ],
+      "sources": [
+        "LAW-ETI-LN64-2024",
+        "TAX-KRA-CGT-CURRENT-2026"
+      ],
+      "worked_practice": "same original exercise",
+      "independent_academic_review": false,
+      "remaining_gaps": [
+        "complex tax restructuring",
+        "international tax",
+        "judicial decisions",
+        "independent reviewer"
+      ]
+    },
+    "CA35P": {
+      "topic": "reconciliation of transaction evidence",
+      "practice": "original synthetic classification exercise",
+      "source": "KRA guide 2026 external link",
+      "official_practical_exam_alignment": false,
+      "independent_review": false
+    }
+  },
+  "hold": "HOLD-KRA-CGT-LEGACY-COMPANIES",
+  "certified_complete_papers": 0
+}
