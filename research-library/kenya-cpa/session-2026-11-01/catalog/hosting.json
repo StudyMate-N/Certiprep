@@ -23,7 +23,7 @@
   "asset_inventory_md5": "45bc6d9dfddbeac50f1355c2431a06c2",
   "resource_inventory_md5": "37a9af977a58240055f75051f3c0256e",
   "digest_order": "UTF-8 byte order, PostgreSQL COLLATE C; MD5 used only as a metadata synchronization fingerprint; asset authenticity/integrity remains SHA-256",
-  "verified_utc": "2026-11-01T05:31:41.992972+00:00",
+  "verified_utc": "2026-11-01T14:13:40Z",
   "security_verification": {
     "all_cpa_tables_rls": true,
     "anon_schema_access": false,
@@ -40,8 +40,8 @@
   "archive_snapshot_note": "The delivered ZIP was created before this private mirror completed. Its checksum and original hosting-status snapshot are unchanged; current hosting is recorded here and in the database.",
   "post_release_catalogue": {
     "last_review_date": "2026-11-01",
-    "live_resource_count": 163,
-    "live_accepted_links": 71,
+    "live_resource_count": 168,
+    "live_accepted_links": 75,
     "live_acquired_entries": 43,
     "live_distinct_substantial_works": 29,
     "added_link_ids": [
@@ -54,8 +54,8 @@
     "release_resource_inventory_md5_note": "Top-level resource_inventory_md5 remains the original 144-record verified snapshot fingerprint; current 146-record catalogue is documented in maintenance/snapshots/2026-11-01-0625Z.json; do not compare the old fingerprint to current data.",
     "snapshot_path": "../../maintenance/snapshots/2026-11-01-0625Z.json",
     "media_storage_unchanged": true,
-    "latest_snapshot_path": "../../maintenance/snapshots/2026-11-01-1315Z.json",
-    "latest_review_path": "../../maintenance/reviews/2026-11-01-1315Z.md",
+    "latest_snapshot_path": "../../maintenance/snapshots/2026-11-01-1413Z.json",
+    "latest_review_path": "../../maintenance/reviews/2026-11-01-1413Z.md",
     "new_link_ids_since_release": [
       "STD-IFRS20-2026",
       "STD-IFRS-SMES-2025-MODULES",
@@ -69,7 +69,11 @@
       "PFM-PSASB-TEMPLATES-FY2025-26",
       "PFM-PSASB-IPSAS12-GUIDE-2026",
       "PFM-TREASURY-ACCOUNTING-POLICIES-2026",
-      "TAX-KRA-AMNESTY-2026"
+      "TAX-KRA-AMNESTY-2026",
+      "TAX-KRA-ETIMS-VALIDATION-2026",
+      "TAX-KRA-ITAX-VALIDATION-GUIDE-2026",
+      "LAW-ETI-LN64-2024",
+      "TAX-KRA-CGT-CURRENT-2026"
     ],
     "hold_ids_since_release": [
       "LAW-TRUSTREG-DRAFT2026",
@@ -77,13 +81,14 @@
       "HOLD-ODPC-FAQ-PROCESSOR",
       "HOLD-IPSAS12-KENYA-COST-FORMULA-SCOPE",
       "HOLD-PSASB-FAQ-CASHBASIS-2026",
-      "HOLD-KRA-AMNESTY-LEGACY-FAQ"
+      "HOLD-KRA-AMNESTY-LEGACY-FAQ",
+      "HOLD-KRA-CGT-LEGACY-COMPANIES"
     ],
-    "latest_resource_inventory_md5": "1cc6aecd8194514ec717a12d1cbd64a6",
+    "latest_resource_inventory_md5": "d930746f4d07d5277ba707156f7fb86b",
     "latest_asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
     "live_storage_bytes": 277700279,
     "live_storage_objects": 162,
     "latest_resource_inventory_md5_method": "md5(string_agg(id||'|'||decision||'|'||record::text,E'\\n' order by id COLLATE C)); not directly comparable with earlier legacy fingerprint algorithm",
-    "last_rights_reconciliation": "KRA 2026 amnesty linked; legacy 2024–25 KRA FAQ held for current-year teaching; KRA site copyright notice restricts commercial reuse"
+    "last_rights_reconciliation": "KRA 2026 eTIMS validation primary notice and April 2026 guide linked; Kenya Law LN64 exact PDF CC BY-NC-SA 4.0 link-only; legacy KRA 5% CGT page held against current 15%"
   }
 }
