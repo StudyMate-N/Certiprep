@@ -1,0 +1,62 @@
+[
+  {
+    "id": "TXT-FA",
+    "physical_page": 115,
+    "expected_heading": "FIFO",
+    "passed": true
+  },
+  {
+    "id": "TXT-MA",
+    "physical_page": 63,
+    "expected_heading": "25",
+    "passed": true
+  },
+  {
+    "id": "TXT-FINITE",
+    "physical_page": 9,
+    "expected_heading": "PROBLEM SET",
+    "passed": true
+  },
+  {
+    "id": "TXT-FINITE",
+    "physical_page": 400,
+    "expected_heading": "PROBLEM SET",
+    "passed": true
+  },
+  {
+    "id": "TXT-STATS",
+    "physical_page": 112,
+    "expected_heading": "smallpox",
+    "passed": true
+  },
+  {
+    "id": "TXT-STATS",
+    "physical_page": 426,
+    "expected_heading": "Exercise solutions",
+    "passed": true
+  },
+  {
+    "id": "TXT-MICRO",
+    "physical_page": 33,
+    "expected_heading": "Beer or Cancer",
+    "passed": true
+  },
+  {
+    "id": "TXT-NETWORK",
+    "physical_page": 173,
+    "expected_heading": "Scheduling",
+    "passed": true
+  },
+  {
+    "id": "TXT-NETWORK",
+    "physical_page": 453,
+    "expected_heading": "Solutions to Selected Exercises",
+    "passed": true
+  },
+  {
+    "id": "TXT-MACRO",
+    "physical_page": 583,
+    "expected_heading": "ANSWER KEY",
+    "passed": true
+  }
+]

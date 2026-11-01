@@ -1,0 +1,27 @@
+{
+  "source": "https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/891/3/ArnoldKyle-IntermFinAcct-Vol1-2021A.pdf",
+  "source_sha256": "4d88ac554ac7f851c4f8ca970fbd398929a9cc5f8a08f0212c7578641ff6dce4",
+  "distributed_sha256": "8262e80844d1d154c707c7c44679a1c05b91e57acb45f89ef224b95910ba5a67",
+  "source_pages": 573,
+  "distributed_pages": 561,
+  "omitted_original_physical_pages": [
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260
+  ],
+  "image_omission_original_physical_pages": [],
+  "removed_image_sha256": [],
+  "retained_page_text_checks": 560,
+  "added_notice_page": true,
+  "checked_utc": "2026-11-01T04:44:53.716016+00:00"
+}

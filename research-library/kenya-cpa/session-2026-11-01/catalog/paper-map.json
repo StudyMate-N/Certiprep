@@ -4,12 +4,11 @@
     "paper_code": "CA11",
     "paper_title": "Financial Accounting",
     "coverage_assessment": "Partial: strong bookkeeping foundation",
-    "acquired_resource_ids": "TXT-FA",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IFRS|MIT-ACCOUNTING2004|OFF-READING|OFF-EXAM-RESOURCES|IFRS-ANNAND2024",
+    "acquired_resource_ids": "TXT-FA|TXT-IFA1",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IFRS|MIT-ACCOUNTING2004|OFF-READING|OFF-EXAM-RESOURCES|IFRS-ANNAND2024|REF-KASNEB-TERMS|REF-OPENSTAX-CURRENT-TERMS|OFF-REVISION-GUIDES",
     "remaining_gaps": "IFRS-specific recognition, leases/revenue, Kenyan presentation and examiner-style integrated questions.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Foundation",
@@ -20,68 +19,62 @@
     "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-READING|OFF-EXAM-RESOURCES",
     "remaining_gaps": "Meetings/minutes, Kenyan professional scenarios, reports and comprehensive marking rubrics.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Foundation",
     "paper_code": "CA13",
     "paper_title": "Introduction to Law and Governance",
-    "coverage_assessment": "Sparse: authoritative access links only",
-    "acquired_resource_ids": "",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|LAW-BRS|LAW-CONSTITUTION|OFF-READING|OFF-EXAM-RESOURCES",
-    "remaining_gaps": "Current Kenyan contract, tort, agency, sale of goods and governance teaching text; no commercially cleared law textbook.",
+    "coverage_assessment": "Partial: constitutional framework acquired; substantive law teaching remains sparse",
+    "acquired_resource_ids": "LAW-CONSTITUTION-PD",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|LAW-BRS|LAW-CONSTITUTION|OFF-READING|OFF-EXAM-RESOURCES|REF-KENYALAW-TERMS|REF-CC-IRREVOCABILITY",
+    "remaining_gaps": "Constitution is available, but current Kenyan contract, tort, agency, sale of goods and governance teaching with worked cases remains unfilled.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Foundation",
     "paper_code": "CA14",
     "paper_title": "Economics",
-    "coverage_assessment": "Substantial conceptual supplements: micro and macro",
-    "acquired_resource_ids": "TXT-MICRO|TXT-MACRO",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|KEN-ECO2026|KEN-CBK2026|OFF-READING|OFF-EXAM-RESOURCES",
-    "remaining_gaps": "Kenyan institutions, latest data, county/national fiscal context and verified CPA-style applications.",
+    "coverage_assessment": "Substantial micro/macro teaching; Kenyan economic dataset added",
+    "acquired_resource_ids": "TXT-MICRO|TXT-MACRO|DATA-KEN-WDI",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|KEN-ECO2026|KEN-CBK2026|OFF-READING|OFF-EXAM-RESOURCES|REF-OPENSTAX-CURRENT-TERMS|WB-KEN-UPDATE-2026",
+    "remaining_gaps": "Current Kenyan institutions and exam-specific applications need reviewed teaching; dataset values are not tax rates.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Foundation",
     "paper_code": "CA15",
     "paper_title": "Quantitative Analysis",
-    "coverage_assessment": "Substantial mathematical/statistical supplements",
-    "acquired_resource_ids": "TXT-FINITE|TXT-STATS|TXT-NETWORK",
+    "coverage_assessment": "Substantial maths/statistics and operations-research supplements",
+    "acquired_resource_ids": "TXT-FINITE|TXT-STATS|TXT-NETWORK|TXT-TUDELFT-OR",
     "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-READING|OFF-EXAM-RESOURCES",
-    "remaining_gaps": "Sitting-specific depth, operations research breadth, CPA time-limited question sets and validated solutions.",
+    "remaining_gaps": "CPA timed practice and complete topic alignment remain pending; TU Delft equation 4.37 indexing erratum is disclosed.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Foundation",
     "paper_code": "CA16",
     "paper_title": "Information Communication Technology",
     "coverage_assessment": "Partial: official office guides and data lessons",
-    "acquired_resource_ids": "GUIDE-CALC|GUIDE-START|GUIDE-IMPRESS|COURSE-PY|COURSE-SHEET|COURSE-SQL",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|NIST-CSF|OFF-READING|OFF-EXAM-RESOURCES",
+    "acquired_resource_ids": "GUIDE-CALC|GUIDE-START|GUIDE-IMPRESS|COURSE-PY|COURSE-SHEET|COURSE-SQL|TXT-DIGITAL-AUDIT",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|NIST-CSF|OFF-READING|OFF-EXAM-RESOURCES|REF-OPENSTAX-CURRENT-TERMS|REF-CC-AI|AUDIT-CONESTOGA-IS|VIDEO-PY4E-SQL|IS-OPENSTAX-2025",
     "remaining_gaps": "Cybersecurity, systems analysis, networks, controls, mandated exam software and Kenyan data-protection law.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Intermediate",
     "paper_code": "CA21",
     "paper_title": "Company Law",
     "coverage_assessment": "Sparse: official Acts/access links only",
-    "acquired_resource_ids": "",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|LAW-BRS|LAW-COMPANIES2021|LAW-INSOLVENCY2021|LAW-BOI|OFF-READING|OFF-EXAM-RESOURCES",
+    "acquired_resource_ids": "LAW-CONSTITUTION-PD",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|LAW-BRS|LAW-COMPANIES2021|LAW-INSOLVENCY2021|LAW-BOI|OFF-READING|OFF-EXAM-RESOURCES|REF-KENYALAW-TERMS",
     "remaining_gaps": "Current consolidated Companies/insolvency/partnership law, professional commentary, cases and examiner-style questions.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Intermediate",
@@ -89,83 +82,76 @@
     "paper_title": "Financial Management",
     "coverage_assessment": "Substantial conceptual supplements",
     "acquired_resource_ids": "TXT-FINITE|TXT-CORP|TXT-NETWORK",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|VIDEO-MIT-FINANCE|KEN-CBK2026|OFF-READING|OFF-EXAM-RESOURCES",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|VIDEO-MIT-FINANCE|KEN-CBK2026|OFF-READING|OFF-EXAM-RESOURCES|REF-OPENSTAX-CURRENT-TERMS",
     "remaining_gaps": "Kenyan markets/instruments, exam-specific assumptions and independently reviewed question banks.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Intermediate",
     "paper_code": "CA23",
     "paper_title": "Financial Reporting and Analysis",
-    "coverage_assessment": "Sparse: standards access links; foundational accounting cross-reference",
-    "acquired_resource_ids": "",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IFRS|STD-IFRS18|STD-IFRS19|STD-ICPAK-SUSTAINABILITY|OFF-READING|OFF-EXAM-RESOURCES|IFRS-ANNAND2024",
-    "remaining_gaps": "Full IFRS-aligned reporting, group accounts and current Kenyan practice cases. No licensed IFRS standard files.",
+    "coverage_assessment": "Partial: historical IFRS/ASPE teaching; current standards access links",
+    "acquired_resource_ids": "TXT-IFA1",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IFRS|STD-IFRS18|STD-IFRS19|STD-ICPAK-SUSTAINABILITY|OFF-READING|OFF-EXAM-RESOURCES|IFRS-ANNAND2024|REF-IFRS-EDU-TERMS|OFF-REVISION-GUIDES|IFRS-IMPROVEMENTS-2026|IFRS-9-7-2026",
+    "remaining_gaps": "Volume 1 supports selected recognition/measurement topics. Current IFRS amendments, group reporting and Kenyan cases need review. Volume 2 is withheld for an accuracy issue.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Intermediate",
     "paper_code": "CA24",
     "paper_title": "Auditing and Assurance",
     "coverage_assessment": "Partial comparative control/audit references, primary ISA access links",
-    "acquired_resource_ids": "REF-YELLOW|REF-GREEN",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IAASB2026|STD-IESBA2026|VIDEO-RCM-AA|OFF-READING|LAW-PFM-PSASB|LAW-PUBLICAUDIT2015|OFF-EXAM-RESOURCES",
+    "acquired_resource_ids": "REF-YELLOW|REF-GREEN|TXT-PFM-IC|TXT-DIGITAL-AUDIT",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IAASB2026|STD-IESBA2026|VIDEO-RCM-AA|OFF-READING|LAW-PFM-PSASB|LAW-PUBLICAUDIT2015|OFF-EXAM-RESOURCES|REF-KASNEB-TERMS|AUDIT-IDI-2023|AUDIT-CONESTOGA-INTERNAL|REF-OAG-2025",
     "remaining_gaps": "ISA-aligned full course, Kenyan law/ICPAK requirements, current audit-report examples and verified questions.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Intermediate",
     "paper_code": "CA25",
     "paper_title": "Management Accounting",
     "coverage_assessment": "Substantial costing/budgeting supplements",
-    "acquired_resource_ids": "TXT-MA|COST01|COST02|COST03|COST04|COST05|COST06|COST07|COST08|COST09|COST10|COST11",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|MIT-ACCOUNTING2004|OFF-READING|OFF-EXAM-RESOURCES",
+    "acquired_resource_ids": "TXT-MA|COST01|COST02|COST03|COST04|COST05|COST06|COST07|COST08|COST09|COST10|COST11|TXT-TUDELFT-OR",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|MIT-ACCOUNTING2004|OFF-READING|OFF-EXAM-RESOURCES|MA-UWA-STRATEGIC",
     "remaining_gaps": "CPA depth/case alignment; Open Cost Accounting lacks formal peer review; full computational review pending.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Intermediate",
     "paper_code": "CA26",
     "paper_title": "Public Finance and Taxation",
     "coverage_assessment": "Limited offline law and conceptual PFM; strong dated primary access map",
-    "acquired_resource_ids": "TXT-PFM|TXT-PEFA|LAW-FINANCE2026",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|TAX-ITA2026|TAX-TPA2026|TAX-EXPLAINER|TAX-BOTTLEDWATER|LAW-CONSTITUTION|LAW-PPRA|PFM-ACCRUAL|STD-IPSAS2026|KEN-ECO2026|TAX-RATES-Q42026|TAX-RATES-H22026|OFF-READING|LAW-PFM-PSASB|OFF-EXAM-RESOURCES",
+    "acquired_resource_ids": "TXT-PFM|TXT-PEFA|LAW-FINANCE2026|TXT-PFM-IC|LAW-CONSTITUTION-PD|DATA-KEN-WDI",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|TAX-ITA2026|TAX-TPA2026|TAX-EXPLAINER|TAX-BOTTLEDWATER|LAW-CONSTITUTION|LAW-PPRA|PFM-ACCRUAL|STD-IPSAS2026|KEN-ECO2026|TAX-RATES-Q42026|TAX-RATES-H22026|OFF-READING|LAW-PFM-PSASB|OFF-EXAM-RESOURCES|REF-KENYALAW-TERMS|PFM-PSASB-2026|WB-KEN-PFR-2025|WB-KEN-UPDATE-2026|REF-COB-2026|REF-PDMO-2026",
     "remaining_gaps": "Fully consolidated current tax principal Acts, updated Kenyan tax question bank, PFM Act/regulations and court-order review.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Advanced",
     "paper_code": "CA31",
     "paper_title": "Leadership and Management",
     "coverage_assessment": "Partial leadership/governance supplements",
-    "acquired_resource_ids": "TXT-CORP|TXT-LEAD|TXT-PEFA",
+    "acquired_resource_ids": "TXT-CORP|TXT-LEAD|TXT-PEFA|TXT-PFM-IC|LAW-CONSTITUTION-PD",
     "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IESBA2026|OFF-READING|OFF-EXAM-RESOURCES",
     "remaining_gaps": "Strategy, marketing, operations, HR depth, Kenyan corporate governance and advanced integrated cases.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Advanced",
     "paper_code": "CA32",
     "paper_title": "Advanced Financial Reporting and Analysis",
-    "coverage_assessment": "Sparse: standards and course access links",
-    "acquired_resource_ids": "",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|PFM-ACCRUAL|STD-IFRS|STD-IFRS18|STD-IFRS19|STD-IPSAS2026|STD-ICPAK-SUSTAINABILITY|VIDEO-RCM-AFR|OFF-READING|OFF-EXAM-RESOURCES",
-    "remaining_gaps": "Current advanced consolidation, financial instruments, business combinations, IFRS 18/19 transition and verified complex solutions.",
+    "coverage_assessment": "Sparse: prerequisite Volume 1 plus standards/course links",
+    "acquired_resource_ids": "TXT-IFA1",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|PFM-ACCRUAL|STD-IFRS|STD-IFRS18|STD-IFRS19|STD-IPSAS2026|STD-ICPAK-SUSTAINABILITY|VIDEO-RCM-AFR|OFF-READING|OFF-EXAM-RESOURCES|REF-IFRS-EDU-TERMS|REF-KASNEB-TERMS|OFF-REVISION-GUIDES|IFRS-IMPROVEMENTS-2026|IFRS-9-7-2026",
+    "remaining_gaps": "Current advanced consolidation, business combinations, foreign currency, financial instruments, IFRS 18/19 transition and verified complex solutions remain gaps.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Advanced",
@@ -173,23 +159,21 @@
     "paper_title": "Advanced Financial Management",
     "coverage_assessment": "Substantial finance concepts; specialised CPA alignment pending",
     "acquired_resource_ids": "TXT-CORP",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|VIDEO-MIT-FINANCE|KEN-CBK2026|OFF-READING|OFF-EXAM-RESOURCES",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|VIDEO-MIT-FINANCE|KEN-CBK2026|OFF-READING|OFF-EXAM-RESOURCES|IFRS-9-7-2026",
     "remaining_gaps": "Advanced Kenya-specific treasury, international finance, valuation and derivatives cases with examiner-style marking.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Advanced",
     "paper_code": "CA34S3",
     "paper_title": "Advanced Management Accounting",
     "coverage_assessment": "Partial: selected strategic costing chapters",
-    "acquired_resource_ids": "TXT-MA|COST01|COST02|COST03|COST04|COST05|COST06|COST07|COST08|COST09|COST10|COST11",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-READING|OFF-EXAM-RESOURCES",
+    "acquired_resource_ids": "TXT-MA|COST01|COST02|COST03|COST04|COST05|COST06|COST07|COST08|COST09|COST10|COST11|TXT-TUDELFT-OR",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-READING|OFF-EXAM-RESOURCES|MA-UWA-STRATEGIC",
     "remaining_gaps": "Advanced performance systems, transfer pricing, uncertainty and integrated strategy cases; independent peer review.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Advanced specialisation",
@@ -200,56 +184,51 @@
     "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|TAX-ITA2026|TAX-TPA2026|TAX-EXPLAINER|TAX-BOTTLEDWATER|TAX-RATES-Q42026|TAX-RATES-H22026|OFF-READING|OFF-EXAM-RESOURCES",
     "remaining_gaps": "Advanced tax planning, cross-border rules, transfer pricing, case law and current consolidated law; all computations require Kenyan review.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Advanced specialisation",
     "paper_code": "CA34S2",
     "paper_title": "Advanced Auditing and Assurance",
-    "coverage_assessment": "Sparse: current standard-setter/ethics links, comparative references",
-    "acquired_resource_ids": "REF-YELLOW|REF-GREEN",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IAASB2026|STD-IESBA2026|STD-ICPAK-SUSTAINABILITY|NIST-CSF|OFF-READING|LAW-PFM-PSASB|LAW-PUBLICAUDIT2015|OFF-EXAM-RESOURCES",
-    "remaining_gaps": "Kenyan advanced assurance and professional-practice cases; commercial ISA/code reproduction permission.",
+    "coverage_assessment": "Partial: digital-audit volume and comparative control references",
+    "acquired_resource_ids": "REF-YELLOW|REF-GREEN|TXT-DIGITAL-AUDIT",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|STD-IAASB2026|STD-IESBA2026|STD-ICPAK-SUSTAINABILITY|NIST-CSF|OFF-READING|LAW-PFM-PSASB|LAW-PUBLICAUDIT2015|OFF-EXAM-RESOURCES|AUDIT-IDI-2023|AUDIT-CONESTOGA-INTERNAL|AUDIT-CONESTOGA-IS|REF-OAG-2025",
+    "remaining_gaps": "ISA-aligned Kenyan advanced assurance/practice cases and independent solutions; ISAs and ethics reproduction permissions remain unresolved.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Advanced specialisation",
     "paper_code": "CA34S4",
     "paper_title": "Advanced Public Financial Management",
-    "coverage_assessment": "Partial: two conceptual PFM texts and comparative control framework",
-    "acquired_resource_ids": "TXT-PFM|REF-YELLOW|REF-GREEN|TXT-PEFA",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|LAW-CONSTITUTION|LAW-PPRA|PFM-ACCRUAL|STD-IPSAS2026|OFF-READING|LAW-PFM-PSASB|LAW-PUBLICAUDIT2015|OFF-EXAM-RESOURCES",
-    "remaining_gaps": "Kenyan PFM Act, county finance, procurement, cash-to-accrual implementation and current IPSAS reporting.",
+    "coverage_assessment": "Partial: PFM, governance and managerial-control texts",
+    "acquired_resource_ids": "TXT-PFM|REF-YELLOW|REF-GREEN|TXT-PEFA|TXT-PFM-IC|LAW-CONSTITUTION-PD",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|LAW-CONSTITUTION|LAW-PPRA|PFM-ACCRUAL|STD-IPSAS2026|OFF-READING|LAW-PFM-PSASB|LAW-PUBLICAUDIT2015|OFF-EXAM-RESOURCES|AUDIT-IDI-2023|PFM-PSASB-2026|WB-KEN-PFR-2025|WB-KEN-UPDATE-2026|REF-OAG-2025|REF-COB-2026|REF-PDMO-2026",
+    "remaining_gaps": "Kenyan PFM/procurement law, county finance, IPSAS cash-to-accrual implementation and current cases require current locally reviewed resources.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Practical/workshop",
     "paper_code": "CA35P",
     "paper_title": "Business Data Analytics (Practical Paper)",
-    "coverage_assessment": "Partial supplemental data/office skills",
-    "acquired_resource_ids": "TXT-FINITE|TXT-STATS|GUIDE-CALC|GUIDE-START|GUIDE-IMPRESS|COURSE-PY|COURSE-SHEET|COURSE-SQL",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-CBE-BDA|KEN-ECO2026|OFF-READING|OFF-EXAM-RESOURCES",
-    "remaining_gaps": "Official exam-environment mock datasets and assessed workflows; Python/SQL/LibreOffice do not substitute for prescribed exam tools.",
+    "coverage_assessment": "Partial: data-skills lessons, office guides and Kenyan practice data",
+    "acquired_resource_ids": "TXT-FINITE|TXT-STATS|GUIDE-CALC|GUIDE-START|GUIDE-IMPRESS|COURSE-PY|COURSE-SHEET|COURSE-SQL|TXT-DIGITAL-AUDIT|TXT-TUDELFT-OR|DATA-KEN-WDI",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-CBE-BDA|KEN-ECO2026|OFF-READING|OFF-EXAM-RESOURCES|REF-CC-AI|VIDEO-PY4E-SQL|IS-OPENSTAX-2025",
+    "remaining_gaps": "Official exam-environment mock workflows and reviewed solutions remain missing; generic Python/SQL/LibreOffice work does not confer practical-paper completion.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Practical/workshop",
     "paper_code": "CA36WE",
     "paper_title": "Workshop on Ethics",
     "coverage_assessment": "Orientation only: leadership and code access",
-    "acquired_resource_ids": "TXT-LEAD",
-    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-WORKSHOPS|LAW-BOI|STD-IESBA2026|STD-ICPAK-SUSTAINABILITY|OFF-READING|OFF-EXAM-RESOURCES",
+    "acquired_resource_ids": "TXT-LEAD|LAW-CONSTITUTION-PD",
+    "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-WORKSHOPS|LAW-BOI|STD-IESBA2026|STD-ICPAK-SUSTAINABILITY|OFF-READING|OFF-EXAM-RESOURCES|REF-CC-IRREVOCABILITY|REF-CC-AI",
     "remaining_gaps": "Official workshop attendance/assessment; current Kenyan professional-ethics cases and locally validated scenarios.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   },
   {
     "level": "Practical/workshop",
@@ -260,7 +239,6 @@
     "accepted_access_ids": "OFF-STRUCTURE|OFF-SYLLABUS2024|OFF-ELIBRARY|OFF-WORKSHOPS|OFF-READING|OFF-EXAM-RESOURCES",
     "remaining_gaps": "Official registration/experience assessment and supervised simulation; reading materials cannot confer completion.",
     "complete_paper": false,
-    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired",
-    "delivery_status": "Not released; final media inaccessible after environment outage"
+    "outcome_level_alignment": "provisional; no current full syllabus PDF acquired"
   }
 ]

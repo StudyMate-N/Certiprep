@@ -33,19 +33,24 @@ def safe_export(source,title,url,dest,author,license='CC BY 4.0',images=None,not
  manifest.append({'source':url,'source_sha256':hashlib.sha256(raw).hexdigest(),'package_path':str(dest.relative_to(O)),'sha256':hashlib.sha256(dest.read_bytes()).hexdigest(),'title':title,'included_image_urls':used,'omitted_image_urls':omitted,'changes':attrib})
 # Cost accounting: preserve original educational diagrams but omit decorative and uncleared external imagery.
 rows=list(map(json.loads,(W/'cost-image-progress.jsonl').read_text().splitlines()));skip={'COST-IMG-'+str(n).zfill(3) for n in [1,2,6,12,13,19,27,44,75,90,91,111]}
-imap={}
+imap={};image_by_sha={}
 for r in rows:
  if r['id'] in skip:continue
- p=Path(r['local_path']);dest=O/'media/Intermediate/CA25/open-cost-accounting/images'/p.name;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,dest);imap[r['url']]=dest
+ p=Path(r['local_path']);sha=hashlib.sha256(p.read_bytes()).hexdigest();dest=image_by_sha.get(sha,O/'media/Intermediate/CA25/open-cost-accounting/images'/p.name);dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,dest);image_by_sha[sha]=dest;imap[r['url']]=dest
+for stale in (O/'media/Intermediate/CA25/open-cost-accounting/images').iterdir():
+ if stale not in set(imap.values()):stale.unlink()
 for p in sorted((W/'evidence').glob('COST*.html')):
  d=html.fromstring(p.read_bytes());title=d.xpath('string(//h1)');n=int(p.stem[-2:]);u=f'https://www.opencostaccounting.org/toc/chapter{n}/'
  safe_export(p,'Open Cost Accounting: '+title,u,O/f'media/Intermediate/CA25/open-cost-accounting/chapter{n:02}.html','Brian D. Knox',images=imap,note='Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence.',selector='//article')
 # Communication exports deliberately exclude images, embeds and quoted third-party passages.
 q={x['id']:x for x in json.loads((W/'queue-comm.json').read_text())}
-for sec in ['9.2','9.5','9.6','10.2','10.3','11.1']:
+for sec in ['9.6','11.1']:
  x=q['COMM-'+sec];safe_export(W/('evidence/COMM-'+sec+'.html'),'Communication Essentials for Business: '+x['title'],x['url'],O/('media/Foundation/CA12/communication/section-'+sec.replace('.','-')+'.html'),'Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors',note='Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution.',remove_quotes=True,selector='//section[contains(@class,"chapter")] | //div[contains(@class,"ugc")]')
+# Original author-hosted communication chapters avoid mixed upstream NC derivatives.
+for key,slug,title in [('MCM-GENLETT','genlett','Business Messages Overview'),('MCM-PROPS','props','Proposals'),('MCM-FEAS','feas','Feasibility, Recommendation and Evaluation Reports'),('MCM-ORAL','oral','Oral Presentations')]:
+ safe_export(W/f'evidence/{key}.html',title,'https://mcmassociates.io/textbook/'+slug+'.html',O/f'media/Foundation/CA12/communication/mcmurrey-{slug}.html','David McMurrey',note='Original author-hosted text, live 2026 revision. Images, remote media and third-party block quotations omitted. External example links are not acquired files.',remove_quotes=True,selector='//body')
 # Full lesson text and exercises, with source ZIPs containing pinned figures/data/code.
 for k,repo in [('PY','swcarpentry/python-novice-gapminder'),('SHEET','datacarpentry/spreadsheet-ecology-lesson'),('SQL','swcarpentry/sql-novice-survey')]:
  safe_export(W/f'evidence/CARP-{k}-AIO.html',{'PY':'Plotting and Programming in Python','SHEET':'Data Organization in Spreadsheets','SQL':'Databases and SQL'}[k],'https://'+{'PY':'swcarpentry.github.io/python-novice-gapminder','SHEET':'datacarpentry.github.io/spreadsheet-ecology-lesson','SQL':'swcarpentry.github.io/sql-novice-survey'}[k]+'/aio.html',O/f'media/Practical/CA35P/data-skills/{k.lower()}-lesson.html','The Carpentries and credited contributors',note='Illustrations omitted from this text view; pinned source ZIP contains original lesson source, figures, code and available data. Embedded code licence is MIT.',selector='//main')
 (O/'catalog/html-adaptations.json').write_text(json.dumps(manifest,indent=2))
-print('offline HTML pages',len(manifest),'cost diagrams',len(imap),'omitted cost decorative objects',len(skip))
+print('offline HTML pages',len(manifest),'unique cost diagrams',len(set(imap.values())),'omitted cost decorative objects',len(skip))

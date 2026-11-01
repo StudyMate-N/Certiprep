@@ -1,0 +1,27 @@
+{
+  "checked_in_session": true,
+  "method": "Rendered selected downloaded PDF pages and reviewed images; page/image references recorded below. Not every page received visual inspection.",
+  "pdf_resource_ids": [
+    "TXT-FA",
+    "TXT-MA",
+    "TXT-FINITE",
+    "TXT-STATS",
+    "TXT-MICRO",
+    "TXT-CORP",
+    "TXT-PFM",
+    "REF-YELLOW",
+    "REF-GREEN",
+    "GUIDE-CALC",
+    "GUIDE-START",
+    "GUIDE-IMPRESS",
+    "TXT-LEAD",
+    "TXT-NETWORK",
+    "TXT-PEFA",
+    "LAW-FINANCE2026",
+    "TXT-MACRO"
+  ],
+  "additional_image_review": "All source microeconomics image contact sheets and cost-accounting diagrams/decorative-image contact sheets inspected for component rights. Restricted/unclear objects omitted; samples of the final micro derivative viewed.",
+  "rendered_evidence_locations": "Transient QA images not bundled because they duplicate book content and would include restricted original pictures; actual delivered licensed PDFs remain the reviewable artifacts.",
+  "visual_findings": "Legible selected text, tables/formulae and publisher/edition identity. Microeconomic removed-photo areas are deliberately blank and caption text remains. World Bank covers omitted. Overseas/regulatory-context caveats recorded.",
+  "browser_html_visual": "Unavailable: Chromium executable not installed. Structured HTML, local media and relative-link verification passed."
+}

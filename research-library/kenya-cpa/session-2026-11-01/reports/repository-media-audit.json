@@ -1,0 +1,282 @@
+{
+  "legacy_assets": [
+    {
+      "path": "assets/original/CA11-accounting-foundations.pdf",
+      "status": "pdf_binary",
+      "bytes": 3887,
+      "sha256": "ad2041fd38c9c104a17dc9d2ad174382b31d1fe0c0c665dbb8e067e96c0d38ff"
+    },
+    {
+      "path": "assets/pdfs/CA11-accounting-foundations-original.pdf",
+      "status": "pdf_binary",
+      "bytes": 3887,
+      "sha256": "5c934343ea418bf2d739cccb5441bac91249bb096711f7921f3d850c85c1d521"
+    }
+  ],
+  "legacy_unique_pdf_binaries": 2,
+  "session_media_files_actually_present": 150,
+  "session_unique_pdf_binaries_actually_present": 17,
+  "session_lfs_pointers": 0,
+  "session_resource_checks": [
+    {
+      "resource_id": "TXT-FA",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-MA",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-FINITE",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-STATS",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-MICRO",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-CORP",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-PFM",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "REF-YELLOW",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "REF-GREEN",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "GUIDE-CALC",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "GUIDE-START",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "GUIDE-IMPRESS",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-LEAD",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-NETWORK",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-PEFA",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "LAW-FINANCE2026",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST01",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST02",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST03",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST04",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST05",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST06",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST07",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST08",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST09",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST10",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COST11",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COMM-9.6",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COMM-11.1",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COURSE-PY",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COURSE-SHEET",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "COURSE-SQL",
+      "archive_claim": "downloaded_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "TXT-MACRO",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "MCM-GENLETT",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "MCM-PROPS",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "MCM-FEAS",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    },
+    {
+      "resource_id": "MCM-ORAL",
+      "archive_claim": "downloaded_adapted_verified",
+      "file_present_in_this_checkout": true,
+      "hash_matches_catalogue": true,
+      "is_pointer": false
+    }
+  ],
+  "note": "The catalogue describes the delivered ZIP. New session media are intentionally not committed to GitHub; absence in a GitHub checkout is expected, not a verified download."
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "CC4",
+    "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "evidence_kind": "primary_web_retrieval_observation",
+    "finding": "Sections 2, 3 and 6: exact-material grant, conditions, termination/cure, later different offers do not terminate the earlier licence.",
+    "full_response_sha256": null
+  },
+  {
+    "id": "OPENSTAX-CURRENT",
+    "url": "https://help.openstax.org/s/article/Licensing-information-of-OpenStax-textbooks",
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "evidence_kind": "primary_web_retrieval_observation",
+    "finding": "Current publisher guidance identifies NC-SA and a separate commercial permissions route; no automatic application to a different legacy artifact.",
+    "full_response_sha256": null
+  },
+  {
+    "id": "LOC-MACRO-LEGACY",
+    "url": "https://www.loc.gov/item/2021387735/",
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "evidence_kind": "primary_web_retrieval_observation",
+    "finding": "Item Rights Advisory identifies CC BY 4.0 for this deposited edition; source file also carries the grant.",
+    "full_response_sha256": null
+  },
+  {
+    "id": "KENYALAW-CURRENT",
+    "url": "https://kenyalaw.org/terms-of-use/",
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "evidence_kind": "primary_web_retrieval_observation",
+    "finding": "Current terms restrict commercial redistribution, bulk scraping and model training without an agreement; raw-document NC language does not clear commercial hosting.",
+    "full_response_sha256": null
+  },
+  {
+    "id": "IFRS-EDUCATION",
+    "url": "https://www.ifrs.org/legal/education-material-licensing/",
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "evidence_kind": "primary_web_retrieval_observation",
+    "finding": "Permission is institution/use-specific and expires on update or withdrawal. Hosting or extracting questions requires the appropriate permission.",
+    "full_response_sha256": null
+  },
+  {
+    "id": "KASNEB-CONTENT",
+    "url": "https://www.kasneb.or.ke/terms-conditions",
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "evidence_kind": "primary_web_retrieval_observation",
+    "finding": "Section 7 reserves website content rights and requires prior written consent for reproduction, modification and distribution.",
+    "full_response_sha256": null
+  },
+  {
+    "id": "CONSTITUTION-OPLA",
+    "url": "https://www.presidentiallibrary.go.ke/documents/constitution-kenya-2010",
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "evidence_kind": "primary_web_retrieval_observation",
+    "finding": "Item KPL-DOC-194 states Public Domain; advertised 290 pages is inconsistent with the actual 137-page PDF.",
+    "full_response_sha256": null
+  },
+  {
+    "id": "CC-AI",
+    "url": "https://creativecommons.org/2025/05/15/understanding-cc-licenses-and-ai-training-a-legal-primer/",
+    "checked_utc": "2026-11-01T04:51:17.446154+00:00",
+    "evidence_kind": "primary_web_retrieval_observation",
+    "finding": "AI/copyright applicability is jurisdiction/use dependent. This collection makes no general AI-training or generated-output clearance.",
+    "full_response_sha256": null
+  }
+]

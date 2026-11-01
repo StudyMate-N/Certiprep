@@ -1,9 +1,11 @@
-# Kenya CPA research library
+# Kenya CPA preparation library
 
-**The acquisition session was interrupted by an execution-environment outage before ZIP packaging. No new master ZIP has been delivered.**
+Current evidence and quality-led maintenance: [session-2026-11-01](session-2026-11-01/README.md).
 
-See [session status and recovery](session-2026-11-01/reports/SESSION_SUMMARY.md), [reconciled source catalogue](session-2026-11-01/catalog/source-catalogue.csv), [rights register](session-2026-11-01/rights/rights-register.csv), [coverage assessment](session-2026-11-01/reports/COVERAGE.md) and [decisions](session-2026-11-01/reports/ACCEPTANCE_REJECTION.md).
+The catalogue distinguishes acquired files, external access and withheld/rejected material. GitHub stores metadata and verification tools; the verified master ZIP supplies approved media. The cloud database hosts the private catalogue, with its exact synchronization status in the session hosting record.
 
-The last observed local collection had 37 prepared resources, including 17 PDFs. GitHub holds metadata, not new session media. Null presence/hash values identify inaccessible final artifacts; historical checkpoint hashes are not final delivery verification. No source link or Git LFS pointer counts as downloaded media. Zero video recordings or KASNEB past-paper PDFs were acquired. No paper is certified complete.
+Read the [summary](session-2026-11-01/reports/SESSION_SUMMARY.md), [coverage](session-2026-11-01/reports/COVERAGE.md), [rights audit](session-2026-11-01/reports/RIGHTS_AUDIT.md), [action-specific rights](session-2026-11-01/rights/usage-rights-by-action.csv), [completion criteria](session-2026-11-01/reports/SUCCESS_CRITERIA.md) and [connection usage](CAPABILITIES.md).
 
-The catalogue incorporates later rights corrections, including exclusion of four mixed-licence communication derivatives. Historical inherited catalogues remain superseded audit evidence, not commercial rights clearances.
+The planning target is 120 substantial useful files; quality and verified syllabus coverage govern completion. No paper is certified complete. Historical catalogues are preserved for audit and do not override current exact-artifact decisions.
+
+[Download verified master ZIP](https://chatgpt.com/library?file_id=libfile_b761f6f718d481918cac7f6440848433&account_id=personal) — 217,873,948 bytes; exact SHA-256 and delivery receipt in [RELEASE.json](RELEASE.json).

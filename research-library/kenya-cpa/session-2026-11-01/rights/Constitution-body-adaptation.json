@@ -1,0 +1,16 @@
+{
+  "source": "https://www.presidentiallibrary.go.ke/sites/default/files/2026-06/The%20Constitution%20of%20Kenya%202010_0.pdf",
+  "source_sha256": "f05bff2929e45c749d8f5e087416fb35a5743d75dd90bd5f80f494a7591bf56b",
+  "distributed_sha256": "9653902ce65b240d329462e5c48bcbdda61902663d8554fbb65ada4b18e36b80",
+  "source_pages": 137,
+  "distributed_pages": 135,
+  "omitted_original_physical_pages": [
+    1,
+    2
+  ],
+  "image_omission_original_physical_pages": [],
+  "removed_image_sha256": [],
+  "retained_page_text_checks": 135,
+  "added_notice_page": false,
+  "checked_utc": "2026-11-01T04:44:53.716016+00:00"
+}

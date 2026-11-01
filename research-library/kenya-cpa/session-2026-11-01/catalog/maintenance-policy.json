@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "updated_utc": "2026-11-01T04:51:17.446154+00:00",
+  "philosophy": "Quality, usefulness and defensible rights drive acquisition; the target never overrides an acceptance gate.",
+  "first_release_target_substantial_files": 120,
+  "targets_by_level": {
+    "Foundation": 30,
+    "Intermediate": 36,
+    "Advanced including specialisations": 42,
+    "Practical and workshop": 12
+  },
+  "counting_rules": [
+    "Count independent substantial works or complete practical resources once; book chapters stored separately share a work_id.",
+    "Do not count links, photographs, companion metadata, duplicate formats, LFS pointers, archive containers or artificially split files.",
+    "A historical teaching supplement is not a current Kenyan authority or a complete CPA course."
+  ],
+  "hourly_limits": {
+    "max_minutes": 40,
+    "max_candidates": 12,
+    "max_new_approved_resources": 5,
+    "max_acquisition_mib": 150,
+    "max_single_download_mib": 180,
+    "lease_minutes": 50,
+    "max_parallel_requests_per_host": 2,
+    "no_new_charges": true
+  },
+  "quality_gates": [
+    "Exact syllabus/sitting scope known; topic contribution and limitations recorded.",
+    "Credible author and editorial evidence; selected examples independently checked where applicable; current technical claims verified.",
+    "Exact-edition rights established for planned commercial hosting; third-party questions/images/solutions separately resolved or omitted.",
+    "Complete bytes parse; no LFS pointers, unexpected archive payloads or active launch/JavaScript actions; hashes and provenance recorded.",
+    "Attribution, adaptation notices and licence obligations included; no invented endorsement."
+  ],
+  "completion_gates": [
+    "Lock the official syllabus, exam sitting, transition rules and tax/standards cut-off.",
+    "Every examinable topic has an accurate teaching source and useful worked practice, with Kenyan authority where relevant.",
+    "All distributed files pass rights and integrity gates; link-only/licensing gaps are explicitly unresolved.",
+    "Every paper passes independent subject-expert review; workshops/practical official participation is separately required.",
+    "Test offline index, catalogue database, cloud synchronization, manifest and downloadable archive.",
+    "Reach the planning target through useful independent resources; if quantity conflicts with quality, report the gap rather than pad."
+  ],
+  "removal_policy": "Exclude unsuitable, duplicate, superseded or disputed items from approved distribution; preserve decision/provenance history. A dead source URL does not itself invalidate a usable locally licensed file. No hard deletion of audit history.",
+  "review_policy": "Hourly work prioritises gaps and new evidence. Stable items receive targeted rechecks, not unnecessary redownloads. On exact-byte, licence, technical-rule or source-terms change, reassess the affected uses before replacing an approved version.",
+  "known_blockers": [
+    "Current full official syllabus/transition objectives not secured as a verified primary PDF.",
+    "No licensed KASNEB past-paper PDFs or video recordings acquired.",
+    "Current Kenyan company/law/tax, advanced reporting, ISA/IPSAS and examiner-style worked solutions remain incomplete."
+  ],
+  "automatic_enrichment_id": "6ae658cc363c819186b39f5cd3e5438c",
+  "workflow_skill": "maintain-kasneb-cpa-library",
+  "capabilities_guide": "reports/CAPABILITIES.md"
+}

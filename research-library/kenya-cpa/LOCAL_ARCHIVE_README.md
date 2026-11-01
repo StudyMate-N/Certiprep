@@ -1,3 +1,3 @@
-# Local archive status
+# Local master archive
 
-The expanded master archive was not packaged before the environment disconnected. Prepared media and the local finalizer are currently inaccessible. See session-2026-11-01/reports/SESSION_SUMMARY.md for exact recovery paths and remaining work. Catalogue paths are not download links.
+Open START_HERE.html in the delivered ZIP after extracting it. Media are arranged by level, paper and topic; cross-mapped works are stored once. Verify MANIFEST.sha256 with scripts/verify_library.py. Source catalogue, rights, coverage and rejection records are included. GitHub contains metadata only for this acquisition; media paths refer to the ZIP.

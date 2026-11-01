@@ -1,9 +1,11 @@
-# Kenya CPA research library
+# Kenyan CPA verified acquisition checkpoint
 
-**The acquisition session was interrupted by an execution-environment outage before ZIP packaging. No new master ZIP has been delivered.**
+Open **START_HERE.html** after extracting the delivered master ZIP. GitHub contains the catalogue and audit records; approved media are supplied in the archive.
 
-See [session status and recovery](reports/SESSION_SUMMARY.md), [reconciled source catalogue](catalog/source-catalogue.csv), [rights register](rights/rights-register.csv), [coverage assessment](reports/COVERAGE.md) and [decisions](reports/ACCEPTANCE_REJECTION.md).
+- 144 source decisions; 43 acquired entries grouped into 29 substantial works/practical resources.
+- 162 actual media assets including 22 PDFs / 8,001 physical pages. Supporting assets do not inflate progress toward 120.
+- No acquired video recordings or KASNEB past-paper PDFs. No paper is certified complete.
 
-The last observed local collection had 37 prepared resources, including 17 PDFs. GitHub holds metadata, not new session media. Null presence/hash values identify inaccessible final artifacts; historical checkpoint hashes are not final delivery verification. No source link or Git LFS pointer counts as downloaded media. Zero video recordings or KASNEB past-paper PDFs were acquired. No paper is certified complete.
+Read [session summary](reports/SESSION_SUMMARY.md), [coverage](reports/COVERAGE.md), [decisions](reports/ACCEPTANCE_REJECTION.md), [rights audit](reports/RIGHTS_AUDIT.md), [attribution](rights/ATTRIBUTION.md), [success criteria](reports/SUCCESS_CRITERIA.md) and [hosting status](catalog/hosting.json).
 
-The catalogue incorporates later rights corrections, including exclusion of four mixed-licence communication derivatives. Historical inherited catalogues remain superseded audit evidence, not commercial rights clearances.
+Use [source JSON](catalog/source-catalogue.json), [source CSV](catalog/source-catalogue.csv), [acquisitions](catalog/acquisitions.csv), [rights by action](rights/usage-rights-by-action.csv), and the portable SQLite catalogue. Run `python scripts/verify_library.py` on the extracted master archive to verify actual files and hashes.

@@ -4,6 +4,9 @@ W=Path('research-work');out=[]
 # Independently recompute values explicitly inspected in downloaded textbook pages.
 checks=[('TXT-MA','PDF page 63 contribution margin',(25-10)*1000,15000),('TXT-MA','PDF page 63 operating income',(25-10)*1000-8000,7000),('TXT-MA','PDF page 66 break-even units',8000/(18-10),1000),('TXT-FINITE','PDF page 187 effective annual rate, 7.2% monthly compounding',round(((1+.072/12)**12-1)*100,2),7.44),('TXT-FINITE','PDF page 187 effective annual rate, 7.25% semiannually',round(((1+.0725/2)**2-1)*100,2),7.38),('TXT-MICRO','PDF page 425 producer surplus',(7.5-4.23)*110,359.7),('TXT-FA','PDF page 115 gross profit example FIFO',10-1,9),('TXT-FA','PDF page 115 gross profit example LIFO (US GAAP context)',10-3,7)]
 for id,what,got,expected in checks:out.append({'resource_id':id,'check':what,'computed':got,'expected':expected,'pass':math.isclose(got,expected,rel_tol=1e-6,abs_tol=.01)})
+# Independent spot checks of the downloaded Cost Accounting variance example and OpenIntro printed tables.
+checks2=[('COST07','Section 7.1.6 standard direct-labour budget: 1000 units x 2 hours x 10',1000*2*10,20000),('COST07','Section 7.1.6 actual-minus-budget unfavourable variance',25000-20000,5000),('TXT-STATS','Accessible PDF printed p111 smallpox data: probability of inoculation',244/6224,.039203),('TXT-STATS','Accessible PDF printed p111 death conditional on no inoculation',844/5980,.141137),('TXT-STATS','Accessible PDF printed p196 Bernoulli sampling SE p=.25 n=10',math.sqrt(.25*.75/10),.136931)]
+for id,what,got,expected in checks2:out.append({'resource_id':id,'check':what,'computed':got,'expected':expected,'pass':math.isclose(got,expected,rel_tol=1e-5,abs_tol=.00001)})
 # Source package integrity and concrete data availability.
 for k in ['PY','SHEET','SQL']:
  p=W/f'evidence/CARP-{k}-SOURCE.html'

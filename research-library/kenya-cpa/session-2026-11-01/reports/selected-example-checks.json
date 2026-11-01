@@ -56,6 +56,41 @@
     "pass": true
   },
   {
+    "resource_id": "COST07",
+    "check": "Section 7.1.6 standard direct-labour budget: 1000 units x 2 hours x 10",
+    "computed": 20000,
+    "expected": 20000,
+    "pass": true
+  },
+  {
+    "resource_id": "COST07",
+    "check": "Section 7.1.6 actual-minus-budget unfavourable variance",
+    "computed": 5000,
+    "expected": 5000,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-STATS",
+    "check": "Accessible PDF printed p111 smallpox data: probability of inoculation",
+    "computed": 0.03920308483290488,
+    "expected": 0.039203,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-STATS",
+    "check": "Accessible PDF printed p111 death conditional on no inoculation",
+    "computed": 0.1411371237458194,
+    "expected": 0.141137,
+    "pass": true
+  },
+  {
+    "resource_id": "TXT-STATS",
+    "check": "Accessible PDF printed p196 Bernoulli sampling SE p=.25 n=10",
+    "computed": 0.13693063937629152,
+    "expected": 0.136931,
+    "pass": true
+  },
+  {
     "resource_id": "COURSE-PY",
     "check": "ZIP CRC, licence and data inventory",
     "pass": true,

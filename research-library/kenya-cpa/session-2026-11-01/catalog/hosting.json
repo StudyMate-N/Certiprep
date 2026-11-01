@@ -1,0 +1,33 @@
+{
+  "provider": "Supabase",
+  "project_ref": "pebkqsyfliytbowxzyun",
+  "project_name": "almanac",
+  "schema": "cpa_library",
+  "mode": "isolated private catalogue metadata; media delivered in separate verified archive",
+  "dashboard_url": "https://supabase.com/dashboard/project/pebkqsyfliytbowxzyun/editor",
+  "tables": [
+    "resources",
+    "assets",
+    "audit_events",
+    "settings"
+  ],
+  "access": "RLS enabled; no public/anon/authenticated grants or policies. Administrative connector access only.",
+  "media_hosted_in_supabase": false,
+  "status": "catalogue_synced_and_read_back_verified",
+  "free_project_restore_blocker": "Paused StudyMate-N project cannot resume because the account has two active free projects. No other project paused, deleted or upgraded.",
+  "updated_utc": "2026-11-01T04:51:17.446154+00:00",
+  "resources": 144,
+  "approved_entries": 43,
+  "grouped_substantial_works": 29,
+  "media_asset_metadata": 162,
+  "asset_inventory_md5": "45bc6d9dfddbeac50f1355c2431a06c2",
+  "resource_inventory_md5": "37a9af977a58240055f75051f3c0256e",
+  "digest_order": "UTF-8 byte order, PostgreSQL COLLATE C; MD5 used only as a metadata synchronization fingerprint; asset authenticity/integrity remains SHA-256",
+  "verified_utc": "2026-11-01T05:01:15.646228+00:00",
+  "security_verification": {
+    "all_cpa_tables_rls": true,
+    "anon_schema_access": false,
+    "authenticated_schema_access": false,
+    "advisor_findings": "Four informational RLS-with-no-policy entries; intended default-deny private catalogue. No CPA functions or public APIs exposed."
+  }
+}

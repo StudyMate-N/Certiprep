@@ -1,0 +1,15 @@
+{
+  "checked_utc": "2026-11-01T05:02:52.350343+00:00",
+  "source_records": 144,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "media_assets": 162,
+  "pdfs": 22,
+  "pdf_pages": 8001,
+  "all_media_hashes_match": true,
+  "database_inventory_readback_matches": true,
+  "question_bank_rights_separately_unresolved": true,
+  "all_papers_certified_complete": false,
+  "complete_release_manifest": "Generated and checked by scripts/build_release.py after final metadata; see MANIFEST.sha256.",
+  "sqlite_integrity": "Checked by export_database.py during release generation."
+}

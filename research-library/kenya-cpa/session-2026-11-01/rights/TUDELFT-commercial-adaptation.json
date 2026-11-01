@@ -1,0 +1,40 @@
+{
+  "source": "https://books.open.tudelft.nl/home/catalog/download/175/323/561?inline=1",
+  "source_sha256": "1d2bb2e330cb82eb63d1a9ca6d30658b038b08454372b4a28017ad06fe6e3a2a",
+  "distributed_sha256": "d3bbb4a3ed5a3f4042ed2f06fb01b88d20709c702c5f98d2f7dbf199a5fd2bf7",
+  "source_pages": 313,
+  "distributed_pages": 313,
+  "omitted_original_physical_pages": [
+    29
+  ],
+  "image_omission_original_physical_pages": [
+    1,
+    33,
+    53,
+    65,
+    70,
+    213,
+    224,
+    261,
+    313
+  ],
+  "removed_image_sha256": [
+    "092949142c4283bbf212e2781471651d3c26836a486dd430ed10cccd133a5061",
+    "2d75d17f28073c3aa824792f9f3aa4f2176b02fc003cdadd6ac48f8b5b4daa79",
+    "4ed4407fa254972aa01da630300b6aff6a9dac4fa3970abdeb8e8a0c002b2926",
+    "54632b48c89a5c8b1789180e9c628f8949ffd80a2a7afeb8f97914af59f33a92",
+    "57707f53f5e9235aae7ac0066265b4568c71a9640a2f998d2781c5a82934bb8c",
+    "742f01df46388c8b6624b772ce48391acb98be7c8c29d824653b462dd0256a0f",
+    "7a8092b2d72dc13f239c8f5b85d5d494b144b1faa6fcdd12657fd020ac200362",
+    "8c15c40b1fc243fda823f7f994dc3927a614613d36b999ae672519bfa84ac955",
+    "9ce465c52214b08bd5eb34e61cee9358c76c3e7038e85dbb1fad63d505f7860f",
+    "a1a90409a67c3d6686b46770ae936e3b5ef1daf5e542c998d1ac55a0a44e336a",
+    "a74003256846eb2ee03a183b1cb292a34cef2a253239782f0570a50a06d6e5e7",
+    "b9060544035b08569db15847fdec5c46e1232ef5185896e048dc5141fd9c1f78",
+    "c04b7ebde01451663479a9c9f3361cb36bea3abe96023dbf7e0e1992c74ecc95",
+    "c5d355d186c7af66cda077cae1ebcb49e00e9de653da32c94cc003968a14e1fe"
+  ],
+  "retained_page_text_checks": 312,
+  "added_notice_page": true,
+  "checked_utc": "2026-11-01T04:44:53.716016+00:00"
+}

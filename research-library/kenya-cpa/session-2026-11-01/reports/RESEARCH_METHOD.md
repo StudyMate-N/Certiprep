@@ -1,0 +1,19 @@
+# Research, selection and verification method
+
+The session used repeated discovery → primary-source verification → rights review → actual HTTP download → content/file inspection → rejection or acquisition → topic mapping → validation cycles. Research continued after the first download pass. Current Kenyan authorities and sparse advanced papers took priority over low-value duplicates.
+
+Primary sources included KASNEB, KRA, Parliament, PSASB, Treasury, CBK, KNBS, ICPAK, IFRS/IAASB/IESBA/IPSASB, university/author publishers and original course repositories. Search snippets supplied leads, not licences. Broad repository/help-page licences did not override a specific file or upstream component restriction.
+
+A source can be academically useful yet excluded from the distributable archive. Rejection categories include commercial restrictions, mixed component rights, unknown provenance, obsolete regulatory content, misleading title/date/MIME, unavailable binaries, duplication and incomplete verification. Link acceptance approves an access point only. Candidate records explicitly remain unvalidated.
+
+For acquired PDFs, signature, parseability, full page iteration/text extraction, identity, page count, edition/notice pages and selected instructional examples were checked. Selected pages/figures were rendered and visually inspected. All 167 retained World Bank interior pages passed raster comparisons against their original source pages. The 557-page microeconomics derivative retained every page's extracted text and excludes the original image payloads listed in its omission register. Macro retained-page extracted text matches its deposited original. Independent source-provider checksums were not supplied: SHA-256 values here establish the exact downloaded and packaged artifacts, copy equality and later delivery integrity, not publisher cryptographic authenticity.
+
+Pinned data-course ZIPs passed CRC checks, licence/data inventories, CSV parsing and SQLite integrity checks where a database was present. They were inspected, not blindly treated as genuine because of their filenames. PDF/ZIP files and nested members were scanned for Git LFS pointer signatures. No source link or pointer is counted as acquired media.
+
+For offline HTML, scripts, forms, remote media and unsafe event/URL handlers were removed; third-party pictures/quotation blocks were omitted where specified. All local embedded media and index file paths were checked. A Chromium-based visual test could not run because its executable is unavailable; no browser-rendering claim is made. Downloaded PDF sample pages and remediated image omissions did receive visual inspection.
+
+The complete request-provenance JSONL records timestamps, HTTP outcomes, content types, signatures, sizes and hashes when a response was saved. Error outcomes are retained. Transient authentication redirect queries and local filesystem paths are redacted. Failed downloads and privately inspected excluded files are not included as media. File-level inventory maps all packaged media and supporting diagrams to catalogue resources.
+
+Limits: this was one intensive 60-minute acquisition session, not exhaustive textbook peer review. It did not solve every question, watch linked recordings, access subscription holdings, obtain rights from unresponsive publishers, certify every Kenyan legal amendment/court decision, or establish a complete current-syllabus outcome map. The coverage report exposes these gaps. Foreign examples, original enactments and standard effective dates are explicitly separated from Kenyan CPA examinability.
+
+No credentials were entered, purchases made, permissions requested from third parties, or messages sent. No access controls were bypassed. The final archive contains only the works/versions approved in the rights register and supporting audit records; all works retain individual terms.

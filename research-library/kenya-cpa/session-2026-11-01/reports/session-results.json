@@ -1,0 +1,39 @@
+{
+  "updated_utc": "2026-11-01T04:57:35.831585+00:00",
+  "status": "curated_supplemental_collection; not a complete CPA course",
+  "source_records": 144,
+  "decisions": {
+    "ACCEPT_FILE": 43,
+    "REJECT_BINARY": 19,
+    "ACCEPT_LINK": 58,
+    "REJECT_CURRENT": 5,
+    "CANDIDATE_LINK": 12,
+    "REJECT_SOURCE": 2,
+    "REJECT_DUPLICATE": 2,
+    "HOLD_ACCURACY": 1,
+    "REJECT_EMPTY_DATA": 1,
+    "HOLD_RIGHTS": 1
+  },
+  "acquired_catalogue_entries": 43,
+  "grouped_substantial_works": 29,
+  "actual_media_assets": 162,
+  "media_kinds": {
+    "pdf": 22,
+    "offline_html": 20,
+    "supporting_diagram": 110,
+    "dataset_metadata": 6,
+    "source_dataset_zip": 1,
+    "source_zip": 3
+  },
+  "media_bytes": 277700279,
+  "pdfs": 22,
+  "physical_pdf_pages": 8001,
+  "downloaded_videos": 0,
+  "acquired_kasneb_past_paper_pdfs": 0,
+  "paper_workshop_entries": 22,
+  "certified_complete_papers": 0,
+  "first_release_planning_target": 120,
+  "uninterrupted_60_minute_session_verified": false,
+  "timing_note": "Work spans multiple periods with a workspace reset and recovery; downtime is not claimed as active research.",
+  "sha256_note": "Computed hashes identify delivered bytes, not independently published publisher checksums."
+}

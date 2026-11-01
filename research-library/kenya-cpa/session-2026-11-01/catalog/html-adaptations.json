@@ -121,7 +121,7 @@
     "source": "https://www.opencostaccounting.org/toc/chapter7/",
     "source_sha256": "1724971da6aae8af3a02de3a2b210d5437f635a9a2508584b82155a801dd0792",
     "package_path": "media/Intermediate/CA25/open-cost-accounting/chapter07.html",
-    "sha256": "2e5bd37655b5a727bd239b26376189fa44d1a442add21886676969cb97c4a40b",
+    "sha256": "3e944c98f634efa230ee5d0d9e7f6f442f27b2b9d55ee5652b6a534b73e62115",
     "title": "Open Cost Accounting: 7: Variance Analysis",
     "included_image_urls": [
       "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VA1-1.png",
@@ -256,32 +256,6 @@
     "changes": "Derived from Open Cost Accounting: 11: Data Analytics by Brian D. Knox. Source: https://www.opencostaccounting.org/toc/chapter11/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Decorative photographs, portraits, tombstone image and unverified map omitted. Teaching diagrams retained under the author site licence."
   },
   {
-    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/7-2-organization-and-key-idea/",
-    "source_sha256": "69ea48a2faa1509bf1163d4ba642e516f8554f2fa5c8424028b628a45c362755",
-    "package_path": "media/Foundation/CA12/communication/section-9-2.html",
-    "sha256": "dc3ae65ca23b056014d7a4403d217a1d9456ba6a19f0b4e17e31bae144d0ffac",
-    "title": "Communication Essentials for Business: 9.2 Message Structure",
-    "included_image_urls": [],
-    "omitted_image_urls": [
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2022/02/direct-indirect-org.jpeg",
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2022/02/netiquette-sidebar.jpg",
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2022/02/06-netiquette-consequences.jpg"
-    ],
-    "changes": "Derived from Communication Essentials for Business: 9.2 Message Structure by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/7-2-organization-and-key-idea/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
-  },
-  {
-    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/7-3-persuasive-messages/",
-    "source_sha256": "d69afaa69378ddca39de9810671cd2b0e67b089a8b548b5e7bd0c802464ea8a4",
-    "package_path": "media/Foundation/CA12/communication/section-9-5.html",
-    "sha256": "f63b2d1aa1a38d6368011b0e7f25393a6b16229227f99ae11e15a3c74f1f03b6",
-    "title": "Communication Essentials for Business: 9.5 Persuasive Messages",
-    "included_image_urls": [],
-    "omitted_image_urls": [
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2022/02/AIDA.jpg"
-    ],
-    "changes": "Derived from Communication Essentials for Business: 9.5 Persuasive Messages by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/7-3-persuasive-messages/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
-  },
-  {
     "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/writinginstructions/",
     "source_sha256": "1462cd760d9b9747b5baffa16f87df20ab86e722520e69b10c84fd660b5074a2",
     "package_path": "media/Foundation/CA12/communication/section-9-6.html",
@@ -297,37 +271,6 @@
     "changes": "Derived from Communication Essentials for Business: 9.6 Instructions by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/writinginstructions/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
   },
   {
-    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/proposals/",
-    "source_sha256": "53ee6805b1c46b8a1bef3b773c059b3458ec11c13cfe1f4eec4f6c7b8f105691",
-    "package_path": "media/Foundation/CA12/communication/section-10-2.html",
-    "sha256": "6a9da12396b4e5d2fdcd22cb154d7ec508cba17144371285582b1a22fbac9c67",
-    "title": "Communication Essentials for Business: 10.2 Proposals",
-    "included_image_urls": [],
-    "omitted_image_urls": [
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2021/12/PhasesOfAProject_REV.png",
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2021/04/proposal.png",
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2017/12/proposal.jpg",
-      "https://pressbooks.bccampus.ca/businesswritingessentials/wp-content/uploads/sites/982/2020/04/Letter-Proposal-1-837x1024.png",
-      "https://pressbooks.bccampus.ca/businesswritingessentials/wp-content/uploads/sites/982/2020/04/Letter-Proposal-2-872x1024.png",
-      "https://pressbooks.bccampus.ca/businesswritingessentials/wp-content/uploads/sites/982/2020/04/Letter-Proposal-3-1024x407.png"
-    ],
-    "changes": "Derived from Communication Essentials for Business: 10.2 Proposals by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/proposals/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
-  },
-  {
-    "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/recommendationreports/",
-    "source_sha256": "994b5fea631fc5144e30b9ac990f100c13f8b187f5e217ad7d3587545f606a79",
-    "package_path": "media/Foundation/CA12/communication/section-10-3.html",
-    "sha256": "d3498b2d9f3a679271ee958b2c19c21b8c4759d1fc6a5c42dfc4073f61066af6",
-    "title": "Communication Essentials for Business: 10.3 Recommendation Reports and Feasibility Studies",
-    "included_image_urls": [],
-    "omitted_image_urls": [
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2018/05/feasibility.jpg",
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/120/2018/05/feasibility-outline-1-1024x654.jpg",
-      "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2025/04/Decision-Matrix-Design-300x213.jpg"
-    ],
-    "changes": "Derived from Communication Essentials for Business: 10.3 Recommendation Reports and Feasibility Studies by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/recommendationreports/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
-  },
-  {
     "source": "https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/buildingconfidence/",
     "source_sha256": "352c2cfd3c2f3471ae5f324cbba66bbbc5955ebc7de0ce65a461a1c837cb5a27",
     "package_path": "media/Foundation/CA12/communication/section-11-1.html",
@@ -338,6 +281,130 @@
       "https://pressbooks.senecapolytechnic.ca/app/uploads/sites/140/2018/12/masterclass_blog_1.png"
     ],
     "changes": "Derived from Communication Essentials for Business: 11.1 Building Confidence as a Presenter by Suzan Last; Robin L. Potter; Tricia Nicola Hylton and credited contributors. Source: https://pressbooks.senecapolytechnic.ca/communicationessentialsforbusiness/chapter/buildingconfidence/. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Selected chapter text only; images, embedded media and block quotations omitted. The complete source book is not cleared for commercial redistribution."
+  },
+  {
+    "source": "https://mcmassociates.io/textbook/genlett.html",
+    "source_sha256": "20f72c137d950e019e915d9a9af4051dc5898ba5666d55eeabb7bb7bc9fd397f",
+    "package_path": "media/Foundation/CA12/communication/mcmurrey-genlett.html",
+    "sha256": "5fe373179abd55593d224a5df32a35cac6263aac6df216376ee02704fac63178",
+    "title": "Business Messages Overview",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://mcmassociates.io/textbook/arabic/images_arabic/lebanon_flag.webp",
+      "https://mcmassociates.io/textbook/portuguese/images_portuguese/brazil_flagB.png",
+      "https://mcmassociates.io/textbook/espanol/images_espanol/mexico_flag.webp",
+      "https://mcmassociates.io/textbook/filipino/images_filipino/filipino_flag.png",
+      "https://mcmassociates.io/textbook/french/images_french/france_flag.png",
+      "https://mcmassociates.io/textbook/german/images_german/germany_flag.webp",
+      "https://mcmassociates.io/textbook/hindi/images_hindi/india_flag.png",
+      "https://mcmassociates.io/textbook/hungarian/images_hungarian/hungary_flag.png",
+      "https://mcmassociates.io/textbook/korean/images_korean/korean_flag.webp",
+      "https://mcmassociates.io/textbook/dutch/images_dutch/netherlands_flag.png",
+      "https://mcmassociates.io/textbook/singapore/images_singapore/singapore_flag.png",
+      "https://mcmassociates.io/textbook/espanol/images_espanol/spain_flag.png",
+      "https://mcmassociates.io/textbook/urdu/images_urdu/pakistan_flag.webp",
+      "https://mcmassociates.io/textbook/slovak/images_slovak/slovakia_flag.png",
+      "https://mcmassociates.io/textbook/swahili/images_swahili/kenya_flag.png",
+      "https://mcmassociates.io/textbook/vietnamese/images_vietnamese/vietnam_flag.png",
+      "https://mcmassociates.io/textbook/office_template2.png",
+      "https://mcmassociates.io/textbook/images/memo_example0.png",
+      "https://mcmassociates.io/textbook/images/memo_example1.png",
+      "https://mcmassociates.io/textbook/images/ch1afg1.gif",
+      "https://mcmassociates.io/textbook/images/logo2.gif",
+      "https://mcmassociates.io/textbook/images/logo1.gif",
+      "https://mcmassociates.io/textbook/images/ch1afg1.gif",
+      "https://mcmassociates.io/textbook/images/ch1afg0.gif",
+      "https://mcmassociates.io/textbook/images/ch1afg2.gif",
+      "https://mcmassociates.io/textbook/images/ch1afg3.gif",
+      "https://i.creativecommons.org/l/by/4.0/88x31.png"
+    ],
+    "changes": "Derived from Business Messages Overview by David McMurrey. Source: https://mcmassociates.io/textbook/genlett.html. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Original author-hosted text, live 2026 revision. Images, remote media and third-party block quotations omitted. External example links are not acquired files."
+  },
+  {
+    "source": "https://mcmassociates.io/textbook/props.html",
+    "source_sha256": "33ebfef52f4682bba467f82e206fe88a60a9b47739ab190ac4b07d65071b24af",
+    "package_path": "media/Foundation/CA12/communication/mcmurrey-props.html",
+    "sha256": "96cf39a4d670a73c50e2c207370170e56d95af3a1207fb07a385b7395f34c3e7",
+    "title": "Proposals",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://mcmassociates.io/textbook/arabic/images_arabic/lebanon_flag.webp",
+      "https://mcmassociates.io/textbook/portuguese/images_portuguese/brazil_flagB.png",
+      "https://mcmassociates.io/textbook/espanol/images_espanol/mexico_flag.webp",
+      "https://mcmassociates.io/textbook/filipino/images_filipino/filipino_flag.png",
+      "https://mcmassociates.io/textbook/french/images_french/france_flag.png",
+      "https://mcmassociates.io/textbook/german/images_german/germany_flag.webp",
+      "https://mcmassociates.io/textbook/hindi/images_hindi/india_flag.png",
+      "https://mcmassociates.io/textbook/hungarian/images_hungarian/hungary_flag.png",
+      "https://mcmassociates.io/textbook/korean/images_korean/korean_flag.webp",
+      "https://mcmassociates.io/textbook/dutch/images_dutch/netherlands_flag.png",
+      "https://mcmassociates.io/textbook/singapore/images_singapore/singapore_flag.png",
+      "https://mcmassociates.io/textbook/espanol/images_espanol/spain_flag.png",
+      "https://mcmassociates.io/textbook/urdu/images_urdu/pakistan_flag.webp",
+      "https://mcmassociates.io/textbook/slovak/images_slovak/slovakia_flag.png",
+      "https://mcmassociates.io/textbook/swahili/images_swahili/kenya_flag.png",
+      "https://mcmassociates.io/textbook/vietnamese/images_vietnamese/vietnam_flag.png",
+      "https://mcmassociates.io/textbook/images/props_infographic.png",
+      "https://mcmassociates.io/textbook/images/proposal_flowchart.webp",
+      "https://mcmassociates.io/textbook/images/prop_fig1.gif",
+      "https://mcmassociates.io/textbook/images/prop_fig2.gif",
+      "https://mcmassociates.io/textbook/images/prop_fig3ab.gif",
+      "https://i.creativecommons.org/l/by/4.0/88x31.png"
+    ],
+    "changes": "Derived from Proposals by David McMurrey. Source: https://mcmassociates.io/textbook/props.html. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Original author-hosted text, live 2026 revision. Images, remote media and third-party block quotations omitted. External example links are not acquired files."
+  },
+  {
+    "source": "https://mcmassociates.io/textbook/feas.html",
+    "source_sha256": "c78346cc65ebddc43a2bac0d04db3bd1faef0cd62278ab33d1882bf61c7ef33f",
+    "package_path": "media/Foundation/CA12/communication/mcmurrey-feas.html",
+    "sha256": "cbf25c352e725526d0fc0b7a5de58f871f5089895cc1dae04d785014d0d92b46",
+    "title": "Feasibility, Recommendation and Evaluation Reports",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://mcmassociates.io/textbook/arabic/images_arabic/lebanon_flag.webp",
+      "https://mcmassociates.io/textbook/portuguese/images_portuguese/brazil_flagB.png",
+      "https://mcmassociates.io/textbook/espanol/images_espanol/mexico_flag.webp",
+      "https://mcmassociates.io/textbook/filipino/images_filipino/filipino_flag.png",
+      "https://mcmassociates.io/textbook/french/images_french/france_flag.png",
+      "https://mcmassociates.io/textbook/german/images_german/germany_flag.webp",
+      "https://mcmassociates.io/textbook/hindi/images_hindi/india_flag.png",
+      "https://mcmassociates.io/textbook/hungarian/images_hungarian/hungary_flag.png",
+      "https://mcmassociates.io/textbook/korean/images_korean/korean_flag.webp",
+      "https://mcmassociates.io/textbook/dutch/images_dutch/netherlands_flag.png",
+      "https://mcmassociates.io/textbook/singapore/images_singapore/singapore_flag.png",
+      "https://mcmassociates.io/textbook/espanol/images_espanol/spain_flag.png",
+      "https://mcmassociates.io/textbook/urdu/images_urdu/pakistan_flag.webp",
+      "https://mcmassociates.io/textbook/slovak/images_slovak/slovakia_flag.png",
+      "https://mcmassociates.io/textbook/swahili/images_swahili/kenya_flag.png",
+      "https://mcmassociates.io/textbook/vietnamese/images_vietnamese/vietnam_flag.png",
+      "https://mcmassociates.io/textbook/images/recomrep_infographic.png",
+      "https://mcmassociates.io/textbook/images/recommrep_fig1.gif",
+      "https://mcmassociates.io/textbook/images/recommrep_fig3.gif",
+      "https://mcmassociates.io/textbook/images/recommrep_fig4.gif",
+      "https://mcmassociates.io/textbook/images/recommrep_fig5a.gif",
+      "https://mcmassociates.io/textbook/images/recommrep_fig5.gif",
+      "https://mcmassociates.io/textbook/images/recommrep_fig7.gif",
+      "https://i.creativecommons.org/l/by/4.0/88x31.png"
+    ],
+    "changes": "Derived from Feasibility, Recommendation and Evaluation Reports by David McMurrey. Source: https://mcmassociates.io/textbook/feas.html. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Original author-hosted text, live 2026 revision. Images, remote media and third-party block quotations omitted. External example links are not acquired files."
+  },
+  {
+    "source": "https://mcmassociates.io/textbook/oral.html",
+    "source_sha256": "48945c09547249a820f762dc10b6da2c56b18f0b382200e3b7ae19384017cb8f",
+    "package_path": "media/Foundation/CA12/communication/mcmurrey-oral.html",
+    "sha256": "2d769cc5e5b4a189d88c53c71169963367b45962accb9bb5339c1f227ba9b893",
+    "title": "Oral Presentations",
+    "included_image_urls": [],
+    "omitted_image_urls": [
+      "https://mcmassociates.io/textbook/images/oralrep1.png",
+      "https://mcmassociates.io/textbook/images/oralrep6.png",
+      "https://mcmassociates.io/textbook/images/oralrep_fig1.gif",
+      "https://mcmassociates.io/textbook/images/oralrep_fig2.gif",
+      "https://mcmassociates.io/textbook/images/oralrep_fig3.gif",
+      "https://mcmassociates.io/textbook/images/oralrep2.jpg",
+      "https://i.creativecommons.org/l/by/4.0/88x31.png"
+    ],
+    "changes": "Derived from Oral Presentations by David McMurrey. Source: https://mcmassociates.io/textbook/oral.html. Licence: CC BY 4.0. Changes: website navigation/scripts removed; external media not bundled. Original author-hosted text, live 2026 revision. Images, remote media and third-party block quotations omitted. External example links are not acquired files."
   },
   {
     "source": "https://swcarpentry.github.io/python-novice-gapminder/aio.html",

@@ -1,0 +1,147 @@
+{
+  "html_pages": [
+    {
+      "path": "media/Foundation/CA12/communication/mcmurrey-feas.html",
+      "body_characters": 20970,
+      "word_count": 3176,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Foundation/CA12/communication/mcmurrey-genlett.html",
+      "body_characters": 31542,
+      "word_count": 5078,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Foundation/CA12/communication/mcmurrey-oral.html",
+      "body_characters": 17244,
+      "word_count": 2813,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Foundation/CA12/communication/mcmurrey-props.html",
+      "body_characters": 28430,
+      "word_count": 4502,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Foundation/CA12/communication/section-11-1.html",
+      "body_characters": 6293,
+      "word_count": 944,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Foundation/CA12/communication/section-9-6.html",
+      "body_characters": 30224,
+      "word_count": 4754,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter01.html",
+      "body_characters": 18422,
+      "word_count": 2907,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter02.html",
+      "body_characters": 36589,
+      "word_count": 5812,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter03.html",
+      "body_characters": 32930,
+      "word_count": 5694,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter04.html",
+      "body_characters": 30024,
+      "word_count": 4966,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter05.html",
+      "body_characters": 31209,
+      "word_count": 4784,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter06.html",
+      "body_characters": 32719,
+      "word_count": 5272,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter07.html",
+      "body_characters": 44735,
+      "word_count": 7199,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter08.html",
+      "body_characters": 30972,
+      "word_count": 4901,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter09.html",
+      "body_characters": 27704,
+      "word_count": 4500,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter10.html",
+      "body_characters": 23754,
+      "word_count": 3708,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Intermediate/CA25/open-cost-accounting/chapter11.html",
+      "body_characters": 17903,
+      "word_count": 2783,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Practical/CA35P/data-skills/py-lesson.html",
+      "body_characters": 165394,
+      "word_count": 25786,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Practical/CA35P/data-skills/sheet-lesson.html",
+      "body_characters": 53965,
+      "word_count": 9019,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    },
+    {
+      "path": "media/Practical/CA35P/data-skills/sql-lesson.html",
+      "body_characters": 84030,
+      "word_count": 13937,
+      "unsafe_media": [],
+      "licence_notice_present": true
+    }
+  ],
+  "index_resource_cards": 144,
+  "index_local_links_checked": true,
+  "browser_visual_test": "Not performed: Chromium executable unavailable. HTML/content/local-path/no-remote-media checks passed."
+}

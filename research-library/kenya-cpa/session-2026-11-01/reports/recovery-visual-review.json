@@ -1,0 +1,34 @@
+{
+  "checked_utc": "2026-11-01T05:02:52.350343+00:00",
+  "review": "Sampled manual visual inspection of rendered PDF pages, not manual inspection of every page",
+  "pages": [
+    {
+      "id": "TXT-IFA1",
+      "distributed_physical_pages": [
+        1,
+        249
+      ]
+    },
+    {
+      "id": "TXT-TUDELFT-OR",
+      "distributed_physical_pages": [
+        1,
+        55
+      ]
+    },
+    {
+      "id": "LAW-CONSTITUTION-PD",
+      "distributed_physical_pages": [
+        1
+      ],
+      "note": "Adjacent blank source page removed; opening page is now arrangement of articles."
+    },
+    {
+      "id": "TXT-PFM-IC",
+      "distributed_physical_pages": [
+        4
+      ]
+    }
+  ],
+  "result": "Adaptation notices readable with no clipping; sampled retained content legible; OR source indexing erratum disclosed."
+}
