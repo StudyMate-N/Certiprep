@@ -40,7 +40,7 @@
   "archive_snapshot_note": "The delivered ZIP was created before this private mirror completed. Its checksum and original hosting-status snapshot are unchanged; current hosting is recorded here and in the database.",
   "post_release_catalogue": {
     "last_review_date": "2026-11-01",
-    "live_resource_count": 160,
+    "live_resource_count": 161,
     "live_accepted_links": 70,
     "live_acquired_entries": 43,
     "live_distinct_substantial_works": 29,
@@ -54,8 +54,8 @@
     "release_resource_inventory_md5_note": "Top-level resource_inventory_md5 remains the original 144-record verified snapshot fingerprint; current 146-record catalogue is documented in maintenance/snapshots/2026-11-01-0625Z.json; do not compare the old fingerprint to current data.",
     "snapshot_path": "../../maintenance/snapshots/2026-11-01-0625Z.json",
     "media_storage_unchanged": true,
-    "latest_snapshot_path": "../../maintenance/snapshots/2026-11-01-1110Z.json",
-    "latest_review_path": "../../maintenance/reviews/2026-11-01-1110Z.md",
+    "latest_snapshot_path": "../../maintenance/snapshots/2026-11-01-1213Z.json",
+    "latest_review_path": "../../maintenance/reviews/2026-11-01-1213Z.md",
     "new_link_ids_since_release": [
       "STD-IFRS20-2026",
       "STD-IFRS-SMES-2025-MODULES",
@@ -74,13 +74,14 @@
       "LAW-TRUSTREG-DRAFT2026",
       "HOLD-BRS-BO-GUIDE2023",
       "HOLD-ODPC-FAQ-PROCESSOR",
-      "HOLD-IPSAS12-KENYA-COST-FORMULA-SCOPE"
+      "HOLD-IPSAS12-KENYA-COST-FORMULA-SCOPE",
+      "HOLD-PSASB-FAQ-CASHBASIS-2026"
     ],
-    "latest_resource_inventory_md5": "d7cccf16cab2d2d58c4be891d6973bed",
+    "latest_resource_inventory_md5": "05c7712b45728097b498747e4dc0bf0a",
     "latest_asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
     "live_storage_bytes": 277700279,
     "live_storage_objects": 162,
     "latest_resource_inventory_md5_method": "md5(string_agg(id||'|'||decision||'|'||record::text,E'\\n' order by id COLLATE C)); not directly comparable with earlier legacy fingerprint algorithm",
-    "last_rights_reconciliation": "PSASB generic FIFO/WAC vs Treasury government FIFO election; exact entity applicability pending"
+    "last_rights_reconciliation": "PSASB FAQ legacy cash-basis statement HOLD for FY2025/26; roadmap and 3 Aug 2026 template announcement govern phase-specific inventory requirement"
   }
 }
