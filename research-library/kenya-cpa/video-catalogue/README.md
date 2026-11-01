@@ -72,3 +72,9 @@ Seven rejected/held routes or classifications are documented in acceptance-rejec
 - SHA256SUMS: checksums of this metadata package.
 
 This export contains catalogue and audit files only. It contains no lecture videos, copyrighted source pages or private review subtitles.
+
+## Incremental video review — 1 November 2026, 20:20 UTC
+
+Eight source records added (six external access, two HOLD) from nine assessed candidates. Foundation: Adamas Communication Skills (free, gated), historical 2020 MKU/TV47 lectures; Adamas Introduction to Law and Governance closed (HOLD). Intermediate: ICPAK 2020 audit-software tutorials; BRS change-of-officials Drive recording format/rights HOLD. Advanced: Adamas Advanced Taxation (paid KES 5,840; no purchase), PSASB Year 2 Part 2 IPSAS transition (2:24 introduction, gated lectures), and World Bank 2020 IESBA ethics webinar. No full playback, worked-answer validation or video acquisition.
+
+KASNEB expressly describes its CBE portal as exam-platform familiarisation, not teaching. Current course indexes do not establish recording dates. Commercial video redistribution, adaptation, embedded photographs, slides, questions, solutions, database extraction and AI training remain uncleared. Links and HOLD records are not acquired media. Original immutable ZIP/SQLite export and RELEASE.json are unchanged; new metadata snapshot and GitHub-only checksums are separate.
