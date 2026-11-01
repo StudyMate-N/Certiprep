@@ -1,0 +1,67 @@
+{
+  "review_utc": "2026-11-01T12:13:00Z",
+  "scope": "CA26/CA34S4 FY2025-26 cash-to-accrual transition",
+  "candidate_count": 3,
+  "new_binary_count": 0,
+  "records": [
+    {
+      "id": "HOLD-PSASB-FAQ-CASHBASIS-2026",
+      "decision": "HOLD_ACCURACY",
+      "title": "PSASB FAQ legacy cash-basis summary versus 2024–2027 accrual transition",
+      "authors": "Public Sector Accounting Standards Board",
+      "publisher": "PSASB",
+      "source_url": "https://psasb.go.ke/faqs/",
+      "primary_comparison_urls": [
+        "https://www.psasb.go.ke/Documents/Accounting%20Standards/Transition%20Documents/ROADMAP%20on%20Transition%20from%20Cash%20to%20Accrual%20Accounting.pdf",
+        "https://psasb.go.ke/2026/08/"
+      ],
+      "papers": [
+        "CA26",
+        "CA34S4"
+      ],
+      "topics": [
+        "transition year scope",
+        "inventory mandatory in FY2025/26",
+        "avoid legacy cash-basis overgeneralisation"
+      ],
+      "publication_date": "FAQ undated; roadmap period 2024-07-01 to 2027-06-30; PSASB announcement 2026-08-03",
+      "accuracy_review": "FAQ says national and county governments shall apply IPSAS cash basis; later official roadmap and 2026 template announcement establish phased accrual reporting. The FAQ should not be used as controlling FY2025/26 instruction. Entity-specific exceptions and current exam sitting not fully verified.",
+      "decision_reason": "Narrow HOLD for out-of-date blanket statement; do not reject all PSASB FAQ content.",
+      "rights_evidence": "Primary web pages read 2026-11-01; no in-file grant (HTML), third-party components or commercial redistribution permission verified. No copying or ingestion of page body.",
+      "licence": "No affirmative commercial hosting/adaptation grant",
+      "licence_expiry": "No licence granted",
+      "rights_recheck_trigger": "FAQ corrected, official roadmap/circular revised, entity scope clarified or syllabus changes",
+      "work_id": "HOLD-PSASB-FAQ-CASHBASIS-2026",
+      "source_sha256": "",
+      "sha256": "",
+      "packaged_bytes": 0,
+      "acquisition_status": "external_access_only",
+      "local_media_present": false,
+      "github_media_present": false,
+      "quality_review_status": "selected_primary_passages_only; independent_review_pending",
+      "exam_sitting_certification": "not_certified",
+      "rights_actions": {
+        "read_at_source": "allowed_subject_to_site_terms",
+        "link_to_primary_source": "allowed_plain_reference_no_endorsement",
+        "download_for_private_inspection": "not_evaluated",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "database_bibliographic_metadata": "allowed_factual_reference",
+        "database_fulltext_ingestion": "not_approved",
+        "extract_questions_and_solutions": "not_approved",
+        "third_party_components": "unverified_no_copying",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_rights_review_required"
+      }
+    }
+  ],
+  "existing_record_enrichment": {
+    "id": "PFM-ACCRUAL",
+    "new_primary_pdf": "https://www.psasb.go.ke/Documents/Accounting%20Standards/Transition%20Documents/ROADMAP%20on%20Transition%20from%20Cash%20to%20Accrual%20Accounting.pdf",
+    "timeline": "FY2025/26 Year 2 financial assets, liabilities, inventories; FY2026/27 Year 3 full nonfinancial assets including inventories",
+    "rights": "link only; no PDF commercial redistribution or third-party rights established"
+  },
+  "rights_note": "No third-party PDF, DOCX, video or other media bytes acquired. In-file and component rights not verified. AI training remains separate unresolved gate."
+}
