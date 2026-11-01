@@ -1,0 +1,5 @@
+id,decision,papers,source_url,rights_status,media_acquired,review_date_utc
+ICT-ODPC-DPIA-GUIDANCE2024,ACCEPT_LINK,CA16|CA35P|CA24,https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Note-on-Data-Protection-Impact-Assessment-1.pdf,link_only_no_commercial_grant,false,2026-11-01
+LAW-BRS-BO-LN162-2023,ACCEPT_LINK,CA21|CA13|CA36WE,https://brs.go.ke/wp-content/uploads/2023/11/L.-N.-162-Companies-Beneficial-Ownership-Information-Amendment-Regulations-2023.pdf,link_only_no_commercial_grant,false,2026-11-01
+DATA-CA-Q4-2025-26,ACCEPT_LINK,CA16|CA35P|CA14,https://www.ca.go.ke/sites/default/files/2026-09/Sector%20Statistics%20Report%20Q4%202025-2026_0.pdf,link_only_no_commercial_grant,false,2026-11-01
+HOLD-BRS-BO-GUIDE2023,HOLD_ACCURACY,CA21,https://brs.go.ke/wp-content/uploads/2023/03/Guide-on-Disclosure-of-Beneficial-Ownership-Information.pdf,stale_version_reconciliation_pending,false,2026-11-01
