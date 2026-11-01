@@ -1,0 +1,73 @@
+{
+  "review_utc": "2026-11-01T18:10:25.764Z",
+  "run_owner": "cpa-auto-20261101-1806Z-a11",
+  "status": "maintained_research_collection_not_certified_complete",
+  "verified_live_database": {
+    "project_ref": "pebkqsyfliytbowxzyun",
+    "schema": "cpa_library",
+    "resource_records": 179,
+    "accepted_links": 85,
+    "accuracy_holds": 9,
+    "acquired_entries": 43,
+    "grouped_substantial_works": 29,
+    "resource_inventory_md5": "088177d7610a4ab0e57de5adda0551f2",
+    "asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
+    "fingerprint_scope": "metadata synchronization only; SHA-256 verification evidence is inherited"
+  },
+  "verified_private_storage": {
+    "bucket": "cpa-verified-library",
+    "public": false,
+    "objects": 162,
+    "bytes": 277700279,
+    "observed_all_buckets_bytes": 598089979,
+    "missing_objects": 0,
+    "size_mismatches": 0,
+    "content_address_mismatches": 0,
+    "previously_verified_download_flags": 162,
+    "new_binary_downloads": 0,
+    "new_hosted_objects": 0,
+    "verification_scope": "live metadata join and prior full-byte SHA-256 receipts; no fresh binary redownload",
+    "per_object_limit_bytes": 40000000,
+    "cpa_ceiling_bytes": 524288000,
+    "observed_ceiling_bytes": 838860800
+  },
+  "catalogue_reconciliation": {
+    "canonical_json_records": 179,
+    "canonical_csv_records": 179,
+    "rights_register_records": 179,
+    "action_rights_records": 179,
+    "unique_ids_all": true,
+    "existing_missing_rights_restored": 33,
+    "previous_db_records": 177,
+    "prior_db_links": 83,
+    "new_links": 2,
+    "existing_brs_accuracy_record_updated": true
+  },
+  "rights_and_sources": {
+    "new_external_links": 2,
+    "new_accuracy_holds": 0,
+    "third_party_binaries_acquired": 0,
+    "source_ids": [
+      "LAW-INSOLVENCY-LN64-2021",
+      "LAW-INSOLVENCY-REGS2022"
+    ],
+    "rechecked": [
+      "LAW-BRS-MORATORIUM-GUIDE2024"
+    ],
+    "decision_file": "maintenance/decisions/2026-11-01-1808Z.json",
+    "rights_file": "maintenance/rights/2026-11-01-1808Z.csv",
+    "practice_file": "maintenance/practice/CA21_moratorium_filing_original_2026-11-01.md",
+    "rights_status": "2021 notice exact-PDF commercial licence not verified; 2022 consolidation exact PDF CC BY-NC-SA; no commercial hosting, adaptation, question extraction or AI training approved",
+    "current_site_terms": "Kenya Law terms page returned 403 during independent retrieval; preserve conservative external-only status"
+  },
+  "archive": {
+    "status": "unchanged_verified_master",
+    "filename": "Kenya_CPA_Verified_Master_2026-11-01.zip",
+    "sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+    "receipt": "RELEASE.json",
+    "new_zip_created": false,
+    "reason": "No new approved third-party media; immutable prior ZIP and receipt preserved, not freshly reopened"
+  },
+  "certified_complete_papers": 0,
+  "independent_academic_review": "pending"
+}
