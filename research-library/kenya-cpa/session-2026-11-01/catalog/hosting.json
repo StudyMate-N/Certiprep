@@ -40,8 +40,8 @@
   "archive_snapshot_note": "The delivered ZIP was created before this private mirror completed. Its checksum and original hosting-status snapshot are unchanged; current hosting is recorded here and in the database.",
   "post_release_catalogue": {
     "last_review_date": "2026-11-01",
-    "live_resource_count": 179,
-    "live_accepted_links": 85,
+    "live_resource_count": 219,
+    "live_accepted_links": 119,
     "live_acquired_entries": 43,
     "live_distinct_substantial_works": 29,
     "added_link_ids": [
@@ -54,8 +54,8 @@
     "release_resource_inventory_md5_note": "Top-level resource_inventory_md5 remains immutable original 144-record release fingerprint; latest 179-record digest and dated snapshot are recorded in post_release_catalogue.",
     "snapshot_path": "../../maintenance/snapshots/2026-11-01-0625Z.json",
     "media_storage_unchanged": true,
-    "latest_snapshot_path": "../../maintenance/snapshots/2026-11-01-1810Z.json",
-    "latest_review_path": "../../maintenance/reviews/2026-11-01-1810Z.md",
+    "latest_snapshot_path": "../../maintenance/snapshots/2026-11-01-22Z-video.json",
+    "latest_review_path": "../../maintenance/reviews/2026-11-01-22Z-video.md",
     "new_link_ids_since_release": [
       "STD-IFRS20-2026",
       "STD-IFRS-SMES-2025-MODULES",
@@ -103,6 +103,11 @@
     "last_rights_reconciliation": "2026-11-01: LN64/2021 and NC-licensed 2022 Insolvency Regulations added as links; 33 older post-release source rights rows restored to standing registers; no commercial hosting clearance.",
     "catalogue_reconciliation": "179 unique decisions across GitHub JSON/CSV and live Supabase; 33 previously missing action-specific rights rows restored in each standing rights register; no permission changes.",
     "rights_register_records": 179,
-    "usage_rights_records": 179
+    "usage_rights_records": 179,
+    "video_catalogue_records": 45,
+    "video_recordings_acquired": 0,
+    "source_records_rights_reviewed": 219,
+    "rights_records": 219,
+    "metadata_export_checked_utc": "2026-11-01T22:08:56Z"
   }
 }

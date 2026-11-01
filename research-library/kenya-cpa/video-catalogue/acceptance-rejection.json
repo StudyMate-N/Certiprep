@@ -58,5 +58,23 @@
     "url": "https://www.kasneb.or.ke/index.php/computer-based-examinations-cbe-training",
     "decision": "REJECT_TEACHING_VIDEO_CLASSIFICATION",
     "reason": "Official KASNEB explicitly says exam-platform familiarisation is not instructional support"
+  },
+  {
+    "source": "JohnMark BDA premium recording package — subject and count discrepancy",
+    "url": "https://johnmarkcollege.com/package/01K45BQ27YKXNKPPSCXHPQ7B6R",
+    "decision": "HOLD_ACCURACY",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "reason": "Provider page snapshots list inconsistent 11 versus 43 videos, 0m premium entries and multiple non-analytics titles. Do not map to certified CA35P analytics training: many listed lessons are tax, budgets and corporate finance; count/version discrepancy; no practical-software playback.",
+    "rights": "Premium recordings; provider terms not retrieved, exact licence and third-party question rights unverified.",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "source": "Strathmore historical micro-entrepreneurship technology commentary",
+    "url": "https://su-plus.strathmore.edu/items/65ba3d2a-d9ed-4434-a33f-e60e6f641755",
+    "decision": "HOLD_RIGHTS_SCOPE",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "reason": "Repository lists MP4 50.76 MB, 2016 date; no full playback or source-byte verification. Repository 2023 terms prohibit systematic retrieval and commercial reuse without permission. Historical commentary is not sufficient CA31 teaching, exam practice or 2026 technology authority.",
+    "rights": "DSpace End User Agreement updated 2023-05-04: personal noncommercial access; commercial reuse and systematic database compilation require permission. No licence for exact MP4 or interview components.",
+    "next_review_due": "2026-12-01"
   }
 ]

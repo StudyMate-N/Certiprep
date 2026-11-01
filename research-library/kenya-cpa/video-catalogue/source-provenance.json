@@ -537,5 +537,89 @@
     "media_sha256": null,
     "media_downloaded": false,
     "review_scope": "Index or public video metadata only; no audiovisual playback"
+  },
+  {
+    "key": "VIDEO-SUMMIT-CA16-2026",
+    "url": "https://portal.summittechnicalcollege.ac.ke/course/ca16-information-communication-technology/",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "retrieval": "Public primary listing read, not downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Metadata only; no playback or worked-answer verification",
+    "rights_url": "https://portal.summittechnicalcollege.ac.ke/course/ca16-information-communication-technology/"
+  },
+  {
+    "key": "VIDEO-JOHNMARK-CA16-2026",
+    "url": "https://johnmarkcollege.com/package/01K45EZ86AM7D2GESTJN10CTY1",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "retrieval": "Public primary listing read, not downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Metadata only; no playback or worked-answer verification",
+    "rights_url": "https://johnmarkcollege.com/terms-conditions"
+  },
+  {
+    "key": "VIDEO-PSASB-INTERNAL-AUDIT-2026",
+    "url": "https://masomo.psasb.go.ke/course/details/5/introduction-to-internal-audit",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "retrieval": "Public primary listing read, not downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Metadata only; no playback or worked-answer verification",
+    "rights_url": "https://masomo.psasb.go.ke/terms-and-conditions.html"
+  },
+  {
+    "key": "VIDEO-JOHNMARK-CA31-2026",
+    "url": "https://johnmarkcollege.com/package/01K4582KBC92B3YJ7VBYY1QVX6",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "retrieval": "Public primary listing read, not downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Metadata only; no playback or worked-answer verification",
+    "rights_url": "https://johnmarkcollege.com/terms-conditions"
+  },
+  {
+    "key": "VIDEO-SUMMIT-CA34S4-2026",
+    "url": "https://portal.summittechnicalcollege.ac.ke/course/ca34s4-advanced-public-financial-management/",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "retrieval": "Public primary listing read, not downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Metadata only; no playback or worked-answer verification",
+    "rights_url": "https://portal.summittechnicalcollege.ac.ke/course/ca34s4-advanced-public-financial-management/"
+  },
+  {
+    "key": "VIDEO-JOHNMARK-BDA-HOLD2026",
+    "url": "https://johnmarkcollege.com/package/01K45BQ27YKXNKPPSCXHPQ7B6R",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "retrieval": "Public primary listing read, not downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Metadata only; no playback or worked-answer verification",
+    "rights_url": "https://johnmarkcollege.com/terms-conditions"
+  },
+  {
+    "key": "VIDEO-STRATHMORE-ENTREPRENEUR-2016-HOLD",
+    "url": "https://su-plus.strathmore.edu/items/65ba3d2a-d9ed-4434-a33f-e60e6f641755",
+    "checked_utc": "2026-11-01T22:08:56Z",
+    "retrieval": "Public primary listing read, not downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Metadata only; no playback or worked-answer verification",
+    "rights_url": "https://su-plus.strathmore.edu/info/end-user-agreement"
   }
 ]
