@@ -35,5 +35,7 @@
     "receipt": "research-library/kenya-cpa/RELEASE.json"
   },
   "complete_cpa_course": false,
-  "rights_summary": "All newly reviewed source materials link-only; no new commercial media rights cleared."
+  "rights_summary": "All newly reviewed source materials link-only; no new commercial media rights cleared.",
+  "actual_review_time_utc": "2026-11-01T06:19:00Z",
+  "filename_timestamp_note": "0625Z in filename is a nominal batch identifier; actual review occurred at 06:19 UTC"
 }
