@@ -7,7 +7,15 @@
     "source_url": "https://ung.edu/university-press/_uploads/files/principles-of-leadership.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/aedc33954e13a78829b19838e772c42b9f50164a9f7118f25699dadf43b714ca/media/Advanced/CA31/leadership/Principles_of_Leadership_UNG.pdf",
+      "download_verified": true,
+      "sha256": "aedc33954e13a78829b19838e772c42b9f50164a9f7118f25699dadf43b714ca",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Advanced/CA33/corporate-finance/Corporate_Finance_for_Long_Term_Value.pdf",
@@ -17,7 +25,15 @@
     "source_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-35009-2.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d8abe67dfc693c517ccc9d991c759a68206f214d8c647d952262a066f3070c70/media/Advanced/CA33/corporate-finance/Corporate_Finance_for_Long_Term_Value.pdf",
+      "download_verified": true,
+      "sha256": "d8abe67dfc693c517ccc9d991c759a68206f214d8c647d952262a066f3070c70",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Advanced/CA34S2/digital-audit/Advanced_Digital_Auditing.pdf",
@@ -27,7 +43,15 @@
     "source_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-11089-4.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/e9b814423bba3ebc7f6c48ffbe14afb1f284c59371faa7a3d409d2fc81f4e41f/media/Advanced/CA34S2/digital-audit/Advanced_Digital_Auditing.pdf",
+      "download_verified": true,
+      "sha256": "e9b814423bba3ebc7f6c48ffbe14afb1f284c59371faa7a3d409d2fc81f4e41f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Advanced/CA34S4/governance/PEFA_Public_Financial_Management_Covers_Omitted.pdf",
@@ -37,7 +61,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8f6feef1b31105733bb39e665c87cca76a674e641e7cc837c3b752cf854f03ef/media/Advanced/CA34S4/governance/PEFA_Public_Financial_Management_Covers_Omitted.pdf",
+      "download_verified": true,
+      "sha256": "8f6feef1b31105733bb39e665c87cca76a674e641e7cc837c3b752cf854f03ef",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Advanced/CA34S4/internal-control/Public_Financial_Management_and_Internal_Control_Hepworth.pdf",
@@ -47,7 +79,15 @@
     "source_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-35066-5.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/be1e7c621171c2eda319080914e13696d2d6a2abf5ea8ea037d0d2e58ebf4389/media/Advanced/CA34S4/internal-control/Public_Financial_Management_and_Internal_Control_Hepworth.pdf",
+      "download_verified": true,
+      "sha256": "be1e7c621171c2eda319080914e13696d2d6a2abf5ea8ea037d0d2e58ebf4389",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Advanced/CA34S4/public-finance/Financial_Strategy_for_Public_Managers_4e.pdf",
@@ -57,7 +97,15 @@
     "source_url": "https://uw.pressbooks.pub/financialstrategy/open/download?type=pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d381d1f1b645f910ab2252c4785f058ca41578fa02b78efebfcb46f4da75bf92/media/Advanced/CA34S4/public-finance/Financial_Strategy_for_Public_Managers_4e.pdf",
+      "download_verified": true,
+      "sha256": "d381d1f1b645f910ab2252c4785f058ca41578fa02b78efebfcb46f4da75bf92",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA11/accounting-cycle/Principles_of_Financial_Accounting_Jonick.pdf",
@@ -67,7 +115,15 @@
     "source_url": "https://web.ung.edu/media/university-press/Principles-of-Financial-Accounting.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ddc74629d85972a05bc362c0e3f3a23e678b4869c8b97a512aba00bf1a220174/media/Foundation/CA11/accounting-cycle/Principles_of_Financial_Accounting_Jonick.pdf",
+      "download_verified": true,
+      "sha256": "ddc74629d85972a05bc362c0e3f3a23e678b4869c8b97a512aba00bf1a220174",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA12/communication/mcmurrey-feas.html",
@@ -77,7 +133,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/cbf25c352e725526d0fc0b7a5de58f871f5089895cc1dae04d785014d0d92b46/media/Foundation/CA12/communication/mcmurrey-feas.html",
+      "download_verified": true,
+      "sha256": "cbf25c352e725526d0fc0b7a5de58f871f5089895cc1dae04d785014d0d92b46",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA12/communication/mcmurrey-genlett.html",
@@ -87,7 +151,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/5fe373179abd55593d224a5df32a35cac6263aac6df216376ee02704fac63178/media/Foundation/CA12/communication/mcmurrey-genlett.html",
+      "download_verified": true,
+      "sha256": "5fe373179abd55593d224a5df32a35cac6263aac6df216376ee02704fac63178",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA12/communication/mcmurrey-oral.html",
@@ -97,7 +169,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2d769cc5e5b4a189d88c53c71169963367b45962accb9bb5339c1f227ba9b893/media/Foundation/CA12/communication/mcmurrey-oral.html",
+      "download_verified": true,
+      "sha256": "2d769cc5e5b4a189d88c53c71169963367b45962accb9bb5339c1f227ba9b893",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA12/communication/mcmurrey-props.html",
@@ -107,7 +187,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/96cf39a4d670a73c50e2c207370170e56d95af3a1207fb07a385b7395f34c3e7/media/Foundation/CA12/communication/mcmurrey-props.html",
+      "download_verified": true,
+      "sha256": "96cf39a4d670a73c50e2c207370170e56d95af3a1207fb07a385b7395f34c3e7",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA12/communication/section-11-1.html",
@@ -117,7 +205,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/6a1353b26e89e64c31ceeacb9e4c7c2c89bf8ce9cadea20f4abd5aa397282690/media/Foundation/CA12/communication/section-11-1.html",
+      "download_verified": true,
+      "sha256": "6a1353b26e89e64c31ceeacb9e4c7c2c89bf8ce9cadea20f4abd5aa397282690",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA12/communication/section-9-6.html",
@@ -127,7 +223,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/cd086c1108d5e655583421079fe2ca39514a1a02f622cb1c82d47ef36d5f29c1/media/Foundation/CA12/communication/section-9-6.html",
+      "download_verified": true,
+      "sha256": "cd086c1108d5e655583421079fe2ca39514a1a02f622cb1c82d47ef36d5f29c1",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA13/constitutional-framework/Constitution_of_Kenya_2010_Official_Public_Domain_Cover_Omitted.pdf",
@@ -137,7 +241,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/9653902ce65b240d329462e5c48bcbdda61902663d8554fbb65ada4b18e36b80/media/Foundation/CA13/constitutional-framework/Constitution_of_Kenya_2010_Official_Public_Domain_Cover_Omitted.pdf",
+      "download_verified": true,
+      "sha256": "9653902ce65b240d329462e5c48bcbdda61902663d8554fbb65ada4b18e36b80",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA14/macroeconomics/Macroeconomics_3e_2022_Covers_Omitted.pdf",
@@ -147,7 +259,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d4c6b1edac10a092884d0c42e797e3d09b05736a467f1ab54585031018588f67/media/Foundation/CA14/macroeconomics/Macroeconomics_3e_2022_Covers_Omitted.pdf",
+      "download_verified": true,
+      "sha256": "d4c6b1edac10a092884d0c42e797e3d09b05736a467f1ab54585031018588f67",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA14/microeconomics/Microeconomics_UVic_Illustrations_Omitted.pdf",
@@ -157,7 +277,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a9edebcb0202bf644ffef6ef3396309f284d447a33efddd7b90ee8aeffa442a3/media/Foundation/CA14/microeconomics/Microeconomics_UVic_Illustrations_Omitted.pdf",
+      "download_verified": true,
+      "sha256": "a9edebcb0202bf644ffef6ef3396309f284d447a33efddd7b90ee8aeffa442a3",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA15/mathematical-methods/Applied_Finite_Mathematics_3e.pdf",
@@ -167,7 +295,15 @@
     "source_url": "https://www.deanza.edu/faculty/lundstromkelly/documents/AppliedFiniteMath-3ed-Current.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/f3ce87361b49c5c447cc676ce79c11ace9dc17f57c77261fdcb855dd6517b40f/media/Foundation/CA15/mathematical-methods/Applied_Finite_Mathematics_3e.pdf",
+      "download_verified": true,
+      "sha256": "f3ce87361b49c5c447cc676ce79c11ace9dc17f57c77261fdcb855dd6517b40f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA15/networks-and-finance/Math_in_Society_2_6.pdf",
@@ -177,7 +313,15 @@
     "source_url": "https://www.opentextbookstore.com/mathinsociety/current2.php?chapter=MathinSociety.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/0ddc16f79fa5a8876895dcea76c270e87f975b67d0cb17a80a3f77c820897492/media/Foundation/CA15/networks-and-finance/Math_in_Society_2_6.pdf",
+      "download_verified": true,
+      "sha256": "0ddc16f79fa5a8876895dcea76c270e87f975b67d0cb17a80a3f77c820897492",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA15/operations-research/From_Theory_to_Application_OR_Illustrations_Omitted.pdf",
@@ -187,7 +331,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d3bbb4a3ed5a3f4042ed2f06fb01b88d20709c702c5f98d2f7dbf199a5fd2bf7/media/Foundation/CA15/operations-research/From_Theory_to_Application_OR_Illustrations_Omitted.pdf",
+      "download_verified": true,
+      "sha256": "d3bbb4a3ed5a3f4042ed2f06fb01b88d20709c702c5f98d2f7dbf199a5fd2bf7",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA15/statistics/OpenIntro_Statistics_4e_Accessible.pdf",
@@ -197,7 +349,15 @@
     "source_url": "https://www.openintro.org/go/?id=os4_for_screen_reader&referrer=%2Fbook%2Fos%2Findex.php",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/e261e4aea0eb4f0fd2b9d340604918ee7145e1a98e00313575c88977b671cb40/media/Foundation/CA15/statistics/OpenIntro_Statistics_4e_Accessible.pdf",
+      "download_verified": true,
+      "sha256": "e261e4aea0eb4f0fd2b9d340604918ee7145e1a98e00313575c88977b671cb40",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA16/office-suite/Getting_Started_with_LibreOffice_25.2.pdf",
@@ -207,7 +367,15 @@
     "source_url": "https://nextcloud.documentfoundation.org/s/c6b7sJfN6NmzBzQ/download",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d81b90ed68f52208f5dbb597cee5935a0ff8af8766929aad965d76cc91220408/media/Foundation/CA16/office-suite/Getting_Started_with_LibreOffice_25.2.pdf",
+      "download_verified": true,
+      "sha256": "d81b90ed68f52208f5dbb597cee5935a0ff8af8766929aad965d76cc91220408",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA16/presentations/LibreOffice_Impress_Guide_25.2.pdf",
@@ -217,7 +385,15 @@
     "source_url": "https://nextcloud.documentfoundation.org/s/sTfTQ2p6TBMQHRo/download",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/24edcdf7363ff2ce72dd136148f6d9175b0b03b55d3bd2c9f21ca8fb8b8431ba/media/Foundation/CA16/presentations/LibreOffice_Impress_Guide_25.2.pdf",
+      "download_verified": true,
+      "sha256": "24edcdf7363ff2ce72dd136148f6d9175b0b03b55d3bd2c9f21ca8fb8b8431ba",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Foundation/CA16/spreadsheets/LibreOffice_Calc_Guide_25.2.pdf",
@@ -227,7 +403,15 @@
     "source_url": "https://nextcloud.documentfoundation.org/s/fc8c5EMR9X2RWop/download",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a30c8f1184af89f737fafd4f85a4ec23e96a697c156deb97c8f4dd1818e0d2bb/media/Foundation/CA16/spreadsheets/LibreOffice_Calc_Guide_25.2.pdf",
+      "download_verified": true,
+      "sha256": "a30c8f1184af89f737fafd4f85a4ec23e96a697c156deb97c8f4dd1818e0d2bb",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA23/IFRS-teaching/Intermediate_Financial_Accounting_Vol1_2021A_Appendix_Omitted.pdf",
@@ -237,7 +421,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8262e80844d1d154c707c7c44679a1c05b91e57acb45f89ef224b95910ba5a67/media/Intermediate/CA23/IFRS-teaching/Intermediate_Financial_Accounting_Vol1_2021A_Appendix_Omitted.pdf",
+      "download_verified": true,
+      "sha256": "8262e80844d1d154c707c7c44679a1c05b91e57acb45f89ef224b95910ba5a67",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA24/audit-methods/GAO_Yellow_Book_2024.pdf",
@@ -247,7 +439,15 @@
     "source_url": "https://www.gao.gov/assets/gao-24-106786.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/34738fa178b65351c9174bc378c778c712d64148f1a06096902f783435f7df76/media/Intermediate/CA24/audit-methods/GAO_Yellow_Book_2024.pdf",
+      "download_verified": true,
+      "sha256": "34738fa178b65351c9174bc378c778c712d64148f1a06096902f783435f7df76",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA24/internal-control/GAO_Green_Book_2025.pdf",
@@ -257,7 +457,15 @@
     "source_url": "https://www.gao.gov/assets/gao-25-107721.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/0bdd20ea2c528a372b6b0a4f6550256baff2b003a9417d60d23a923317d4aa86/media/Intermediate/CA24/internal-control/GAO_Green_Book_2025.pdf",
+      "download_verified": true,
+      "sha256": "0bdd20ea2c528a372b6b0a4f6550256baff2b003a9417d60d23a923317d4aa86",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/costing/Principles_of_Managerial_Accounting_Jonick.pdf",
@@ -267,7 +475,15 @@
     "source_url": "https://web.ung.edu/media/university-press/Principles%20of%20Managerial%20Accounting.pdf",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2da84c761a604accb2e89a8b895f6ba66370dcd7ca27cb96d3dd3f400d68c1ca/media/Intermediate/CA25/costing/Principles_of_Managerial_Accounting_Jonick.pdf",
+      "download_verified": true,
+      "sha256": "2da84c761a604accb2e89a8b895f6ba66370dcd7ca27cb96d3dd3f400d68c1ca",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter01.html",
@@ -277,7 +493,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/5ea1d48411f0a4c1350255f5e63a7522954eff7892eccda605a0bc3aa4976f3b/media/Intermediate/CA25/open-cost-accounting/chapter01.html",
+      "download_verified": true,
+      "sha256": "5ea1d48411f0a4c1350255f5e63a7522954eff7892eccda605a0bc3aa4976f3b",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter02.html",
@@ -287,7 +511,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/b0cee3dab129800470c91bd96849aec59151f26bc7727baf5e8b50bda982e479/media/Intermediate/CA25/open-cost-accounting/chapter02.html",
+      "download_verified": true,
+      "sha256": "b0cee3dab129800470c91bd96849aec59151f26bc7727baf5e8b50bda982e479",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter03.html",
@@ -297,7 +529,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/88729848c2c92b44d60781c2f1d8de43eefdc277320dc9b54a3de7e01bb5997f/media/Intermediate/CA25/open-cost-accounting/chapter03.html",
+      "download_verified": true,
+      "sha256": "88729848c2c92b44d60781c2f1d8de43eefdc277320dc9b54a3de7e01bb5997f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter04.html",
@@ -307,7 +547,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/49e61a8160d26d2995faf3f2c118f8b061b0a5665cb1aef3dfdcb5ebc02caa19/media/Intermediate/CA25/open-cost-accounting/chapter04.html",
+      "download_verified": true,
+      "sha256": "49e61a8160d26d2995faf3f2c118f8b061b0a5665cb1aef3dfdcb5ebc02caa19",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter05.html",
@@ -317,7 +565,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/328de989471664eb5ede2c3309e46fdf3e261a836c94b265459f77c47608d931/media/Intermediate/CA25/open-cost-accounting/chapter05.html",
+      "download_verified": true,
+      "sha256": "328de989471664eb5ede2c3309e46fdf3e261a836c94b265459f77c47608d931",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter06.html",
@@ -327,7 +583,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/38cbc2975ec360e9ae058a7eda0013f03e844f47bee9747eda2ff46fe95b8e85/media/Intermediate/CA25/open-cost-accounting/chapter06.html",
+      "download_verified": true,
+      "sha256": "38cbc2975ec360e9ae058a7eda0013f03e844f47bee9747eda2ff46fe95b8e85",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter07.html",
@@ -337,7 +601,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/3e944c98f634efa230ee5d0d9e7f6f442f27b2b9d55ee5652b6a534b73e62115/media/Intermediate/CA25/open-cost-accounting/chapter07.html",
+      "download_verified": true,
+      "sha256": "3e944c98f634efa230ee5d0d9e7f6f442f27b2b9d55ee5652b6a534b73e62115",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter08.html",
@@ -347,7 +619,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a225c774bf81bd7f91103a1f155e6601ee398d704b6997dbe3de89c571318f16/media/Intermediate/CA25/open-cost-accounting/chapter08.html",
+      "download_verified": true,
+      "sha256": "a225c774bf81bd7f91103a1f155e6601ee398d704b6997dbe3de89c571318f16",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter09.html",
@@ -357,7 +637,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/288024caee89c08a79751f1b8f54d1d82ca7e4d09de11da58e1f5558454abc22/media/Intermediate/CA25/open-cost-accounting/chapter09.html",
+      "download_verified": true,
+      "sha256": "288024caee89c08a79751f1b8f54d1d82ca7e4d09de11da58e1f5558454abc22",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter10.html",
@@ -367,7 +655,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/518f658701e2680243c7fc5356fd63e2ead65dd1228720ba3415bc4375485e56/media/Intermediate/CA25/open-cost-accounting/chapter10.html",
+      "download_verified": true,
+      "sha256": "518f658701e2680243c7fc5356fd63e2ead65dd1228720ba3415bc4375485e56",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/chapter11.html",
@@ -377,7 +673,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/522182c6542ada33f0972e76cd0a7c8458b67d3f6a630e92c6e74247f6fe5636/media/Intermediate/CA25/open-cost-accounting/chapter11.html",
+      "download_verified": true,
+      "sha256": "522182c6542ada33f0972e76cd0a7c8458b67d3f6a630e92c6e74247f6fe5636",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/003-rca.png",
@@ -387,7 +691,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/rca.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ab499fb46e87d171466d61993518099e6b795fa253a79a215f903339f05ced02/media/Intermediate/CA25/open-cost-accounting/images/003-rca.png",
+      "download_verified": true,
+      "sha256": "ab499fb46e87d171466d61993518099e6b795fa253a79a215f903339f05ced02",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/004-Differentiation-chapter-2.png",
@@ -397,7 +709,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/Differentiation-chapter-2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a323e3e49257d6a1804242d49c6496ae144a2695956a95813388913843ffdbd1/media/Intermediate/CA25/open-cost-accounting/images/004-Differentiation-chapter-2.png",
+      "download_verified": true,
+      "sha256": "a323e3e49257d6a1804242d49c6496ae144a2695956a95813388913843ffdbd1",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/005-Cost-leadership-chapter-2.png",
@@ -407,7 +727,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/Cost-leadership-chapter-2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/b9e7e725d8d10d9e7662d5849d2c11d3946dad51192aa2060574bd99c0de3a8c/media/Intermediate/CA25/open-cost-accounting/images/005-Cost-leadership-chapter-2.png",
+      "download_verified": true,
+      "sha256": "b9e7e725d8d10d9e7662d5849d2c11d3946dad51192aa2060574bd99c0de3a8c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/007-unit_cm_and_cm_ratio.png",
@@ -417,7 +745,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/unit_cm_and_cm_ratio.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8b1492962d6d16b77ca95eb9e1d96a8a113bd0471d4e3069d3c1c3d56cfb665a/media/Intermediate/CA25/open-cost-accounting/images/007-unit_cm_and_cm_ratio.png",
+      "download_verified": true,
+      "sha256": "8b1492962d6d16b77ca95eb9e1d96a8a113bd0471d4e3069d3c1c3d56cfb665a",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/008-b_e_unit_cm_and_cm_ratio-1.png",
@@ -427,7 +763,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/b_e_unit_cm_and_cm_ratio-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2c41d20b48933f79e8af5550b7144520c1d932fba7c5926bdf965d7ff47d5552/media/Intermediate/CA25/open-cost-accounting/images/008-b_e_unit_cm_and_cm_ratio-1.png",
+      "download_verified": true,
+      "sha256": "2c41d20b48933f79e8af5550b7144520c1d932fba7c5926bdf965d7ff47d5552",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/009-multi_product_unit_cm_and_cm_ratio.png",
@@ -437,7 +781,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/multi_product_unit_cm_and_cm_ratio.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8ef1006bdfaa88fd4eeeb8ac6774577ac5eea70bf17d510915da66598f648690/media/Intermediate/CA25/open-cost-accounting/images/009-multi_product_unit_cm_and_cm_ratio.png",
+      "download_verified": true,
+      "sha256": "8ef1006bdfaa88fd4eeeb8ac6774577ac5eea70bf17d510915da66598f648690",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/010-dol_fig-1.png",
@@ -447,7 +799,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/dol_fig-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/0e801d314699f4db5ace4e4c405331b3ddd4fdea577c77cfd2aa961143bc9065/media/Intermediate/CA25/open-cost-accounting/images/010-dol_fig-1.png",
+      "download_verified": true,
+      "sha256": "0e801d314699f4db5ace4e4c405331b3ddd4fdea577c77cfd2aa961143bc9065",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/011-Constrainted-CM2a.png",
@@ -457,7 +817,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/01/Constrainted-CM2a.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/1ebc6993c3905396710c5f100b8bca81ef24fd1742afa155a0bf9541ebc302f2/media/Intermediate/CA25/open-cost-accounting/images/011-Constrainted-CM2a.png",
+      "download_verified": true,
+      "sha256": "1ebc6993c3905396710c5f100b8bca81ef24fd1742afa155a0bf9541ebc302f2",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/014-location1_base2.png",
@@ -467,7 +835,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/location1_base2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a77c5160dab2e99afd3f8c1d62dd5b77ac3dd92cad681ad8069c813ade8967f7/media/Intermediate/CA25/open-cost-accounting/images/014-location1_base2.png",
+      "download_verified": true,
+      "sha256": "a77c5160dab2e99afd3f8c1d62dd5b77ac3dd92cad681ad8069c813ade8967f7",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/015-location1_labels2.png",
@@ -477,7 +853,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/location1_labels2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/41b910b09b700d45659443829fef7390cb62eab79af4f8569fa4eebaf3879eac/media/Intermediate/CA25/open-cost-accounting/images/015-location1_labels2.png",
+      "download_verified": true,
+      "sha256": "41b910b09b700d45659443829fef7390cb62eab79af4f8569fa4eebaf3879eac",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/016-OHabsorptionGIF.gif",
@@ -487,7 +871,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/OHabsorptionGIF.gif",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/5a0879a840f22e8f9b5d89b4c43ba61d8424d5129b6a0ba20fdd566e70692fde/media/Intermediate/CA25/open-cost-accounting/images/016-OHabsorptionGIF.gif",
+      "download_verified": true,
+      "sha256": "5a0879a840f22e8f9b5d89b4c43ba61d8424d5129b6a0ba20fdd566e70692fde",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/017-OH-ctrl2.png",
@@ -497,7 +889,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/09/OH-ctrl2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/daecb42cb36b500ac3fcbfc59b1578dbec9227fbe4920ca13bf7c62b8e4367cd/media/Intermediate/CA25/open-cost-accounting/images/017-OH-ctrl2.png",
+      "download_verified": true,
+      "sha256": "daecb42cb36b500ac3fcbfc59b1578dbec9227fbe4920ca13bf7c62b8e4367cd",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/018-Inventory-flow.gif",
@@ -507,7 +907,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/08/Inventory-flow.gif",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/f0ad78c8f6465101afd52ad9e045e01bcedcb01fcdbd2dea762e6947e2d0b24c/media/Intermediate/CA25/open-cost-accounting/images/018-Inventory-flow.gif",
+      "download_verified": true,
+      "sha256": "f0ad78c8f6465101afd52ad9e045e01bcedcb01fcdbd2dea762e6947e2d0b24c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/020-location2_abc-1.png",
@@ -517,7 +925,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/09/location2_abc-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/fe146b529e1ca4dcb581370fd8017aee4bbddddd2edc0d16acbf2798491bc99c/media/Intermediate/CA25/open-cost-accounting/images/020-location2_abc-1.png",
+      "download_verified": true,
+      "sha256": "fe146b529e1ca4dcb581370fd8017aee4bbddddd2edc0d16acbf2798491bc99c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/021-Ch5-Customer-Profitability1-2.png",
@@ -527,7 +943,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-Customer-Profitability1-2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/32281977c43e31c37259021a334e5ae4aa1939f2a9a2327debd7f59240dd52fe/media/Intermediate/CA25/open-cost-accounting/images/021-Ch5-Customer-Profitability1-2.png",
+      "download_verified": true,
+      "sha256": "32281977c43e31c37259021a334e5ae4aa1939f2a9a2327debd7f59240dd52fe",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/022-Ch5-Customer-Profitability2-4.png",
@@ -537,7 +961,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-Customer-Profitability2-4.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/4b5652eb4d1c800b26ac5e7f122b88023545d830557ad7a6b7763b27157dfe68/media/Intermediate/CA25/open-cost-accounting/images/022-Ch5-Customer-Profitability2-4.png",
+      "download_verified": true,
+      "sha256": "4b5652eb4d1c800b26ac5e7f122b88023545d830557ad7a6b7763b27157dfe68",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/023-Ch5-Customer-Profitability3-1.png",
@@ -547,7 +979,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-Customer-Profitability3-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/61fbf3ef3b6b56bb8e806e2faca476cc4ba18dfdefb71fb694d65e15238c23ed/media/Intermediate/CA25/open-cost-accounting/images/023-Ch5-Customer-Profitability3-1.png",
+      "download_verified": true,
+      "sha256": "61fbf3ef3b6b56bb8e806e2faca476cc4ba18dfdefb71fb694d65e15238c23ed",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/024-Ch5-ABM-product-mix-1.png",
@@ -557,7 +997,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-ABM-product-mix-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ad95e23b449400822e5136c5cc7dcadc3b84440228de679acdf533f18ce512ae/media/Intermediate/CA25/open-cost-accounting/images/024-Ch5-ABM-product-mix-1.png",
+      "download_verified": true,
+      "sha256": "ad95e23b449400822e5136c5cc7dcadc3b84440228de679acdf533f18ce512ae",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/025-Ch5-ABM-product-offerings-634x1024.png",
@@ -567,7 +1015,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-ABM-product-offerings-634x1024.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/acad9fa8e2ce20d538cf03594e9b0570c10eafd57d25fbb3d1a7d08a218a07f0/media/Intermediate/CA25/open-cost-accounting/images/025-Ch5-ABM-product-offerings-634x1024.png",
+      "download_verified": true,
+      "sha256": "acad9fa8e2ce20d538cf03594e9b0570c10eafd57d25fbb3d1a7d08a218a07f0",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/026-Ch5-ABM-product-improvements-1-594x1024.png",
@@ -577,7 +1033,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch5-ABM-product-improvements-1-594x1024.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/bd55d8455763bc047bb2ff128e75a784b992ee5c519934cf24c4e42fd9dac603/media/Intermediate/CA25/open-cost-accounting/images/026-Ch5-ABM-product-improvements-1-594x1024.png",
+      "download_verified": true,
+      "sha256": "bd55d8455763bc047bb2ff128e75a784b992ee5c519934cf24c4e42fd9dac603",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/028-ch-6-gif1.gif",
@@ -587,7 +1051,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-gif1.gif",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/eea0022186743631f78c1d9484465b706f0fc9008abbbc2f7957a71eb8e6043f/media/Intermediate/CA25/open-cost-accounting/images/028-ch-6-gif1.gif",
+      "download_verified": true,
+      "sha256": "eea0022186743631f78c1d9484465b706f0fc9008abbbc2f7957a71eb8e6043f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/029-ch-6-wa-v-fifo1-2.png",
@@ -597,7 +1069,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-wa-v-fifo1-2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/5c45e71c829c0976b24ff139ef4f28d6388dd782900ef939728b2663a6248cd6/media/Intermediate/CA25/open-cost-accounting/images/029-ch-6-wa-v-fifo1-2.png",
+      "download_verified": true,
+      "sha256": "5c45e71c829c0976b24ff139ef4f28d6388dd782900ef939728b2663a6248cd6",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/030-process-costing11.png",
@@ -607,7 +1087,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/09/process-costing11.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/467ee1f4599d7dee3e70653a1a997327773c43322cb144f2f084e311b4e8f341/media/Intermediate/CA25/open-cost-accounting/images/030-process-costing11.png",
+      "download_verified": true,
+      "sha256": "467ee1f4599d7dee3e70653a1a997327773c43322cb144f2f084e311b4e8f341",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/031-Ch6-WA-eqn1-TEU-1024x90.png",
@@ -617,7 +1105,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-WA-eqn1-TEU-1024x90.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/128f1db832a5e7acba765babfd9200a38abb09a325077060b534cfa4ccee5676/media/Intermediate/CA25/open-cost-accounting/images/031-Ch6-WA-eqn1-TEU-1024x90.png",
+      "download_verified": true,
+      "sha256": "128f1db832a5e7acba765babfd9200a38abb09a325077060b534cfa4ccee5676",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/032-ch-6-wa-teu1.png",
@@ -627,7 +1123,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/ch-6-wa-teu1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2fb7f2d1a95758b1621bb415ea4f2911e4614a8349f14e90c7bcb38203ec8ffd/media/Intermediate/CA25/open-cost-accounting/images/032-ch-6-wa-teu1.png",
+      "download_verified": true,
+      "sha256": "2fb7f2d1a95758b1621bb415ea4f2911e4614a8349f14e90c7bcb38203ec8ffd",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/033-Ch6-FIFO-eqn1-TEU-1024x63.png",
@@ -637,7 +1141,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-FIFO-eqn1-TEU-1024x63.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/248367b6731aa45443c191323e3b32e2a753ef830ee742f831ac91f8eda88ab1/media/Intermediate/CA25/open-cost-accounting/images/033-Ch6-FIFO-eqn1-TEU-1024x63.png",
+      "download_verified": true,
+      "sha256": "248367b6731aa45443c191323e3b32e2a753ef830ee742f831ac91f8eda88ab1",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/034-Ch6-FIFO-eqn3-TEU-1024x61.png",
@@ -647,7 +1159,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-FIFO-eqn3-TEU-1024x61.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/c798bc1c87e2f9d7c55721ffe652c87b27e4da2027e24b6d6b3f6e4fb3c1e5ec/media/Intermediate/CA25/open-cost-accounting/images/034-Ch6-FIFO-eqn3-TEU-1024x61.png",
+      "download_verified": true,
+      "sha256": "c798bc1c87e2f9d7c55721ffe652c87b27e4da2027e24b6d6b3f6e4fb3c1e5ec",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/035-Ch6-WA-eqn1-rates-1024x91.png",
@@ -657,7 +1177,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-WA-eqn1-rates-1024x91.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8c3bd209d1f575c20d4f3e9062fde5beed999534cd60bf90bd6cc55fb99102b0/media/Intermediate/CA25/open-cost-accounting/images/035-Ch6-WA-eqn1-rates-1024x91.png",
+      "download_verified": true,
+      "sha256": "8c3bd209d1f575c20d4f3e9062fde5beed999534cd60bf90bd6cc55fb99102b0",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/036-Ch6-WA-ex1.png",
@@ -667,7 +1195,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch6-WA-ex1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/72c896b009c8ba30e93128cfcb5e559791f2e1ebc299df20a7dca3505dab8b7a/media/Intermediate/CA25/open-cost-accounting/images/036-Ch6-WA-ex1.png",
+      "download_verified": true,
+      "sha256": "72c896b009c8ba30e93128cfcb5e559791f2e1ebc299df20a7dca3505dab8b7a",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/037-Ch6-WA-ex2-2.png",
@@ -677,7 +1213,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch6-WA-ex2-2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ca301ee7460ca7ec8d4e8f46022fcac31dca3ea5ad676b751f98091c091ba3fc/media/Intermediate/CA25/open-cost-accounting/images/037-Ch6-WA-ex2-2.png",
+      "download_verified": true,
+      "sha256": "ca301ee7460ca7ec8d4e8f46022fcac31dca3ea5ad676b751f98091c091ba3fc",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/038-Ch6-FIFO-eqn1-rates-1.png",
@@ -687,7 +1231,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-FIFO-eqn1-rates-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d158589532917b024d503c303b66f848a81fde250e95a1d2891aeda74a17c258/media/Intermediate/CA25/open-cost-accounting/images/038-Ch6-FIFO-eqn1-rates-1.png",
+      "download_verified": true,
+      "sha256": "d158589532917b024d503c303b66f848a81fde250e95a1d2891aeda74a17c258",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/039-Ch6-FIFO-ex1.png",
@@ -697,7 +1249,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/02/Ch6-FIFO-ex1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/e855b63910d8c49f57c33af6231da871ff2ad4b2718d6a6244ca54884e1c1992/media/Intermediate/CA25/open-cost-accounting/images/039-Ch6-FIFO-ex1.png",
+      "download_verified": true,
+      "sha256": "e855b63910d8c49f57c33af6231da871ff2ad4b2718d6a6244ca54884e1c1992",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/040-Chapter-6-FIFO-Step-3-Figure.png",
@@ -707,7 +1267,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2023/02/Chapter-6-FIFO-Step-3-Figure.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/684c1285f4a21672d6d534aaeb1e233a12fb729180ea7cbfb469a97e0e72295c/media/Intermediate/CA25/open-cost-accounting/images/040-Chapter-6-FIFO-Step-3-Figure.png",
+      "download_verified": true,
+      "sha256": "684c1285f4a21672d6d534aaeb1e233a12fb729180ea7cbfb469a97e0e72295c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/041-Ch6-FIFO-eqn3-TEU-1-1024x61.png",
@@ -717,7 +1285,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/Ch6-FIFO-eqn3-TEU-1-1024x61.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/401f3359119a3b4c2eb5476503eaef7585f0480589f971cdc6228ade1e215ffa/media/Intermediate/CA25/open-cost-accounting/images/041-Ch6-FIFO-eqn3-TEU-1-1024x61.png",
+      "download_verified": true,
+      "sha256": "401f3359119a3b4c2eb5476503eaef7585f0480589f971cdc6228ade1e215ffa",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/042-Chapter-6-Additive-Equation-Figure-1024x45.png",
@@ -727,7 +1303,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2023/02/Chapter-6-Additive-Equation-Figure-1024x45.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ea65c1279d81ecc0b94f5ad2c0c577b575a3cbf015deeb6b47e823208044f33f/media/Intermediate/CA25/open-cost-accounting/images/042-Chapter-6-Additive-Equation-Figure-1024x45.png",
+      "download_verified": true,
+      "sha256": "ea65c1279d81ecc0b94f5ad2c0c577b575a3cbf015deeb6b47e823208044f33f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/043-Chapter-6-FIFO-Step-3-Figure-Additive2.png",
@@ -737,7 +1321,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2023/02/Chapter-6-FIFO-Step-3-Figure-Additive2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a2b9b8acbab96d7430570b1a3e0e4c4b7db8debb24274011382d21c5e446fc99/media/Intermediate/CA25/open-cost-accounting/images/043-Chapter-6-FIFO-Step-3-Figure-Additive2.png",
+      "download_verified": true,
+      "sha256": "a2b9b8acbab96d7430570b1a3e0e4c4b7db8debb24274011382d21c5e446fc99",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/045-Ch7-VA1-1.png",
@@ -747,7 +1339,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VA1-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/541fd91fead2257071dce2c80e7dff9c203562240ffce66034fce5dc1a4495b2/media/Intermediate/CA25/open-cost-accounting/images/045-Ch7-VA1-1.png",
+      "download_verified": true,
+      "sha256": "541fd91fead2257071dce2c80e7dff9c203562240ffce66034fce5dc1a4495b2",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/046-variance_analysis_example_redo_v2-3.png",
@@ -757,7 +1357,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/03/variance_analysis_example_redo_v2-2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/4e441e9782d7afc12e68848c81a7f71006479146da1a614debb35be0e396255c/media/Intermediate/CA25/open-cost-accounting/images/046-variance_analysis_example_redo_v2-3.png",
+      "download_verified": true,
+      "sha256": "4e441e9782d7afc12e68848c81a7f71006479146da1a614debb35be0e396255c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/047-Ch7-spv-v2-1024x36.png",
@@ -767,7 +1375,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-spv-v2-1024x36.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8632956e2fface1c3028bbccc96115ea634d966c377429c2852ee6384fb2ca64/media/Intermediate/CA25/open-cost-accounting/images/047-Ch7-spv-v2-1024x36.png",
+      "download_verified": true,
+      "sha256": "8632956e2fface1c3028bbccc96115ea634d966c377429c2852ee6384fb2ca64",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/048-Ch7-spv-v2-pt-2-1024x44.png",
@@ -777,7 +1393,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-spv-v2-pt-2-1024x44.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/fa252183c7c9915da04a31656dda11a0a28796b1b9de4833547600d54b95a229/media/Intermediate/CA25/open-cost-accounting/images/048-Ch7-spv-v2-pt-2-1024x44.png",
+      "download_verified": true,
+      "sha256": "fa252183c7c9915da04a31656dda11a0a28796b1b9de4833547600d54b95a229",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/049-Ch7-svv-v2-1-1024x36.png",
@@ -787,7 +1411,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-svv-v2-1-1024x36.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/e837de34178d044bba183f0657be90698598bb6b156ceece1b75a1ad80d6d3c4/media/Intermediate/CA25/open-cost-accounting/images/049-Ch7-svv-v2-1-1024x36.png",
+      "download_verified": true,
+      "sha256": "e837de34178d044bba183f0657be90698598bb6b156ceece1b75a1ad80d6d3c4",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/050-Ch7-svv-v2-pt2-1024x45.png",
@@ -797,7 +1429,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-svv-v2-pt2-1024x45.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d2d1e504e212cfd0dc57706e1da8dcc66f9cb776a951c23d44b5736b4bd393f6/media/Intermediate/CA25/open-cost-accounting/images/050-Ch7-svv-v2-pt2-1024x45.png",
+      "download_verified": true,
+      "sha256": "d2d1e504e212cfd0dc57706e1da8dcc66f9cb776a951c23d44b5736b4bd393f6",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/052-Ch7-Flexible-Budget-v2.png",
@@ -807,7 +1447,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2019/03/Ch7-Flexible-Budget-v2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/3526696f9cc09a6aed3aa664b237fc7d342d11c367f400e09e047f404989b27c/media/Intermediate/CA25/open-cost-accounting/images/052-Ch7-Flexible-Budget-v2.png",
+      "download_verified": true,
+      "sha256": "3526696f9cc09a6aed3aa664b237fc7d342d11c367f400e09e047f404989b27c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/053-Ch7-CV-FB1.png",
@@ -817,7 +1465,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-CV-FB1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a23e22d065004e606518c6b57bcf77f291ce0ed5f53b631f1044ce9f35189951/media/Intermediate/CA25/open-cost-accounting/images/053-Ch7-CV-FB1.png",
+      "download_verified": true,
+      "sha256": "a23e22d065004e606518c6b57bcf77f291ce0ed5f53b631f1044ce9f35189951",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/054-Ch7-DLQ1.png",
@@ -827,7 +1483,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DLQ1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/b5b1ff9a33cfdaeac2f4a51cd29a37002e28019504262fe63b34d776735596cd/media/Intermediate/CA25/open-cost-accounting/images/054-Ch7-DLQ1.png",
+      "download_verified": true,
+      "sha256": "b5b1ff9a33cfdaeac2f4a51cd29a37002e28019504262fe63b34d776735596cd",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/055-Ch7-DLQ2.png",
@@ -837,7 +1501,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DLQ2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/b7a0353b9b6b5f52673cdec419117b3e096ed4e346d32c2e7c828d25b8d905e1/media/Intermediate/CA25/open-cost-accounting/images/055-Ch7-DLQ2.png",
+      "download_verified": true,
+      "sha256": "b7a0353b9b6b5f52673cdec419117b3e096ed4e346d32c2e7c828d25b8d905e1",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/056-Ch7-DLP1.png",
@@ -847,7 +1519,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DLP1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/88595388b9be30a4446b6cde0e144e1906a183020728783ab2896c0130718562/media/Intermediate/CA25/open-cost-accounting/images/056-Ch7-DLP1.png",
+      "download_verified": true,
+      "sha256": "88595388b9be30a4446b6cde0e144e1906a183020728783ab2896c0130718562",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/057-Ch7-DLPV3.png",
@@ -857,7 +1537,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DLPV3.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/52d5f94d357e180d40db52b11bb0d2f003b0994cd363b478bbca104f8373df82/media/Intermediate/CA25/open-cost-accounting/images/057-Ch7-DLPV3.png",
+      "download_verified": true,
+      "sha256": "52d5f94d357e180d40db52b11bb0d2f003b0994cd363b478bbca104f8373df82",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/058-Ch7-DL-JE.png",
@@ -867,7 +1555,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DL-JE.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a4979030a78b5e65ee8cf6e9d18bff30c493f4491d07858630899b21252f7975/media/Intermediate/CA25/open-cost-accounting/images/058-Ch7-DL-JE.png",
+      "download_verified": true,
+      "sha256": "a4979030a78b5e65ee8cf6e9d18bff30c493f4491d07858630899b21252f7975",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/059-Ch7-DMQV1.png",
@@ -877,7 +1573,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DMQV1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/248ecf6e26392b33d45ed636c455b8b4d07cf3edae0ba6539c9fda8355e4f033/media/Intermediate/CA25/open-cost-accounting/images/059-Ch7-DMQV1.png",
+      "download_verified": true,
+      "sha256": "248ecf6e26392b33d45ed636c455b8b4d07cf3edae0ba6539c9fda8355e4f033",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/060-Ch7-DMQV2.png",
@@ -887,7 +1591,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DMQV2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/00355d9a9d9039e877e41799cec723da3efc2d38d0f25d67a405471d3b05d47b/media/Intermediate/CA25/open-cost-accounting/images/060-Ch7-DMQV2.png",
+      "download_verified": true,
+      "sha256": "00355d9a9d9039e877e41799cec723da3efc2d38d0f25d67a405471d3b05d47b",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/061-Ch7-DMPV1.png",
@@ -897,7 +1609,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DMPV1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/cda439fa4435d3bfefece0430eb8947a7da3c932758941ad250689d7d51c052a/media/Intermediate/CA25/open-cost-accounting/images/061-Ch7-DMPV1.png",
+      "download_verified": true,
+      "sha256": "cda439fa4435d3bfefece0430eb8947a7da3c932758941ad250689d7d51c052a",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/062-Ch7-DMPV2.png",
@@ -907,7 +1627,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DMPV2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/3507d26f8970c5badbc708fbad411652d92b2edbc8c63e2e8fd5eaa974253771/media/Intermediate/CA25/open-cost-accounting/images/062-Ch7-DMPV2.png",
+      "download_verified": true,
+      "sha256": "3507d26f8970c5badbc708fbad411652d92b2edbc8c63e2e8fd5eaa974253771",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/063-Ch7-DM-T-acct2.png",
@@ -917,7 +1645,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-DM-T-acct2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/de9f6a71e9766faa6ba0cf5ad4ce6be9e1a9da5b6658c2f60775a22da17d2e30/media/Intermediate/CA25/open-cost-accounting/images/063-Ch7-DM-T-acct2.png",
+      "download_verified": true,
+      "sha256": "de9f6a71e9766faa6ba0cf5ad4ce6be9e1a9da5b6658c2f60775a22da17d2e30",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/064-Ch7-VOH-Q1.png",
@@ -927,7 +1663,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VOH-Q1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2daeb0fe8edaebf15d3769ffa2a00147fc3c1cb9cf4b9f686b43af76d77ede0b/media/Intermediate/CA25/open-cost-accounting/images/064-Ch7-VOH-Q1.png",
+      "download_verified": true,
+      "sha256": "2daeb0fe8edaebf15d3769ffa2a00147fc3c1cb9cf4b9f686b43af76d77ede0b",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/065-Ch7-VOH-Q2.png",
@@ -937,7 +1681,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VOH-Q2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/3e1b12fd5827465b7623c89ce4eeb57c15ffa8979a2f2e51d23cff96b774d752/media/Intermediate/CA25/open-cost-accounting/images/065-Ch7-VOH-Q2.png",
+      "download_verified": true,
+      "sha256": "3e1b12fd5827465b7623c89ce4eeb57c15ffa8979a2f2e51d23cff96b774d752",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/066-Ch7-VOH-P1.png",
@@ -947,7 +1699,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VOH-P1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/af9b6729ee3832d5a94a28b63ec7cbefc2f5ad7e582f50199e1fe7b9166ffcf6/media/Intermediate/CA25/open-cost-accounting/images/066-Ch7-VOH-P1.png",
+      "download_verified": true,
+      "sha256": "af9b6729ee3832d5a94a28b63ec7cbefc2f5ad7e582f50199e1fe7b9166ffcf6",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/067-Ch7-VOH-P2.png",
@@ -957,7 +1717,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-VOH-P2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/3d61c64868d3b3a7a1fc44daa19642f2768a2172d9e8072a27b5a8b3be753830/media/Intermediate/CA25/open-cost-accounting/images/067-Ch7-VOH-P2.png",
+      "download_verified": true,
+      "sha256": "3d61c64868d3b3a7a1fc44daa19642f2768a2172d9e8072a27b5a8b3be753830",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/068-variance_analysis_fo_example3-fix-2024.png",
@@ -967,7 +1735,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2024/04/variance_analysis_fo_example3-fix-2024.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d01d9df6e0c8c47a9a78ce4dea1e0465559e93b6f9c2ffa1bdc63fe39a615b9c/media/Intermediate/CA25/open-cost-accounting/images/068-variance_analysis_fo_example3-fix-2024.png",
+      "download_verified": true,
+      "sha256": "d01d9df6e0c8c47a9a78ce4dea1e0465559e93b6f9c2ffa1bdc63fe39a615b9c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/069-FOH-Volume-Variance-Formula-fix-2024-1024x37.png",
@@ -977,7 +1753,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2024/04/FOH-Volume-Variance-Formula-fix-2024-1024x37.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/153d03d05ae348bbe80e25f303b99b026b7e92efe851988a5cb909ba6563b2ad/media/Intermediate/CA25/open-cost-accounting/images/069-FOH-Volume-Variance-Formula-fix-2024-1024x37.png",
+      "download_verified": true,
+      "sha256": "153d03d05ae348bbe80e25f303b99b026b7e92efe851988a5cb909ba6563b2ad",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/070-Ch7-FOH-SPEND3.png",
@@ -987,7 +1771,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch7-FOH-SPEND3.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d5a59023eb502a23f95a105006723b39dcd4f33f6d63d2c97e6de046064684b3/media/Intermediate/CA25/open-cost-accounting/images/070-Ch7-FOH-SPEND3.png",
+      "download_verified": true,
+      "sha256": "d5a59023eb502a23f95a105006723b39dcd4f33f6d63d2c97e6de046064684b3",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/071-mix-var-eqn1.png",
@@ -997,7 +1789,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/mix-var-eqn1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8b709ff3c8c8501162ef17a2fff4a761e3cb08cd759879c8b4354fecb5dca8cf/media/Intermediate/CA25/open-cost-accounting/images/071-mix-var-eqn1.png",
+      "download_verified": true,
+      "sha256": "8b709ff3c8c8501162ef17a2fff4a761e3cb08cd759879c8b4354fecb5dca8cf",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/072-mix-var-table1-1.png",
@@ -1007,7 +1807,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/02/mix-var-table1-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/39b751e98ae13576c3b5a79265c38792ea410f30bdc21d39451c092fc5199880/media/Intermediate/CA25/open-cost-accounting/images/072-mix-var-table1-1.png",
+      "download_verified": true,
+      "sha256": "39b751e98ae13576c3b5a79265c38792ea410f30bdc21d39451c092fc5199880",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/073-Yield-Variance1-1024x41.png",
@@ -1017,7 +1825,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/03/Yield-Variance1-1024x41.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/3949da33282567b14f92cd34399660ac5b95189719ea9cbe81a5ce50cb8c0a18/media/Intermediate/CA25/open-cost-accounting/images/073-Yield-Variance1-1024x41.png",
+      "download_verified": true,
+      "sha256": "3949da33282567b14f92cd34399660ac5b95189719ea9cbe81a5ce50cb8c0a18",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/074-yield-variance-example-1-1.png",
@@ -1027,7 +1843,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/03/yield-variance-example-1-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/997ed41f3ad08cb2977b6e1236011f471a729f6353c5d7701624fec6cb5eb870/media/Intermediate/CA25/open-cost-accounting/images/074-yield-variance-example-1-1.png",
+      "download_verified": true,
+      "sha256": "997ed41f3ad08cb2977b6e1236011f471a729f6353c5d7701624fec6cb5eb870",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/076-Ch-8-new-profit.png",
@@ -1037,7 +1861,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-new-profit.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ffe38ccaad0bcbe6cf54f74ed4f94f1c231529aea2246944dcff6e0e9ffcfdb4/media/Intermediate/CA25/open-cost-accounting/images/076-Ch-8-new-profit.png",
+      "download_verified": true,
+      "sha256": "ffe38ccaad0bcbe6cf54f74ed4f94f1c231529aea2246944dcff6e0e9ffcfdb4",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/077-Ch-8-value-stream-income-stmt1.png",
@@ -1047,7 +1879,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-value-stream-income-stmt1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/9e77da049f9aa5ce6c10feeae25dbccfe1c85a3d33665f630642df35e7b6113c/media/Intermediate/CA25/open-cost-accounting/images/077-Ch-8-value-stream-income-stmt1.png",
+      "download_verified": true,
+      "sha256": "9e77da049f9aa5ce6c10feeae25dbccfe1c85a3d33665f630642df35e7b6113c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/078-Ch-8-value-stream-income-stmt4.png",
@@ -1057,7 +1897,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-value-stream-income-stmt4.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/46f089ea4ee14665d558f222ac3fe16cef6ab9d276be7e82b41e1eab2aa231bc/media/Intermediate/CA25/open-cost-accounting/images/078-Ch-8-value-stream-income-stmt4.png",
+      "download_verified": true,
+      "sha256": "46f089ea4ee14665d558f222ac3fe16cef6ab9d276be7e82b41e1eab2aa231bc",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/079-Ch-8-value-stream-income-stmt3.png",
@@ -1067,7 +1915,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-value-stream-income-stmt3.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2c6a501ad8b139e660744ddf0423cae8405da4cce94de2432c4b0f6fb8f214bb/media/Intermediate/CA25/open-cost-accounting/images/079-Ch-8-value-stream-income-stmt3.png",
+      "download_verified": true,
+      "sha256": "2c6a501ad8b139e660744ddf0423cae8405da4cce94de2432c4b0f6fb8f214bb",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/080-Ch-8-value-stream-income-stmt5.png",
@@ -1077,7 +1933,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-value-stream-income-stmt5.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/61792bff0496dbc70cd0fd9563b004e1c28e6970720466103ba0c002df579862/media/Intermediate/CA25/open-cost-accounting/images/080-Ch-8-value-stream-income-stmt5.png",
+      "download_verified": true,
+      "sha256": "61792bff0496dbc70cd0fd9563b004e1c28e6970720466103ba0c002df579862",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/081-Ch-8-backflush2.png",
@@ -1087,7 +1951,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-backflush2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/5dd6e12a54ff8d0fb1448a36bbde7b4efea82fbaa97a523a209d1987388b7221/media/Intermediate/CA25/open-cost-accounting/images/081-Ch-8-backflush2.png",
+      "download_verified": true,
+      "sha256": "5dd6e12a54ff8d0fb1448a36bbde7b4efea82fbaa97a523a209d1987388b7221",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/082-Ch-8-backflush3.png",
@@ -1097,7 +1969,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-backflush3.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/92984c1cbcf895b6fb332835e706a8b38ff14cbfdd9c9eb5984fc09c247fc64d/media/Intermediate/CA25/open-cost-accounting/images/082-Ch-8-backflush3.png",
+      "download_verified": true,
+      "sha256": "92984c1cbcf895b6fb332835e706a8b38ff14cbfdd9c9eb5984fc09c247fc64d",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/083-Ch-8-bachflush-example-1.png",
@@ -1107,7 +1987,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-8-bachflush-example-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/51acf6a9daabde792582e3bec6467dde1c53b9dbddb5173a976e5938c80328a9/media/Intermediate/CA25/open-cost-accounting/images/083-Ch-8-bachflush-example-1.png",
+      "download_verified": true,
+      "sha256": "51acf6a9daabde792582e3bec6467dde1c53b9dbddb5173a976e5938c80328a9",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/084-Ch-8-direct-costing1-1.png",
@@ -1117,7 +2005,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-direct-costing1-1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/cb1e4f10fbe9f92cadb14008078e146165378584cda0d1044ed74a2e403529d3/media/Intermediate/CA25/open-cost-accounting/images/084-Ch-8-direct-costing1-1.png",
+      "download_verified": true,
+      "sha256": "cb1e4f10fbe9f92cadb14008078e146165378584cda0d1044ed74a2e403529d3",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/085-Ch-8-direct-costing2.png",
@@ -1127,7 +2023,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-direct-costing2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/02fb42cffdbef6ff153b5939fd761330b26a426ade43846979a770b4f3b8ceb4/media/Intermediate/CA25/open-cost-accounting/images/085-Ch-8-direct-costing2.png",
+      "download_verified": true,
+      "sha256": "02fb42cffdbef6ff153b5939fd761330b26a426ade43846979a770b4f3b8ceb4",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/086-Ch-8-direct-costing3.png",
@@ -1137,7 +2041,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-direct-costing3.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8f68d1e465c71e6230cd9f15316959a3b050cb495d6656974da6bff205a967f3/media/Intermediate/CA25/open-cost-accounting/images/086-Ch-8-direct-costing3.png",
+      "download_verified": true,
+      "sha256": "8f68d1e465c71e6230cd9f15316959a3b050cb495d6656974da6bff205a967f3",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/087-Ch-8-backflush4.png",
@@ -1147,7 +2059,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/Ch-8-backflush4.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/6eec524442a5f285600cd4d4eed1b38ff22babc1908f09e83af258b8708ec2f2/media/Intermediate/CA25/open-cost-accounting/images/087-Ch-8-backflush4.png",
+      "download_verified": true,
+      "sha256": "6eec524442a5f285600cd4d4eed1b38ff22babc1908f09e83af258b8708ec2f2",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/088-ch-8-throughput1.png",
@@ -1157,7 +2077,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/10/ch-8-throughput1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/af12c12c60a0eb419af242b584e3afa403fd65e1609bfec42ab3b40ea28497f7/media/Intermediate/CA25/open-cost-accounting/images/088-ch-8-throughput1.png",
+      "download_verified": true,
+      "sha256": "af12c12c60a0eb419af242b584e3afa403fd65e1609bfec42ab3b40ea28497f7",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/089-throughput-constraint-1-1024x112.png",
@@ -1167,7 +2095,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2020/04/throughput-constraint-1-1024x112.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/b7fdb5363fc5dace594303ca0f5ed33f34a33442d3784c5f905edf691d6a56e8/media/Intermediate/CA25/open-cost-accounting/images/089-throughput-constraint-1-1024x112.png",
+      "download_verified": true,
+      "sha256": "b7fdb5363fc5dace594303ca0f5ed33f34a33442d3784c5f905edf691d6a56e8",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/092-master_budget_illustration2.png",
@@ -1177,7 +2113,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/master_budget_illustration2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ec1e47a5fc1adc40999fb2f331fb26eec29abd085296ba30b9d1dc934b0fc713/media/Intermediate/CA25/open-cost-accounting/images/092-master_budget_illustration2.png",
+      "download_verified": true,
+      "sha256": "ec1e47a5fc1adc40999fb2f331fb26eec29abd085296ba30b9d1dc934b0fc713",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/093-ch9-budget1-sales-budget2.png",
@@ -1187,7 +2131,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget1-sales-budget2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ade7f44c9194695713f31ca992338724b7c4405c39d769e4436226e7fa26637f/media/Intermediate/CA25/open-cost-accounting/images/093-ch9-budget1-sales-budget2.png",
+      "download_verified": true,
+      "sha256": "ade7f44c9194695713f31ca992338724b7c4405c39d769e4436226e7fa26637f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/094-ch9-budget2-cash-collection-sched2.png",
@@ -1197,7 +2149,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget2-cash-collection-sched2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/6a2923081f39b820808afe37a21d42b2d5159e57d8f2b07da8203c2a055e962b/media/Intermediate/CA25/open-cost-accounting/images/094-ch9-budget2-cash-collection-sched2.png",
+      "download_verified": true,
+      "sha256": "6a2923081f39b820808afe37a21d42b2d5159e57d8f2b07da8203c2a055e962b",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/095-ch9-budget3-production2.png",
@@ -1207,7 +2167,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget3-production2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/97a237c295ac41e078a80ac55e6c97dcd2435c625b7088c9d32e74cd61339941/media/Intermediate/CA25/open-cost-accounting/images/095-ch9-budget3-production2.png",
+      "download_verified": true,
+      "sha256": "97a237c295ac41e078a80ac55e6c97dcd2435c625b7088c9d32e74cd61339941",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/096-ch9-budget4-direct-materials.png",
@@ -1217,7 +2185,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget4-direct-materials.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/534dcf42d232e385c6b8f214710a7764d2df4e6f87346a0c33fac17c3a22d35c/media/Intermediate/CA25/open-cost-accounting/images/096-ch9-budget4-direct-materials.png",
+      "download_verified": true,
+      "sha256": "534dcf42d232e385c6b8f214710a7764d2df4e6f87346a0c33fac17c3a22d35c",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/097-ch9-budget5-cash-purchases-sched.png",
@@ -1227,7 +2203,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget5-cash-purchases-sched.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/1f55de29e91d31e1ba76ba653332b827b6eda77e77a2ccce4315cc85d78fb6a3/media/Intermediate/CA25/open-cost-accounting/images/097-ch9-budget5-cash-purchases-sched.png",
+      "download_verified": true,
+      "sha256": "1f55de29e91d31e1ba76ba653332b827b6eda77e77a2ccce4315cc85d78fb6a3",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/098-ch9-budget6-direct-labor.png",
@@ -1237,7 +2221,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget6-direct-labor.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/51463a8412e17f5d43f57fa594084479693f451efe648104ace7b205856b229e/media/Intermediate/CA25/open-cost-accounting/images/098-ch9-budget6-direct-labor.png",
+      "download_verified": true,
+      "sha256": "51463a8412e17f5d43f57fa594084479693f451efe648104ace7b205856b229e",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/099-ch9-budget7-OH.png",
@@ -1247,7 +2239,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget7-OH.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2f2933c55837f37b01f47e254fb8bb48d40eb105f9634733348d90c0556b32b9/media/Intermediate/CA25/open-cost-accounting/images/099-ch9-budget7-OH.png",
+      "download_verified": true,
+      "sha256": "2f2933c55837f37b01f47e254fb8bb48d40eb105f9634733348d90c0556b32b9",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/100-ch9-budget8-FG-INV.png",
@@ -1257,7 +2257,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget8-FG-INV.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d62236a78cb89f6257b4640ec30b5010780f889983919af068695ad9dd6bf37b/media/Intermediate/CA25/open-cost-accounting/images/100-ch9-budget8-FG-INV.png",
+      "download_verified": true,
+      "sha256": "d62236a78cb89f6257b4640ec30b5010780f889983919af068695ad9dd6bf37b",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/101-ch9-budget9-SGA.png",
@@ -1267,7 +2275,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget9-SGA.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/7cd79175d2a613394d3043c6033d95facf5ced100c85d3d62dd9965ad015ab12/media/Intermediate/CA25/open-cost-accounting/images/101-ch9-budget9-SGA.png",
+      "download_verified": true,
+      "sha256": "7cd79175d2a613394d3043c6033d95facf5ced100c85d3d62dd9965ad015ab12",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/102-ch9-budget10-Cash-budget3.png",
@@ -1277,7 +2293,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget10-Cash-budget3.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/cdd7b45be7007023b67f3a62b6d38d564af3211faff2a2de951f0cdd826d590e/media/Intermediate/CA25/open-cost-accounting/images/102-ch9-budget10-Cash-budget3.png",
+      "download_verified": true,
+      "sha256": "cdd7b45be7007023b67f3a62b6d38d564af3211faff2a2de951f0cdd826d590e",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/103-ch9-budget11-I-S2.png",
@@ -1287,7 +2311,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget11-I-S2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/93c207fbca3f04eaea4b3874ee61c4d33e9431d03580dacca1669d37a5d385b3/media/Intermediate/CA25/open-cost-accounting/images/103-ch9-budget11-I-S2.png",
+      "download_verified": true,
+      "sha256": "93c207fbca3f04eaea4b3874ee61c4d33e9431d03580dacca1669d37a5d385b3",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/104-ch9-budget12-B-S2.png",
@@ -1297,7 +2329,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget12-B-S2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/505bebc270f8277f698f976420f24ce5588933004b7de2371dcca8818b5bd20e/media/Intermediate/CA25/open-cost-accounting/images/104-ch9-budget12-B-S2.png",
+      "download_verified": true,
+      "sha256": "505bebc270f8277f698f976420f24ce5588933004b7de2371dcca8818b5bd20e",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/105-ch9-budget12-capital2.png",
@@ -1307,7 +2347,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget12-capital2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8c0d19e1b767ec485d80e86128ce9719a84f62a13622371b7d1d88f2e740e043/media/Intermediate/CA25/open-cost-accounting/images/105-ch9-budget12-capital2.png",
+      "download_verified": true,
+      "sha256": "8c0d19e1b767ec485d80e86128ce9719a84f62a13622371b7d1d88f2e740e043",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/106-ch9-budget15-25-lower-I-S1.png",
@@ -1317,7 +2365,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget15-25-lower-I-S1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/c4e773938182c8c39c3d18ccfd8a3706da43d70e5b0437aefefa1c5ca92ba8d7/media/Intermediate/CA25/open-cost-accounting/images/106-ch9-budget15-25-lower-I-S1.png",
+      "download_verified": true,
+      "sha256": "c4e773938182c8c39c3d18ccfd8a3706da43d70e5b0437aefefa1c5ca92ba8d7",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/107-ch9-budget15-25-lower-B-S1.png",
@@ -1327,7 +2383,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget15-25-lower-B-S1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/048de0cad1962ea8ded6548a84fd2f23ec0db87b7c44bef5c28567a239585c00/media/Intermediate/CA25/open-cost-accounting/images/107-ch9-budget15-25-lower-B-S1.png",
+      "download_verified": true,
+      "sha256": "048de0cad1962ea8ded6548a84fd2f23ec0db87b7c44bef5c28567a239585c00",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/108-ch9-budget15-25-higher-I-S1.png",
@@ -1337,7 +2401,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget15-25-higher-I-S1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/30e2ea929d440ea31c7a2c95c5e9007526aa4822c2c3b5472d660b0fd8ad572f/media/Intermediate/CA25/open-cost-accounting/images/108-ch9-budget15-25-higher-I-S1.png",
+      "download_verified": true,
+      "sha256": "30e2ea929d440ea31c7a2c95c5e9007526aa4822c2c3b5472d660b0fd8ad572f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/109-ch9-budget15-25-higher-B-S1.png",
@@ -1347,7 +2419,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget15-25-higher-B-S1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8391189bdf83d06d307f19e72e7ea9d8bedb4873f1353a1aea011f145298a483/media/Intermediate/CA25/open-cost-accounting/images/109-ch9-budget15-25-higher-B-S1.png",
+      "download_verified": true,
+      "sha256": "8391189bdf83d06d307f19e72e7ea9d8bedb4873f1353a1aea011f145298a483",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/110-ch9-budget14-capital-sens1.png",
@@ -1357,7 +2437,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch9-budget14-capital-sens1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/def3c0ed1aa8afdf8169df043b92cd0345fbb6b8855d373aef0aab73d8e17863/media/Intermediate/CA25/open-cost-accounting/images/110-ch9-budget14-capital-sens1.png",
+      "download_verified": true,
+      "sha256": "def3c0ed1aa8afdf8169df043b92cd0345fbb6b8855d373aef0aab73d8e17863",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/112-profit_centers1.png",
@@ -1367,7 +2455,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/profit_centers1.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/f2fc22f001b4c8a18a217447ebf4864f5e93dcf326569c773c9e2528ee9f509a/media/Intermediate/CA25/open-cost-accounting/images/112-profit_centers1.png",
+      "download_verified": true,
+      "sha256": "f2fc22f001b4c8a18a217447ebf4864f5e93dcf326569c773c9e2528ee9f509a",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/113-ch-10-interdependency.png",
@@ -1377,7 +2473,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-interdependency.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8ab5e5ed56b681ae0291e4cc5ea8d56cd33f345ecfa30b2a68135fa2efff5094/media/Intermediate/CA25/open-cost-accounting/images/113-ch-10-interdependency.png",
+      "download_verified": true,
+      "sha256": "8ab5e5ed56b681ae0291e4cc5ea8d56cd33f345ecfa30b2a68135fa2efff5094",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/114-ch-10-direct-method-2.png",
@@ -1387,7 +2491,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-direct-method-2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/07ea2d3182d84305a5d4ccc9c3be52f68b702272762b987b5369d78e140db629/media/Intermediate/CA25/open-cost-accounting/images/114-ch-10-direct-method-2.png",
+      "download_verified": true,
+      "sha256": "07ea2d3182d84305a5d4ccc9c3be52f68b702272762b987b5369d78e140db629",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/115-ch-10-step-down-2.gif",
@@ -1397,7 +2509,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-step-down-2.gif",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a24a7b692e061e09f5de5fdcd22d7f13f14e1ede0c0807d8804d2d815858921b/media/Intermediate/CA25/open-cost-accounting/images/115-ch-10-step-down-2.gif",
+      "download_verified": true,
+      "sha256": "a24a7b692e061e09f5de5fdcd22d7f13f14e1ede0c0807d8804d2d815858921b",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/116-ch-10-step-down-example.png",
@@ -1407,7 +2527,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-step-down-example.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/4e69b8de1cefb01deba6124cc02678f507c456aec4414211f4d7a68a5325277f/media/Intermediate/CA25/open-cost-accounting/images/116-ch-10-step-down-example.png",
+      "download_verified": true,
+      "sha256": "4e69b8de1cefb01deba6124cc02678f507c456aec4414211f4d7a68a5325277f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/117-ch-10-reciprocal-example.png",
@@ -1417,7 +2545,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/ch-10-reciprocal-example.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a8a4d7367896d3037d3b57cd6c81f2f93928b2eb5a0e3d4d61f7809b5e6e26fa/media/Intermediate/CA25/open-cost-accounting/images/117-ch-10-reciprocal-example.png",
+      "download_verified": true,
+      "sha256": "a8a4d7367896d3037d3b57cd6c81f2f93928b2eb5a0e3d4d61f7809b5e6e26fa",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/118-Ch3-SO2.png",
@@ -1427,7 +2563,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch3-SO2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8e9b3420135502956ddf7962e946944d69381ef53fade50af3ea92a67324dc4e/media/Intermediate/CA25/open-cost-accounting/images/118-Ch3-SO2.png",
+      "download_verified": true,
+      "sha256": "8e9b3420135502956ddf7962e946944d69381ef53fade50af3ea92a67324dc4e",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/119-ch-10-transfer-price-example2.png",
@@ -1437,7 +2581,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2024/04/ch-10-transfer-price-example2.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/520aeb5cdac03e5db63be09b75a8ae504399d9c08849d987414dfd2b0951b4b7/media/Intermediate/CA25/open-cost-accounting/images/119-ch-10-transfer-price-example2.png",
+      "download_verified": true,
+      "sha256": "520aeb5cdac03e5db63be09b75a8ae504399d9c08849d987414dfd2b0951b4b7",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/120-Ch-10-ROI-eqn.png",
@@ -1447,7 +2599,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-10-ROI-eqn.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/9fe7a1cc6ccc9ea429451216d7d432b38fc654f124fe67a5678f59a8ad83a36d/media/Intermediate/CA25/open-cost-accounting/images/120-Ch-10-ROI-eqn.png",
+      "download_verified": true,
+      "sha256": "9fe7a1cc6ccc9ea429451216d7d432b38fc654f124fe67a5678f59a8ad83a36d",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/121-Ch-10-ROI-example.png",
@@ -1457,7 +2617,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-10-ROI-example.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2f2e8aaae8f9d31768274ec9a88b5ed911dfc8ffc67be120be456766d752a722/media/Intermediate/CA25/open-cost-accounting/images/121-Ch-10-ROI-example.png",
+      "download_verified": true,
+      "sha256": "2f2e8aaae8f9d31768274ec9a88b5ed911dfc8ffc67be120be456766d752a722",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/122-Ch-10-RI-eqn.png",
@@ -1467,7 +2635,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-10-RI-eqn.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/4d3c410c0c990f0479a1fb3a34a59423a77ec4d4fad0186a97fb4b366eb227e9/media/Intermediate/CA25/open-cost-accounting/images/122-Ch-10-RI-eqn.png",
+      "download_verified": true,
+      "sha256": "4d3c410c0c990f0479a1fb3a34a59423a77ec4d4fad0186a97fb4b366eb227e9",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA25/open-cost-accounting/images/123-Ch-10-ROI-and-RI-example.png",
@@ -1477,7 +2653,15 @@
     "source_url": "https://www.opencostaccounting.org/wp-content/uploads/2018/11/Ch-10-ROI-and-RI-example.png",
     "kind": "supporting_diagram",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/a8790c5c64b66b4ab1d0805d819b9b7d4fa9865df030ccb5be6164a23a441825/media/Intermediate/CA25/open-cost-accounting/images/123-Ch-10-ROI-and-RI-example.png",
+      "download_verified": true,
+      "sha256": "a8790c5c64b66b4ab1d0805d819b9b7d4fa9865df030ccb5be6164a23a441825",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Intermediate/CA26/kenyan-tax-law/Finance_Act_2026_Gazette.pdf",
@@ -1487,7 +2671,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "pdf",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/242e42fa763a6932040e11971d03f0ec19250aef57d7e079e4845ae51f89b4a1/media/Intermediate/CA26/kenyan-tax-law/Finance_Act_2026_Gazette.pdf",
+      "download_verified": true,
+      "sha256": "242e42fa763a6932040e11971d03f0ec19250aef57d7e079e4845ae51f89b4a1",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/Kenyan-economic-data/CPI_metadata.json",
@@ -1497,7 +2689,15 @@
     "source_url": "https://api.worldbank.org/v2/sources/2/series/FP.CPI.TOTL.ZG/metadata?format=json",
     "kind": "dataset_metadata",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/79c30baf9daf0043d90e32c538f3ffb43e5fd3146901d8f48a3caa3e5cfd852e/media/Practical/CA35P/Kenyan-economic-data/CPI_metadata.json",
+      "download_verified": true,
+      "sha256": "79c30baf9daf0043d90e32c538f3ffb43e5fd3146901d8f48a3caa3e5cfd852e",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/Kenyan-economic-data/CPI_observations.json",
@@ -1507,7 +2707,15 @@
     "source_url": "https://api.worldbank.org/v2/country/KEN/indicator/FP.CPI.TOTL.ZG?format=json&date=2010:2025&per_page=100",
     "kind": "dataset_metadata",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/178a51cb03a363229fc97382f3bd4554a21dc079448fdfdc5eafcff072e15f01/media/Practical/CA35P/Kenyan-economic-data/CPI_observations.json",
+      "download_verified": true,
+      "sha256": "178a51cb03a363229fc97382f3bd4554a21dc079448fdfdc5eafcff072e15f01",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/Kenyan-economic-data/GDP_metadata.json",
@@ -1517,7 +2725,15 @@
     "source_url": "https://api.worldbank.org/v2/sources/2/series/NY.GDP.MKTP.KD.ZG/metadata?format=json",
     "kind": "dataset_metadata",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/607b700d2faccd323d1e0abbea1b7bad2d34cb59a428340da53b9b432703dc70/media/Practical/CA35P/Kenyan-economic-data/GDP_metadata.json",
+      "download_verified": true,
+      "sha256": "607b700d2faccd323d1e0abbea1b7bad2d34cb59a428340da53b9b432703dc70",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/Kenyan-economic-data/GDP_observations.json",
@@ -1527,7 +2743,15 @@
     "source_url": "https://api.worldbank.org/v2/country/KEN/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=2010:2025&per_page=100",
     "kind": "dataset_metadata",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/3fb1c4153eea39c1bbe10740d23f8ae61224ce28e302d79f508dbedefd1571dc/media/Practical/CA35P/Kenyan-economic-data/GDP_observations.json",
+      "download_verified": true,
+      "sha256": "3fb1c4153eea39c1bbe10740d23f8ae61224ce28e302d79f508dbedefd1571dc",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/Kenyan-economic-data/Kenya_WDI_GDP_CPI_Tax_2010_2025_Source_CSVs.zip",
@@ -1537,7 +2761,15 @@
     "source_url": "https://api.worldbank.org/v2/country/KEN/indicator/NY.GDP.MKTP.KD.ZG;FP.CPI.TOTL.ZG;GC.TAX.TOTL.GD.ZS?source=2&date=2010:2025&downloadformat=csv",
     "kind": "source_dataset_zip",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/ae7ad4860a2ef38ac4de662093db520d69458c1afbc994df2ab2f17a20030ac0/media/Practical/CA35P/Kenyan-economic-data/Kenya_WDI_GDP_CPI_Tax_2010_2025_Source_CSVs.zip",
+      "download_verified": true,
+      "sha256": "ae7ad4860a2ef38ac4de662093db520d69458c1afbc994df2ab2f17a20030ac0",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/Kenyan-economic-data/TAX_metadata.json",
@@ -1547,7 +2779,15 @@
     "source_url": "https://api.worldbank.org/v2/sources/2/series/GC.TAX.TOTL.GD.ZS/metadata?format=json",
     "kind": "dataset_metadata",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/8b5496efbfd497c870c2859acb2711f052c39620fa7c36b8215f429c836283c6/media/Practical/CA35P/Kenyan-economic-data/TAX_metadata.json",
+      "download_verified": true,
+      "sha256": "8b5496efbfd497c870c2859acb2711f052c39620fa7c36b8215f429c836283c6",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/Kenyan-economic-data/TAX_observations.json",
@@ -1557,7 +2797,15 @@
     "source_url": "https://api.worldbank.org/v2/country/KEN/indicator/GC.TAX.TOTL.GD.ZS?format=json&date=2010:2025&per_page=100",
     "kind": "dataset_metadata",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/2f277fcc495a7cd6ba8db4d4544157929d7ec1a889b54b1bdc07b720a35584dd/media/Practical/CA35P/Kenyan-economic-data/TAX_observations.json",
+      "download_verified": true,
+      "sha256": "2f277fcc495a7cd6ba8db4d4544157929d7ec1a889b54b1bdc07b720a35584dd",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/data-skills/py-lesson.html",
@@ -1567,7 +2815,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/b15d0886fed921ad5fd650a226716b2930f8897fc3a82f99f90146d3a664469e/media/Practical/CA35P/data-skills/py-lesson.html",
+      "download_verified": true,
+      "sha256": "b15d0886fed921ad5fd650a226716b2930f8897fc3a82f99f90146d3a664469e",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/data-skills/py-source.zip",
@@ -1577,7 +2833,15 @@
     "source_url": "https://codeload.github.com/swcarpentry/python-novice-gapminder/zip/03c39315c48b6a13c4b887bb200cbcd83ac6915c",
     "kind": "source_zip",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/af176096c4bcb2edcdafb0dfc5302717b8d96ae3855305042d9477536f7bfbee/media/Practical/CA35P/data-skills/py-source.zip",
+      "download_verified": true,
+      "sha256": "af176096c4bcb2edcdafb0dfc5302717b8d96ae3855305042d9477536f7bfbee",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/data-skills/sheet-lesson.html",
@@ -1587,7 +2851,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/45322a427a0a712f0e4eac7d1df275005f3d693bb50e98cee051330a76941daa/media/Practical/CA35P/data-skills/sheet-lesson.html",
+      "download_verified": true,
+      "sha256": "45322a427a0a712f0e4eac7d1df275005f3d693bb50e98cee051330a76941daa",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/data-skills/sheet-source.zip",
@@ -1597,7 +2869,15 @@
     "source_url": "https://codeload.github.com/datacarpentry/spreadsheet-ecology-lesson/zip/7de126d91c0d02634e127bd36035d25bd034f01e",
     "kind": "source_zip",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/3476b2985839d360879cb13541378f6f717323abfa7c639ede6ef4e444b111c9/media/Practical/CA35P/data-skills/sheet-source.zip",
+      "download_verified": true,
+      "sha256": "3476b2985839d360879cb13541378f6f717323abfa7c639ede6ef4e444b111c9",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/data-skills/sql-lesson.html",
@@ -1607,7 +2887,15 @@
     "source_url": "See resource catalogue and HTML adaptation register for derivative source",
     "kind": "offline_html",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/fee172beab4c1c15c1252d2b5d6c6102030ef52feed8733c500cc49209ed385f/media/Practical/CA35P/data-skills/sql-lesson.html",
+      "download_verified": true,
+      "sha256": "fee172beab4c1c15c1252d2b5d6c6102030ef52feed8733c500cc49209ed385f",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   },
   {
     "path": "media/Practical/CA35P/data-skills/sql-source.zip",
@@ -1617,6 +2905,14 @@
     "source_url": "https://codeload.github.com/swcarpentry/sql-novice-survey/zip/690c506ced52644813d2e7709aa7a2d70226ca66",
     "kind": "source_zip",
     "is_lfs_pointer": false,
-    "github_media_present": false
+    "github_media_present": false,
+    "storage": {
+      "provider": "Supabase Storage",
+      "bucket": "cpa-verified-library",
+      "object_path": "sha256/d47dff2d8fda783b6f7d940fafadf18fff7ddd09c78f3aa9c055f9c005913e59/media/Practical/CA35P/data-skills/sql-source.zip",
+      "download_verified": true,
+      "sha256": "d47dff2d8fda783b6f7d940fafadf18fff7ddd09c78f3aa9c055f9c005913e59",
+      "verified_utc": "2026-11-01T05:24:47.547403+00:00"
+    }
   }
 ]

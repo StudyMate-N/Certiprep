@@ -48,5 +48,11 @@
   ],
   "automatic_enrichment_id": "6ae658cc363c819186b39f5cd3e5438c",
   "workflow_skill": "maintain-kasneb-cpa-library",
-  "capabilities_guide": "reports/CAPABILITIES.md"
+  "capabilities_guide": "reports/CAPABILITIES.md",
+  "hosting_limits": {
+    "max_total_bytes": 838860800,
+    "max_cpa_bytes": 524288000,
+    "max_object_bytes": 40000000
+  },
+  "hosting_workflow": "maintenance/README.md; use scoped temporary exact-content upload proxy and close it after verified transfers"
 }

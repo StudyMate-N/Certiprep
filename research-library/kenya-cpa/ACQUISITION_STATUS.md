@@ -4,4 +4,4 @@ The verified master archive has been saved successfully: [download the archive](
 
 43 acquired entries group into 29 substantial works. The archive contains 162 actual media assets and 8,001 physical PDF pages. Source links, supporting assets and chapter splits do not inflate the planning target of 120. No paper is academically certified complete.
 
-The private Supabase catalogue is synchronized and verified; media are delivered in the archive. See RELEASE.json for the exact ZIP checksum, delivery receipt and connection limits.
+The private Supabase catalogue is synchronized and verified; 162 actual media files are also held in the private Supabase Storage mirror, with full downloaded-byte hash comparisons. See RELEASE.json for the exact ZIP checksum, delivery receipt and connection limits.

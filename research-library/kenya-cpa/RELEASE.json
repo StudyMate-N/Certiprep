@@ -14,11 +14,19 @@
   "actual_media_assets": 162,
   "source_records": 144,
   "physical_pdf_pages": 8001,
-  "media_in_supabase": false,
+  "media_in_supabase": true,
   "database_schema": "cpa_library",
   "skill_installed": true,
   "skill_detail_url": "https://chatgpt.com/skills?skill_id=6ae6c7a9b8808191997af44dc16207ff",
   "hourly_automation_enabled": true,
-  "dropbox_connected": false,
-  "academic_complete": false
+  "dropbox_connected": true,
+  "academic_complete": false,
+  "media_storage_bucket": "cpa-verified-library",
+  "media_storage_public": false,
+  "media_storage_objects": 162,
+  "media_storage_bytes": 277700279,
+  "all_hosted_objects_downloaded_and_sha256_verified": true,
+  "storage_verified_utc": "2026-11-01T05:24:47.547403+00:00",
+  "dropbox_backup_uploaded": false,
+  "post_archive_hosting_update": true
 }

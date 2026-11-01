@@ -1,3 +1,7 @@
+# Historical outage record — resolved
+
+This prior checkpoint is preserved for audit. Recovery, verified archive delivery and private file hosting are now complete; see the current SESSION_SUMMARY.md, ../../RELEASE.json and ../../STORAGE_VERIFICATION.json. The outage-era statements below are historical, not current availability claims.
+
 # Acquisition session — packaging blocked by environment outage
 
 The execution environment disconnected at approximately minute 59, before ZIP packaging and persistent saving. Subsequent connector-based reconciliation continued beyond the 60-minute endpoint. **No new master ZIP was created or delivered.** The session is not a completed artifact release.

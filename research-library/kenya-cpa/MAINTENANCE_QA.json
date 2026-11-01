@@ -1,0 +1,28 @@
+{
+  "checked_utc": "2026-11-01T05:31:41.992972+00:00",
+  "rights_and_academic_scope": "Mechanical/security verification only; no subject-expert certification",
+  "complete_media_hash_checks": 162,
+  "archive_manifest_files_verified": 226,
+  "sqlite_integrity": "passed",
+  "independent_read_only_checks": "Two workflow reviews with observed defects corrected",
+  "storage_proxy_live_checks": {
+    "small_object_bytes": 2690,
+    "large_object_bytes": 30235086,
+    "all_checked_bytes_match": true,
+    "inherited_path_status": 400,
+    "wrong_hash_status": 422,
+    "unauthenticated_status": 403
+  },
+  "runtime_checks_persist_under_python_optimization": true,
+  "credential_modes": {
+    "directory": "0700",
+    "key_file": "0600 atomic"
+  },
+  "verified_map_context": "project, bucket, exact content address and full-byte verification required",
+  "no_change_cycles": "successful no-op without credentials",
+  "signed_download_lifetime_seconds": 900,
+  "temporary_endpoint_closed": true,
+  "dropbox_connection_verified": true,
+  "final_independent_check": "No concrete defects remain in empty/unchanged cycles, context binding, own-property allowlist, credential permissions or exact upload validation.",
+  "preparer_sha256": "deb5cc313170520d7860ba7c382e7a438bd652f5ad2fb3d049dbbd3cb947e789"
+}
