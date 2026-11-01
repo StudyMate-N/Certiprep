@@ -1,0 +1,120 @@
+{
+  "run": "2026-11-01-1017Z",
+  "owner": "cpa-auto-20261101-1010-turn6",
+  "assessed": 3,
+  "accepted_external_links": 2,
+  "held_accuracy": 1,
+  "acquired_binary_files": 0,
+  "new_mirror_bytes": 0,
+  "source_decisions": [
+    {
+      "id": "PFM-PSASB-ELRN-Y2-2026",
+      "title": "PSASB Year 2 cash-to-accrual e-learning: IPSAS 12 inventories and noncurrent assets",
+      "decision": "ACCEPT_LINK",
+      "papers": [
+        "CA34S4",
+        "CA26"
+      ],
+      "source": "https://masomo.psasb.go.ke/",
+      "index": "https://psasb.go.ke/2026/02/19/",
+      "publication_date": "2026-02-19",
+      "evidence": "PSASB 19 February 2026 announcement states Year 2 Part 1 inventory IPSAS 12 and Part 2 IPSAS 27,31,43,45. Live official portal lists 14 lectures Part 1 and 43 Part 2; course content requires enrollment. Portal copyright 2026 all rights reserved; Terms & Conditions link returns 404. Neither lectures nor worked questions accessed.",
+      "quality": "Authoritative current Kenyan public-sector professional course access; contents and worked solutions unreviewed; registration gated; not KASNEB curriculum certification.",
+      "trigger": "PSASB course update, access terms restored, IPSAS transition change, exact permission grant",
+      "constraint": "Course pages are not commercial downloadable teaching assets; no copying videos, quizzes or screenshots.",
+      "rights": {
+        "read_at_source": "allowed_subject_to_access_terms",
+        "link_to_primary_source": "allowed_plain_reference_no_endorsement",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "extract_questions_and_solutions": "not_approved",
+        "database_fulltext_ingestion": "not_approved",
+        "database_bibliographic_metadata": "allowed_factual_reference",
+        "third_party_components": "unresolved_no_copying",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_rights_review_required"
+      },
+      "checked_utc": "2026-11-01T10:17:00Z",
+      "hosted_binary": false,
+      "downloaded_binary": false,
+      "sha256": null,
+      "licence_expiry": "No redistribution licence granted",
+      "independent_academic_review": "pending"
+    },
+    {
+      "id": "PFM-PSASB-TEMPLATES-FY2025-26",
+      "title": "PSASB FY2025/26 annual public-sector financial reporting templates index",
+      "decision": "ACCEPT_LINK",
+      "papers": [
+        "CA34S4",
+        "CA26"
+      ],
+      "source": "https://psasb.go.ke/financial-reporting-templates/",
+      "index": "https://psasb.go.ke/2026/08/",
+      "publication_date": "2026-08-03",
+      "evidence": "PSASB 3 August 2026 announcement reports FY2025/26 revised templates and 15 June 2026 Treasury direction. Official live index links MDA, county, state corporation and other FY2025/26 templates; individual MDA DOCX link could not be parsed by web reader; no template contents/embedded third-party rights or macro/payload inspection completed.",
+      "quality": "Current authoritative template discovery, not worked practice or validated template binary; 2024/25 and 2025/26 files coexist so exact FY matters.",
+      "trigger": "FY2026/27 replacement, correction, new template edition, licence grant, source terms change",
+      "constraint": "Do not download/host DOCX for distribution without full content, macro/payload and rights review.",
+      "rights": {
+        "read_at_source": "allowed_subject_to_access_terms",
+        "link_to_primary_source": "allowed_plain_reference_no_endorsement",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "extract_questions_and_solutions": "not_approved",
+        "database_fulltext_ingestion": "not_approved",
+        "database_bibliographic_metadata": "allowed_factual_reference",
+        "third_party_components": "unresolved_no_copying",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_rights_review_required"
+      },
+      "checked_utc": "2026-11-01T10:17:00Z",
+      "hosted_binary": false,
+      "downloaded_binary": false,
+      "sha256": null,
+      "licence_expiry": "No redistribution licence granted",
+      "independent_academic_review": "pending"
+    },
+    {
+      "id": "HOLD-ODPC-FAQ-PROCESSOR",
+      "title": "ODPC FAQ page — inconsistent answer to 'Who is a Data Processor?'",
+      "decision": "HOLD_ACCURACY",
+      "papers": [
+        "CA16",
+        "CA35P"
+      ],
+      "source": "https://www.odpc.go.ke/faqs/",
+      "index": "https://www.odpc.go.ke/data-protection-compliance/",
+      "publication_date": "live webpage, undated FAQ; checked 2026-11-01",
+      "evidence": "Official ODPC FAQ currently pairs the heading 'Who is a Data Processor?' with generic contact information rather than a definition. The separate ODPC compliance page defines processor as acting on behalf of controller. This is a selected-page accuracy defect, not evidence that all ODPC guidance is unreliable.",
+      "quality": "Do not use faulty FAQ answer as a teaching definition. Keep source as a flagged link for provenance and request correction/recheck.",
+      "trigger": "ODPC FAQ correction or authoritative updated definition",
+      "constraint": "No commercial copying or fulltext; existing separately reviewed ODPC DPIA guidance remains unaffected.",
+      "rights": {
+        "read_at_source": "allowed_subject_to_access_terms",
+        "link_to_primary_source": "allowed_plain_reference_no_endorsement",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "extract_questions_and_solutions": "not_approved",
+        "database_fulltext_ingestion": "not_approved",
+        "database_bibliographic_metadata": "allowed_factual_reference",
+        "third_party_components": "unresolved_no_copying",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_rights_review_required"
+      },
+      "checked_utc": "2026-11-01T10:17:00Z",
+      "hosted_binary": false,
+      "downloaded_binary": false,
+      "sha256": null,
+      "licence_expiry": "No redistribution licence granted",
+      "independent_academic_review": "pending"
+    }
+  ],
+  "no_third_party_media_acquired": true
+}
