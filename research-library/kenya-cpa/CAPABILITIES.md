@@ -11,7 +11,7 @@ Verified 1 November 2026 UTC. Use the minimum relevant capabilities and preserve
 | DOI/publisher and official repositories | Actual Springer, university, OPLA and author-hosted downloads verified | Exact editions, in-file permissions, source dates and actual teaching files | Check component credits; no universal publisher licence assumption |
 | Library | Durable deliverable saving through supported file upload workflow | Verified master ZIP and portable catalogue snapshot | Save receipt required; links alone are not acquired media |
 | Hourly automation | Existing CPA Library Continuous Review enabled | Bounded gap research, rights/currency checks, acquisition, catalogue/database maintenance and verified exports | Up to 40 minutes / 12 candidates / five approvals / 150 MiB; 50-minute non-overlap lease |
-| Dropbox | Connected; account identity verified | Optional archive backup; no Dropbox file has been uploaded | Follow the Dropbox upload skill for a confirmed destination before optional backup |
+| Dropbox | Declined for this request | Excluded from the CPA workflow | Do not use or suggest it again for this request |
 
 ## Skills and agent workflow
 
@@ -21,4 +21,4 @@ Use the PDF skill for adaptations and visual checks, Supabase guidance for datab
 
 The paused StudyMate-N Supabase project could not resume because of the active-free-project limit. No project was paused/deleted or upgraded. The active project now hosts the isolated private catalogue and the approved file bytes in a private storage bucket. Every hosted object was downloaded and compared to its acquired SHA-256. The verified archive remains available as an immutable snapshot. See session-2026-11-01/catalog/hosting.json for exact hosting verification and limitations.
 
-Private mirror: 162 objects / 277,700,279 bytes. The temporary transfer endpoint is closed, cleartext transfer keys removed, and no public read/write policy was added. The maintained upload proxy validates exact content, MIME and size; optimized-Python, path, privacy and repeat-cycle checks are documented in maintenance/README.md. Dropbox is connected but is not the active host. See STORAGE_VERIFICATION.json for the complete file-level evidence.
+Private mirror: 162 objects / 277,700,279 bytes. The temporary transfer endpoint is closed, cleartext transfer keys removed, and no public read/write policy was added. The maintained upload proxy validates exact content, MIME and size; optimized-Python, path, privacy and repeat-cycle checks are documented in maintenance/README.md. Dropbox is excluded from this request; Supabase remains the active host. See STORAGE_VERIFICATION.json for the complete file-level evidence.
