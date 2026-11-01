@@ -1,0 +1,39 @@
+{
+  "snapshot_kind": "post_release_database_metadata_only",
+  "verified_date": "2026-11-01",
+  "project_ref": "pebkqsyfliytbowxzyun",
+  "schema": "cpa_library",
+  "bucket": "cpa-verified-library",
+  "public": false,
+  "source_records": 146,
+  "accepted_links": 60,
+  "acquired_entries": 43,
+  "distinct_substantial_works": 29,
+  "asset_metadata_count": 162,
+  "storage_object_count": 162,
+  "asset_and_storage_bytes": 277700279,
+  "max_object_bytes": 30235086,
+  "asset_map_verification": {
+    "missing_objects": 0,
+    "size_mismatches": 0,
+    "hash_mapping_mismatches": 0,
+    "previously_unverified_flags": 0,
+    "method": "read-only SQL join on stored object path and size; relies on previous binary SHA-256 verification evidence; no full binary re-download this run"
+  },
+  "new_media_files": 0,
+  "new_media_bytes": 0,
+  "new_link_records": [
+    "STD-IFRS20-2026",
+    "STD-IFRS-SMES-2025-MODULES"
+  ],
+  "updated_link_record": [
+    "TAX-OCT2026-ALERT"
+  ],
+  "archive_unchanged": {
+    "filename": "Kenya_CPA_Verified_Master_2026-11-01.zip",
+    "sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+    "receipt": "research-library/kenya-cpa/RELEASE.json"
+  },
+  "complete_cpa_course": false,
+  "rights_summary": "All newly reviewed source materials link-only; no new commercial media rights cleared."
+}
