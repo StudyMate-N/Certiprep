@@ -1,0 +1,67 @@
+{
+  "review_utc": "2026-11-01T17:15:05.802Z",
+  "run_owner": "cpa-auto-20261101-1715Z-a12",
+  "status": "maintained_research_collection_not_certified_complete",
+  "verified_live_database": {
+    "project_ref": "pebkqsyfliytbowxzyun",
+    "schema": "cpa_library",
+    "resource_records": 177,
+    "accepted_links": 83,
+    "accuracy_holds": 9,
+    "acquired_entries": 43,
+    "grouped_substantial_works": 29,
+    "resource_inventory_md5": "7af585b6c422af04cff80e555a077e04",
+    "asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
+    "fingerprint_scope": "metadata synchronization only; not binary SHA-256"
+  },
+  "verified_private_storage": {
+    "bucket": "cpa-verified-library",
+    "public": false,
+    "objects": 162,
+    "bytes": 277700279,
+    "observed_all_buckets_bytes": 598089979,
+    "missing_objects": 0,
+    "size_mismatches": 0,
+    "content_address_mismatches": 0,
+    "previously_verified_download_flags": 162,
+    "new_binary_downloads": 0,
+    "new_hosted_objects": 0,
+    "verification_scope": "live metadata join and inherited SHA-256 evidence, not fresh binary redownload"
+  },
+  "catalogue_reconciliation": {
+    "prior_git_session_catalogue": 144,
+    "prior_live_database": 175,
+    "restored_to_canonical_git": 31,
+    "prior_existing_record_updated": "PFM-ACCRUAL",
+    "new_link_decisions": 2,
+    "updated_existing_syllabus": "OFF-SYLLABUS2024",
+    "canonical_json_and_csv_records": 177,
+    "github_csv_json_test": "passed, 177 unique IDs"
+  },
+  "rights_and_sources": {
+    "new_external_links": 2,
+    "new_accuracy_holds": 0,
+    "third_party_binaries_acquired": 0,
+    "source_ids": [
+      "LAW-BRS-MORATORIUM-GUIDE2024",
+      "LAW-BRS-CVA-PROCEDURE"
+    ],
+    "rechecked": [
+      "OFF-SYLLABUS2024"
+    ],
+    "decision_file": "maintenance/decisions/2026-11-01-1715Z.json",
+    "rights_file": "maintenance/rights/2026-11-01-1715Z.csv",
+    "practice_file": "maintenance/practice/CA21_restructuring_routes_original_2026-11-01.md",
+    "exact_edition_rights": "no commercial redistribution/adaptation/question-bank extraction/fulltext database/AI-training approval"
+  },
+  "archive": {
+    "status": "unchanged_verified_master",
+    "filename": "Kenya_CPA_Verified_Master_2026-11-01.zip",
+    "sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+    "receipt": "RELEASE.json",
+    "new_zip_created": false,
+    "reason": "no new approved media; immutable dated master retained; not freshly reopened in this pass"
+  },
+  "certified_complete_papers": 0,
+  "independent_academic_review": "pending"
+}
