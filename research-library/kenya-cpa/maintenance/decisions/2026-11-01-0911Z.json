@@ -1,0 +1,137 @@
+{
+  "run": "2026-11-01-0911Z",
+  "owner": "cpa-auto-20261101-0909-turn5",
+  "assessed": 4,
+  "accepted_external_links": 3,
+  "held_accuracy": 1,
+  "acquired_binary_files": 0,
+  "source_decisions": [
+    {
+      "id": "ICT-ODPC-DPIA-GUIDANCE2024",
+      "decision": "ACCEPT_LINK",
+      "papers": [
+        "CA16",
+        "CA35P",
+        "CA24"
+      ],
+      "source": "https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Note-on-Data-Protection-Impact-Assessment-1.pdf",
+      "evidence": "Official ODPC guidance PDF, selected definitions, mandate and DPIA text inspected; no exact-file redistribution licence established",
+      "review_trigger": "New ODPC guidance, law changes, licence or source terms",
+      "rights": {
+        "read_at_source": "subject_to_publisher_terms",
+        "link_to_primary_source": "allowed_no_endorsement",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "extract_questions_and_solutions": "not_approved",
+        "database_fulltext_ingestion": "not_approved",
+        "database_bibliographic_metadata": "allowed_factual_metadata",
+        "third_party_components": "unresolved",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_review_required"
+      },
+      "checked_utc": "2026-11-01T09:11Z",
+      "hosted_binary": false,
+      "downloaded_binary": false,
+      "sha256": null,
+      "licence_expiry": "No redistribution grant established",
+      "independent_academic_review": "pending"
+    },
+    {
+      "id": "LAW-BRS-BO-LN162-2023",
+      "decision": "ACCEPT_LINK",
+      "papers": [
+        "CA21",
+        "CA13",
+        "CA36WE"
+      ],
+      "source": "https://brs.go.ke/wp-content/uploads/2023/11/L.-N.-162-Companies-Beneficial-Ownership-Information-Amendment-Regulations-2023.pdf",
+      "evidence": "Official BRS hosted Gazette Supplement No. 198 of 19 October 2023, Legal Notice 162; selected clauses inspected; no exact-file redistribution licence",
+      "review_trigger": "Later legal notices, amendments, exact-edition grant",
+      "rights": {
+        "read_at_source": "subject_to_publisher_terms",
+        "link_to_primary_source": "allowed_no_endorsement",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "extract_questions_and_solutions": "not_approved",
+        "database_fulltext_ingestion": "not_approved",
+        "database_bibliographic_metadata": "allowed_factual_metadata",
+        "third_party_components": "unresolved",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_review_required"
+      },
+      "checked_utc": "2026-11-01T09:11Z",
+      "hosted_binary": false,
+      "downloaded_binary": false,
+      "sha256": null,
+      "licence_expiry": "No redistribution grant established",
+      "independent_academic_review": "pending"
+    },
+    {
+      "id": "DATA-CA-Q4-2025-26",
+      "decision": "ACCEPT_LINK",
+      "papers": [
+        "CA16",
+        "CA35P",
+        "CA14"
+      ],
+      "source": "https://www.ca.go.ke/sites/default/files/2026-09/Sector%20Statistics%20Report%20Q4%202025-2026_0.pdf",
+      "evidence": "Official 31-page CA report, April-June 2026; selected summary indicators checked; CA website states copyright all rights reserved; no full table extraction",
+      "review_trigger": "New quarter, revised operator returns, licensing changes",
+      "rights": {
+        "read_at_source": "subject_to_publisher_terms",
+        "link_to_primary_source": "allowed_no_endorsement",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "extract_questions_and_solutions": "not_approved",
+        "database_fulltext_ingestion": "not_approved",
+        "database_bibliographic_metadata": "allowed_factual_metadata",
+        "third_party_components": "unresolved",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_review_required"
+      },
+      "checked_utc": "2026-11-01T09:11Z",
+      "hosted_binary": false,
+      "downloaded_binary": false,
+      "sha256": null,
+      "licence_expiry": "No redistribution grant established",
+      "independent_academic_review": "pending"
+    },
+    {
+      "id": "HOLD-BRS-BO-GUIDE2023",
+      "decision": "HOLD_ACCURACY",
+      "papers": [
+        "CA21"
+      ],
+      "source": "https://brs.go.ke/wp-content/uploads/2023/03/Guide-on-Disclosure-of-Beneficial-Ownership-Information.pdf",
+      "evidence": "Official guide predates October 2023 amendment; complete legal reconciliation not performed; no commercial grant",
+      "review_trigger": "Complete legal reconciliation or revised official guide",
+      "rights": {
+        "read_at_source": "subject_to_publisher_terms",
+        "link_to_primary_source": "allowed_no_endorsement",
+        "download_for_redistribution": "not_approved",
+        "host_exact_packaged_work": "not_approved",
+        "adaptation": "not_approved",
+        "commercial_redistribution": "not_approved",
+        "extract_questions_and_solutions": "not_approved",
+        "database_fulltext_ingestion": "not_approved",
+        "database_bibliographic_metadata": "allowed_factual_metadata",
+        "third_party_components": "unresolved",
+        "ai_model_training": "unresolved_not_approved",
+        "rag_or_generated_outputs": "separate_review_required"
+      },
+      "checked_utc": "2026-11-01T09:11Z",
+      "hosted_binary": false,
+      "downloaded_binary": false,
+      "sha256": null,
+      "licence_expiry": "No redistribution grant established",
+      "independent_academic_review": "pending"
+    }
+  ],
+  "notes": "External links are not acquired media; do not copy government logos, charts, tables, personal data or legal notices into commercial products without separate rights. Earlier grants, if later evidenced, are evaluated against exact bytes and component rights."
+}
