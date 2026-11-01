@@ -1,0 +1,55 @@
+{
+  "review_utc": "2026-11-01T16:17:20.711Z",
+  "run_owner": "cpa-auto-20261101-1613Z-turn11",
+  "status": "maintained_research_collection_not_certified_complete",
+  "verified_live_database": {
+    "project_ref": "pebkqsyfliytbowxzyun",
+    "schema": "cpa_library",
+    "resource_records": 175,
+    "accepted_links": 81,
+    "accuracy_holds": 9,
+    "acquired_entries": 43,
+    "grouped_substantial_works": 29,
+    "resource_inventory_md5": "cf459db0932e9e48feb96fadb92a07b6",
+    "asset_inventory_md5": "99082694e39b7150ac3844c6efa4cf78",
+    "digest_order": "PostgreSQL C collation MD5 metadata fingerprint; existing binary SHA-256 evidence separately retained"
+  },
+  "verified_private_storage": {
+    "bucket": "cpa-verified-library",
+    "public": false,
+    "objects": 162,
+    "bytes": 277700279,
+    "observed_all_buckets_bytes": 598089979,
+    "missing_objects": 0,
+    "size_mismatches": 0,
+    "content_address_mismatches": 0,
+    "previously_verified_download_flags": 162,
+    "new_binary_downloads": 0,
+    "new_hosted_objects": 0,
+    "verification_scope": "live SQL metadata join, existing SHA-256 verified flags; no fresh binary re-download"
+  },
+  "rights_and_sources": {
+    "new_external_links": 4,
+    "new_accuracy_holds": 0,
+    "third_party_binaries_acquired": 0,
+    "source_ids": [
+      "STD-IAASB-ISA240R-2025",
+      "STD-IAASB-ISA570R-2024",
+      "STD-IAASB-ISSA5000-KE-ADOPTION2026",
+      "STD-ICPAK-IFRSS1S2-READINESS-2026"
+    ],
+    "decision_file": "maintenance/decisions/2026-11-01-1617Z.json",
+    "rights_file": "maintenance/rights/2026-11-01-1617Z.csv",
+    "practice_file": "maintenance/practice/CA34S2_2026_audit_standards_timing_original_2026-11-01.md"
+  },
+  "archive": {
+    "status": "unchanged_verified_master",
+    "filename": "Kenya_CPA_Verified_Master_2026-11-01.zip",
+    "sha256": "47984c6e56d91568b12f8ed53c4075de9232ee3dd40f848b585582cbf6f97c89",
+    "receipt": "RELEASE.json",
+    "new_zip_created": false,
+    "reason": "No new approved media; preserve immutable master"
+  },
+  "certified_complete_papers": 0,
+  "independent_academic_review": "pending"
+}

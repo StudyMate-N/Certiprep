@@ -1,0 +1,72 @@
+{
+  "as_of_utc": "2026-11-01T16:17:20.711Z",
+  "status": "targeted_topic_delta_not_full_syllabus_certification",
+  "papers": {
+    "CA24": {
+      "topics": [
+        "ISA 240 (Revised) transition",
+        "ISA 570 (Revised 2024) transition"
+      ],
+      "sources": [
+        "STD-IAASB-ISA240R-2025",
+        "STD-IAASB-ISA570R-2024"
+      ],
+      "worked_practice": "maintenance/practice/CA34S2_2026_audit_standards_timing_original_2026-11-01.md",
+      "independent_review": false,
+      "exam_cutoff_verified": false
+    },
+    "CA34S2": {
+      "topics": [
+        "fraud audit",
+        "going concern",
+        "sustainability assurance"
+      ],
+      "sources": [
+        "STD-IAASB-ISA240R-2025",
+        "STD-IAASB-ISA570R-2024",
+        "STD-IAASB-ISSA5000-KE-ADOPTION2026"
+      ],
+      "worked_practice": "maintenance/practice/CA34S2_2026_audit_standards_timing_original_2026-11-01.md",
+      "selected_arithmetic_verified": true,
+      "independent_review": false,
+      "exam_cutoff_verified": false,
+      "remaining_gaps": [
+        "Kenya ISA adoption and local implementation",
+        "full standard application and independently reviewed solutions",
+        "licensing of full authoritative standards"
+      ]
+    },
+    "CA32": {
+      "topics": [
+        "sustainability reporting vs assurance"
+      ],
+      "sources": [
+        "STD-IAASB-ISSA5000-KE-ADOPTION2026",
+        "STD-ICPAK-IFRSS1S2-READINESS-2026"
+      ],
+      "independent_review": false,
+      "exam_cutoff_verified": false
+    },
+    "CA23": {
+      "topics": [
+        "ICPAK PIE readiness and IFRS S1/S2 reporting distinction"
+      ],
+      "sources": [
+        "STD-ICPAK-IFRSS1S2-READINESS-2026"
+      ],
+      "independent_review": false,
+      "exam_cutoff_verified": false
+    },
+    "CA36WE": {
+      "topics": [
+        "sustainability assurance ethics and competence"
+      ],
+      "sources": [
+        "STD-IAASB-ISSA5000-KE-ADOPTION2026"
+      ],
+      "workshop_not_replaced": true,
+      "independent_review": false
+    }
+  },
+  "certified_complete_papers": 0
+}
