@@ -1,0 +1,34 @@
+{
+  "as_of_utc": "2026-11-01T13:15:00Z",
+  "status": "partial_current_topic_coverage_not_certified",
+  "papers": {
+    "CA26": {
+      "topic": "2026 Tax Procedures Act section 37E amnesty",
+      "teaching_source": "TAX-KRA-AMNESTY-2026 (official external link)",
+      "practice": "maintenance/practice/CA26_CA34S1_2026_tax_amnesty_original_2026-11-01.md",
+      "selected_worked_answers_checked": true,
+      "independent_review": false,
+      "exam_sitting_cutoff_verified": false,
+      "source_rights": "link_only",
+      "remaining_gaps": [
+        "full statutory interpretation",
+        "tax head exceptions",
+        "other CA26 outcomes"
+      ]
+    },
+    "CA34S1": {
+      "topic": "2026 tax amnesty eligibility and deadlines",
+      "teaching_source": "TAX-KRA-AMNESTY-2026",
+      "practice": "same original exercise",
+      "independent_review": false,
+      "exam_sitting_cutoff_verified": false,
+      "remaining_gaps": [
+        "advanced tax computations",
+        "judicial decisions",
+        "specialised tax planning"
+      ]
+    }
+  },
+  "historical_warning": "HOLD-KRA-AMNESTY-LEGACY-FAQ",
+  "completion": false
+}
