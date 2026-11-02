@@ -1908,5 +1908,53 @@
     "checked_utc": "2026-11-02T16:14:16Z",
     "scope": "external-only; recording-level redistribution and AI training not approved",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-WB-KENYA-SME-TAX-2024",
+    "source_url": "https://www.worldbank.org/en/events/2024/09/25/the-business-of-taxing-businesses-in-east-africa",
+    "licence": "World Bank site terms amended 2025-07-25: noncommercial use; derivative and commercial use require prior written consent; exact audiovisual and third-party rights unverified.",
+    "licence_url": "https://www.worldbank.org/ext/en/legal/terms-conditions",
+    "rights_actions": {
+      "adaptation": "Not approved without prior written permission",
+      "no_endorsement": "Do not imply World Bank, KRA, presenters or KASNEB endorse this library",
+      "read_at_source": "Noncommercial educational reading/viewing only, subject to World Bank site/player terms; verify individual access",
+      "database_rights": "One manually curated factual link only; no bulk extraction, systematic indexing or database replication",
+      "ai_model_training": "Separate unresolved gate; not approved",
+      "link_to_primary_source": "Manually curated attributed primary-page link; no endorsement implied",
+      "third_party_components": "Uncleared: speakers, photographs, slides, graphics, music, questions, examples and trademarks",
+      "host_exact_packaged_work": "Not approved; no rights-cleared, complete, hashed audiovisual bytes",
+      "rag_or_generated_outputs": "Separate unresolved gate; not approved",
+      "commercial_redistribution": "Not approved without prior written permission",
+      "download_for_redistribution": "Not approved without exact recording and component permissions",
+      "download_for_private_research": "Not performed; recording-specific terms and third-party components unresolved",
+      "extract_questions_and_solutions": "Not approved; no recording questions/solutions inspected or licensed"
+    },
+    "checked_utc": "2026-11-02T17:18:00Z",
+    "scope": "external-only; no commercial recording reuse, components or AI training approved",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-WB-REVENUE-RIGHT-2026",
+    "source_url": "https://www.worldbank.org/en/events/2026/09/23/raising-revenue-right",
+    "licence": "World Bank site terms amended 2025-07-25: noncommercial use; derivative and commercial use require prior written consent; exact audiovisual and third-party rights unverified.",
+    "licence_url": "https://www.worldbank.org/ext/en/legal/terms-conditions",
+    "rights_actions": {
+      "adaptation": "Not approved without prior written permission",
+      "no_endorsement": "Do not imply World Bank, KRA, presenters or KASNEB endorse this library",
+      "read_at_source": "Noncommercial educational reading/viewing only, subject to World Bank site/player terms; verify individual access",
+      "database_rights": "One manually curated factual link only; no bulk extraction, systematic indexing or database replication",
+      "ai_model_training": "Separate unresolved gate; not approved",
+      "link_to_primary_source": "Manually curated attributed primary-page link; no endorsement implied",
+      "third_party_components": "Uncleared: speakers, photographs, slides, graphics, music, questions, examples and trademarks",
+      "host_exact_packaged_work": "Not approved; no rights-cleared, complete, hashed audiovisual bytes",
+      "rag_or_generated_outputs": "Separate unresolved gate; not approved",
+      "commercial_redistribution": "Not approved without prior written permission",
+      "download_for_redistribution": "Not approved without exact recording and component permissions",
+      "download_for_private_research": "Not performed; recording-specific terms and third-party components unresolved",
+      "extract_questions_and_solutions": "Not approved; no recording questions/solutions inspected or licensed"
+    },
+    "checked_utc": "2026-11-02T17:18:00Z",
+    "scope": "external-only; no commercial recording reuse, components or AI training approved",
+    "next_review_due": "2026-11-16"
   }
 ]
