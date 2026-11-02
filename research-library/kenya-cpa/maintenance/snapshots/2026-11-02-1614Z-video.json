@@ -1,0 +1,29 @@
+{
+  "checked_utc": "2026-11-02T16:14:16Z",
+  "status": "maintained_research_collection",
+  "source_decisions": 260,
+  "accepted_external_links": 144,
+  "video_access_records": 83,
+  "acquired_entries": 43,
+  "substantial_works": 29,
+  "actual_media_objects": 162,
+  "private_cpa_bytes": 277700279,
+  "all_storage_bytes_observed": 598089979,
+  "missing_or_mismatched_storage_objects": 0,
+  "previously_download_sha256_verified": 162,
+  "newly_download_verified": 0,
+  "new_acquired_recordings": 0,
+  "full_playback_reviewed": 0,
+  "source_worked_answers_reviewed": 0,
+  "april_2027_coverage": "HOLD_UNMAPPED",
+  "independent_academic_review": "pending",
+  "new_source_ids": [
+    "VIDEO-WB-ABP-2026",
+    "VIDEO-WB-PUBLIC-ENTITY-CREDIT-2026"
+  ],
+  "delta_zip": "CPA_Library_Metadata_Delta_2026-11-02-1614Z.zip",
+  "delta_sha256": "2d21cdeb4bab29dca81e32d939bb8648964df00d7d3d293b1bded51da07cc33b",
+  "mirror_selected_paths": [],
+  "storage_transfer_endpoint": "closed_unchanged",
+  "master_archive": "immutable_unchanged"
+}
