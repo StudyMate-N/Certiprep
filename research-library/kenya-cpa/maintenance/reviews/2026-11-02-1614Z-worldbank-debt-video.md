@@ -20,3 +20,7 @@ After writes, **260** source decisions, **144** ACCEPT_LINK, **83** video access
 ## Dated verified export
 
 `CPA_Library_Metadata_Delta_2026-11-02-1614Z.zip` contains two decisions, 26 per-action rights rows, CA34S4/CA26 coverage delta, acquisition ledger and SQLite delta; **zero video or other media files**. Size **8,700 bytes**; SHA-256 `2d21cdeb4bab29dca81e32d939bb8648964df00d7d3d293b1bded51da07cc33b`. ZIP CRC, internal SHA-256 manifest, SQLite integrity and independently materialized Library read-back hash passed. Durable Library path `/CPA/CPA_Library_Metadata_Delta_2026-11-02-1614Z.zip`, file ID `libfile_55d0fbec9b9c8191af372496b9031741`. Original master ZIP and prior archive checksums unchanged. This is a **metadata delta**, not a full 260-record database backup or media archive.
+
+## Catalogue read-back safeguard
+
+The monolithic source-catalogue.json exceeded the GitHub Contents API inline 1 MiB threshold after this update, so a subsequent inline fetch returned no content. The original blob was **not** treated as deleted. Two new 130-record canonical JSON shards were created from live Supabase, individually fetched and parsed, and their combined 260 distinct sorted IDs matched all 260 live database IDs exactly. See [shard index](../../session-2026-11-01/catalog/source-catalogue-shards/README.md). The standing source CSV and two rights CSVs each contain 260 rows. Future maintenance should use versioned shards rather than overwriting the large monolithic JSON.
