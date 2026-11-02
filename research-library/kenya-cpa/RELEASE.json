@@ -452,6 +452,12 @@
     "source_decisions": 260,
     "timestamp_correction": "1230Z delta superseded by 1221Z v2; earlier checksum preserved",
     "resource_csv_records": 260,
-    "source_export_reconciliation": "5 omitted canonical records restored; 256/256 GitHub source JSON and CSV now match live database IDs"
+    "source_export_reconciliation": "5 omitted canonical records restored; 256/256 GitHub source JSON and CSV now match live database IDs",
+    "source_json_readback": "two versioned shards verified; monolithic >1MiB GitHub Contents API inline read unavailable",
+    "source_json_shards": [
+      "session-2026-11-01/catalog/source-catalogue-shards/2026-11-02-1614Z-part-1.json",
+      "session-2026-11-01/catalog/source-catalogue-shards/2026-11-02-1614Z-part-2.json"
+    ],
+    "source_shards_verified_ids": 260
   }
 }
