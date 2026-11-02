@@ -1023,5 +1023,25 @@
     "source_access": "PAID_PASSWORD_GATED_INDEX_NO_VERIFIED_RECORDINGS",
     "provenance_note": "Summit CA34S1 primary page checked 2026-11-02; © 2026 footer, KSh 8,000 and password gate, 11 listed lessons, last updated 2026-08-28; no exact recording permission.",
     "review_batch": "2026-11-02-1323Z-video"
+  },
+  {
+    "key": "ms-pl300-2024-index-20261102",
+    "url": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data",
+    "checked_utc": "2026-11-02T15:10:00Z",
+    "status": "publisher_episode_page_verified",
+    "raw_page_sha256": null,
+    "media_sha256": null,
+    "hash_scope": "No raw page or media bytes acquired; publisher chapter metadata and current Microsoft terms reviewed",
+    "rights_url": "https://learn.microsoft.com/en-us/legal/termsofuse"
+  },
+  {
+    "key": "cipit-synthetic-panel-20261102",
+    "url": "https://cipit.strathmore.edu/events/safeguarding-rights-in-synthetic-media-in-ea-ethical-ai-personal-data-and-creative-ownership/",
+    "checked_utc": "2026-11-02T15:10:00Z",
+    "status": "publisher_event_page_verified_accuracy_hold",
+    "raw_page_sha256": null,
+    "media_sha256": null,
+    "hash_scope": "No raw page or recording bytes acquired; statutory text cross-check only",
+    "primary_law_url": "https://new.kenyalaw.org/akn/ke/act/2019/24/eng@2019-11-15/source"
   }
 ]
