@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-02T12:30:00Z",
+  "checked_utc": "2026-11-02T12:20:28Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
@@ -47,7 +47,7 @@
   "current_actual_media_assets": 162,
   "latest_review": "YorkSpace CA12 2021 CC BY 4.0 external video; 1-page transcript reviewed; 152.81 MB MP4 not downloaded or hosted; components pending",
   "last_incremental_review": {
-    "date": "2026-11-02T12:30:00Z",
+    "date": "2026-11-02T12:20:28Z",
     "new_external_context_video": 1,
     "new_acquired_recordings": 0,
     "candidates_rejected": 2,
