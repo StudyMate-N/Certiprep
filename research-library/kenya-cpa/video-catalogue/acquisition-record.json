@@ -1,15 +1,15 @@
 {
-  "checked_utc": "2026-11-02T11:19:00Z",
+  "checked_utc": "2026-11-02T12:30:00Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
-  "new_catalogue_records": 46,
-  "new_accepted_access": 35,
+  "new_catalogue_records": 47,
+  "new_accepted_access": 36,
   "new_candidates": 2,
   "new_by_primary_level": {
     "Foundation": 14,
     "Intermediate": 13,
-    "Advanced": 12
+    "Advanced": 13
   },
   "existing_access_records_retained": 5,
   "metadata_checks": 19,
@@ -45,5 +45,12 @@
   "current_source_decisions": 251,
   "current_accepted_links": 138,
   "current_actual_media_assets": 162,
-  "latest_review": "YorkSpace CA12 2021 CC BY 4.0 external video; 1-page transcript reviewed; 152.81 MB MP4 not downloaded or hosted; components pending"
+  "latest_review": "YorkSpace CA12 2021 CC BY 4.0 external video; 1-page transcript reviewed; 152.81 MB MP4 not downloaded or hosted; components pending",
+  "last_incremental_review": {
+    "date": "2026-11-02T12:30:00Z",
+    "new_external_context_video": 1,
+    "new_acquired_recordings": 0,
+    "candidates_rejected": 2,
+    "record_id": "VIDEO-CABRI-REFORMIS-2026"
+  }
 }
