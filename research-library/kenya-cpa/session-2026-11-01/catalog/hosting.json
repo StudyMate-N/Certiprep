@@ -131,5 +131,22 @@
     ],
     "source_json_incremental_rows": 3,
     "academic_complete": false
+  },
+  "current_catalogue": {
+    "source_decisions": 267,
+    "source_records": 267,
+    "source_csv_rows": 267,
+    "rights_csv_records": 267,
+    "usage_rights_csv_records": 267,
+    "accepted_links": 151,
+    "video_catalogue_records": 90,
+    "video_recordings_acquired": 0,
+    "new_media_acquired": 0,
+    "actual_media_assets": 162,
+    "storage_bytes": 277700279,
+    "latest_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-2020Z-law-communication-video.md",
+    "latest_verified_utc": "2026-11-02T20:20:00Z",
+    "syllabus_transition_status": "HOLD_PRIMARY_2027_CPA_SYLLABUS",
+    "source_json_readback": "265 prior canonical IDs plus 2 new incremental IDs; preserved base and overlay; source/rights/usage CSV 267 IDs"
   }
 }

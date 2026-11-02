@@ -24,3 +24,7 @@ Apply [2026-11-02-1818Z-access-correction.json](2026-11-02-1818Z-access-correcti
 ## Two 2026 Kenyan tax video metadata decisions — 2 November 2026, 19:17 UTC
 
 The [two-record incremental shard](2026-11-02-1917Z-incremental.json) adds `VIDEO-CDH-FINANCEACT2026-POLICY` and `VIDEO-PKF-FINANCEACT2026-WEBINAR` to the previous 263 canonical IDs, yielding **265**. Apply the earlier IFRS 18 access overlay by ID; it remains a field correction, not a new source. Both entries are external-only metadata, with no recording downloads or new media hashes. Standing source and rights CSVs have 265 distinct rows each; the preserved monolithic source JSON remains historical.
+
+## 2026-11-02T20:20:00Z increment
+
+[Two-record external-only metadata shard](2026-11-02-2020Z-incremental.json) adds `VIDEO-CDH-KENYA-CORPORATE-GUIDE-2026`, `VIDEO-SGB-CA12-CLASS-2026` to the prior 265 canonical decisions, yielding **267**. Existing base shards, earlier incrementals and IFRS 18 access overlay are preserved. Standing source, rights and usage CSVs each reconcile to 267 distinct rows. Two blank action sets in the 19:17 usage export (CDH/PKF Finance Act videos) were restored from canonical Supabase records; no rights approval changed. No new acquired media.
