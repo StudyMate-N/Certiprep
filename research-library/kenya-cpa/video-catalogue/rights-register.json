@@ -1342,5 +1342,32 @@
     "rights_evidence": "World Bank terms amended 2025-07-25, third-party rights reserved, no endorsement",
     "rights_review_basis": "Primary publisher page and applicable site terms; no exact video bytes or in-file licence reviewed",
     "third_party_components": "not inspected; no recording bytes"
+  },
+  {
+    "id": "VIDEO-INTUIT-QBO-ZA",
+    "source_url": "https://quickbooks.intuit.com/za/tutorials/",
+    "licence": "Intuit site access terms restrict downloading, commercial use, derivatives, robots and data mining; exact South African recording-level licence and third-party rights unverified",
+    "licence_url": "https://quickbooks.intuit.com/software-licenses/website_terms_of_service/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed external link only; no endorsement, scraping, access bypass or republishing",
+      "read_at_source": "manual individual viewing subject to current terms; no automated extraction",
+      "download_for_private_research": "not performed; no licence for copying video or third-party components established",
+      "download_for_redistribution": "not_approved; exact edition/recording and component permissions missing",
+      "host_exact_packaged_work": "not_approved; no verified source bytes or commercial grant",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; source, embedded slides/images/music/third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared; no question/solution reuse grant",
+      "ai_model_training": "unresolved separate express permission gate",
+      "rag_or_generated_outputs": "unresolved separate rights/output review; no source copying",
+      "database_rights": "bibliographic links only; no automated bulk extraction",
+      "no_endorsement": "No Intuit or KASNEB affiliation; links only"
+    },
+    "checked_utc": "2026-11-02T03:09:33Z",
+    "scope": "external bibliographic link only",
+    "next_review_due": "2026-12-02",
+    "rights_evidence": "Official Intuit ZA video index and published site terms: personal site access; commercial copying, derivative use, bulk extraction and downloading not granted.",
+    "rights_review_basis": "Primary Intuit ZA tutorial index and Intuit QuickBooks.com terms read 2026-11-02; exact recording, in-file terms, and regional scope not established.",
+    "third_party_components": "No video bytes accessed; embedded media/slides/graphics/audio rights not verified.",
+    "rights_expiry": "No redistribution permission granted; public streaming may be modified or withdrawn."
   }
 ]

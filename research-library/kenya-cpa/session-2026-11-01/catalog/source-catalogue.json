@@ -6206,7 +6206,14 @@
     "rights_review_basis": "External-only or withheld: see decision_reason. Availability does not establish redistribution rights.",
     "licence_expiry": "See specific permission/statutory basis; no blanket perpetual grant asserted.",
     "rights_recheck_trigger": "New edition/hash, newly discovered component conflict, rights-holder claim, access terms change, proposed new use or condition breach; never silently substitute bytes.",
-    "question_rights_note": "Publicly visible questions, teacher access, paid enrolment or an answer key do not by themselves grant republication rights. Methods may be taught using independently authored questions."
+    "question_rights_note": "Publicly visible questions, teacher access, paid enrolment or an answer key do not by themselves grant republication rights. Methods may be taught using independently authored questions.",
+    "verification_updates": [
+      {
+        "checked_utc": "2026-11-02T03:09:33Z",
+        "authority_url": "https://www.kasneb.or.ke/node/196",
+        "finding": "CA37WP is official workshop alternative for candidates without one year relevant experience; source video-gallery entries are registration/promotional only, not certified work-simulation teaching. No workshop completion by video."
+      }
+    ]
   },
   {
     "id": "MCM-GENLETT",
@@ -15034,5 +15041,149 @@
     "additional_rights_urls": [
       "https://www.worldbank.org/ext/en/legal/terms-conditions/reproduction-and-use"
     ]
+  },
+  {
+    "id": "VIDEO-INTUIT-QBO-ZA",
+    "work_id": "VIDEO-INTUIT-QBO-ZA",
+    "title": "Intuit QuickBooks Online South Africa: official how-to video tutorials",
+    "level": "Practical/workshop",
+    "papers": [
+      "CA37WP"
+    ],
+    "topics": [
+      "accounting cycle simulation",
+      "customer invoices",
+      "chart of accounts",
+      "bank reconciliation",
+      "reports",
+      "transaction imports"
+    ],
+    "publisher": "Intuit / QuickBooks South Africa",
+    "authors": "Intuit publisher; exact recording speakers and third-party component authors unverified",
+    "publication_date": "Undated individual recordings; official page accessible 2026-11-02; do not infer 2026 recording dates",
+    "source_url": "https://quickbooks.intuit.com/za/tutorials/",
+    "checked_utc": "2026-11-02T03:09:33Z",
+    "decision": "ACCEPT_LINK",
+    "video_access_status": "PUBLIC_OFFICIAL_VIDEO_INDEX_METADATA_ONLY_NO_PLAYBACK",
+    "academic_quality": "Publisher-authoritative product workflows, not KASNEB-authorised CA37WP instruction; full playback and answers not reviewed.",
+    "syllabus_scope": "Supplementary accounting software workflow demonstrations only; South African regional interface, not Kenyan tax/legislation or official workshop substitute.",
+    "exam_sitting_certification": "not_certified; official KASNEB/ICPAK work-simulation assessment and attendance remain separate",
+    "accuracy_review": "Official publisher index lists invoices, journal/chart of accounts, bank reconciliation and reports. Independent synthetic bank reconciliation arithmetic checked, not a source-video worked solution.",
+    "content_review_extent": "Publisher page index inspected; 2026 US help article text on reconciliation cross-checked as concept only; no complete recording playback, timestamp or worked answer verification.",
+    "licence": "Intuit site access terms restrict downloading, commercial use, derivatives, robots and data mining; exact South African recording-level licence and third-party rights unverified",
+    "licence_url": "https://quickbooks.intuit.com/software-licenses/website_terms_of_service/",
+    "commercial_redistribution": "not_approved",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed external link only; no endorsement, scraping, access bypass or republishing",
+      "read_at_source": "manual individual viewing subject to current terms; no automated extraction",
+      "download_for_private_research": "not performed; no licence for copying video or third-party components established",
+      "download_for_redistribution": "not_approved; exact edition/recording and component permissions missing",
+      "host_exact_packaged_work": "not_approved; no verified source bytes or commercial grant",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; source, embedded slides/images/music/third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared; no question/solution reuse grant",
+      "ai_model_training": "unresolved separate express permission gate",
+      "rag_or_generated_outputs": "unresolved separate rights/output review; no source copying",
+      "database_rights": "bibliographic links only; no automated bulk extraction",
+      "no_endorsement": "No Intuit or KASNEB affiliation; links only"
+    },
+    "rights_review_utc": "2026-11-02T03:09:33Z",
+    "rights_recheck_trigger": "New/changed recording, region/product feature, terms, exact permission, source removal, proposed reuse or third-party claim.",
+    "rights_expiry": "No redistribution permission granted; public streaming may be modified or withdrawn.",
+    "decision_reason": "Fills CA37WP practical accounting workflow access gap with official vendor videos, without implying official workshop completion or Kenya-specific law.",
+    "acquisition_status": "external_access_only",
+    "local_media_present": false,
+    "github_media_present": false,
+    "packaged_bytes": 0,
+    "sha256": "",
+    "source_sha256": "",
+    "asset_key": "",
+    "package_path": "",
+    "source_download_url": "",
+    "download_availability": "No video downloader, enrollment bypass, media-byte retrieval or rehosting; source index only.",
+    "quality_review_status": "official_index_metadata_only; no_playback_or_academic_certification",
+    "rights_review_basis": "Primary Intuit ZA tutorial index and Intuit QuickBooks.com terms read 2026-11-02; exact recording, in-file terms, and regional scope not established.",
+    "rights_evidence": "Official Intuit ZA video index and published site terms: personal site access; commercial copying, derivative use, bulk extraction and downloading not granted.",
+    "licence_expiry": "No permission to host or redistribute; terms subject to change.",
+    "question_rights_note": "No third-party practice questions, solutions, screenshots or demonstrations extracted.",
+    "third_party_components": "No video bytes accessed; embedded media/slides/graphics/audio rights not verified.",
+    "source_page_evidence": {
+      "url": "https://quickbooks.intuit.com/za/tutorials/",
+      "checked_utc": "2026-11-02T03:09:33Z",
+      "retrieval": "Publisher web index metadata read; no raw source-byte hash",
+      "raw_bytes_hashed": false,
+      "evidence_sha256": null
+    },
+    "sample_lesson_url": "https://quickbooks.intuit.com/learn-support/en-us/help-article/statement-reconciliation/reconcile-account-quickbooks-online/L5PO58h0S_US_en_US",
+    "sample_video_url": "",
+    "sample_metadata": {
+      "status": "text transcript concept reviewed; not audiovisual playback",
+      "sample_updated": "2026-08-04",
+      "regional_caveat": "US help article differs from South Africa product, and neither establishes Kenyan legal treatment"
+    },
+    "review_batch": "2026-11-02-0310Z-video",
+    "new_in_batch": true
+  },
+  {
+    "id": "OFF-PSASB-FY2026-TEMPLATES",
+    "work_id": "OFF-PSASB-FY2026-TEMPLATES",
+    "title": "PSASB 2025/26 reporting templates rollout and year-two accrual inventory requirement",
+    "authors": "Benuel Bosire (PSASB news); June 15 2026 National Treasury circular referenced but not independently acquired",
+    "publisher": "Public Sector Accounting Standards Board, Kenya",
+    "papers": [
+      "CA34S4",
+      "CA26"
+    ],
+    "topics": [
+      "Kenyan public financial reporting",
+      "cash-to-accrual transition",
+      "inventory IPSAS 12",
+      "IPSAS 43-46",
+      "2025/26 reporting templates"
+    ],
+    "publication_date": "PSASB published 2026-08-03; reports circular dated 2026-06-15 for year ended 2026-06-30",
+    "source_url": "https://psasb.go.ke/psasb-releases-new-financial-reporting-templates-to-boost-accountability/",
+    "checked_utc": "2026-11-02T03:09:33Z",
+    "decision": "ACCEPT_LINK",
+    "academic_quality": "Primary Kenyan standards authority reports 2025/26 requirements; underlying templates/circular and specific worked examples not independently examined.",
+    "syllabus_scope": "Current Kenyan authority supplement for CA34S4 and CA26; not video, not full course and not evidence of KASNEB exam cut-off.",
+    "decision_reason": "Adds dated Kenyan reporting-currency authority: mandatory inventory in second transition year; templates updated for IPSAS 43/44/45/46.",
+    "licence": "No page/template-specific commercial republication grant established; IFAC/IPSAS third-party standards cannot be assumed reusable.",
+    "licence_url": "",
+    "rights_evidence": "Primary PSASB news article dated 3 Aug 2026; cited 15 June circular and linked templates not copied or licensed for redistribution.",
+    "commercial_redistribution": "not_approved",
+    "asset_key": "",
+    "package_path": "",
+    "github_media_present": false,
+    "local_media_present": false,
+    "packaged_bytes": 0,
+    "sha256": "",
+    "source_sha256": "",
+    "source_download_url": "",
+    "acquisition_status": "external_access_only",
+    "download_availability": "Official public announcement link only; no PDF, template, question, video or in-file licence acquired.",
+    "accuracy_review": "Selected factual dates and transition inventory requirement cross-checked against PSASB Year 2 course announcement (2026-02-19); not an audit of templates or all IPSAS worked examples.",
+    "quality_review_status": "primary_authority_metadata_review_only",
+    "exam_sitting_certification": "not_certified; 2025/26 reporting guidance does not prove the 2026 KASNEB sitting cut-off",
+    "rights_review_utc": "2026-11-02T03:09:33Z",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed external link only; no endorsement, scraping, access bypass or republishing",
+      "read_at_source": "public official announcement; underlying standards, templates and linked third-party components require separate access/rights review",
+      "download_for_private_research": "not performed; no licence for copying video or third-party components established",
+      "download_for_redistribution": "not_approved; exact edition/recording and component permissions missing",
+      "host_exact_packaged_work": "not_approved; no verified source bytes or commercial grant",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; source, embedded slides/images/music/third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared; no question/solution reuse grant",
+      "ai_model_training": "unresolved separate express permission gate",
+      "rag_or_generated_outputs": "unresolved separate rights/output review; no source copying",
+      "database_rights": "bibliographic links only; no automated bulk extraction",
+      "no_endorsement": "No PSASB, National Treasury or KASNEB endorsement claimed"
+    },
+    "rights_review_basis": "PSASB primary announcement and Year 2 announcement; no exact template or IFAC standard file inspected in this pass.",
+    "licence_expiry": "No commercial permission granted; recheck upon new circular/template or permission.",
+    "rights_recheck_trigger": "New 2026/27 templates, transition circular, correction, new edition, rights claim or proposed commercial use.",
+    "question_rights_note": "No PSASB illustrative questions, MCQs or solutions extracted; separate rights required.",
+    "third_party_components": "IFAC/IPSAS standards, embedded templates, figures and illustrations not acquired or cleared."
   }
 ]

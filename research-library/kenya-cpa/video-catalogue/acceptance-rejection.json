@@ -148,5 +148,32 @@
     "reason": "Advertised 16h conflicts with zero publicly listed sections and lectures; no resolved sample playback",
     "rights": "no recording rights established",
     "next_review_due": "2026-12-02"
+  },
+  {
+    "source": "KASNEB official video gallery",
+    "url": "https://www.kasneb.or.ke/video-gallery",
+    "decision": "REJECT_AS_CA37WP_TEACHING_VIDEO",
+    "checked_utc": "2026-11-02T03:09:33Z",
+    "reason": "Official videos concern qualifications, booking and registration; no work-simulation accounting lesson established.",
+    "rights": "No recording commercial reuse licence established",
+    "next_review_due": "2026-12-02"
+  },
+  {
+    "source": "Intuit ProAdvisor certification training",
+    "url": "https://quickbooks.intuit.com/accountants/training-certification/certification/",
+    "decision": "HOLD_GATED_RECORDING_ACCESS",
+    "checked_utc": "2026-11-02T03:09:33Z",
+    "reason": "Provider training access requires sign-in and individual modules/recording rights and Kenya applicability were not verified; avoid duplicate of public official how-to index.",
+    "rights": "No exact video redistribution rights established",
+    "next_review_due": "2026-12-02"
+  },
+  {
+    "source": "PPRA 12 Nov 2026 PPIP reporting webinar",
+    "url": "https://ppra.go.ke/public-procurement-information-portal-reporting-webinar-12th-november-2026/",
+    "decision": "REJECT_AS_EXISTING_RECORDING",
+    "checked_utc": "2026-11-02T03:09:33Z",
+    "reason": "Future fee-based event as of 2 Nov 2026, not an available recording. Do not register, pay or imply video acquired.",
+    "rights": "No recording/redistribution rights established",
+    "next_review_due": "2026-11-13"
   }
 ]

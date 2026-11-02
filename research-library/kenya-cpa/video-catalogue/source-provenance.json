@@ -801,5 +801,17 @@
     "media_downloaded": false,
     "review_scope": "Publisher lists 2022 video and embedded player, IPSAS/accountability tags; no playback or worked answers",
     "rights_url": "https://www.worldbank.org/ext/en/legal/terms-conditions"
+  },
+  {
+    "key": "VIDEO-INTUIT-QBO-ZA",
+    "url": "https://quickbooks.intuit.com/za/tutorials/",
+    "checked_utc": "2026-11-02T03:09:33Z",
+    "retrieval": "Official publisher index text via search/open; no recording bytes",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Publisher page index inspected; 2026 US help article text on reconciliation cross-checked as concept only; no complete recording playback, timestamp or worked answer verification.",
+    "rights_url": "https://quickbooks.intuit.com/software-licenses/website_terms_of_service/"
   }
 ]
