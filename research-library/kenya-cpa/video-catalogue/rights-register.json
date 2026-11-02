@@ -1983,5 +1983,57 @@
     "third_party_components": "Uncleared; no in-recording licences inspected",
     "next_review_due": "2026-11-16",
     "rights_evidence": "ICPAK/Bafunde primary course indexes inspected 2026-11-02; Bafunde footer ©2021 All Rights Reserved; no in-video or third-party grant inspected; Vimeo metadata not proof of authority"
+  },
+  {
+    "id": "VIDEO-CDH-FINANCEACT2026-POLICY",
+    "source_url": "https://www.cliffedekkerhofmeyr.com/en/news/media/2026/Tax-Exchange-Control/Watch-Finance-Act-2026-What-It-Means-for-Investors-Businesses-and-Kenyas-Tax-Future",
+    "licence": "CDH ©2026 all rights reserved; disclaimer temporary single-screen viewing only; no permanent redistribution",
+    "licence_url": "https://www.cliffedekkerhofmeyr.com/en/disclaimer.html",
+    "rights_actions": {
+      "adaptation": "not approved; slides, screenshots, voices, photographs, music and third-party materials unverified",
+      "no_endorsement": "do not imply PKF, CDH, KRA, YouTube or KASNEB approval",
+      "read_at_source": "ordinary authorized browser viewing of publisher page/video only",
+      "database_rights": "one manually curated bibliographic record; no bulk catalogue harvesting",
+      "ai_model_training": "unresolved separate permission gate; not approved",
+      "link_to_primary_source": "single manually curated attributed reference; no endorsement or access bypass",
+      "third_party_components": "uncleared: video/YouTube audiovisual rights, speakers, music, photos, slides, graphics, third-party quotations and questions",
+      "host_exact_packaged_work": "not approved; no recording bytes or verified exact-file licence",
+      "rag_or_generated_outputs": "separate permission gate; no video/transcript ingestion",
+      "commercial_redistribution": "not approved; copyright reserved and no recording-specific grant",
+      "download_for_redistribution": "not approved; recording licence and embedded components uncleared",
+      "download_for_private_research": "not performed; no video downloader or enrolment bypass",
+      "extract_questions_and_solutions": "not approved; no rights for any questions or model answers"
+    },
+    "checked_utc": "2026-11-02T19:17:00Z",
+    "scope": "External publisher video metadata only; no acquired recording, no full playback or worked-answer review",
+    "third_party_components": "uncleared: video/YouTube audiovisual rights, speakers, music, photos, slides, graphics, third-party quotations and questions",
+    "next_review_due": "2026-11-16",
+    "rights_evidence": "CDH primary publisher page dated 20 Aug 2026 (45:09), panel credits and embedded player; disclaimer prohibits permanent copying/redistribution; checked 2 Nov 2026"
+  },
+  {
+    "id": "VIDEO-PKF-FINANCEACT2026-WEBINAR",
+    "source_url": "https://www.youtube.com/watch?v=Nwpgjn8OqaM",
+    "licence": "PKF ©2024/2026 all rights reserved; website allows screen viewing and one non-commercial printed copy; YouTube recording rights not cleared",
+    "licence_url": "https://www.pkfea.com/corporate-information-and-disclaimer/",
+    "rights_actions": {
+      "adaptation": "not approved; slides, screenshots, voices, photographs, music and third-party materials unverified",
+      "no_endorsement": "do not imply PKF, CDH, KRA, YouTube or KASNEB approval",
+      "read_at_source": "ordinary authorized browser viewing of publisher page/video only",
+      "database_rights": "one manually curated bibliographic record; no bulk catalogue harvesting",
+      "ai_model_training": "unresolved separate permission gate; not approved",
+      "link_to_primary_source": "single manually curated attributed reference; no endorsement or access bypass",
+      "third_party_components": "uncleared: video/YouTube audiovisual rights, speakers, music, photos, slides, graphics, third-party quotations and questions",
+      "host_exact_packaged_work": "not approved; no recording bytes or verified exact-file licence",
+      "rag_or_generated_outputs": "separate permission gate; no video/transcript ingestion",
+      "commercial_redistribution": "not approved; copyright reserved and no recording-specific grant",
+      "download_for_redistribution": "not approved; recording licence and embedded components uncleared",
+      "download_for_private_research": "not performed; no video downloader or enrolment bypass",
+      "extract_questions_and_solutions": "not approved; no rights for any questions or model answers"
+    },
+    "checked_utc": "2026-11-02T19:17:00Z",
+    "scope": "External publisher video metadata only; no acquired recording, no full playback or worked-answer review",
+    "third_party_components": "uncleared: video/YouTube audiovisual rights, speakers, music, photos, slides, graphics, third-party quotations and questions",
+    "next_review_due": "2026-11-16",
+    "rights_evidence": "PKF official event 2 Jul 2026, PKF branded YouTube listing published 10 Jul 2026; PKF disclaimer copyright and noncommercial single-copy rule; checked 2 Nov 2026"
   }
 ]
