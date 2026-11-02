@@ -334,5 +334,33 @@
     "decision": "REJECT_KENYAN_LEGAL_AUTHORITY",
     "reason": "South African directors-law analysis is not authority for Kenya CA21 Company Law; no Kenyan statutory comparison or playback.",
     "checked_utc": "2026-11-02T12:20:28Z"
+  },
+  {
+    "source": "Summit Technical College CA25 Management Accounting (2026)",
+    "url": "https://portal.summittechnicalcollege.ac.ke/course/ca25-management-accounting/",
+    "decision": "HOLD_ACCESS",
+    "reason": "HOLD_ACCESS: 'Free Lesson Videos' heading conflicts with KSh 8,000 enrolment/password restriction; 23 listed lessons include Zoom and topic placeholders; no proven playable free recording.",
+    "checked_utc": "2026-11-02T13:23:16Z"
+  },
+  {
+    "source": "Summit Technical College CA34S1 Advanced Taxation (2026)",
+    "url": "https://portal.summittechnicalcollege.ac.ke/course/ca34s1-advanced-taxation/",
+    "decision": "HOLD_ACCESS",
+    "reason": "HOLD_ACCESS: advanced Kenyan tax course may be relevant but is paid/password-gated; 'Free Lesson Videos' heading does not establish free video access or a current tax computation.",
+    "checked_utc": "2026-11-02T13:23:16Z"
+  },
+  {
+    "source": "VIVA Tuition ACCA MA variance lesson (paid)",
+    "url": "https://www.vivatuition.com/acca/management-accounting/standard-costing/calculating-variances",
+    "decision": "REJECT_DUPLICATE_GATED",
+    "reason": "37-minute detailed chapter index but paid, non-Kenyan and overlaps existing OpenTuition/NPTEL; 2026-10-19 terms prohibit copying, downloading and scraping. No lesson playback.",
+    "checked_utc": "2026-11-02T13:23:16Z"
+  },
+  {
+    "source": "KBC October 30 KASNEB syllabus-launch news clip",
+    "url": "https://www.kenyamoja.com/video/kasneb-launches-revised-syllabus-kbc-video-519154",
+    "decision": "REJECT_AS_TEACHING",
+    "reason": "News announcement, not a CPA lesson, official 2027 syllabus or transition circular; no video acquired.",
+    "checked_utc": "2026-11-02T13:23:16Z"
   }
 ]
