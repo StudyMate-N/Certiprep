@@ -175,5 +175,32 @@
     "reason": "Future fee-based event as of 2 Nov 2026, not an available recording. Do not register, pay or imply video acquired.",
     "rights": "No recording/redistribution rights established",
     "next_review_due": "2026-11-13"
+  },
+  {
+    "source": "Globopoint CPA 002 Communication Skills 2022 question-video listing",
+    "url": "https://www.globopointlearningcentre.com/courses/cpa-002-communication-skills/",
+    "decision": "HOLD_ACCESS",
+    "checked_utc": "2026-11-02T04:15:23Z",
+    "reason": "Publisher search index lists historical worked-question videos but direct access presents verification challenge; recording and third-party KASNEB question/solution rights unverified.",
+    "rights": "No hosting, copying, question extraction or AI permission",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "ICPAK 2025 CPD Code of Ethics video",
+    "url": "https://www.icpak.com/wp-content/uploads/2024/12/2025-CPD-Calendar.pdf",
+    "decision": "CANDIDATE_LINK_NOT_VERIFIED_VIDEO",
+    "checked_utc": "2026-11-02T04:15:23Z",
+    "reason": "Official PDF calendar lists a free 30-minute ethics video, but no current playable recording URL or 2026 availability. Not a substitute for KASNEB ethics workshop.",
+    "rights": "No recording-specific or component commercial grant",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "Indian administrative-law complete lecture",
+    "url": "https://www.thelaweasy.com/videos/administrative-law-complete-course",
+    "decision": "REJECT_AS_KENYAN_LAW_AUTHORITY",
+    "checked_utc": "2026-11-02T04:15:23Z",
+    "reason": "2026 lecture uses Indian constitutional articles, RTI law and case law; cannot be treated as Kenyan CPA legal authority.",
+    "rights": "No acquisition or rehosting",
+    "next_review_due": "only_if_kenyan_adaptation_requested"
   }
 ]
