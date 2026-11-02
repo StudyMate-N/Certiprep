@@ -960,5 +960,19 @@
     "metadata_evidence_sha256": "5d48baf15b0cb2bf687c073157d1370f4a1d9cd181447e4b21597997ef734c4b",
     "hash_scope": "hand-curated metadata JSON only, not source HTML or recording",
     "playback": "not_verified"
+  },
+  {
+    "key": "york-ca12-2021",
+    "url": "https://yorkspace.library.yorku.ca/items/33c783bb-57f9-4f4b-874b-b2470f32ae34",
+    "final_url": "https://yorkspace.library.yorku.ca/items/33c783bb-57f9-4f4b-874b-b2470f32ae34",
+    "status": 200,
+    "bytes": null,
+    "checked_utc": "2026-11-02T11:19:00Z",
+    "evidence_sha256": null,
+    "raw_bytes_hashed": false,
+    "media_sha256": null,
+    "transcript_url": "https://yorkspace.library.yorku.ca/bitstreams/fa0beb49-8508-4642-8232-06f6d1c76bde/download",
+    "transcript_pages_read": 1,
+    "source": "YorkSpace official item/full metadata, license.txt and transcript; web text reviewed only"
   }
 ]
