@@ -16,3 +16,7 @@ A prior verified map must be the contextual object report containing project_ref
 ## Source catalogue GitHub size safeguard — 2 November 2026
 
 The monolithic `session-2026-11-01/catalog/source-catalogue.json` exceeded GitHub Contents API's approximately 1 MiB inline-read threshold at 260 decisions. An empty `fetch_file.content` with a nonempty blob SHA **does not mean the catalogue is empty**. Never overwrite it from an empty read. Use the live canonical `cpa_library.resources` and the [versioned 130-record JSON shards](../session-2026-11-01/catalog/source-catalogue-shards/README.md), which were independently read back and matched to all 260 live IDs. Maintain new dated shards for later runs, with a complete ID reconciliation and tested CSV/SQLite exports. Preserve older shards and original archives.
+
+### 2 November 2026, 17:18 UTC increment
+
+The canonical source count is now **262**. Preserve the two 130-record 16:14 UTC base shards and add the [dated two-record incremental shard](../session-2026-11-01/catalog/source-catalogue-shards/2026-11-02-1718Z-incremental.json). The three files were independently read back and reconciled to 262 distinct live Supabase IDs. Standing source and rights CSVs each contain 262 records. The preserved >1 MiB monolithic JSON is historical; do not overwrite it from an empty Contents API response. No new media were acquired or mirrored in this increment.
