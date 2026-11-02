@@ -36,3 +36,7 @@ Two source decisions in `2026-11-02-2113Z-incremental.json`: one CPDbox IFRS3/10
 ## 2026-11-02T22:17:00Z increment
 
 Two new external-only MIT Fall 2024 course records are in [2026-11-02-2217Z-incremental.json](2026-11-02-2217Z-incremental.json). Historical shards remain immutable. Canonical live count after verified sync: 271 distinct IDs; 154 accepted links, 94 video metadata, zero acquired recordings. The historical >1MiB monolithic JSON is not a current source of truth; current source CSV, rights exports and dated shards are reconciled with Supabase.
+
+### 2026-11-02 23:18 UTC
+
+Append `2026-11-02-2318Z-incremental.json` (three new source records: CA25, CA31, CA34S3 HOLD) and apply `2026-11-02-2318Z-currency-overlay.json` by ID as a field-level replacement for existing VIDEO-OT-FR. Earlier base shards and historical increments remain immutable; do not double-count the overlay. Canonical live resources and standing source/rights/usage CSV contain 274 unique IDs; video catalogue 97. Reconcile IDs and last-write overlay precedence before rebuilding an export.

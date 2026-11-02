@@ -92,7 +92,7 @@
       "rag_or_generated_outputs": "separate use review required"
     },
     "checked_utc": "2026-11-01T19:19:48.418808+00:00",
-    "scope": "external access only; no recordings distributed"
+    "scope": "external access only; no recordings distributed; IFRS18 lecture currency flagged 2026-11-02; no change to permissions"
   },
   {
     "id": "VIDEO-OT-AA",
@@ -2195,5 +2195,83 @@
     "scope": "External link only; exact recording and third-party components not licensed for commercial distribution",
     "rights_evidence": "MIT 14.41 Fall 2024 lecture index, lecture 18 and PS1 solution PDF; MIT OCW Terms CC BY-NC-SA 4.0, commercial prohibition, no endorsement and conditional noncommercial AI clause reviewed 2026-11-02; recording-specific third-party content unverified",
     "rights_recheck_trigger": "2026-11-16 or sooner on official revised CPA syllabus/transition, changed MIT terms, new recording edition, rights-holder claim, component evidence or intended use"
+  },
+  {
+    "id": "VIDEO-SGB-CA25-2026",
+    "source_url": "https://sgb.ac.ke/courses/management-accounting/",
+    "licence": "Publisher copyright reserved; no exact recording commercial licence or third-party component permissions established",
+    "licence_url": "https://sgb.ac.ke/courses/management-accounting/",
+    "rights_actions": {
+      "link_to_primary_source": "One manually curated attributed link only; no endorsement or access bypass",
+      "read_at_source": "Public course index; lessons only with legitimate paid enrolment",
+      "download_for_private_research": "Not performed; no gated access, video downloader or bypass",
+      "download_for_redistribution": "NOT APPROVED; exact audiovisual permission unavailable",
+      "host_exact_packaged_work": "NOT APPROVED; no full recording bytes, verified SHA-256 or commercial licence",
+      "commercial_redistribution": "NOT APPROVED; © Traction SGB and no commercial redistribution grant",
+      "adaptation": "NOT APPROVED; transcription, AI/OCR, translation and reformatting do not clear rights",
+      "extract_questions_and_solutions": "NOT APPROVED; KASNEB and tutor questions/answers separately uncleared",
+      "database_rights": "Manual bibliographic facts only; no bulk site, database or copyrighted content extraction",
+      "third_party_components": "Presenter, slides, music, logos, photographs, figures, past papers and worked solutions uncleared",
+      "ai_model_training": "Separate unresolved gate; no training permission",
+      "rag_or_generated_outputs": "Separate unresolved gate; no transcript ingestion, commercial RAG or generated derivatives",
+      "no_endorsement": "No Traction SGB, KASNEB or ICPAK endorsement implied",
+      "remove_logos_or_components": "Not performed; removing branding does not confer copyright clearance"
+    },
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "scope": "ACCEPT_LINK; external_access_only_no_recording; no exact audiovisual/third-party permission",
+    "rights_review_basis": "Official Traction SGB course listing, copyright footer, published dated session headings and prices; exact recording and in-file licence unavailable; no identified standalone site licence authorizing commercial rehosting",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-SGB-CA31-2025",
+    "source_url": "https://sgb.ac.ke/courses/leadership-and-management-cpa/",
+    "licence": "Publisher copyright reserved; no exact recording commercial licence or third-party component permissions established",
+    "licence_url": "https://sgb.ac.ke/courses/leadership-and-management-cpa/",
+    "rights_actions": {
+      "link_to_primary_source": "One manually curated attributed link only; no endorsement or access bypass",
+      "read_at_source": "Public course index; lessons only with legitimate paid enrolment",
+      "download_for_private_research": "Not performed; no gated access, video downloader or bypass",
+      "download_for_redistribution": "NOT APPROVED; exact audiovisual permission unavailable",
+      "host_exact_packaged_work": "NOT APPROVED; no full recording bytes, verified SHA-256 or commercial licence",
+      "commercial_redistribution": "NOT APPROVED; © Traction SGB and no commercial redistribution grant",
+      "adaptation": "NOT APPROVED; transcription, AI/OCR, translation and reformatting do not clear rights",
+      "extract_questions_and_solutions": "NOT APPROVED; KASNEB and tutor questions/answers separately uncleared",
+      "database_rights": "Manual bibliographic facts only; no bulk site, database or copyrighted content extraction",
+      "third_party_components": "Presenter, slides, music, logos, photographs, figures, past papers and worked solutions uncleared",
+      "ai_model_training": "Separate unresolved gate; no training permission",
+      "rag_or_generated_outputs": "Separate unresolved gate; no transcript ingestion, commercial RAG or generated derivatives",
+      "no_endorsement": "No Traction SGB, KASNEB or ICPAK endorsement implied",
+      "remove_logos_or_components": "Not performed; removing branding does not confer copyright clearance"
+    },
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "scope": "ACCEPT_LINK; external_access_only_no_recording; no exact audiovisual/third-party permission",
+    "rights_review_basis": "Official Traction SGB course listing, copyright footer, published dated session headings and prices; exact recording and in-file licence unavailable; no identified standalone site licence authorizing commercial rehosting",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-SGB-CA34S3-2025-HOLD",
+    "source_url": "https://sgb.ac.ke/courses/advanced-management-accounting/",
+    "licence": "Publisher copyright reserved; no exact recording commercial licence or third-party component permissions established",
+    "licence_url": "https://sgb.ac.ke/courses/advanced-management-accounting/",
+    "rights_actions": {
+      "link_to_primary_source": "One manually curated attributed link only; no endorsement or access bypass",
+      "read_at_source": "Public course index; lessons only with legitimate paid enrolment",
+      "download_for_private_research": "Not performed; no gated access, video downloader or bypass",
+      "download_for_redistribution": "NOT APPROVED; exact audiovisual permission unavailable",
+      "host_exact_packaged_work": "NOT APPROVED; no full recording bytes, verified SHA-256 or commercial licence",
+      "commercial_redistribution": "NOT APPROVED; © Traction SGB and no commercial redistribution grant",
+      "adaptation": "NOT APPROVED; transcription, AI/OCR, translation and reformatting do not clear rights",
+      "extract_questions_and_solutions": "NOT APPROVED; KASNEB and tutor questions/answers separately uncleared",
+      "database_rights": "Manual bibliographic facts only; no bulk site, database or copyrighted content extraction",
+      "third_party_components": "Presenter, slides, music, logos, photographs, figures, past papers and worked solutions uncleared",
+      "ai_model_training": "Separate unresolved gate; no training permission",
+      "rag_or_generated_outputs": "Separate unresolved gate; no transcript ingestion, commercial RAG or generated derivatives",
+      "no_endorsement": "No Traction SGB, KASNEB or ICPAK endorsement implied",
+      "remove_logos_or_components": "Not performed; removing branding does not confer copyright clearance"
+    },
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "scope": "HOLD_ACCESS; external_access_only_no_recording; no exact audiovisual/third-party permission",
+    "rights_review_basis": "Official Traction SGB course listing, copyright footer, published dated session headings and prices; exact recording and in-file licence unavailable; no identified standalone site licence authorizing commercial rehosting",
+    "next_review_due": "2026-11-16"
   }
 ]

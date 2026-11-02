@@ -444,5 +444,21 @@
     "checked_utc": "2026-11-02T21:13:00Z",
     "reason": "ICPAK publisher announcement identifies video but lnkd.in player redirect could not be independently resolved; no recording date, playback, component or recording-level rights verified. Do not count as approved recording or course.",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "Traction SGB Advanced Management Accounting CA34S3 gated course",
+    "url": "https://sgb.ac.ke/courses/advanced-management-accounting/",
+    "decision": "HOLD_ACCESS",
+    "reason": "2025 class dates and relevant advanced costing outline in publisher index; KES 9,000, draft lessons, direct page timeout, no playback or commercial recording permission. Keep external metadata only, not approved instruction.",
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "OpenTuition FR IFRS 18-labelled presentation lecture",
+    "url": "https://opentuition.com/acca/fr/presentation-financial-statements-introduction-acca-financial-reporting-fr/",
+    "decision": "HOLD_RECORDING_CURRENCY",
+    "reason": "Current heading says IFRS18 but older user comment says recording not updated and admin asserts ACCA validity through June 2027. Recording content/revision not playback-verified; keep existing general FR link, no current IFRS18 instructional certification.",
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "next_review_due": "2026-11-16"
   }
 ]

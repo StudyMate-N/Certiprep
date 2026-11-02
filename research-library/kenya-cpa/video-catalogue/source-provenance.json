@@ -1113,5 +1113,44 @@
     "raw_page_sha256": null,
     "media_sha256": null,
     "hash_scope": "No raw publisher page or audiovisual bytes acquired; no source hash asserted"
+  },
+  {
+    "key": "VIDEO-SGB-CA25-2026",
+    "url": "https://sgb.ac.ke/courses/management-accounting/",
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "status": "PUBLISHER_PUBLIC_COURSE_INDEX_METADATA_ONLY",
+    "raw_page_sha256": null,
+    "media_sha256": null,
+    "hash_scope": "No raw HTML or audiovisual bytes retained; no source/media hash asserted",
+    "recording_bytes_acquired": 0
+  },
+  {
+    "key": "VIDEO-SGB-CA31-2025",
+    "url": "https://sgb.ac.ke/courses/leadership-and-management-cpa/",
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "status": "PUBLISHER_PUBLIC_COURSE_INDEX_METADATA_ONLY",
+    "raw_page_sha256": null,
+    "media_sha256": null,
+    "hash_scope": "No raw HTML or audiovisual bytes retained; no source/media hash asserted",
+    "recording_bytes_acquired": 0
+  },
+  {
+    "key": "VIDEO-SGB-CA34S3-2025-HOLD",
+    "url": "https://sgb.ac.ke/courses/advanced-management-accounting/",
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "status": "PUBLISHER_SEARCH_INDEX_ONLY_LIVE_TIMEOUT",
+    "raw_page_sha256": null,
+    "media_sha256": null,
+    "hash_scope": "No raw HTML or audiovisual bytes retained; no source/media hash asserted",
+    "recording_bytes_acquired": 0
+  },
+  {
+    "key": "RECHECK-OT-FR-IFRS18-20261102",
+    "url": "https://opentuition.com/acca/fr/presentation-financial-statements-introduction-acca-financial-reporting-fr/",
+    "checked_utc": "2026-11-02T23:18:56Z",
+    "status": "CURRENCY_WARNING_METADATA_ONLY",
+    "raw_page_sha256": null,
+    "media_sha256": null,
+    "summary": "2026-11-02 currency check: A separately indexed OpenTuition FR lesson is titled 'IFRS 18 – SOFP and SPL (part 1)', but an older commenter reported it was not updated for IFRS 18 and an admin said it remained valid for ACCA through June 2027. No full audiovisual playback, recording revision date or current IFRS 18 compliance established. Do not treat index title as updated IFRS 18 instruction or KASNEB 2027 authority. Primary IFRS Foundation 2026 agenda decisions require separate comparison."
   }
 ]

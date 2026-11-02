@@ -1,0 +1,106 @@
+[
+  {
+    "id": "VIDEO-OT-FR",
+    "work_id": "VIDEO-OT-FR",
+    "title": "OpenTuition Financial Reporting",
+    "level": "Intermediate",
+    "papers": [
+      "CA23"
+    ],
+    "topics": [
+      "conceptual framework",
+      "group accounts",
+      "cash flows",
+      "ratios"
+    ],
+    "publisher": "OpenTuition",
+    "authors": "OpenTuition subject teaching team",
+    "publication_date": "Sample page uploadDate 2018-06-05T15:07:23+00:00; course contains mixed dates",
+    "source_url": "https://opentuition.com/acca/fr/acca-financial-reporting-fr-lectures/",
+    "checked_utc": "2026-11-01T19:19:48.418808+00:00",
+    "decision": "ACCEPT_LINK",
+    "video_access_status": "FREE_STREAMING_METADATA_VERIFIED",
+    "academic_quality": "Primary educator/institution course index, topical sequence and selected player metadata reviewed; full recordings and all worked answers have not been reviewed.",
+    "syllabus_scope": "Reporting supplement. Current ACCA index includes IFRS 18 material; KASNEB examinability is unconfirmed.",
+    "exam_sitting_certification": "not_certified; current KASNEB topic and standards cut-offs require confirmation",
+    "accuracy_review": "Metadata and topic-level review only; no exhaustive academic validation. 2026-11-02 currency check: A separately indexed OpenTuition FR lesson is titled 'IFRS 18 – SOFP and SPL (part 1)', but an older commenter reported it was not updated for IFRS 18 and an admin said it remained valid for ACCA through June 2027. No full audiovisual playback, recording revision date or current IFRS 18 compliance established. Do not treat index title as updated IFRS 18 instruction or KASNEB 2027 authority. Primary IFRS Foundation 2026 agenda decisions require separate comparison.",
+    "content_review_extent": "Course index and one sample lesson/player inspected; no audiovisual playback verification.",
+    "licence": "Provider streaming terms; videos explicitly not downloadable",
+    "licence_url": "https://opentuition.com/acca/free-acca-lectures/",
+    "commercial_redistribution": "not_approved",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary reference; no endorsement or access bypass",
+      "read_at_source": "subject to provider terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_cleared; separate exact-question and solution rights review required",
+      "ai_model_training": "not_assessed",
+      "rag_or_generated_outputs": "separate use review required"
+    },
+    "rights_review_utc": "2026-11-01T19:19:48.418808+00:00",
+    "rights_recheck_trigger": "Changed recording/edition/hash or terms, proposed new use, permission evidence or rights-holder claim.",
+    "rights_expiry": "No commercial permission granted; do not infer perpetual permission from public availability.",
+    "decision_reason": "Useful external teaching supplement; not accepted as hosted or downloaded media.",
+    "acquisition_status": "external_access_only",
+    "local_media_present": false,
+    "github_media_present": false,
+    "packaged_bytes": 0,
+    "sha256": "",
+    "source_sha256": "",
+    "asset_key": "",
+    "package_path": "",
+    "source_download_url": "",
+    "download_availability": "Provider prohibits video downloads. No media-byte probe or downloader used.",
+    "source_page_evidence": {
+      "url": "https://opentuition.com/acca/fr/acca-financial-reporting-fr-lectures/",
+      "final_url": "https://opentuition.com/acca/fr/acca-financial-reporting-fr-lectures/",
+      "status": 200,
+      "bytes": 154150,
+      "checked_utc": "2026-11-01",
+      "evidence_sha256": "f087554cee3226ff417e33d775e7a04a4101ba07c42576c56cb67afa3b2bf750",
+      "date_precision": "day"
+    },
+    "sample_lesson_url": "https://opentuition.com/acca/fr/framework-introduction-acca-financial-reporting-fr/",
+    "sample_video_url": "https://www.youtube.com/watch?v=2D-wl45ksSQ",
+    "sample_metadata": {
+      "key": "ot-fr-sample",
+      "video_url": "https://www.youtube.com/watch?v=2D-wl45ksSQ",
+      "checked_utc": "2026-11-01T19:19:21.218033+00:00",
+      "status": 200,
+      "sha256": "2396d9b521826dcac1954d4e20ec1604eef9b908e00ad8667fd4727c35f2a5ac",
+      "title": "IASB Conceptual Framework - introduction - ACCA Financial Reporting (FR)",
+      "author_name": "OpenTuition",
+      "author_url": "https://www.youtube.com/@opentuition",
+      "provider_name": "YouTube"
+    },
+    "quality_review_status": "EXTERNAL_METADATA_WITH_IFRS18_CURRENCY_HOLD",
+    "review_batch": "video-2026-11-01",
+    "new_in_batch": true,
+    "sample_page_evidence": {
+      "url": "https://opentuition.com/acca/fr/framework-introduction-acca-financial-reporting-fr/",
+      "checked_utc": "2026-11-01T19:17:48.302322+00:00",
+      "status": 200,
+      "final_url": "https://opentuition.com/acca/fr/framework-introduction-acca-financial-reporting-fr/",
+      "mime": "text/html;charset=utf-8",
+      "bytes": 265740,
+      "evidence_sha256": "6918cbd99d3a118833c839de9cd9f68f145f44c3cd1fa04ba26f30c9371c6f6d"
+    },
+    "publisher_video_metadata": [
+      {
+        "name": "IASB Conceptual Framework – Introduction - ACCA Financial Reporting (FR)",
+        "embedUrl": "https://www.youtube.com/embed/2D-wl45ksSQ",
+        "uploadDate": "2018-06-05T15:07:23+00:00",
+        "duration": "PT8M32S"
+      }
+    ],
+    "rights_evidence": "Current video policy and printed-only OpenLicense reviewed; neither clears electronic recording redistribution.",
+    "additional_rights_urls": [
+      "https://opentuition.com/openlicense/"
+    ],
+    "currency_review_utc": "2026-11-02T23:18:56Z",
+    "currency_review_url": "https://opentuition.com/acca/fr/presentation-financial-statements-introduction-acca-financial-reporting-fr/",
+    "current_ifrs18_certified": false
+  }
+]
