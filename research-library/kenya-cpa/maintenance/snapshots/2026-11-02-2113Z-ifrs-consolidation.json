@@ -1,0 +1,21 @@
+{
+  "verified_utc": "2026-11-02T21:13:00Z",
+  "baseline_commit": "a95e92a09703406200e52d84f3a50de70b0087a8",
+  "expected_source_decisions": 269,
+  "accepted_links": 152,
+  "video_records": 92,
+  "acquired_entries": 43,
+  "grouped_works": 29,
+  "media_objects": 162,
+  "media_bytes": 277700279,
+  "acquired_recordings": 0,
+  "video_full_playback_reviews": 0,
+  "selected_written_worked_example_arithmetic_checks": 4,
+  "source_ids_added": [
+    "VIDEO-CPDBOX-CONSOLIDATION-2025",
+    "VIDEO-CPDBOX-IFRS18-2025-HOLD"
+  ],
+  "distribution": "external-only; no binaries",
+  "syllabus_2027": "HOLD_UNMAPPED_ALL_22",
+  "academic_complete": false
+}
