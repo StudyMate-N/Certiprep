@@ -1,0 +1,33 @@
+{
+  "verified_utc": "2026-11-02T19:17:00Z",
+  "collection_status": "maintained_research_collection_not_complete",
+  "source_decisions": 265,
+  "accepted_external_links": 149,
+  "video_catalogue_records": 88,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "acquired_video_recordings": 0,
+  "media_objects": 162,
+  "media_bytes": 277700279,
+  "storage_total_observed_bytes": 598089979,
+  "missing_or_size_mismatched_objects": 0,
+  "unmapped_objects": 0,
+  "previous_download_sha256_verified_flags": 162,
+  "new_full_download_verifications": 0,
+  "acquired_media_added": 0,
+  "video_ids_added": [
+    "VIDEO-CDH-FINANCEACT2026-POLICY",
+    "VIDEO-PKF-FINANCEACT2026-WEBINAR"
+  ],
+  "held_candidates": [
+    "ICPAK/Bafunde Taxation of Business Income: zero free lectures",
+    "official revised 2027 KASNEB CPA syllabus PDF and transition circular unavailable"
+  ],
+  "all_2027_papers": "HOLD_UNMAPPED",
+  "independent_academic_review": "pending",
+  "rights": "external_only_no_commercial_hosting_or_AI_training",
+  "lease_owner": "cpa-auto-20261102-1913Z-turn11",
+  "review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-1917Z-tax-video.md",
+  "master_archive": "unchanged; metadata delta only",
+  "notes": "Storage inventory metadata matched, no new downloads or audiovisual playback; historical 162 download SHA receipts retained"
+}
