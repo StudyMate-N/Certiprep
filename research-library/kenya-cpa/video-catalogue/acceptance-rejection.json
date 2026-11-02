@@ -320,5 +320,19 @@
     "decision": "REJECT_AS_TEACHING_VIDEO",
     "reason": "1:39 news report of 29 October 2026 launch, not examinable CPA teaching or official 2027 syllabus/transition document. Useful secondary announcement only.",
     "checked_utc": "2026-11-02T11:19:00Z"
+  },
+  {
+    "source": "CABRI Digital PFM Reform Stories six-country video (29 April 2026)",
+    "url": "https://www.cabri-sbo.org/en/media/digital-pf-reform-stories-country-experiences-from-south-africa-ghana-namibia-kenya-rwanda-and-malawi",
+    "decision": "REJECT_DUPLICATE_FOR_THIS_BATCH",
+    "reason": "Regional overview overlaps new Kenya-specific REFORMiS example; no distinct worked teaching, rights clearance or playback verified.",
+    "checked_utc": "2026-11-02T12:30:00Z"
+  },
+  {
+    "source": "Cliffe Dekker Hofmeyr South African director-law seminar (27 Feb 2025)",
+    "url": "https://www.cliffedekkerhofmeyr.com/en/news/Seminars/Director-Law-Developments-Seminar-25-26-February-2025",
+    "decision": "REJECT_KENYAN_LEGAL_AUTHORITY",
+    "reason": "South African directors-law analysis is not authority for Kenya CA21 Company Law; no Kenyan statutory comparison or playback.",
+    "checked_utc": "2026-11-02T12:30:00Z"
   }
 ]
