@@ -102,15 +102,17 @@
     "latest_resource_inventory_md5_method": "md5(string_agg(id||'|'||decision||'|'||record::text,E'\\n' order by id COLLATE C)); not directly comparable with earlier legacy fingerprint algorithm",
     "last_rights_reconciliation": "2026-11-01: LN64/2021 and NC-licensed 2022 Insolvency Regulations added as links; 33 older post-release source rights rows restored to standing registers; no commercial hosting clearance.",
     "catalogue_reconciliation": "179 unique decisions across GitHub JSON/CSV and live Supabase; 33 previously missing action-specific rights rows restored in each standing rights register; no permission changes.",
-    "rights_register_records": 247,
-    "usage_rights_records": 179,
-    "video_catalogue_records": 72,
+    "rights_register_records": 248,
+    "usage_rights_records": 248,
+    "video_catalogue_records": 73,
     "video_recordings_acquired": 0,
     "source_records_rights_reviewed": 247,
     "rights_records": 247,
     "metadata_export_checked_utc": "2026-11-01T22:08:56Z",
-    "latest_metadata_delta_sha256": "8517d6cf1c8938e2c923745ab593000cf14256597f17c7bec2e3babbc2b61bc9",
-    "latest_metadata_delta_library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-0725Z.zip",
-    "latest_rights_review": "World Bank 2025 historical video external-only; PSASB 2026 IPSAS51 future effective date 2028-07-01 Kenya; no new media"
+    "latest_metadata_delta_sha256": "2a350c30737060fc8a50ce7e09f5c9fdb2c49b19ff883ce0d1d1e26f0a9b9a37",
+    "latest_metadata_delta_library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-0921Z.zip",
+    "latest_rights_review": "CIPIT 2026 embedded YouTube panel remains external-only; site CC BY footer not recording-level grant",
+    "source_records": 248,
+    "latest_commit": "bf5243c293d507e2f40be4775e085d6d1452a913"
   }
 }
