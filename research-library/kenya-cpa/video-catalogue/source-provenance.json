@@ -765,5 +765,41 @@
     "media_downloaded": false,
     "review_scope": "127 advertised recordings, 63+ hours claimed, 0m individual entries; no playback or worked answer",
     "rights_url": "https://manifestedkasneb.sqwiro.com/"
+  },
+  {
+    "key": "VIDEO-ADAMAS-CA35P-BDA",
+    "url": "https://adamascollege.com/courses/business-data-analytics/",
+    "checked_utc": "2026-11-02T02:09:22Z",
+    "retrieval": "Publisher page metadata only; no recording bytes",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "KES 6,080 gated course; publisher lists Excel, NPV, sensitivity, regression, pivot tables and dashboards; sample lesson redirects to enrolment; no worked solution inspected",
+    "rights_url": "https://adamascollege.com/courses/business-data-analytics/"
+  },
+  {
+    "key": "VIDEO-INTRAHEALTH-PFM-2024",
+    "url": "https://www.intrahealth.org/public-financial-management-and-accountability-training",
+    "checked_utc": "2026-11-02T02:09:22Z",
+    "retrieval": "Publisher page metadata only; no recording bytes",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Publisher describes PFM foundations, governance and accountability; two embedded videos; no worked answers or playback reviewed",
+    "rights_url": "https://www.intrahealth.org/copyright-trademark"
+  },
+  {
+    "key": "VIDEO-WB-CFRR-ACCRUAL-2022",
+    "url": "https://cfrr.worldbank.org/node/4589",
+    "checked_utc": "2026-11-02T02:09:22Z",
+    "retrieval": "Publisher page metadata only; no recording bytes",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Publisher lists 2022 video and embedded player, IPSAS/accountability tags; no playback or worked answers",
+    "rights_url": "https://www.worldbank.org/ext/en/legal/terms-conditions"
   }
 ]

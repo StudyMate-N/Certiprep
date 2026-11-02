@@ -1264,5 +1264,83 @@
     "rights_evidence": "Premium index includes historical DST and minimum-tax topics; exact video dates, third-party past-paper rights and current law unverified",
     "rights_review_basis": "Publisher primary public page, access terms, official Kenyan legal comparator; no exact recording or component inspection",
     "third_party_components": "not inspected; no recording bytes"
+  },
+  {
+    "id": "VIDEO-ADAMAS-CA35P-BDA",
+    "source_url": "https://adamascollege.com/courses/business-data-analytics/",
+    "licence": "No exact recording commercial grant found",
+    "licence_url": "https://adamascollege.com/courses/business-data-analytics/",
+    "rights_actions": {
+      "link_to_primary_source": "attributed link only; no endorsement",
+      "read_at_source": "public index/player only; respect enrolment and access terms",
+      "download_for_private_research": "not performed; exact recording rights unknown",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved; no verified video bytes",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; exact components uncleared",
+      "extract_questions_and_solutions": "not_cleared; independent question/answer permission needed",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "unresolved separate permission/output gate",
+      "database_rights": "bibliographic links only; no bulk extraction",
+      "no_endorsement": "no provider/KASNEB/World Bank affiliation"
+    },
+    "checked_utc": "2026-11-02T02:09:22Z",
+    "scope": "external bibliographic link only",
+    "next_review_due": "2026-12-02",
+    "rights_evidence": "Publisher public page lists enrolment and headings, not in-file recording rights",
+    "rights_review_basis": "Primary publisher page and applicable site terms; no exact video bytes or in-file licence reviewed",
+    "third_party_components": "not inspected; no recording bytes"
+  },
+  {
+    "id": "VIDEO-INTRAHEALTH-PFM-2024",
+    "source_url": "https://www.intrahealth.org/public-financial-management-and-accountability-training",
+    "licence": "IntraHealth-owned media typically CC BY-NC-SA 3.0; other creators retain rights; no exact component clearance",
+    "licence_url": "https://www.intrahealth.org/copyright-trademark",
+    "rights_actions": {
+      "link_to_primary_source": "attributed link only; no endorsement",
+      "read_at_source": "public index/player only; respect enrolment and access terms",
+      "download_for_private_research": "not performed; exact recording rights unknown",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved; no verified video bytes",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; exact components uncleared",
+      "extract_questions_and_solutions": "not_cleared; independent question/answer permission needed",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "unresolved separate permission/output gate",
+      "database_rights": "bibliographic links only; no bulk extraction",
+      "no_endorsement": "no provider/KASNEB/World Bank affiliation"
+    },
+    "checked_utc": "2026-11-02T02:09:22Z",
+    "scope": "external bibliographic link only",
+    "next_review_due": "2026-12-02",
+    "rights_evidence": "IntraHealth terms restrict commercial use; copyright policy says NC media and third-party exceptions",
+    "rights_review_basis": "Primary publisher page and applicable site terms; no exact video bytes or in-file licence reviewed",
+    "third_party_components": "not inspected; no recording bytes"
+  },
+  {
+    "id": "VIDEO-WB-CFRR-ACCRUAL-2022",
+    "source_url": "https://cfrr.worldbank.org/node/4589",
+    "licence": "World Bank Group 2025-07-25 site terms restrict commercial reuse/derivatives without permission",
+    "licence_url": "https://www.worldbank.org/ext/en/legal/terms-conditions",
+    "rights_actions": {
+      "link_to_primary_source": "attributed link only; no endorsement",
+      "read_at_source": "public index/player only; respect enrolment and access terms",
+      "download_for_private_research": "not performed; exact recording rights unknown",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved; no verified video bytes",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; exact components uncleared",
+      "extract_questions_and_solutions": "not_cleared; independent question/answer permission needed",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "unresolved separate permission/output gate",
+      "database_rights": "bibliographic links only; no bulk extraction",
+      "no_endorsement": "no provider/KASNEB/World Bank affiliation"
+    },
+    "checked_utc": "2026-11-02T02:09:22Z",
+    "scope": "external bibliographic link only",
+    "next_review_due": "2026-12-02",
+    "rights_evidence": "World Bank terms amended 2025-07-25, third-party rights reserved, no endorsement",
+    "rights_review_basis": "Primary publisher page and applicable site terms; no exact video bytes or in-file licence reviewed",
+    "third_party_components": "not inspected; no recording bytes"
   }
 ]

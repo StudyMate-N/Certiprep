@@ -130,5 +130,23 @@
     "reason": "Published 2022; current Kenyan tax content and worked answers unverified.",
     "rights": "No commercial recording rights",
     "next_review_due": "2026-12-01"
+  },
+  {
+    "source": "PPRA 5 November 2026 Capacity Building Levy Order webinar",
+    "url": "https://ppra.go.ke/category/webinars/",
+    "decision": "REJECT_AS_EXISTING_RECORDING",
+    "checked_utc": "2026-11-02T02:09:22Z",
+    "reason": "Event scheduled in the future relative to 2026-11-02; no recording yet",
+    "rights": "no recording rights established",
+    "next_review_due": "2026-11-06"
+  },
+  {
+    "source": "Beatsy Excel/Power BI training listing",
+    "url": "https://www.beatsysolutions.co.ke/training/course/advanced-excel-power-bi",
+    "decision": "REJECT_VIDEO_COUNT_UNVERIFIED",
+    "checked_utc": "2026-11-02T02:09:22Z",
+    "reason": "Advertised 16h conflicts with zero publicly listed sections and lectures; no resolved sample playback",
+    "rights": "no recording rights established",
+    "next_review_due": "2026-12-02"
   }
 ]
