@@ -118,6 +118,30 @@
       "academic_review": "pending",
       "scope": "three-source metadata delta and rights actions only; not full 238-row database or media backup",
       "github_review": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0415Z-video.md"
+    },
+    {
+      "type": "metadata_delta_not_full_archive_or_media_replacement",
+      "filename": "CPA_Library_Metadata_Delta_2026-11-02-0516Z.zip",
+      "bytes": 7498,
+      "sha256": "2b313a48f47c7c7bbe8aff58254b4d761d98b46f853db4f396a64b43cd91bb8d",
+      "file_id": "file_00000000f87481f59d088f2c0b09c377",
+      "library_file_id": "libfile_48d5c9e65af48191974342efc98a1bce",
+      "library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-0516Z.zip",
+      "verified_utc": "2026-11-02T05:20:02.797188+00:00",
+      "delivery_status": "saved_successfully",
+      "archive_crc": "passed",
+      "manifest_sha256": "passed",
+      "sqlite_integrity": "ok",
+      "delta_source_records": 3,
+      "delta_rights_records": 8,
+      "media_files_included": 0,
+      "full_catalogue_included": false,
+      "source_decisions": 241,
+      "video_catalogue_records": 67,
+      "rights_link_corrections": 5,
+      "rights_export_rows_recovered": 3,
+      "github_catalogue_commit": "0e20046da17a603b5bb5c056fa91031905275a35",
+      "academic_review": "pending"
     }
   ],
   "dropbox_use_authorized": false,
@@ -141,6 +165,10 @@
     "github_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0516Z-video.md",
     "usage_rights_records": 241,
     "metadata_only": true,
-    "latest_rights_correction": "Five IFAC-affiliated approved links moved to HOLD; rights CSV reconciled from 235 to 241 rows; original master archive checksum unchanged"
+    "latest_rights_correction": "Five IFAC-affiliated approved links moved to HOLD; rights CSV reconciled from 235 to 241 rows; original master archive checksum unchanged",
+    "metadata_delta_library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-0516Z.zip",
+    "metadata_delta_zip_sha256": "2b313a48f47c7c7bbe8aff58254b4d761d98b46f853db4f396a64b43cd91bb8d",
+    "metadata_delta_verified_utc": "2026-11-02T05:20:02.797188+00:00",
+    "archive_unchanged": true
   }
 }
