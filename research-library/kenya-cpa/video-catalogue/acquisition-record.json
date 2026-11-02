@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-02T16:14:16Z",
+  "checked_utc": "2026-11-02T17:18:00Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
@@ -26,16 +26,15 @@
   "rights_note": "Private NC transcript and source HTML excluded from public package. Metadata/page hashes are provenance only, never media checksums.",
   "scope": "Manual user-directed multi-level catalogue batch; hourly acquisition limits unchanged.",
   "latest_batch": {
-    "checked_utc": "2026-11-02T16:14:16Z",
-    "new_candidates_assessed": 2,
+    "checked_utc": "2026-11-02T17:18:00Z",
+    "new_candidates_assessed": 3,
     "new_accepted_external_series": 2,
-    "new_hold_accuracy": 0,
-    "new_rejected_mirror": 0,
+    "new_hold_no_recording": 1,
     "new_media_acquired": 0,
     "video_recordings_acquired_total": 0,
     "full_playback_reviews": 0,
     "source_worked_answers_reviewed": 0,
-    "notes": "World Bank 2026 annual borrowing plan and public-entity credit-risk webinars; external-only dated official index, player links resolved; no video bytes, recording-level rights or academic validation."
+    "notes": "2024 World Bank/KRA Kenya SME tax policy and 2026 World Bank domestic revenue recording page; external-only; no playback, redistribution or current statutory validation."
   },
   "latest_candidates_assessed": 6,
   "latest_new_catalogue_records": 3,
@@ -52,9 +51,9 @@
   "latest_worked_answers_reviewed": 0,
   "latest_candidate_links": 0,
   "latest_existing_links_demoted": 0,
-  "current_video_catalogue_records": 83,
-  "current_source_decisions": 260,
-  "current_accepted_links": 144,
+  "current_video_catalogue_records": 85,
+  "current_source_decisions": 262,
+  "current_accepted_links": 146,
   "current_actual_media_assets": 162,
   "latest_review": "YorkSpace CA12 2021 CC BY 4.0 external video; 1-page transcript reviewed; 152.81 MB MP4 not downloaded or hosted; components pending",
   "last_incremental_review": {
