@@ -1,0 +1,30 @@
+{
+  "checked_utc": "2026-11-02T07:25:00Z",
+  "lease_owner": "cpa-auto-20261102-0720Z-video",
+  "source_decisions": 247,
+  "video_catalogue_records": 72,
+  "accepted_external_links": 135,
+  "new_source_decisions": 2,
+  "new_video_access_links": 1,
+  "assessed_candidates": 4,
+  "rejected_as_teaching": 2,
+  "acquired_entries": 43,
+  "substantial_works": 29,
+  "media_files": 162,
+  "video_recordings_acquired": 0,
+  "storage_project": "pebkqsyfliytbowxzyun",
+  "bucket": "cpa-verified-library",
+  "bucket_public": false,
+  "cpa_storage_bytes": 277700279,
+  "total_observed_storage_bytes": 598089979,
+  "missing_objects": 0,
+  "size_mismatches": 0,
+  "download_verified_prior_receipts": 162,
+  "archive_unchanged": true,
+  "independent_academic_review": "pending",
+  "new_ids": [
+    "VIDEO-WB-CFRR-IPSASB-UPDATE-2025",
+    "PFM-PSASB-IPSAS51-2026"
+  ],
+  "rights_recheck": "2026-11-16"
+}
