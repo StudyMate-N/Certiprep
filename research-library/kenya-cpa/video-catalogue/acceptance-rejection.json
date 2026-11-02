@@ -381,5 +381,14 @@
     "reason": "Unverified third-party video mirror lists duration 27:41 but chapters at 28:10 and 45:00; publisher identity/recording provenance and original source rights not verified. Direct access returned 403. Not credible enough for approval; do not download.",
     "rights": "No recording-specific permission or verified primary publisher link. External third-party download link is not a licence.",
     "next_review_due": "2026-12-01"
+  },
+  {
+    "source": "World Bank/ODI/IFS 8th Public Finance Conference 2026 session recordings",
+    "url": "https://www.worldbank.org/en/events/2026/09/24/8th-world-bank-odi-global-ifs-public-finance-conference",
+    "decision": "HOLD_NO_RECORDING",
+    "checked_utc": "2026-11-02T17:18:00Z",
+    "reason": "Publisher explicitly states session recordings coming soon; event programme is not a recording or playback-reviewed lesson.",
+    "rights": "World Bank terms restrict commercial/derivative reuse; no recording or component licence available",
+    "next_review_due": "2026-11-16"
   }
 ]
