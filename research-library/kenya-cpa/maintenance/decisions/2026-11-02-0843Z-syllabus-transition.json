@@ -1,0 +1,95 @@
+{
+  "at": "2026-11-02T08:43:00Z",
+  "updated": [
+    "NEWS-2027-TRANSITION",
+    "OFF-SYLLABUS2024"
+  ],
+  "source_decisions": 247,
+  "video_candidates": [
+    {
+      "source": "KBC 30 October 2026 revised syllabus launch clip",
+      "url": "https://www.kenyamoja.com/video/kasneb-launches-revised-syllabus-kbc-video-519154",
+      "decision": "REJECT_AS_INSTRUCTIONAL_VIDEO",
+      "checked_utc": "2026-11-02T08:43:00Z",
+      "reason": "1:39 news coverage, not a CPA teaching lesson or revised outcome map; no substantive playback or worked answers",
+      "rights": "Broadcast/third-party components not cleared for commercial hosting",
+      "next_review_due": "official revised syllabus release"
+    },
+    {
+      "source": "QuickBooks with Fredrick 2026 Kenyan CPA full course claim",
+      "url": "https://natokhd.com/video/cpa-kenya-financial-accounting-full-course-2026-bank-reconciliation-quickbooks/7_w9zD1FWMY",
+      "decision": "HOLD_ACCURACY",
+      "checked_utc": "2026-11-02T08:43:00Z",
+      "reason": "Third-party mirror claims 27:41 runtime but chapter marks 28:10 and 45:00; creator original and worked example unverified, no download",
+      "rights": "Exact creator and mirror permissions unresolved; no hosted video",
+      "next_review_due": "verified original source and playback review"
+    },
+    {
+      "source": "KASNEB August 2026 BDA webinar invitation",
+      "url": "https://www.linkedin.com/posts/kasneb-kenya-3944a7140_attention-to-all-august-2026-business-data-activity-7489953386671497216-vtf3",
+      "decision": "HOLD_RECORDING_ACCESS",
+      "checked_utc": "2026-11-02T08:43:00Z",
+      "reason": "Official past webinar invitation does not prove persistent accessible recording or substantive lesson review",
+      "rights": "Recording/participant/slides permissions unverified",
+      "next_review_due": "official archived recording with rights"
+    }
+  ],
+  "rights_actions": {
+    "NEWS-2027-TRANSITION": {
+      "link_to_primary_source": "plain attributed external link only; no endorsement",
+      "read_at_source": "individual reading subject to publisher terms",
+      "download_for_private_research": "not performed",
+      "download_for_redistribution": "not approved",
+      "host_exact_packaged_work": "not approved; no rights or verified bytes",
+      "commercial_redistribution": "not approved",
+      "adaptation": "not approved; text, photos, graphics uncleared",
+      "extract_questions_and_solutions": "not approved; none copied",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "separate rights review required",
+      "database_rights": "hand-curated factual metadata only; no bulk extraction",
+      "no_endorsement": "No KASNEB or publisher endorsement"
+    },
+    "OFF-SYLLABUS2024": {
+      "link_to_primary_source": "allowed_as_ordinary_reference; no access bypass or endorsement",
+      "read_at_source": "subject_to_source_access_terms",
+      "download_for_redistribution": "not_approved",
+      "host_exact_packaged_work": "not_approved",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved",
+      "extract_questions_and_solutions": "not_independently_cleared_as_a_standalone_question_bank; original CC-licensed questions may be reused under their terms only after attribution/component review",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "separate_use_review_required; preserve attribution, source boundaries and copyright limits",
+      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights",
+      "download_for_private_research": "not performed this run; no fully acquired PDF bytes",
+      "database_rights": "hand-curated metadata only; no full syllabus copying",
+      "no_endorsement": "No KASNEB endorsement"
+    }
+  },
+  "evidence": [
+    {
+      "url": "https://citizen.digital/article/kasneb-revises-professional-courses-to-address-emerging-skills-gaps-n392945",
+      "published": "2026-10-30",
+      "note": "secondary: launch, April 2027 first revised exams"
+    },
+    {
+      "url": "https://educationnews.co.ke/news/kasneb-to-phase-out-current-syllabus-after-december-2026-exams",
+      "published": "2026-10-08",
+      "note": "secondary: December 2026 last old-syllabus sitting, original circular unavailable"
+    },
+    {
+      "url": "https://www.standardmedia.co.ke/business/education/article/2001561217/kasneb-unveils-revised-syllabuses-at-professionals-forum",
+      "published": "2026-11-02 indexed",
+      "note": "secondary: 29 October launch"
+    },
+    {
+      "url": "https://kicp.kasneb.or.ke/",
+      "published": "2026-10-26/30",
+      "note": "primary: conference dates only"
+    },
+    {
+      "url": "https://www.kasneb.or.ke/cpa",
+      "published": "2026-11-02 checked",
+      "note": "primary: currently displayed paper codes, not new 2027 outcome map"
+    }
+  ]
+}

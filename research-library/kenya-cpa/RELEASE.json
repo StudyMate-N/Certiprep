@@ -196,10 +196,10 @@
   "dropbox_use_authorized": false,
   "dropbox_status": "declined_for_this_request; do_not_use_or_suggest",
   "current_catalogue": {
-    "updated_utc": "2026-11-02T07:25:00Z",
+    "updated_utc": "2026-11-02T08:43:00Z",
     "source_records": 247,
     "accepted_links": 135,
-    "candidate_links": 14,
+    "candidate_links": 13,
     "acquired_entries": 43,
     "grouped_substantial_works": 29,
     "actual_media_assets": 162,
@@ -222,6 +222,9 @@
     "latest_review": "CA34S4: 2025 World Bank historical IPSASB video index and PSASB 2028 IPSAS51 effective-date authority",
     "latest_syllabus_verification_utc": "2026-11-02T06:20:00Z",
     "latest_syllabus_verification_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0620Z-syllabus.md",
-    "CA37WP_official_status": "conditional workshop for candidates without one year relevant practical experience; not ordinary examinable paper"
+    "CA37WP_official_status": "conditional workshop for candidates without one year relevant practical experience; not ordinary examinable paper",
+    "syllabus_transition_status": "HOLD_PRIMARY_2027_CPA_SYLLABUS",
+    "april_2027_papers_certified": 0,
+    "syllabus_transition_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0843Z-syllabus-transition.md"
   }
 }

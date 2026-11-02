@@ -265,5 +265,32 @@
     "reason": "Gallery contains service-charter, interviews and historical institutional videos, not dated substantive 2026 company-law instruction; no full playback.",
     "rights": "No commercial recording rights or embedded third-party clearance",
     "next_review_due": "on substantive dated lecture evidence"
+  },
+  {
+    "source": "KBC 30 October 2026 revised syllabus launch clip",
+    "url": "https://www.kenyamoja.com/video/kasneb-launches-revised-syllabus-kbc-video-519154",
+    "decision": "REJECT_AS_INSTRUCTIONAL_VIDEO",
+    "checked_utc": "2026-11-02T08:43:00Z",
+    "reason": "1:39 news coverage, not a CPA teaching lesson or revised outcome map; no substantive playback or worked answers",
+    "rights": "Broadcast/third-party components not cleared for commercial hosting",
+    "next_review_due": "official revised syllabus release"
+  },
+  {
+    "source": "QuickBooks with Fredrick 2026 Kenyan CPA full course claim",
+    "url": "https://natokhd.com/video/cpa-kenya-financial-accounting-full-course-2026-bank-reconciliation-quickbooks/7_w9zD1FWMY",
+    "decision": "HOLD_ACCURACY",
+    "checked_utc": "2026-11-02T08:43:00Z",
+    "reason": "Third-party mirror claims 27:41 runtime but chapter marks 28:10 and 45:00; creator original and worked example unverified, no download",
+    "rights": "Exact creator and mirror permissions unresolved; no hosted video",
+    "next_review_due": "verified original source and playback review"
+  },
+  {
+    "source": "KASNEB August 2026 BDA webinar invitation",
+    "url": "https://www.linkedin.com/posts/kasneb-kenya-3944a7140_attention-to-all-august-2026-business-data-activity-7489953386671497216-vtf3",
+    "decision": "HOLD_RECORDING_ACCESS",
+    "checked_utc": "2026-11-02T08:43:00Z",
+    "reason": "Official past webinar invitation does not prove persistent accessible recording or substantive lesson review",
+    "rights": "Recording/participant/slides permissions unverified",
+    "next_review_due": "official archived recording with rights"
   }
 ]

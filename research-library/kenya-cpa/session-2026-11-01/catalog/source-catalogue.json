@@ -2257,15 +2257,15 @@
     "licence": "All rights reserved; permission required",
     "decision": "ACCEPT_LINK",
     "academic_quality": "Official historical syllabus; search-indexed content reviewed.",
-    "syllabus_scope": "Historical learning-outcome baseline, not verified as the April 2027 syllabus.",
-    "decision_reason": "Official June 2024 PDF now publicly readable via PDF viewer; remains link-only because in-file copyright expressly restricts reproduction/storage without written permission.",
+    "syllabus_scope": "Official June 2024 historical/pre-transition syllabus, not verified for April 2027; December 2026 last old sitting reported in secondary sources.",
+    "decision_reason": "Retain external-only historical/pre-transition official syllabus; flag 2027 transition HOLD, no commercial reproduction rights.",
     "licence_url": "",
     "rights_evidence": "Official KASNEB June 2024 PDF page 1: all rights reserved; no reproduction, storage in retrieval system or transcription without prior written permission. Checked 2026-11-01; no full binary acquired.",
     "commercial_redistribution": "not_approved",
     "asset_key": "",
     "package_path": "",
-    "checked_utc": "2026-11-01T17:15:05.802Z",
-    "accuracy_review": "2026-11-01 targeted primary-source recheck: June 2024 official PDF publicly parses, including CA21 outcomes and sections 14–16; no full academic validation or 2026 sitting cutoff confirmed.",
+    "checked_utc": "2026-11-02T08:43:00Z",
+    "accuracy_review": "Official June 2024 edition and selected CA21 headings previously inspected; 2026-11-02 new syllabus launch and currently visible KASNEB CPA paper map checked. No revised 2027 PDF or transition rules.",
     "github_media_present": false,
     "local_media_present": false,
     "packaged_bytes": 0,
@@ -2275,10 +2275,10 @@
     "pdf_pages": null,
     "acquisition_status": "external_access_only",
     "download_availability": "2026-11-01 official public PDF viewer resolves text; earlier direct request returned 195-byte HTML placeholder. No acquired, signature-verified PDF bytes or SHA-256.",
-    "quality_review_status": "Selected primary CA21 headings and copyright notice checked; independent review and current sitting confirmation pending",
-    "exam_sitting_certification": "not_certified; confirm current KASNEB syllabus and cut-off",
+    "quality_review_status": "2024 official syllabus only; April 2027 outcomes HOLD_UNMAPPED",
+    "exam_sitting_certification": "2024 edition confirmed, 2027 new outcomes not verified",
     "work_id": "OFF-SYLLABUS2024",
-    "rights_review_utc": "2026-11-01T17:15:05.802Z",
+    "rights_review_utc": "2026-11-02T08:43:00Z",
     "rights_actions": {
       "link_to_primary_source": "allowed_as_ordinary_reference; no access bypass or endorsement",
       "read_at_source": "subject_to_source_access_terms",
@@ -2287,13 +2287,16 @@
       "commercial_redistribution": "not_approved",
       "adaptation": "not_approved",
       "extract_questions_and_solutions": "not_independently_cleared_as_a_standalone_question_bank; original CC-licensed questions may be reused under their terms only after attribution/component review",
-      "ai_model_training": "not_assessed; no project-wide permission claim",
+      "ai_model_training": "unresolved separate permission gate",
       "rag_or_generated_outputs": "separate_use_review_required; preserve attribution, source boundaries and copyright limits",
-      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights"
+      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights",
+      "download_for_private_research": "not performed this run; no fully acquired PDF bytes",
+      "database_rights": "hand-curated metadata only; no full syllabus copying",
+      "no_endorsement": "No KASNEB endorsement"
     },
     "rights_review_basis": "External-only or withheld: see decision_reason. Availability does not establish redistribution rights.",
     "licence_expiry": "See specific permission/statutory basis; no blanket perpetual grant asserted.",
-    "rights_recheck_trigger": "KASNEB syllabus edition/sitting cutoff changes, new written permission, revised terms or next exam announcement",
+    "rights_recheck_trigger": "Immediately on KASNEB official revised CPA syllabus or transition circular; otherwise 2026-11-09",
     "question_rights_note": "Publicly visible questions, teacher access, paid enrolment or an answer key do not by themselves grant republication rights. Methods may be taught using independently authored questions."
   },
   {
@@ -5686,7 +5689,7 @@
   },
   {
     "id": "NEWS-2027-TRANSITION",
-    "title": "Reported launch of revised syllabuses for April 2027",
+    "title": "KASNEB October 2026 revised CPA syllabus — April 2027 mapping HOLD",
     "authors": "Vincent Anguche",
     "publisher": "Citizen Digital",
     "papers": [
@@ -5700,17 +5703,17 @@
     "publication_date": "2026-10-30",
     "source_url": "https://citizen.digital/article/kasneb-revises-professional-courses-to-address-emerging-skills-gaps-n392945",
     "licence": "News copyright; link only",
-    "decision": "CANDIDATE_LINK",
-    "academic_quality": "Secondary report quoting KASNEB; primary replacement syllabus/transition notice not located.",
-    "syllabus_scope": "Transition alert only, not a verified new outcome map.",
-    "decision_reason": "Do not label this archive April 2027-complete. Retrieve official revised CPA syllabus and transition rules before remapping.",
+    "decision": "HOLD_TRANSITION",
+    "academic_quality": "Multiple dated secondary reports corroborate 29 October launch and report April 2027 revised exams. Primary revised CPA syllabus PDF, exact outcomes and transition circular not obtained; KASNEB official conference page confirms event dates only.",
+    "syllabus_scope": "Historical 2024/December 2026 planning baseline; do not claim April 2027 topic or video alignment without new official syllabus.",
+    "decision_reason": "HOLD official 2027 syllabus mapping and carry-forward rules; preserve 2024 work without relabeling it 2027-current.",
     "licence_url": "",
-    "rights_evidence": "",
+    "rights_evidence": "Citizen Digital article copyrighted; no article/photograph commercial reproduction grant, no 2027 PDF or in-file licence obtained.",
     "commercial_redistribution": "not_approved",
     "asset_key": "",
     "package_path": "",
-    "checked_utc": "2026-10-31T22:14:05.454642+00:00",
-    "accuracy_review": "publisher/content/selected-example review; not a full independent re-solution of every question",
+    "checked_utc": "2026-11-02T08:43:00Z",
+    "accuracy_review": "Citizen Digital 2026-10-30, Standard 2026-11-02 and Education News 2026-10-08/31 cross-checked with official KASNEB CPA page and KICP programme. First/last sitting dates remain secondary reporting, not primary circular verified.",
     "github_media_present": false,
     "local_media_present": false,
     "packaged_bytes": 0,
@@ -5720,26 +5723,60 @@
     "pdf_pages": null,
     "acquisition_status": "external_access_only",
     "download_availability": "External page/index access only; individual downloadable files/paid holdings not fully inspected. Not acquired media.",
-    "quality_review_status": "access_only_or_excluded; see academic_quality and decision_reason",
-    "exam_sitting_certification": "not_certified; confirm current KASNEB syllabus and cut-off",
+    "quality_review_status": "HOLD_PRIMARY_2027_SYLLABUS_AND_TRANSITION",
+    "exam_sitting_certification": "December 2026 last prior / April 2027 first revised exams are secondary reports, primary circular pending",
     "work_id": "NEWS-2027-TRANSITION",
-    "rights_review_utc": "2026-11-01T04:51:17.446154+00:00",
+    "rights_review_utc": "2026-11-02T08:43:00Z",
     "rights_actions": {
-      "link_to_primary_source": "allowed_as_ordinary_reference; no access bypass or endorsement",
-      "read_at_source": "subject_to_source_access_terms",
-      "download_for_redistribution": "not_approved",
-      "host_exact_packaged_work": "not_approved",
-      "commercial_redistribution": "not_approved",
-      "adaptation": "not_approved",
-      "extract_questions_and_solutions": "not_independently_cleared_as_a_standalone_question_bank; original CC-licensed questions may be reused under their terms only after attribution/component review",
-      "ai_model_training": "not_assessed; no project-wide permission claim",
-      "rag_or_generated_outputs": "separate_use_review_required; preserve attribution, source boundaries and copyright limits",
-      "remove_logos_or_components": "only_where_licence_permits_and_change_is_disclosed; no endorsement rights"
+      "link_to_primary_source": "plain attributed external link only; no endorsement",
+      "read_at_source": "individual reading subject to publisher terms",
+      "download_for_private_research": "not performed",
+      "download_for_redistribution": "not approved",
+      "host_exact_packaged_work": "not approved; no rights or verified bytes",
+      "commercial_redistribution": "not approved",
+      "adaptation": "not approved; text, photos, graphics uncleared",
+      "extract_questions_and_solutions": "not approved; none copied",
+      "ai_model_training": "unresolved separate permission gate",
+      "rag_or_generated_outputs": "separate rights review required",
+      "database_rights": "hand-curated factual metadata only; no bulk extraction",
+      "no_endorsement": "No KASNEB or publisher endorsement"
     },
-    "rights_review_basis": "External-only or withheld: see decision_reason. Availability does not establish redistribution rights.",
+    "rights_review_basis": "External attributed link only; exact 2027 primary edition and component rights not available.",
     "licence_expiry": "See specific permission/statutory basis; no blanket perpetual grant asserted.",
-    "rights_recheck_trigger": "New edition/hash, newly discovered component conflict, rights-holder claim, access terms change, proposed new use or condition breach; never silently substitute bytes.",
-    "question_rights_note": "Publicly visible questions, teacher access, paid enrolment or an answer key do not by themselves grant republication rights. Methods may be taught using independently authored questions."
+    "rights_recheck_trigger": "Official KASNEB 2027 CPA syllabus PDF or transition circular, correction or terms change; otherwise 2026-11-09",
+    "question_rights_note": "Publicly visible questions, teacher access, paid enrolment or an answer key do not by themselves grant republication rights. Methods may be taught using independently authored questions.",
+    "source_page_evidence": {
+      "checked_utc": "2026-11-02T08:43:00Z",
+      "sources": [
+        {
+          "url": "https://citizen.digital/article/kasneb-revises-professional-courses-to-address-emerging-skills-gaps-n392945",
+          "published": "2026-10-30",
+          "note": "secondary: launch, April 2027 first revised exams"
+        },
+        {
+          "url": "https://educationnews.co.ke/news/kasneb-to-phase-out-current-syllabus-after-december-2026-exams",
+          "published": "2026-10-08",
+          "note": "secondary: December 2026 last old-syllabus sitting, original circular unavailable"
+        },
+        {
+          "url": "https://www.standardmedia.co.ke/business/education/article/2001561217/kasneb-unveils-revised-syllabuses-at-professionals-forum",
+          "published": "2026-11-02 indexed",
+          "note": "secondary: 29 October launch"
+        },
+        {
+          "url": "https://kicp.kasneb.or.ke/",
+          "published": "2026-10-26/30",
+          "note": "primary: conference dates only"
+        },
+        {
+          "url": "https://www.kasneb.or.ke/cpa",
+          "published": "2026-11-02 checked",
+          "note": "primary: currently displayed paper codes, not new 2027 outcome map"
+        }
+      ],
+      "raw_bytes_hashed": false,
+      "media_sha256": null
+    }
   },
   {
     "id": "TXT-MACRO",
