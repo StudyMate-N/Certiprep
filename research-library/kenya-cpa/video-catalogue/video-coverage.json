@@ -236,9 +236,17 @@
     "paper_title": "Workshop on Work Simulation",
     "video_ids": "VIDEO-INTUIT-QBO-ZA|VIDEO-INTUIT-QBO-RECON-2026|VIDEO-INTUIT-QBO-INVOICE-2026|VIDEO-ODOO-BANKRECON-CANDIDATE-2026",
     "new_access_ids": "VIDEO-INTUIT-QBO-ZA|VIDEO-INTUIT-QBO-RECON-2026|VIDEO-INTUIT-QBO-INVOICE-2026",
-    "assessment": "Three external vendor-video access points (two 2026 US publisher transcripts reviewed; no playback or KASNEB certification), plus one Odoo HOLD",
-    "remaining_gaps": "No official KASNEB work-simulation recording; 2026 Intuit US vendor transcript examples cover reconciliation and invoicing only. Kenya-specific VAT/eTIMS, actual exam platform, complete video playback, independently checked source answers and recording rights remain open.",
+    "assessment": "Conditional official workshop; two external US accounting-software transcript lessons are optional supplementary practice only; no KASNEB training/attendance substitution",
+    "remaining_gaps": "Official one-week KASNEB/ICPAK work-simulation workshop and eligibility evidence (if under one year relevant experience); vendor lessons do not satisfy attendance. No official workshop recording, full playback, current Kenyan VAT/eTIMS case, independently checked source solutions or commercial recording permissions.",
     "complete_paper": false,
-    "full_recordings_reviewed": 0
+    "full_recordings_reviewed": 0,
+    "official_2026_status": "Conditional KASNEB workshop on work simulation, not an ordinary examinable CPA paper",
+    "official_condition": "Required for candidates without one year relevant practical experience, following BDA; KASNEB FAQ describes a one-week work-simulation workshop",
+    "official_source_urls": [
+      "https://www.kasneb.or.ke/cpa",
+      "https://www.kasneb.or.ke/faqs"
+    ],
+    "official_checked_utc": "2026-11-02T06:20:00Z",
+    "historical_code_warning": "Older 2024 qualification booklet lists CA38WP; current KASNEB CPA page lists CA37WP. Preserve source dates and do not silently treat the old code as current."
   }
 ]
