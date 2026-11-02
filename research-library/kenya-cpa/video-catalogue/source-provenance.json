@@ -813,5 +813,41 @@
     "media_downloaded": false,
     "review_scope": "Publisher page index inspected; 2026 US help article text on reconciliation cross-checked as concept only; no complete recording playback, timestamp or worked answer verification.",
     "rights_url": "https://quickbooks.intuit.com/software-licenses/website_terms_of_service/"
+  },
+  {
+    "key": "VIDEO-MANIFESTED-CA13-ZOOM",
+    "url": "https://manifestedpublishers.com/course/CPA_Zoom_ITLG",
+    "checked_utc": "2026-11-02T04:15:23Z",
+    "retrieval": "Publisher HTML text viewed via web; raw bytes not retained or hashed.",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Twelve free-video topic headings visible on publisher page; page also says subscribe to watch full content. No individual video URL or full playback verified.",
+    "rights_url": "https://manifestedpublishers.com/about/terms"
+  },
+  {
+    "key": "VIDEO-GLOBOPOINT-CA12-2022",
+    "url": "https://www.globopointlearningcentre.com/courses/cpa-002-communication-skills/",
+    "checked_utc": "2026-11-02T04:15:23Z",
+    "retrieval": "Search-index metadata only; live page returned verification challenge; no raw bytes retained or hashed.",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Search-indexed publisher listing shows timed 2022 question-labelled videos and 64h course claim; live direct page presented access verification challenge. No individual video, lesson or worked answer opened.",
+    "rights_url": ""
+  },
+  {
+    "key": "VIDEO-ICPAK-ETHICS-CPD2025",
+    "url": "https://www.icpak.com/wp-content/uploads/2024/12/2025-CPD-Calendar.pdf",
+    "checked_utc": "2026-11-02T04:15:23Z",
+    "retrieval": "Publisher PDF text viewed via web without downloading/retaining bytes; no source-file SHA-256 or video hash.",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Official 2025 calendar page 12 Category I lists 30-minute Code of Ethics for Professional Accountants video as Free, 3 CPD; no direct player or current 2026 availability verified.",
+    "rights_url": "https://www.icpak.com/"
   }
 ]
