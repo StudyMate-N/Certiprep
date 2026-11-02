@@ -1,0 +1,13 @@
+{
+  "checked_utc": "2026-11-02T10:16:06Z",
+  "kind": "canonical_csv_reconciliation",
+  "source": "cpa_library.resources",
+  "source_records": 251,
+  "resource_csv_records": 251,
+  "rights_csv_records": 251,
+  "previous_resource_csv_records": 147,
+  "previous_rights_csv_records": 149,
+  "media_changed": false,
+  "approved_status_changed": false,
+  "master_archive_unchanged": true
+}
