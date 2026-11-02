@@ -1816,5 +1816,49 @@
     "rights_evidence": "Summit CA34S1 primary page checked 2026-11-02; © 2026 footer, KSh 8,000 and password gate, 11 listed lessons, last updated 2026-08-28; no exact recording permission.",
     "expiry": "no commercial grant",
     "next_review": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-CIPIT-SYNTHETIC-2026-HOLD",
+    "source_url": "https://cipit.strathmore.edu/events/safeguarding-rights-in-synthetic-media-in-ea-ethical-ai-personal-data-and-creative-ownership/",
+    "licence": "CIPIT site footer CC BY 4.0 except otherwise noted; event video is embedded third-party YouTube recording with no exact-recording or contributor clearance.",
+    "licence_url": "https://cipit.strathmore.edu/events/safeguarding-rights-in-synthetic-media-in-ea-ethical-ai-personal-data-and-creative-ownership/",
+    "rights_actions": {
+      "adaptation": "not approved; third-party graphics, music, photographs, slides, demonstrations and credits not cleared",
+      "no_endorsement": "no CIPIT, Strathmore, event organisers, KASNEB or YouTube endorsement",
+      "read_at_source": "public publisher page subject to current provider and player access terms",
+      "database_rights": "manual factual bibliographic record only; no bulk copying, scraping or provider dataset replication",
+      "ai_model_training": "separate unresolved gate; not approved",
+      "link_to_primary_source": "HOLD from approved teaching links pending accuracy clarification; provenance URL retained, no copying licence",
+      "host_exact_packaged_work": "not approved; zero acquired bytes, no media SHA-256, format, signature or active-content checks",
+      "rag_or_generated_outputs": "separate output/use rights gate unresolved",
+      "commercial_redistribution": "not approved; no exact-recording commercial permission",
+      "download_for_redistribution": "not approved; exact audiovisual rights and third-party components unresolved",
+      "download_for_private_research": "not performed; no recording bytes or explicit recording-level grant checked",
+      "extract_questions_and_solutions": "not approved; source questions/answers uninspected and separately licensable"
+    },
+    "checked_utc": "2026-11-02T15:10:00Z",
+    "scope": "HOLD accuracy; do not promote to approved teaching"
+  },
+  {
+    "id": "VIDEO-MS-PL300-2024-SERIES",
+    "source_url": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data",
+    "licence": "Microsoft Learn current terms: personal noncommercial use unless otherwise specified; no recording commercial redistribution grant.",
+    "licence_url": "https://learn.microsoft.com/en-us/legal/termsofuse",
+    "rights_actions": {
+      "adaptation": "not approved; third-party graphics, music, photographs, slides, demonstrations and credits not cleared",
+      "no_endorsement": "no Microsoft, PL-300, KASNEB or speaker endorsement",
+      "read_at_source": "public publisher page subject to current provider and player access terms",
+      "database_rights": "manual factual bibliographic record only; no bulk copying, scraping or provider dataset replication",
+      "ai_model_training": "separate unresolved gate; not approved",
+      "link_to_primary_source": "ordinary manually curated attributed link only; no endorsement or copying permission",
+      "host_exact_packaged_work": "not approved; zero acquired bytes, no media SHA-256, format, signature or active-content checks",
+      "rag_or_generated_outputs": "separate output/use rights gate unresolved",
+      "commercial_redistribution": "not approved; no exact-recording commercial permission",
+      "download_for_redistribution": "not approved; exact audiovisual rights and third-party components unresolved",
+      "download_for_private_research": "not performed; no recording bytes or explicit recording-level grant checked",
+      "extract_questions_and_solutions": "not approved; source questions/answers uninspected and separately licensable"
+    },
+    "checked_utc": "2026-11-02T15:10:00Z",
+    "scope": "external access only; no recording distributed"
   }
 ]
