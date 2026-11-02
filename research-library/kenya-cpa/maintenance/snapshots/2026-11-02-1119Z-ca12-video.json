@@ -1,0 +1,26 @@
+{
+  "checked_utc": "2026-11-02T11:19:00Z",
+  "source_decisions": 252,
+  "accepted_links": 139,
+  "video_access_records": 75,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "private_media_objects": 162,
+  "private_media_bytes": 277700279,
+  "observed_total_storage_bytes": 598089979,
+  "missing_objects": 0,
+  "size_mismatches": 0,
+  "content_address_mismatches": 0,
+  "previous_full_download_verified_flags": 162,
+  "new_media_acquired": 0,
+  "acquired_recordings": 0,
+  "full_video_playback_reviewed": 0,
+  "independent_academic_review": "pending",
+  "april_2027_mapping": "22 HOLD_UNMAPPED; primary revised syllabus unavailable",
+  "new_source_ids": [
+    "VIDEO-YORK-CA12-COMM2021"
+  ],
+  "new_original_practice": "maintenance/practice/CA12_original_team_meeting_minutes_2026-11-02.md",
+  "rights_csv_reconciled_to": 252,
+  "source": "live Supabase and GitHub; metadata only; no fresh full-byte media download"
+}
