@@ -123,21 +123,24 @@
   "dropbox_use_authorized": false,
   "dropbox_status": "declined_for_this_request; do_not_use_or_suggest",
   "current_catalogue": {
-    "updated_utc": "2026-11-02T04:15:23Z",
-    "source_records": 238,
-    "accepted_links": 135,
+    "updated_utc": "2026-11-02T05:16:18.759Z",
+    "source_records": 241,
+    "accepted_links": 131,
     "candidate_links": 14,
     "acquired_entries": 43,
     "grouped_substantial_works": 29,
     "actual_media_assets": 162,
     "video_recordings_acquired": 0,
-    "video_catalogue_records": 64,
+    "video_catalogue_records": 67,
     "video_catalogue_path": "research-library/kenya-cpa/video-catalogue/README.md",
     "full_playback_reviewed": 0,
-    "rights_register_records": 238,
+    "rights_register_records": 241,
     "academic_complete": false,
     "metadata_sha256_checksums": "research-library/kenya-cpa/video-catalogue/SHA256SUMS-GITHUB-2026-11-02-0310Z",
-    "github_catalogue_commit": "c918f531af9dec7f43753c06faddfb709a036d9e",
-    "github_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0415Z-video.md"
+    "github_catalogue_commit": "6661ed33508945abbd73528d53c96112fd90c083",
+    "github_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0516Z-video.md",
+    "usage_rights_records": 241,
+    "metadata_only": true,
+    "latest_rights_correction": "Five IFAC-affiliated approved links moved to HOLD; rights CSV reconciled from 235 to 241 rows; original master archive checksum unchanged"
   }
 }
