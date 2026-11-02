@@ -1956,5 +1956,32 @@
     "checked_utc": "2026-11-02T17:18:00Z",
     "scope": "external-only; no commercial recording reuse, components or AI training approved",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-ICPAK-IS-AUDIT-INDEX",
+    "source_url": "https://icpak.bafunde.com/course/14/",
+    "alternative_source_url": "https://bafunde.com/course/information-systems-control-and-audit/",
+    "licence": "Copyright reserved on Bafunde page; no licence for videos or third-party components; free access does not mean redistribution permission",
+    "licence_url": "https://bafunde.com/course/information-systems-control-and-audit/",
+    "rights_actions": {
+      "adaptation": "Not approved; no rights for editing, OCR, transcription or derivative audiovisual works",
+      "no_endorsement": "Do not imply ICPAK, Bafunde, University of Nairobi, Vimeo, instructor or KASNEB endorsement",
+      "read_at_source": "Public course description accessible; viewing lessons requires provider-approved access or sign-up, ICPAK lists two free lessons and others paid; exact free lesson IDs not verified",
+      "database_rights": "Single manually curated metadata record only; no systematic extraction of course catalogues or lesson contents",
+      "ai_model_training": "Separate unresolved permission gate; not approved",
+      "link_to_primary_source": "Allowed as a single attributed manual bibliographic reference; no affiliation or endorsement",
+      "third_party_components": "Uncleared: presenter rights, Vimeo footage, slides, screenshots, photographs, logos, software screenshots, examples and any questions/solutions",
+      "host_exact_packaged_work": "Not approved; no exact-recording licence, audiovisual component clearance, full bytes or SHA-256",
+      "rag_or_generated_outputs": "Separate unresolved gate; no ingesting course videos/transcripts into commercial AI workflows",
+      "commercial_redistribution": "Not approved; Bafunde site copyright notice, no written commercial grant",
+      "download_for_redistribution": "Not approved; no recording-level permission or complete bytes",
+      "download_for_private_research": "Not performed; recording-specific terms, enrolment and access controls unresolved",
+      "extract_questions_and_solutions": "Not approved; 0 published lecture references, any assessment/questions/solutions need independent permission"
+    },
+    "checked_utc": "2026-11-02T18:14:13Z",
+    "scope": "external course-index access only; 11 ICPAK listings (2 advertised free) and related 7 Bafunde free-on-signup listings; no audiovisual bytes or redistribution",
+    "third_party_components": "Uncleared; no in-recording licences inspected",
+    "next_review_due": "2026-11-16",
+    "rights_evidence": "ICPAK/Bafunde primary course indexes inspected 2026-11-02; Bafunde footer ©2021 All Rights Reserved; no in-video or third-party grant inspected; Vimeo metadata not proof of authority"
   }
 ]
