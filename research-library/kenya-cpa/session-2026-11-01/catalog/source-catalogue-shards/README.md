@@ -28,3 +28,7 @@ The [two-record incremental shard](2026-11-02-1917Z-incremental.json) adds `VIDE
 ## 2026-11-02T20:20:00Z increment
 
 [Two-record external-only metadata shard](2026-11-02-2020Z-incremental.json) adds `VIDEO-CDH-KENYA-CORPORATE-GUIDE-2026`, `VIDEO-SGB-CA12-CLASS-2026` to the prior 265 canonical decisions, yielding **267**. Existing base shards, earlier incrementals and IFRS 18 access overlay are preserved. Standing source, rights and usage CSVs each reconcile to 267 distinct rows. Two blank action sets in the 19:17 usage export (CDH/PKF Finance Act videos) were restored from canonical Supabase records; no rights approval changed. No new acquired media.
+
+## 2026-11-02T21:13Z incremental review
+
+Two source decisions in `2026-11-02-2113Z-incremental.json`: one CPDbox IFRS3/10 ACCEPT_LINK with selected written-example arithmetic checked, and one CPDbox IFRS18 HOLD_ACCURACY over newly defined subtotals. Previous 267 IDs plus two distinct IDs = 269; the IFRS18 access overlay remains in force. No recordings downloaded; historical shards and >1 MiB monolith untouched. 2027 revised KASNEB syllabus PDF and transition circular not obtained.
