@@ -885,5 +885,57 @@
     "media_downloaded": false,
     "review_scope": "Publisher names three YouTube-linked videos; no playback or worked-case review",
     "rights_url": "https://www.ifac.org/terms-use"
+  },
+  {
+    "key": "VIDEO-INTUIT-QBO-RECON-2026",
+    "url": "https://quickbooks.intuit.com/learn-support/en-us/help-article/statement-reconciliation/reconcile-account-quickbooks-online/L5PO58h0S_US_en_US",
+    "final_url": "https://quickbooks.intuit.com/learn-support/en-us/help-article/statement-reconciliation/reconcile-account-quickbooks-online/L5PO58h0S_US_en_US",
+    "status": 200,
+    "bytes": null,
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "evidence_sha256": null,
+    "date_precision": "day",
+    "raw_bytes_hashed": false,
+    "media_sha256": null,
+    "verification_scope": "Publisher transcript sections 0:00–7:24 inspected, including 3 operational checkpoints; no actual video playback or worked numeric solution"
+  },
+  {
+    "key": "VIDEO-INTUIT-QBO-INVOICE-2026",
+    "url": "https://quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/create-invoice/L72Yimi28_US_en_US",
+    "final_url": "https://quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/create-invoice/L72Yimi28_US_en_US",
+    "status": 200,
+    "bytes": null,
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "evidence_sha256": null,
+    "date_precision": "day",
+    "raw_bytes_hashed": false,
+    "media_sha256": null,
+    "verification_scope": "Publisher transcript 0:00–3:23 inspected; selected customer/item/send workflow checkpoints; no full video playback or source worked answers"
+  },
+  {
+    "key": "VIDEO-ODOO-BANKRECON-CANDIDATE-2026",
+    "url": "https://www.odoo.com/slides/slide/bank-reconciliation-6562",
+    "final_url": "https://www.odoo.com/slides/slide/bank-reconciliation-6562",
+    "status": "not_fully_retrieved",
+    "bytes": null,
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "evidence_sha256": null,
+    "date_precision": "day",
+    "raw_bytes_hashed": false,
+    "media_sha256": null,
+    "verification_scope": "Search index lists an embedded video and three quiz questions; 2 answer concepts compared with Odoo 19 docs, but direct lesson/doc fetch timed out; no playback"
+  },
+  {
+    "key": "VIDEO-BRS-THIRDPARTY-PORTAL-2025",
+    "url": "https://www.youtube.com/watch?v=Q9vSXLq7wDM",
+    "final_url": "https://www.youtube.com/watch?v=Q9vSXLq7wDM",
+    "status": "not_fully_retrieved",
+    "bytes": null,
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "evidence_sha256": null,
+    "date_precision": "day",
+    "raw_bytes_hashed": false,
+    "media_sha256": null,
+    "verification_scope": "YouTube index provides 2025 chapter timestamps; watch-page retrieval throttled; no playback or step validation"
   }
 ]

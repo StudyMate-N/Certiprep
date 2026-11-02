@@ -1531,5 +1531,93 @@
     "rights_review_basis": "Primary publisher page and current site terms checked 2026-11-02T05:16:18.759Z; exact recording components unreviewed",
     "third_party_components": "No recording bytes inspected; slides, music, images, questions and solutions unresolved",
     "rights_expiry": "No redistribution grant; conditional link may be withdrawn"
+  },
+  {
+    "id": "VIDEO-INTUIT-QBO-RECON-2026",
+    "source_url": "https://quickbooks.intuit.com/learn-support/en-us/help-article/statement-reconciliation/reconcile-account-quickbooks-online/L5PO58h0S_US_en_US",
+    "licence": "Intuit site Terms: personal access, no download except caching, no commercial reproduction, derivatives or automated data mining; no recording redistribution grant",
+    "licence_url": "https://quickbooks.intuit.com/software-licenses/website_terms_of_service/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed external hyperlink only; no endorsement, framing, access bypass or bulk extraction",
+      "read_at_source": "individual personal reference only subject to publisher site and embedded-player terms",
+      "download_for_private_research": "not performed; no exact recording permission, component review or full-byte verification",
+      "download_for_redistribution": "not_approved; no exact recording-level commercial grant",
+      "host_exact_packaged_work": "not_approved; no downloaded signature/parse/active-content/SHA256 verified recording",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; video narration, interface captures, slides, images, audio and third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared; publisher/third-party question and answer rights separate",
+      "ai_model_training": "unresolved separate explicit permission gate; no training authorization inferred",
+      "rag_or_generated_outputs": "unresolved separate use and output-rights gate",
+      "database_rights": "limited hand-curated bibliographic reference only; no automated extraction or bulk copying",
+      "no_endorsement": "No Intuit, Odoo, BRS, creator or KASNEB affiliation or endorsement"
+    },
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "scope": "external-only publisher transcript review; no recording bytes"
+  },
+  {
+    "id": "VIDEO-INTUIT-QBO-INVOICE-2026",
+    "source_url": "https://quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/create-invoice/L72Yimi28_US_en_US",
+    "licence": "Intuit site Terms: personal access, no download except caching, no commercial reproduction, derivatives or automated data mining; no recording redistribution grant",
+    "licence_url": "https://quickbooks.intuit.com/software-licenses/website_terms_of_service/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed external hyperlink only; no endorsement, framing, access bypass or bulk extraction",
+      "read_at_source": "individual personal reference only subject to publisher site and embedded-player terms",
+      "download_for_private_research": "not performed; no exact recording permission, component review or full-byte verification",
+      "download_for_redistribution": "not_approved; no exact recording-level commercial grant",
+      "host_exact_packaged_work": "not_approved; no downloaded signature/parse/active-content/SHA256 verified recording",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; video narration, interface captures, slides, images, audio and third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared; publisher/third-party question and answer rights separate",
+      "ai_model_training": "unresolved separate explicit permission gate; no training authorization inferred",
+      "rag_or_generated_outputs": "unresolved separate use and output-rights gate",
+      "database_rights": "limited hand-curated bibliographic reference only; no automated extraction or bulk copying",
+      "no_endorsement": "No Intuit, Odoo, BRS, creator or KASNEB affiliation or endorsement"
+    },
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "scope": "external-only publisher transcript review; no recording bytes"
+  },
+  {
+    "id": "VIDEO-ODOO-BANKRECON-CANDIDATE-2026",
+    "source_url": "https://www.odoo.com/slides/slide/bank-reconciliation-6562",
+    "licence": "No exact eLearning video redistribution licence established; third-party player/quiz component rights unknown",
+    "licence_url": "https://www.odoo.com/slides/slide/bank-reconciliation-6562",
+    "rights_actions": {
+      "link_to_primary_source": "HOLD in approved distribution until access/accuracy issue resolved; provenance retained",
+      "read_at_source": "source access/teaching not fully validated; do not bypass controls",
+      "download_for_private_research": "not performed; no exact recording permission, component review or full-byte verification",
+      "download_for_redistribution": "not_approved; no exact recording-level commercial grant",
+      "host_exact_packaged_work": "not_approved; no downloaded signature/parse/active-content/SHA256 verified recording",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; video narration, interface captures, slides, images, audio and third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared; publisher/third-party question and answer rights separate",
+      "ai_model_training": "unresolved separate explicit permission gate; no training authorization inferred",
+      "rag_or_generated_outputs": "unresolved separate use and output-rights gate",
+      "database_rights": "limited hand-curated bibliographic reference only; no automated extraction or bulk copying",
+      "no_endorsement": "No Intuit, Odoo, BRS, creator or KASNEB affiliation or endorsement"
+    },
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "scope": "HOLD provenance; not approved access distribution"
+  },
+  {
+    "id": "VIDEO-BRS-THIRDPARTY-PORTAL-2025",
+    "source_url": "https://www.youtube.com/watch?v=Q9vSXLq7wDM",
+    "licence": "Creator video has no established commercial or adaptation grant; YouTube availability is not a licence",
+    "licence_url": "https://www.youtube.com/t/terms",
+    "rights_actions": {
+      "link_to_primary_source": "HOLD in approved distribution until access/accuracy issue resolved; provenance retained",
+      "read_at_source": "source access/teaching not fully validated; do not bypass controls",
+      "download_for_private_research": "not performed; no exact recording permission, component review or full-byte verification",
+      "download_for_redistribution": "not_approved; no exact recording-level commercial grant",
+      "host_exact_packaged_work": "not_approved; no downloaded signature/parse/active-content/SHA256 verified recording",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; video narration, interface captures, slides, images, audio and third-party components uncleared",
+      "extract_questions_and_solutions": "not_cleared; publisher/third-party question and answer rights separate",
+      "ai_model_training": "unresolved separate explicit permission gate; no training authorization inferred",
+      "rag_or_generated_outputs": "unresolved separate use and output-rights gate",
+      "database_rights": "limited hand-curated bibliographic reference only; no automated extraction or bulk copying",
+      "no_endorsement": "No Intuit, Odoo, BRS, creator or KASNEB affiliation or endorsement"
+    },
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "scope": "HOLD provenance; not approved access distribution"
   }
 ]

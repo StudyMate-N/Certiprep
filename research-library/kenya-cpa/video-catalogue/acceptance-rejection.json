@@ -229,5 +229,23 @@
     "reason": "IFAC terms §1.2 disallow deep linking to publications/information absent permission; demote rather than delete history",
     "rights": "Link action HOLD; no commercial hosting, adaptation, question-bank or AI rights",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "Odoo Accounting and Invoicing: bank reconciliation video and quiz",
+    "url": "https://www.odoo.com/slides/slide/bank-reconciliation-6562",
+    "decision": "HOLD_ACCESS",
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "reason": "HOLD_ACCESS: direct source page and documentation timed out; do not count as verified accessible lesson or acquired media",
+    "rights": "No exact eLearning video redistribution licence established; third-party player/quiz component rights unknown",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "Cheptiony Mutai: 10 BRS portal operations (2025 screencast)",
+    "url": "https://www.youtube.com/watch?v=Q9vSXLq7wDM",
+    "decision": "HOLD_ACCURACY",
+    "checked_utc": "2026-11-02T06:15:00Z",
+    "reason": "HOLD_ACCURACY: nonofficial 2025 interface and company filing details not verified against current BRSV2; no full playback",
+    "rights": "Creator video has no established commercial or adaptation grant; YouTube availability is not a licence",
+    "next_review_due": "2026-11-16"
   }
 ]
