@@ -427,5 +427,22 @@
     "reason": "Official LinkedIn post identifies YouTube tutorial but direct player/recording metadata could not be fetched; no full playback, exact date, rights or worked answers verified. BRS official site lists a different change-of-officials video; do not conflate.",
     "rights": "BRS copyright reserved; commercial hosting, adaptation, questions, slides, screenshots, database extraction and AI training uncleared",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "CPDbox IFRS 18 June 2025 free video/article index",
+    "url": "https://www.cpdbox.com/ifrs-18-presentation-and-disclosure-in-financial-statements-summary/",
+    "decision": "HOLD_ACCURACY",
+    "checked_utc": "2026-11-02T21:13:00Z",
+    "reason": "Publisher §4.3 says three NEW mandatory subtotals; IFRS Foundation identifies two NEW defined subtotals. Profit or loss was not introduced by IFRS18. No playback or answer review; external discovery only.",
+    "rights": "CPDbox terms §§1.3-1.5,6.3-6.6; no commercial redistribution, adaptation, question/solution extraction, IFRS third-party clearance or AI training grant.",
+    "next_review_due": "2026-11-16 or corrected publisher/standard evidence"
+  },
+  {
+    "source": "ICPAK CPA Catherine Asemeit Omasete IFRS18 LinkedIn video announcement",
+    "url": "https://www.linkedin.com/posts/icpakkenya_ifrs18-activity-7221121920065257472-hjQ6",
+    "decision": "HOLD_PLAYER_RIGHTS",
+    "checked_utc": "2026-11-02T21:13:00Z",
+    "reason": "ICPAK publisher announcement identifies video but lnkd.in player redirect could not be independently resolved; no recording date, playback, component or recording-level rights verified. Do not count as approved recording or course.",
+    "next_review_due": "2026-11-16"
   }
 ]
