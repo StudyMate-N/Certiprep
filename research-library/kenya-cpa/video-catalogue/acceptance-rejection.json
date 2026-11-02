@@ -202,5 +202,32 @@
     "reason": "2026 lecture uses Indian constitutional articles, RTI law and case law; cannot be treated as Kenyan CPA legal authority.",
     "rights": "No acquisition or rehosting",
     "next_review_due": "only_if_kenyan_adaptation_requested"
+  },
+  {
+    "source": "IAASB four-part ISA 240 (Revised) fraud video series",
+    "url": "Official publisher URL retained in JSON provenance only",
+    "decision": "HOLD_LINK_RIGHTS",
+    "checked_utc": "2026-11-02T05:16:18.759Z",
+    "reason": "IFAC Terms §1.2 require express written linking permission; no grant verified; future standard/kenyan adoption constraints.",
+    "rights": "No approved public deep link, hosting, adaptation, commercial, question-bank or AI use",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "IAASB three-part ISA for Less Complex Entities video series",
+    "url": "Official publisher URL retained in JSON provenance only",
+    "decision": "HOLD_LINK_RIGHTS",
+    "checked_utc": "2026-11-02T05:16:18.759Z",
+    "reason": "IFAC Terms §1.2 require express written linking permission; no grant verified; future standard/kenyan adoption constraints.",
+    "rights": "No approved public deep link, hosting, adaptation, commercial, question-bank or AI use",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "Five prior IFAC-affiliated accepted deep links",
+    "url": "Original URLs retained in canonical source records",
+    "decision": "RECLASSIFY_TO_HOLD_RIGHTS",
+    "checked_utc": "2026-11-02T05:16:18.759Z",
+    "reason": "IFAC terms §1.2 disallow deep linking to publications/information absent permission; demote rather than delete history",
+    "rights": "Link action HOLD; no commercial hosting, adaptation, question-bank or AI rights",
+    "next_review_due": "2026-11-16"
   }
 ]

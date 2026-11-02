@@ -849,5 +849,41 @@
     "media_downloaded": false,
     "review_scope": "Official 2025 calendar page 12 Category I lists 30-minute Code of Ethics for Professional Accountants video as Free, 3 CPD; no direct player or current 2026 availability verified.",
     "rights_url": "https://www.icpak.com/"
+  },
+  {
+    "key": "VIDEO-IFRS19-IMPLEMENTATION-2024",
+    "url": "https://www.ifrs.org/supporting-implementation/supporting-materials-by-ifrs-standards/ifrs-19/webcast-implementing-ifrs-19-insights/",
+    "checked_utc": "2026-11-02T05:16:18.759Z",
+    "retrieval": "Official publisher page metadata read; no raw page or recording bytes retained",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "IFRS Foundation page names IASB/preparer panel and Zoom player; no playback or source-worked case reviewed",
+    "rights_url": "https://www.ifrs.org/legal/terms-and-conditions/"
+  },
+  {
+    "key": "VIDEO-IAASB-ISA240-FRAUD-2025",
+    "url": "https://www.iaasb.org/focus-areas/fraud-going-concern-revised-standards-enhance-public-trust",
+    "checked_utc": "2026-11-02T05:16:18.759Z",
+    "retrieval": "Official publisher page metadata read; no raw page or recording bytes retained",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Official IAASB page lists four videos; no playback or worked-answer review",
+    "rights_url": "https://www.ifac.org/terms-use"
+  },
+  {
+    "key": "VIDEO-IAASB-LCE-2024",
+    "url": "https://www.iaasb.org/news-events/2024-03/iaasb-launches-new-video-series-and-global-webinar-understand-isa-lce",
+    "checked_utc": "2026-11-02T05:16:18.759Z",
+    "retrieval": "Official publisher page metadata read; no raw page or recording bytes retained",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Publisher names three YouTube-linked videos; no playback or worked-case review",
+    "rights_url": "https://www.ifac.org/terms-use"
   }
 ]
