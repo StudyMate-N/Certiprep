@@ -417,5 +417,15 @@
     "reason": "Two 32-minute and 29-minute course listings, zero free lessons, recording date unknown; no enrolment, source worked answers, audiovisual rights or full playback. Do not count as available CPA 2026 video instruction.",
     "rights": "©2021 Bafunde all rights reserved; no exact recording, slides, questions, adaptation, commercial redistribution, database or AI training permission established",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "BRS official LinkedIn share — Registering a Private Limited Company on BRS V2",
+    "url": "https://www.linkedin.com/posts/business-registration-service-2215b41b9_registering-a-private-limited-company-on-activity-7328769758827331586-wWTy",
+    "alternative_url": "https://www.youtube.com/watch?v=Bl-0o3Kq7Zw",
+    "decision": "HOLD_PLAYER_RIGHTS",
+    "checked_utc": "2026-11-02T20:20:00Z",
+    "reason": "Official LinkedIn post identifies YouTube tutorial but direct player/recording metadata could not be fetched; no full playback, exact date, rights or worked answers verified. BRS official site lists a different change-of-officials video; do not conflate.",
+    "rights": "BRS copyright reserved; commercial hosting, adaptation, questions, slides, screenshots, database extraction and AI training uncleared",
+    "next_review_due": "2026-11-16"
   }
 ]

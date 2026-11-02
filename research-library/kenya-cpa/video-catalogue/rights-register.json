@@ -2035,5 +2035,57 @@
     "third_party_components": "uncleared: video/YouTube audiovisual rights, speakers, music, photos, slides, graphics, third-party quotations and questions",
     "next_review_due": "2026-11-16",
     "rights_evidence": "PKF official event 2 Jul 2026, PKF branded YouTube listing published 10 Jul 2026; PKF disclaimer copyright and noncommercial single-copy rule; checked 2 Nov 2026"
+  },
+  {
+    "id": "VIDEO-CDH-KENYA-CORPORATE-GUIDE-2026",
+    "source_url": "https://www.cliffedekkerhofmeyr.com/en/news/media/2026/CDH/Africa-Corporate-Guide-Kenya-Jurisdiction",
+    "licence": "©2026 CDH all rights reserved; temporary single-screen viewing only",
+    "licence_url": "https://www.cliffedekkerhofmeyr.com/en/disclaimer.html",
+    "rights_actions": {
+      "adaptation": "Not approved; transcription/OCR does not cure rights",
+      "no_endorsement": "No publisher, KASNEB, BRS or ICPAK endorsement",
+      "read_at_source": "Authorized publisher viewing only; SGB lessons require paid enrolment",
+      "database_rights": "One manually curated bibliographic entry only; no bulk extraction",
+      "ai_model_training": "Separate unresolved permission gate; not approved",
+      "link_to_primary_source": "Single manually curated attributed reference; no endorsement",
+      "third_party_components": "Uncleared: presenter, slides, photos, graphics, music, screenshots, questions and solutions",
+      "host_exact_packaged_work": "Not approved; no licensed full bytes or SHA-256",
+      "rag_or_generated_outputs": "Separate permission gate; no video/transcript ingestion",
+      "commercial_redistribution": "Not approved; publisher copyright reserved",
+      "download_for_redistribution": "Not approved; no exact recording licence",
+      "download_for_private_research": "Not performed; no video downloader or access bypass",
+      "extract_questions_and_solutions": "Not approved; questions and past papers uncleared"
+    },
+    "checked_utc": "2026-11-02T20:20:00Z",
+    "scope": "Publisher date, 01:51 duration, guide disclaimer and site terms; no playback",
+    "third_party_components": "Uncleared: presenter, slides, photos, graphics, music, screenshots, questions and solutions",
+    "next_review_due": "2026-11-16",
+    "rights_evidence": "29 Jan 2026 publisher page 01:51 video; linked guide dated 31 Jan 2025; 2 Nov 2026 disclaimer prohibits permanent copies/redistribution"
+  },
+  {
+    "id": "VIDEO-SGB-CA12-CLASS-2026",
+    "source_url": "https://sgb.ac.ke/courses/communication-skills/",
+    "licence": "©2026 Traction SGB; KES 7,500 paid login; no commercial audiovisual grant",
+    "licence_url": "https://sgb.ac.ke/courses/communication-skills/",
+    "rights_actions": {
+      "adaptation": "Not approved; transcription/OCR does not cure rights",
+      "no_endorsement": "No publisher, KASNEB, BRS or ICPAK endorsement",
+      "read_at_source": "Authorized publisher viewing only; SGB lessons require paid enrolment",
+      "database_rights": "One manually curated bibliographic entry only; no bulk extraction",
+      "ai_model_training": "Separate unresolved permission gate; not approved",
+      "link_to_primary_source": "Single manually curated attributed reference; no endorsement",
+      "third_party_components": "Uncleared: presenter, slides, photos, graphics, music, screenshots, questions and solutions",
+      "host_exact_packaged_work": "Not approved; no licensed full bytes or SHA-256",
+      "rag_or_generated_outputs": "Separate permission gate; no video/transcript ingestion",
+      "commercial_redistribution": "Not approved; publisher copyright reserved",
+      "download_for_redistribution": "Not approved; no exact recording licence",
+      "download_for_private_research": "Not performed; no video downloader or access bypass",
+      "extract_questions_and_solutions": "Not approved; questions and past papers uncleared"
+    },
+    "checked_utc": "2026-11-02T20:20:00Z",
+    "scope": "2024–2026 session headings, topic list, price, login; no playback or past-paper content",
+    "third_party_components": "Uncleared: presenter, slides, photos, graphics, music, screenshots, questions and solutions",
+    "next_review_due": "2026-11-16",
+    "rights_evidence": "Publisher course index checked 2 Nov 2026: May 2026 01:23:34 and 01:49:41 session headings, KES 7,500 and login, ©2026; past-paper label uncleared"
   }
 ]
