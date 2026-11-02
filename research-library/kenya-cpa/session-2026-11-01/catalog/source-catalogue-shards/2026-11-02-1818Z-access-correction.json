@@ -1,0 +1,13 @@
+{
+  "id": "VIDEO-IFRS18-WEBINARS2024",
+  "checked_utc": "2026-11-02T18:14:13Z",
+  "type": "field_level_overlay_on_historical_source_shard",
+  "fields": {
+    "video_access_status": "OFFICIAL_INDEX_ALL_THREE_SIGN_IN_REQUIRED",
+    "content_review_extent": "All three May–June 2024 IFRS 18 webinars explicitly require sign-in on official page; no full playback or worked-answer review",
+    "access_reverified_utc": "2026-11-02T18:14:13Z",
+    "rights_recheck_trigger": "2026-11-16 or earlier if IFRS page, video player, terms or syllabus changes"
+  },
+  "evidence_url": "https://www.ifrs.org/supporting-implementation/supporting-materials-by-ifrs-standards/ifrs-18/webinar-series-new-requirements-in-ifrs18-explained/",
+  "note": "Do not count this patch as a 264th source; overlay by ID on existing historical source shard. All three 2024 webinars require sign-in; no media or rights change."
+}
