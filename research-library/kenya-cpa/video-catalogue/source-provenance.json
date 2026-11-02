@@ -937,5 +937,17 @@
     "raw_bytes_hashed": false,
     "media_sha256": null,
     "verification_scope": "YouTube index provides 2025 chapter timestamps; watch-page retrieval throttled; no playback or step validation"
+  },
+  {
+    "key": "VIDEO-WB-CFRR-IPSASB-UPDATE-2025",
+    "url": "https://cfrr.worldbank.org/node/5123",
+    "final_url": "https://cfrr.worldbank.org/node/5123",
+    "status": "publisher_page_index_reviewed",
+    "bytes": null,
+    "checked_utc": "2026-11-02T07:25:00Z",
+    "evidence_sha256": null,
+    "raw_bytes_hashed": false,
+    "media_sha256": null,
+    "verification_scope": "World Bank primary page and 2025 embedded YouTube metadata; player fetch throttled, no playback"
   }
 ]
