@@ -71,21 +71,48 @@
       "download_url": "https://chatgpt.com/library?file_id=libfile_4bf5f80a51088191bf81077e54aa9283&account_id=personal",
       "archive_crc": "passed",
       "file_checksums_verified": true
+    },
+    {
+      "type": "metadata_delta_not_full_archive_or_media_replacement",
+      "filename": "CPA_Library_Metadata_Delta_2026-11-02-0310Z.zip",
+      "library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-0310Z.zip",
+      "library_file_id": "libfile_9270e40739748191926111a6a6dfd0d3",
+      "file_id": "file_000000004aec81f6beca0b21fc923152",
+      "bytes": 5734,
+      "sha256": "8a63fa5c787aa6b8b9bcd9a67ce8b04a98c5ef9be49538946121efdcd2a92f79",
+      "archive_crc": "passed",
+      "manifest_sha256": "verified",
+      "sqlite_integrity": "ok",
+      "sqlite_delta_rows": 2,
+      "files": 7,
+      "github_catalogue_commit": "c918f531af9dec7f43753c06faddfb709a036d9e",
+      "source_decisions": 235,
+      "video_catalogue_records": 61,
+      "media_files_included": 0,
+      "acquired_media_files_added": 0,
+      "verified_utc": "2026-11-02T03:09:33Z",
+      "delivery_status": "saved_successfully",
+      "academic_review": "pending",
+      "scope": "two-source metadata delta, original practice and canonical GitHub checksum pointers; not full 235-row database backup"
     }
   ],
   "dropbox_use_authorized": false,
   "dropbox_status": "declined_for_this_request; do_not_use_or_suggest",
   "current_catalogue": {
-    "updated_utc": "2026-11-01T19:25:13.715Z",
-    "source_records": 199,
-    "accepted_links": 103,
+    "updated_utc": "2026-11-02T03:09:33Z",
+    "source_records": 235,
+    "accepted_links": 134,
     "candidate_links": 14,
     "acquired_entries": 43,
     "grouped_substantial_works": 29,
     "actual_media_assets": 162,
     "video_recordings_acquired": 0,
-    "video_catalogue_records": 25,
+    "video_catalogue_records": 61,
     "video_catalogue_path": "research-library/kenya-cpa/video-catalogue/README.md",
-    "full_playback_reviewed": 0
+    "full_playback_reviewed": 0,
+    "rights_register_records": 235,
+    "academic_complete": false,
+    "metadata_sha256_checksums": "research-library/kenya-cpa/video-catalogue/SHA256SUMS-GITHUB-2026-11-02-0310Z",
+    "github_catalogue_commit": "c918f531af9dec7f43753c06faddfb709a036d9e"
   }
 }
