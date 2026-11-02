@@ -1860,5 +1860,53 @@
     },
     "checked_utc": "2026-11-02T15:10:00Z",
     "scope": "external access only; no recording distributed"
+  },
+  {
+    "id": "VIDEO-WB-ABP-2026",
+    "source_url": "https://www.worldbank.org/en/programs/debt-toolkit/learning-events",
+    "licence": "World Bank Group terms amended 2025-07-25: noncommercial access; derivatives/commercial reuse require prior written consent; recording-specific permissions not established.",
+    "licence_url": "https://www.worldbank.org/ext/en/legal/terms-conditions",
+    "rights_actions": {
+      "adaptation": "not approved without prior written permission",
+      "no_endorsement": "no World Bank, IMF, presenter or KASNEB endorsement implied",
+      "read_at_source": "personal educational noncommercial access subject to current publisher and video-player terms",
+      "database_rights": "one manually curated factual bibliographic link; no bulk extraction or database replication",
+      "ai_model_training": "separate unresolved permission gate; not approved",
+      "link_to_primary_source": "manually curated attributed official link only; no endorsement",
+      "third_party_components": "not cleared; presenters, graphics, slides, photography, music and embedded materials uninspected",
+      "host_exact_packaged_work": "not approved; no authorized binary or verified full-byte media",
+      "rag_or_generated_outputs": "separate unresolved permission gate; not approved",
+      "commercial_redistribution": "not approved without prior written permission",
+      "download_for_redistribution": "not approved; no commercial recording licence",
+      "download_for_private_research": "not performed; exact recording terms/components unresolved",
+      "extract_questions_and_solutions": "not approved; no source questions or worked answers reviewed"
+    },
+    "checked_utc": "2026-11-02T16:14:16Z",
+    "scope": "external-only; recording-level redistribution and AI training not approved",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-WB-PUBLIC-ENTITY-CREDIT-2026",
+    "source_url": "https://www.worldbank.org/en/programs/debt-toolkit/learning-events",
+    "licence": "World Bank Group terms amended 2025-07-25: noncommercial access; derivatives/commercial reuse require prior written consent; recording-specific permissions not established.",
+    "licence_url": "https://www.worldbank.org/ext/en/legal/terms-conditions",
+    "rights_actions": {
+      "adaptation": "not approved without prior written permission",
+      "no_endorsement": "no World Bank, IMF, presenter or KASNEB endorsement implied",
+      "read_at_source": "personal educational noncommercial access subject to current publisher and video-player terms",
+      "database_rights": "one manually curated factual bibliographic link; no bulk extraction or database replication",
+      "ai_model_training": "separate unresolved permission gate; not approved",
+      "link_to_primary_source": "manually curated attributed official link only; no endorsement",
+      "third_party_components": "not cleared; presenters, graphics, slides, photography, music and embedded materials uninspected",
+      "host_exact_packaged_work": "not approved; no authorized binary or verified full-byte media",
+      "rag_or_generated_outputs": "separate unresolved permission gate; not approved",
+      "commercial_redistribution": "not approved without prior written permission",
+      "download_for_redistribution": "not approved; no commercial recording licence",
+      "download_for_private_research": "not performed; exact recording terms/components unresolved",
+      "extract_questions_and_solutions": "not approved; no source questions or worked answers reviewed"
+    },
+    "checked_utc": "2026-11-02T16:14:16Z",
+    "scope": "external-only; recording-level redistribution and AI training not approved",
+    "next_review_due": "2026-11-16"
   }
 ]
