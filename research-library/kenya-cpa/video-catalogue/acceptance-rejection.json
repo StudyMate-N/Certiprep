@@ -94,5 +94,41 @@
     "reason": "Self-paced text/exercise learning path, not distinct recording; existing Microsoft DAX video index already covered.",
     "rights": "No video rights inferred.",
     "next_review_due": "2026-12-01"
+  },
+  {
+    "source": "Summit CA26 — obsolete tax topics and trashed path HOLD",
+    "url": "https://portal.summittechnicalcollege.ac.ke/course/ca26-public-finance-and-taxation__trashed/",
+    "decision": "HOLD_ACCURACY",
+    "checked_utc": "2026-11-02T01:16:59.807Z",
+    "reason": "Page lists NHIF, digital service tax and minimum tax without current-law reconciliation; SHA replaced NHIF 2024-10-01, old minimum tax invalidated 2022",
+    "rights": "No hosted recording rights",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "source": "Manifested Advanced Taxation — 127 premium-video index HOLD",
+    "url": "https://manifestedkasneb.sqwiro.com/package/590c5f7ac19961c815b709cb",
+    "decision": "HOLD_ACCURACY",
+    "checked_utc": "2026-11-02T01:16:59.807Z",
+    "reason": "Premium index includes historical DST and minimum-tax topics; exact video dates, third-party past-paper rights and current law unverified",
+    "rights": "No hosted recording rights",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "source": "CDH January 2025 tax outlook webinar",
+    "url": "https://www.cliffedekkerhofmeyr.com/en/news/media/2025/Tax-Exchange-Control/Tax-outlook-2025-Whats-next-for-Kenyas-tax-landscape",
+    "decision": "REJECT_DUPLICATE_HISTORICAL_PRIORITY",
+    "checked_utc": "2026-11-02T01:16:59.807Z",
+    "reason": "Pre-Finance Act historical outlook overlaps later July webinar; preserve as provenance, no extra teaching link.",
+    "rights": "No commercial reuse",
+    "next_review_due": "2026-12-01"
+  },
+  {
+    "source": "Manifested 2022 YouTube tax overview",
+    "url": "https://www.youtube.com/watch?v=9yPrW2IYNG8",
+    "decision": "REJECT_CURRENT_TAX_TEACHING",
+    "checked_utc": "2026-11-02T01:16:59.807Z",
+    "reason": "Published 2022; current Kenyan tax content and worked answers unverified.",
+    "rights": "No commercial recording rights",
+    "next_review_due": "2026-12-01"
   }
 ]

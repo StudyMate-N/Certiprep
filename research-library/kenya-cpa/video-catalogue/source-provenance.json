@@ -717,5 +717,53 @@
     "media_downloaded": false,
     "review_scope": "~20h listed chapter markers inspected; no playback, software execution or datasets verified.",
     "rights_url": "https://www.youtube.com/t/terms"
+  },
+  {
+    "key": "VIDEO-CDH-KENYA-FINANCEACT2025",
+    "url": "https://www.cliffedekkerhofmeyr.com/en/news/media/2025/Tax-Exchange-Control/Unpacking-the-Finance-Act-2025-game-changer-or-business-as-usual",
+    "checked_utc": "2026-11-02T01:16:59.807Z",
+    "retrieval": "Publisher index only; no video downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Publisher date, duration, named panel and topic descriptions only; no recording playback or solutions",
+    "rights_url": "https://www.cliffedekkerhofmeyr.com/en/disclaimer.html"
+  },
+  {
+    "key": "VIDEO-RCM-CA26-PFT",
+    "url": "https://rcmonlinecollege.co.ke/courses/public-finance-and-taxation-pft/",
+    "checked_utc": "2026-11-02T01:16:59.807Z",
+    "retrieval": "Publisher index only; no video downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Nine lessons and two quizzes indexed; no enrolment, playback or answers",
+    "rights_url": "https://rcmonlinecollege.co.ke/terms-of-service/"
+  },
+  {
+    "key": "VIDEO-SUMMIT-CA26-STALE",
+    "url": "https://portal.summittechnicalcollege.ac.ke/course/ca26-public-finance-and-taxation__trashed/",
+    "checked_utc": "2026-11-02T01:16:59.807Z",
+    "retrieval": "Publisher index only; no video downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "16 sections, 24 lessons advertised; no recording or worked answer inspected",
+    "rights_url": "https://portal.summittechnicalcollege.ac.ke/"
+  },
+  {
+    "key": "VIDEO-MANIFESTED-CA34S1-STALE",
+    "url": "https://manifestedkasneb.sqwiro.com/package/590c5f7ac19961c815b709cb",
+    "checked_utc": "2026-11-02T01:16:59.807Z",
+    "retrieval": "Publisher index only; no video downloaded",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "127 advertised recordings, 63+ hours claimed, 0m individual entries; no playback or worked answer",
+    "rights_url": "https://manifestedkasneb.sqwiro.com/"
   }
 ]
