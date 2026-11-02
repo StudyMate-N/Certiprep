@@ -974,5 +974,18 @@
     "transcript_url": "https://yorkspace.library.yorku.ca/bitstreams/fa0beb49-8508-4642-8232-06f6d1c76bde/download",
     "transcript_pages_read": 1,
     "source": "YorkSpace official item/full metadata, license.txt and transcript; web text reviewed only"
+  },
+  {
+    "key": "cabri-reformis-2026",
+    "url": "https://www.cabri-sbo.org/en/media/kenyas-digital-pfm-journey-reformis",
+    "final_url": "https://www.cabri-sbo.org/en/media/kenyas-digital-pfm-journey-reformis",
+    "status": 200,
+    "bytes": null,
+    "checked_utc": "2026-11-02T12:30:00Z",
+    "evidence_sha256": null,
+    "raw_bytes_hashed": false,
+    "media_sha256": null,
+    "embed_id": "PG56Y9pG6E4",
+    "source": "publisher web page and terms, text retrieval only; video fetch throttled"
   }
 ]
