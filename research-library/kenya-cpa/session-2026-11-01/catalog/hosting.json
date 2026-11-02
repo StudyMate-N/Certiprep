@@ -114,7 +114,7 @@
     "latest_rights_review": "ICPAK/Bafunde IS audit external-only course indexes; mixed access, copyright reserved, third-party components and AI rights uncleared; IFRS 18 webinars all sign-in",
     "source_records": 263,
     "latest_commit": "bf5243c293d507e2f40be4775e085d6d1452a913",
-    "latest_source_decision_md5": "pending_current_SQL_readback",
+    "latest_source_decision_md5": "a1f0f8e04a468f5c7eeb45b6e381c9b6",
     "latest_video_catalogue_records": 86,
     "source_csv_rows": 263,
     "source_json_rows": 260,
@@ -124,7 +124,7 @@
     "metadata_delta_sha256": "2d21cdeb4bab29dca81e32d939bb8648964df00d7d3d293b1bded51da07cc33b",
     "latest_verified_utc": "2026-11-02T18:18:23Z",
     "syllabus_transition_status": "HOLD_PRIMARY_2027_CPA_SYLLABUS",
-    "source_json_readback": "263/263 ID reconciliation across four versioned shards; monolithic historical JSON unchanged",
+    "source_json_readback": "263 IDs from four historical+incremental shards plus 1 field-level IFRS18 access overlay; source CSV 263 and rights/usage CSV 263; video JSON/rights/CSV 86",
     "source_json_shards": [
       "../../session-2026-11-01/catalog/source-catalogue-shards/2026-11-02-1614Z-part-1.json",
       "../../session-2026-11-01/catalog/source-catalogue-shards/2026-11-02-1614Z-part-2.json"
