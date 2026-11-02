@@ -2087,5 +2087,61 @@
     "third_party_components": "Uncleared: presenter, slides, photos, graphics, music, screenshots, questions and solutions",
     "next_review_due": "2026-11-16",
     "rights_evidence": "Publisher course index checked 2 Nov 2026: May 2026 01:23:34 and 01:49:41 session headings, KES 7,500 and login, ©2026; past-paper label uncleared"
+  },
+  {
+    "id": "VIDEO-CPDBOX-CONSOLIDATION-2025",
+    "source_url": "https://www.cpdbox.com/complete-ifrs-consolidation-lecture-ifrs-3-ifrs-10-examples/",
+    "licence": "CPDbox Terms of Service §§1.2–1.5 and 6.3–6.6; personal noncommercial page use only; IFRS Foundation components independently restricted",
+    "licence_url": "https://www.cpdbox.com/terms/",
+    "rights_actions": {
+      "link_to_primary_source": "Single manually curated publisher URL with attribution; no endorsement, scraping or access bypass",
+      "read_at_source": "Publisher-authorised online reading/streaming only, subject to current CPDbox terms",
+      "download_for_private_research": "Not performed; CPDbox permits only limited personal noncommercial page copies, paid videos cannot be copied",
+      "download_for_redistribution": "NOT APPROVED; no exact recording or IFRS component commercial grant",
+      "host_exact_packaged_work": "NOT APPROVED; no acquired verified recording bytes or licence",
+      "commercial_redistribution": "NOT APPROVED; CPDbox terms 1.3 and 6.5-6.6 restrict third-party and IFRS Foundation material",
+      "adaptation": "NOT APPROVED; video, figures, case questions, slides and IFRS standard extracts not licensed for commercial derivatives",
+      "extract_questions_and_solutions": "NOT APPROVED; exact questions, worksheets, solutions, figures and their third-party rights unverified",
+      "database_rights": "One manual bibliographic reference; no copying publisher question bank or bulk site content",
+      "ai_model_training": "SEPARATE UNRESOLVED GATE; no permission established",
+      "rag_or_generated_outputs": "SEPARATE UNRESOLVED GATE; no transcript, IFRS excerpts or publisher question ingestion",
+      "third_party_components": "IFRS Foundation text/marks plus video images, slides, music, case figures, questions and answers not independently cleared",
+      "remove_logos_or_components": "Not performed; reformatting/OCR/AI does not clear source rights",
+      "no_endorsement": "No endorsement by CPDbox, Simlogic, IFRS Foundation, ICPAK or KASNEB"
+    },
+    "checked_utc": "2026-11-02T21:13:00Z",
+    "scope": "Publisher lecture index plus substantive linked written consolidation example, selected NCI/goodwill/elimination arithmetic and assumptions; no audiovisual playback, no source spreadsheet downloaded.",
+    "third_party_components": "Uncleared IFRS Foundation excerpts, trademarks, screenshots, graphs, publisher figures, recorded presentation, source cases and worksheets",
+    "next_review_due": "2026-11-16",
+    "rights_evidence": "Primary publisher https://www.cpdbox.com/complete-ifrs-consolidation-lecture-ifrs-3-ifrs-10-examples/ checked 2026-11-02; current CPDbox terms https://www.cpdbox.com/terms/ clauses 1.2-1.5,6.3-6.6 checked 2026-11-02; IFRS Foundation https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/ checked 2026-11-02. No recording in-file licence or component clearance.",
+    "decision": "ACCEPT_LINK"
+  },
+  {
+    "id": "VIDEO-CPDBOX-IFRS18-2025-HOLD",
+    "source_url": "https://www.cpdbox.com/ifrs-18-presentation-and-disclosure-in-financial-statements-summary/",
+    "licence": "CPDbox Terms of Service §§1.2–1.5 and 6.3–6.6; personal noncommercial page use only; IFRS Foundation components independently restricted",
+    "licence_url": "https://www.cpdbox.com/terms/",
+    "rights_actions": {
+      "link_to_primary_source": "Single manually curated publisher URL with attribution; no endorsement, scraping or access bypass",
+      "read_at_source": "Publisher-authorised online reading/streaming only, subject to current CPDbox terms",
+      "download_for_private_research": "Not performed; CPDbox permits only limited personal noncommercial page copies, paid videos cannot be copied",
+      "download_for_redistribution": "NOT APPROVED; no exact recording or IFRS component commercial grant",
+      "host_exact_packaged_work": "NOT APPROVED; no acquired verified recording bytes or licence",
+      "commercial_redistribution": "NOT APPROVED; CPDbox terms 1.3 and 6.5-6.6 restrict third-party and IFRS Foundation material",
+      "adaptation": "NOT APPROVED; video, figures, case questions, slides and IFRS standard extracts not licensed for commercial derivatives",
+      "extract_questions_and_solutions": "NOT APPROVED; exact questions, worksheets, solutions, figures and their third-party rights unverified",
+      "database_rights": "One manual bibliographic reference; no copying publisher question bank or bulk site content",
+      "ai_model_training": "SEPARATE UNRESOLVED GATE; no permission established",
+      "rag_or_generated_outputs": "SEPARATE UNRESOLVED GATE; no transcript, IFRS excerpts or publisher question ingestion",
+      "third_party_components": "IFRS Foundation text/marks plus video images, slides, music, case figures, questions and answers not independently cleared",
+      "remove_logos_or_components": "Not performed; reformatting/OCR/AI does not clear source rights",
+      "no_endorsement": "No endorsement by CPDbox, Simlogic, IFRS Foundation, ICPAK or KASNEB"
+    },
+    "checked_utc": "2026-11-02T21:13:00Z",
+    "scope": "Publisher article §4.3 compared against IFRS Foundation primary effective-date and new-subtotal summary; no video playback, no worksheet review.",
+    "third_party_components": "Uncleared IFRS Foundation excerpts, trademarks, screenshots, graphs, publisher figures, recorded presentation, source cases and worksheets",
+    "next_review_due": "2026-11-16",
+    "rights_evidence": "Primary publisher https://www.cpdbox.com/ifrs-18-presentation-and-disclosure-in-financial-statements-summary/ checked 2026-11-02; current CPDbox terms https://www.cpdbox.com/terms/ clauses 1.2-1.5,6.3-6.6 checked 2026-11-02; IFRS Foundation https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/ checked 2026-11-02. No recording in-file licence or component clearance.",
+    "decision": "HOLD_ACCURACY"
   }
 ]
