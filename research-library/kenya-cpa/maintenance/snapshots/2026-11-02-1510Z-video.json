@@ -1,0 +1,39 @@
+{
+  "checked_utc": "2026-11-02T15:13:00Z",
+  "lease_owner": "cpa-auto-20261102-1506Z-turn11",
+  "project_ref": "pebkqsyfliytbowxzyun",
+  "schema": "cpa_library",
+  "bucket": "cpa-verified-library",
+  "bucket_public": false,
+  "source_decisions": 258,
+  "accepted_links": 142,
+  "acquired_entries": 43,
+  "substantial_works": 29,
+  "video_catalogue_records": 81,
+  "video_recordings_acquired": 0,
+  "video_full_playback_reviewed": 0,
+  "source_worked_answers_reviewed": 0,
+  "assets": 162,
+  "cpa_storage_bytes": 277700279,
+  "all_storage_bytes": 598089979,
+  "all_storage_objects": 180,
+  "largest_cpa_object_bytes": 30235086,
+  "asset_mapping_missing_or_size_mismatch": 0,
+  "content_address_mismatch": 0,
+  "prior_download_sha256_flags": 162,
+  "new_media_downloaded": 0,
+  "new_media_bytes": 0,
+  "decisions_added": [
+    "VIDEO-MS-PL300-2024-SERIES",
+    "VIDEO-CIPIT-SYNTHETIC-2026-HOLD"
+  ],
+  "rejected_candidates": [
+    "third-party CPA Kenya Financial Accounting 2026 mirror"
+  ],
+  "april_2027_papers_mapped": 0,
+  "academic_complete": false,
+  "source_export_rows": 258,
+  "rights_export_rows": 258,
+  "master_archive_unchanged": true,
+  "scope": "metadata_only_no_full_media_or_full_database_archive"
+}
