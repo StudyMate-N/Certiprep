@@ -1686,5 +1686,31 @@
     },
     "checked_utc": "2026-11-02T10:10:44Z",
     "scope": "historical external index only; zero acquired recordings"
+  },
+  {
+    "id": "VIDEO-YORK-CA12-COMM2021",
+    "source_url": "https://yorkspace.library.yorku.ca/items/33c783bb-57f9-4f4b-874b-b2470f32ae34",
+    "licence": "YorkSpace item dc.rights CC BY 4.0 for 2021 video; item-specific license.txt grants nonexclusive distribution to York (not a separate third-party commercial clearance)",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_actions": {
+      "adaptation": "conditional under CC BY 4.0 for licensed components only; not approved pending video component/credits check",
+      "no_endorsement": "attribution to Learning Commons York University required; no institutional or KASNEB endorsement",
+      "read_at_source": "allowed publicly accessible YorkSpace page, transcript and permitted stream subject to access terms",
+      "database_rights": "bibliographic record only; no bulk extraction of YorkSpace",
+      "ai_model_training": "unresolved separate AI training gate; no explicit clearance",
+      "link_to_primary_source": "allowed attributed ordinary link to YorkSpace item; no endorsement",
+      "host_exact_packaged_work": "not_approved; no acquired full bytes, component check, active-content/format/hash verification; 152.81 MB exceeds 40 MB mirror cap",
+      "rag_or_generated_outputs": "unresolved separate source/output rights review",
+      "commercial_redistribution": "conditional CC BY 4.0 for rights-holder-controlled work; not approved for current product until third-party and exact-byte audit",
+      "remove_logos_or_components": "only after component-by-component inspection and permitted editing; attribution retained",
+      "download_for_redistribution": "HOLD_COMPONENTS; item CC BY 4.0 grant evidenced but exact recording bytes, credits and third-party components uninspected",
+      "download_for_private_research": "CC BY 4.0 asserted for exact 2021 video; not performed; inspect video/credits and site access terms first",
+      "extract_questions_and_solutions": "not_cleared; no source question/solution bank reviewed or copied"
+    },
+    "checked_utc": "2026-11-02T11:19:00Z",
+    "scope": "external access only; university CC BY 4.0 claim; exact MP4 third-party components and byte audit pending; no recordings distributed",
+    "rights_evidence": "YorkSpace item and full metadata explicitly identify CC BY 4.0, creator attribution and 2021 date; separate license.txt is author-to-repository distribution permission. Exact video credits/third-party components uninspected.",
+    "expiry": "CC BY 4.0 ordinarily irrevocable while compliant for covered work; no permission expiry stated; third-party scope unverified",
+    "next_review_due": "2026-12-02"
   }
 ]
