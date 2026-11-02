@@ -362,5 +362,24 @@
     "decision": "REJECT_AS_TEACHING",
     "reason": "News announcement, not a CPA lesson, official 2027 syllabus or transition circular; no video acquired.",
     "checked_utc": "2026-11-02T13:23:16Z"
+  },
+  {
+    "source": "CIPIT synthetic-media panel, 10 March 2026",
+    "url": "https://cipit.strathmore.edu/events/safeguarding-rights-in-synthetic-media-in-ea-ethical-ai-personal-data-and-creative-ownership/",
+    "decision": "HOLD_ACCURACY",
+    "checked_utc": "2026-11-02T15:10:00Z",
+    "reason": "Publisher synopsis attributes exceptions to indirect collection of personal data to Kenya Data Protection Act section 2. Official Kenya Law s28(2) contains these exceptions; s2 is interpretation. Actual video not played; this flags publisher summary, not verified speaker wording. Do not promote as law teaching.",
+    "primary_evidence": "https://new.kenyalaw.org/akn/ke/act/2019/24/eng@2019-11-15/source",
+    "rights": "CIPIT footer CC BY 4.0 except otherwise noted does not clear YouTube recording, event speakers, images, questions, adaptations or AI training.",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "Third-party CPA Kenya Financial Accounting FULL Course 2026 mirror/index",
+    "url": "https://natokhd.com/video/cpa-kenya-financial-accounting-full-course-2026-bank-reconciliation-quickbooks/7_w9zD1FWMY",
+    "decision": "REJECT_SOURCE_AND_METADATA_INCONSISTENCY",
+    "checked_utc": "2026-11-02T15:10:00Z",
+    "reason": "Unverified third-party video mirror lists duration 27:41 but chapters at 28:10 and 45:00; publisher identity/recording provenance and original source rights not verified. Direct access returned 403. Not credible enough for approval; do not download.",
+    "rights": "No recording-specific permission or verified primary publisher link. External third-party download link is not a licence.",
+    "next_review_due": "2026-12-01"
   }
 ]
