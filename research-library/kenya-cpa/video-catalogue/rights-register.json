@@ -1619,5 +1619,27 @@
     },
     "checked_utc": "2026-11-02T06:15:00Z",
     "scope": "HOLD provenance; not approved access distribution"
+  },
+  {
+    "id": "VIDEO-WB-CFRR-IPSASB-UPDATE-2025",
+    "source_url": "https://cfrr.worldbank.org/node/5123",
+    "licence": "World Bank website terms amended 2025-07-25: non-commercial site-material uses; commercial use/derivatives require prior written consent; embedded components separately owned.",
+    "licence_url": "https://www.worldbank.org/ext/en/legal/terms-conditions",
+    "rights_actions": {
+      "link_to_primary_source": "allowed_plain_attributed_reference_only; no framing, endorsement or access bypass",
+      "read_at_source": "individual access under publisher site terms; no automated extraction",
+      "download_for_private_research": "not_performed; no video/PDF bytes acquired",
+      "download_for_redistribution": "not_approved; no exact-edition commercial grant or third-party component clearance",
+      "host_exact_packaged_work": "not_approved; no licensed and fully byte/hash-verified object",
+      "commercial_redistribution": "not_approved",
+      "adaptation": "not_approved; audiovisual/slides/photographs/graphics/music/text components not cleared",
+      "extract_questions_and_solutions": "not_cleared; no question or solution extraction",
+      "ai_model_training": "unresolved_separate_permission_gate; not_approved",
+      "rag_or_generated_outputs": "separate_rights_and_attribution_review_required",
+      "database_rights": "hand-curated factual bibliographic metadata only; no bulk/full-text extraction",
+      "no_endorsement": "No World Bank, IPSASB, PSASB or KASNEB endorsement or affiliation"
+    },
+    "checked_utc": "2026-11-02T07:25:00Z",
+    "scope": "External link only; no media downloaded or distributed"
   }
 ]
