@@ -1712,5 +1712,31 @@
     "rights_evidence": "YorkSpace item and full metadata explicitly identify CC BY 4.0, creator attribution and 2021 date; separate license.txt is author-to-repository distribution permission. Exact video credits/third-party components uninspected.",
     "expiry": "CC BY 4.0 ordinarily irrevocable while compliant for covered work; no permission expiry stated; third-party scope unverified",
     "next_review_due": "2026-12-02"
+  },
+  {
+    "id": "VIDEO-CABRI-REFORMIS-2026",
+    "source_url": "https://www.cabri-sbo.org/en/media/kenyas-digital-pfm-journey-reformis",
+    "licence": "CABRI site terms permit personal non-commercial use; commercial resale, redistribution and derivative use require prior written consent; additional third-party rights possible.",
+    "licence_url": "https://www.cabri-sbo.org/en/pages/terms-and-conditions-of-use",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed source link; no CABRI, Treasury or KASNEB endorsement",
+      "read_at_source": "public publisher page; subject to CABRI site terms and linked YouTube access",
+      "download_for_private_research": "not performed; exact recording rights and components unverified",
+      "download_for_redistribution": "not_approved; CABRI commercial and redistribution restrictions; third-party video rights unresolved",
+      "host_exact_packaged_work": "not_approved; no full-byte download, media SHA-256, component or security verification",
+      "commercial_redistribution": "not_approved; CABRI requires prior written consent for commercial reuse",
+      "adaptation": "not_approved; CABRI prior written consent required for derivative works",
+      "extract_questions_and_solutions": "not_approved; no worked examples or questions reviewed",
+      "ai_model_training": "separate unresolved AI-training gate; not approved",
+      "rag_or_generated_outputs": "separate unresolved output/AI rights gate; not approved",
+      "database_rights": "one manually curated bibliographic record only; no bulk site extraction",
+      "remove_logos_or_components": "no derivative prepared; embedded images/music/participants/graphics not cleared",
+      "no_endorsement": "no CABRI, National Treasury, PFM Secretariat, YouTube or KASNEB endorsement"
+    },
+    "checked_utc": "2026-11-02T12:30:00Z",
+    "scope": "external video context only; no recording acquired or playback",
+    "rights_evidence": "CABRI 2026 publisher page; CABRI terms checked 2026-11-02 explicitly restrict commercial/derivative uses and warn of third-party rights; National Treasury/PFMR official sources corroborate reform programme.",
+    "expiry": "no commercial grant",
+    "next_review": "2026-12-02"
   }
 ]
