@@ -12,3 +12,7 @@ Both shards were **fetched again and parsed** after creation. Combined 260 disti
 ## Incremental canonical addition — 2 November 2026, 17:18 UTC
 
 [Two-record 2026-11-02-1718Z shard](2026-11-02-1718Z-incremental.json) extends the 260-record 16:14 UTC base shards to **262 canonical source decisions**. The two new IDs are `VIDEO-WB-KENYA-SME-TAX-2024` and `VIDEO-WB-REVENUE-RIGHT-2026`. The three shard files were independently read back and all **262 distinct IDs** matched live Supabase `cpa_library.resources` exactly; both source and rights CSV exports have 262 distinct rows. The preserved monolithic JSON predates this increment and must not be treated as the current canonical 262-record file. Neither these shards nor the metadata ZIP contains audiovisual bytes.
+
+## Incremental canonical addition — 2 November 2026, 18:14 UTC
+
+[One-record 2026-11-02-1814Z shard](2026-11-02-1814Z-incremental.json) extends the two 130-record 16:14 UTC base shards plus the two-record 17:18 UTC shard to **263 canonical source decisions**. New ID `VIDEO-ICPAK-IS-AUDIT-INDEX` groups overlapping ICPAK (11 lessons, 2 advertised free) and Bafunde (7 lessons, free with signup) IS-audit course indexes; no recordings acquired, dates or overlap verified. Current standing source/rights CSVs have 263 distinct IDs each. The original >1 MiB monolithic source JSON remains historical and untouched.
