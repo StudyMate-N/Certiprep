@@ -390,5 +390,23 @@
     "reason": "Publisher explicitly states session recordings coming soon; event programme is not a recording or playback-reviewed lesson.",
     "rights": "World Bank terms restrict commercial/derivative reuse; no recording or component licence available",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "ICPAK / Bafunde Internal Audit Data Analytics and Reporting",
+    "url": "https://icpak.bafunde.com/course/29/",
+    "decision": "HOLD_ACCESS",
+    "checked_utc": "2026-11-02T18:14:13Z",
+    "reason": "Official ICPAK-hosted index lists one 32-minute lecture and zero free lectures. No verified playback, exact recording date, worked answers or rights grant; not accepted as free video learning or acquired media.",
+    "rights": "Provider/presenter and third-party components uncleared; no commercial rehosting, adaptation, question extraction or AI training",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "Global Compact Network Kenya / ICPAK IFRS S1/S2 30 July 2026 event",
+    "url": "https://www.globalcompactkenya.org/media-center/events/introduction-international-financial-reporting-standards-ifrs-s1-and-s2",
+    "decision": "HOLD_NO_RECORDING",
+    "checked_utc": "2026-11-02T18:14:13Z",
+    "reason": "Primary event page contains dated event and Teams registration, but no publisher-released recording or playback link; event not counted as video lesson.",
+    "rights": "Event attendance and public page do not grant audiovisual redistribution, adaptation or AI use",
+    "next_review_due": "2026-11-16"
   }
 ]
