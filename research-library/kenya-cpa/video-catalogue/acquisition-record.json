@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-02T17:18:00Z",
+  "checked_utc": "2026-11-02T18:14:13Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
@@ -26,15 +26,19 @@
   "rights_note": "Private NC transcript and source HTML excluded from public package. Metadata/page hashes are provenance only, never media checksums.",
   "scope": "Manual user-directed multi-level catalogue batch; hourly acquisition limits unchanged.",
   "latest_batch": {
-    "checked_utc": "2026-11-02T17:18:00Z",
-    "new_candidates_assessed": 3,
-    "new_accepted_external_series": 2,
-    "new_hold_no_recording": 1,
+    "checked_utc": "2026-11-02T18:14:13Z",
+    "candidates_assessed": 4,
+    "distinct_external_course_indexes_added": 1,
+    "held_gated_analytics": 1,
+    "held_no_recording": 1,
+    "existing_IFRS18_access_correction": 1,
+    "course_metadata": "ICPAK 11 lessons (2 advertised free); related Bafunde 7 free with signup, overlap unresolved",
     "new_media_acquired": 0,
-    "video_recordings_acquired_total": 0,
+    "new_media_bytes": 0,
     "full_playback_reviews": 0,
-    "source_worked_answers_reviewed": 0,
-    "notes": "2024 World Bank/KRA Kenya SME tax policy and 2026 World Bank domestic revenue recording page; external-only; no playback, redistribution or current statutory validation."
+    "worked_answers_reviewed": 0,
+    "source_rights": "No exact recording or third-party commercial redistribution/adaptation, question extraction or AI permission",
+    "primary_2027_syllabus_obtained": false
   },
   "latest_candidates_assessed": 6,
   "latest_new_catalogue_records": 3,
@@ -51,7 +55,7 @@
   "latest_worked_answers_reviewed": 0,
   "latest_candidate_links": 0,
   "latest_existing_links_demoted": 0,
-  "current_video_catalogue_records": 85,
+  "current_video_catalogue_records": 86,
   "current_source_decisions": 262,
   "current_accepted_links": 146,
   "current_actual_media_assets": 162,
@@ -63,7 +67,8 @@
     "candidates_rejected": 2,
     "record_id": "VIDEO-CABRI-REFORMIS-2026"
   },
-  "current_accepted_external_links": 142,
+  "current_accepted_external_links": 147,
   "current_media_assets": 162,
-  "current_substantial_works": 29
+  "current_substantial_works": 29,
+  "video_recordings_acquired_total": 0
 }
