@@ -987,5 +987,41 @@
     "media_sha256": null,
     "embed_id": "PG56Y9pG6E4",
     "source": "publisher web page and terms, text retrieval only; video fetch throttled"
+  },
+  {
+    "key": "VIDEO-NPTEL-ICMAI-COST-2026",
+    "url": "https://nptel.ac.in/courses/110106511",
+    "checked_utc": "2026-11-02T13:23:16Z",
+    "source_page_status": "publisher page indexed, not media verified",
+    "page_sha256": null,
+    "media_sha256": null,
+    "raw_page_bytes_hashed": false,
+    "source_access": "OFFICIAL_2026_COURSE_INDEX_NO_PLAYBACK",
+    "provenance_note": "Primary NPTEL course https://nptel.ac.in/courses/110106511 checked 2026-11-02; archived NPTEL terms reserve copyright; current SWAYAM terms https://swayam.gov.in/terms_of_use restrict instructional content to personal course use and bulk scraping; recording-specific licence absent.",
+    "review_batch": "2026-11-02-1323Z-video"
+  },
+  {
+    "key": "VIDEO-SUMMIT-CA25-2026",
+    "url": "https://portal.summittechnicalcollege.ac.ke/course/ca25-management-accounting/",
+    "checked_utc": "2026-11-02T13:23:16Z",
+    "source_page_status": "publisher page indexed, not media verified",
+    "page_sha256": null,
+    "media_sha256": null,
+    "raw_page_bytes_hashed": false,
+    "source_access": "PAID_PASSWORD_GATED_INDEX_NO_VERIFIED_RECORDINGS",
+    "provenance_note": "Summit primary CA25 course page checked 2026-11-02; © 2026 footer, KSh 8,000 price, password-protected content, 23 lessons and 16 sections; no third-party/video licence.",
+    "review_batch": "2026-11-02-1323Z-video"
+  },
+  {
+    "key": "VIDEO-SUMMIT-CA34S1-2026",
+    "url": "https://portal.summittechnicalcollege.ac.ke/course/ca34s1-advanced-taxation/",
+    "checked_utc": "2026-11-02T13:23:16Z",
+    "source_page_status": "publisher page indexed, not media verified",
+    "page_sha256": null,
+    "media_sha256": null,
+    "raw_page_bytes_hashed": false,
+    "source_access": "PAID_PASSWORD_GATED_INDEX_NO_VERIFIED_RECORDINGS",
+    "provenance_note": "Summit CA34S1 primary page checked 2026-11-02; © 2026 footer, KSh 8,000 and password gate, 11 listed lessons, last updated 2026-08-28; no exact recording permission.",
+    "review_batch": "2026-11-02-1323Z-video"
   }
 ]
