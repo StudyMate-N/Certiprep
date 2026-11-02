@@ -20,3 +20,7 @@ Both shards were **fetched again and parsed** after creation. Combined 260 disti
 ### Field-level overlay — 2 November 2026, 18:18 UTC
 
 Apply [2026-11-02-1818Z-access-correction.json](2026-11-02-1818Z-access-correction.json) **by ID** after reading the historical base and incremental shards. It updates `VIDEO-IFRS18-WEBINARS2024` from partly gated to all three 2024 webinar watch links requiring sign-in. This overlay is **not** a new source ID; the canonical count remains 263. Preserve historical shard bytes and dated provenance. The current video-catalogue JSON already reflects the correction.
+
+## Two 2026 Kenyan tax video metadata decisions — 2 November 2026, 19:17 UTC
+
+The [two-record incremental shard](2026-11-02-1917Z-incremental.json) adds `VIDEO-CDH-FINANCEACT2026-POLICY` and `VIDEO-PKF-FINANCEACT2026-WEBINAR` to the previous 263 canonical IDs, yielding **265**. Apply the earlier IFRS 18 access overlay by ID; it remains a field correction, not a new source. Both entries are external-only metadata, with no recording downloads or new media hashes. Standing source and rights CSVs have 265 distinct rows each; the preserved monolithic source JSON remains historical.
