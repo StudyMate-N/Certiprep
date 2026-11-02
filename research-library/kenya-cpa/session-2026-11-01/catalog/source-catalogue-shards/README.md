@@ -16,3 +16,7 @@ Both shards were **fetched again and parsed** after creation. Combined 260 disti
 ## Incremental canonical addition — 2 November 2026, 18:14 UTC
 
 [One-record 2026-11-02-1814Z shard](2026-11-02-1814Z-incremental.json) extends the two 130-record 16:14 UTC base shards plus the two-record 17:18 UTC shard to **263 canonical source decisions**. New ID `VIDEO-ICPAK-IS-AUDIT-INDEX` groups overlapping ICPAK (11 lessons, 2 advertised free) and Bafunde (7 lessons, free with signup) IS-audit course indexes; no recordings acquired, dates or overlap verified. Current standing source/rights CSVs have 263 distinct IDs each. The original >1 MiB monolithic source JSON remains historical and untouched.
+
+### Field-level overlay — 2 November 2026, 18:18 UTC
+
+Apply [2026-11-02-1818Z-access-correction.json](2026-11-02-1818Z-access-correction.json) **by ID** after reading the historical base and incremental shards. It updates `VIDEO-IFRS18-WEBINARS2024` from partly gated to all three 2024 webinar watch links requiring sign-in. This overlay is **not** a new source ID; the canonical count remains 263. Preserve historical shard bytes and dated provenance. The current video-catalogue JSON already reflects the correction.
