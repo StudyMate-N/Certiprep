@@ -306,5 +306,19 @@
     "checked_utc": "2026-11-02T09:21:31Z",
     "decision": "HOLD_RECORDING_ACCESS",
     "reason": "Publisher page lists ended event but no accessible video player; proposed AI Bill discussion not enacted Kenyan law or certified CPA syllabus."
+  },
+  {
+    "source": "Manifested CPA Introduction to Law full-class 15-topic index",
+    "url": "https://manifestedpublishers.com/course/ILG_FL_Class",
+    "decision": "REJECT_DUPLICATE_COVERAGE",
+    "reason": "Same publisher/CA13 subject as existing accepted Zoom index; paid 4-month course, no independent lesson playback, current recording dates or unique verified teaching benefit. Retain candidate provenance; no duplicate accepted resource.",
+    "checked_utc": "2026-11-02T11:19:00Z"
+  },
+  {
+    "source": "KBC October 2026 KASNEB syllabus launch news clip",
+    "url": "https://www.kenyamoja.com/video/kasneb-launches-revised-syllabus-kbc-video-519154",
+    "decision": "REJECT_AS_TEACHING_VIDEO",
+    "reason": "1:39 news report of 29 October 2026 launch, not examinable CPA teaching or official 2027 syllabus/transition document. Useful secondary announcement only.",
+    "checked_utc": "2026-11-02T11:19:00Z"
   }
 ]
