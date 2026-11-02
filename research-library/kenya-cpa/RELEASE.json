@@ -185,7 +185,7 @@
     "rights_register_records": 245,
     "academic_complete": false,
     "metadata_sha256_checksums": "research-library/kenya-cpa/video-catalogue/SHA256SUMS-GITHUB-2026-11-02-0310Z",
-    "github_catalogue_commit": "14cc2cf46bc412ab42c8d4739484dc8427f2190a",
+    "github_catalogue_commit": "82106e31eb55e81283b40747f7f07dff4d449ffb",
     "github_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0615Z-video.md",
     "usage_rights_records": 245,
     "metadata_only": true,
@@ -194,6 +194,9 @@
     "metadata_delta_zip_sha256": "7a832417d39d93e998668a7c4e93c8bb202e5cc2ac20d1510e18c837a86f908d",
     "metadata_delta_verified_utc": "2026-11-02T06:15:00Z",
     "archive_unchanged": true,
-    "latest_review": "CA37WP: two publisher transcripts, two holds, original invoice practice"
+    "latest_review": "CA37WP: two publisher transcripts, two holds, original invoice practice",
+    "latest_syllabus_verification_utc": "2026-11-02T06:20:00Z",
+    "latest_syllabus_verification_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0620Z-syllabus.md",
+    "CA37WP_official_status": "conditional workshop for candidates without one year relevant practical experience; not ordinary examinable paper"
   }
 }
