@@ -408,5 +408,14 @@
     "reason": "Primary event page contains dated event and Teams registration, but no publisher-released recording or playback link; event not counted as video lesson.",
     "rights": "Event attendance and public page do not grant audiovisual redistribution, adaptation or AI use",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "ICPAK / Bafunde Taxation of Business Income (two video lessons)",
+    "url": "https://icpak.bafunde.com/course/10/",
+    "decision": "HOLD_ACCESS",
+    "checked_utc": "2026-11-02T19:17:00Z",
+    "reason": "Two 32-minute and 29-minute course listings, zero free lessons, recording date unknown; no enrolment, source worked answers, audiovisual rights or full playback. Do not count as available CPA 2026 video instruction.",
+    "rights": "©2021 Bafunde all rights reserved; no exact recording, slides, questions, adaptation, commercial redistribution, database or AI training permission established",
+    "next_review_due": "2026-11-16"
   }
 ]
