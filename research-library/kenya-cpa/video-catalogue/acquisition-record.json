@@ -1,18 +1,18 @@
 {
-  "checked_utc": "2026-11-02T10:10:44Z",
+  "checked_utc": "2026-11-02T11:19:00Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
-  "new_catalogue_records": 45,
-  "new_accepted_access": 34,
+  "new_catalogue_records": 46,
+  "new_accepted_access": 35,
   "new_candidates": 2,
   "new_by_primary_level": {
-    "Foundation": 13,
+    "Foundation": 14,
     "Intermediate": 13,
     "Advanced": 12
   },
   "existing_access_records_retained": 5,
-  "metadata_checks": 18,
+  "metadata_checks": 19,
   "full_playback_reviews": 0,
   "private_review_transcript": {
     "url": "https://cdn.cs50.net/sql/2023/x/lectures/0/lang/en/lecture0.srt",
@@ -44,5 +44,6 @@
   "current_video_catalogue_records": 74,
   "current_source_decisions": 251,
   "current_accepted_links": 138,
-  "current_actual_media_assets": 162
+  "current_actual_media_assets": 162,
+  "latest_review": "YorkSpace CA12 2021 CC BY 4.0 external video; 1-page transcript reviewed; 152.81 MB MP4 not downloaded or hosted; components pending"
 }
