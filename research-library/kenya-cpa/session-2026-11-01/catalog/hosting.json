@@ -133,20 +133,20 @@
     "academic_complete": false
   },
   "current_catalogue": {
-    "source_decisions": 269,
-    "source_records": 269,
-    "source_csv_rows": 269,
-    "rights_csv_records": 269,
-    "usage_rights_csv_records": 269,
-    "accepted_links": 152,
-    "video_catalogue_records": 92,
+    "source_decisions": 271,
+    "source_records": 271,
+    "source_csv_rows": 271,
+    "rights_csv_records": 271,
+    "usage_rights_csv_records": 271,
+    "accepted_links": 154,
+    "video_catalogue_records": 94,
     "video_recordings_acquired": 0,
     "new_media_acquired": 0,
     "actual_media_assets": 162,
     "storage_bytes": 277700279,
-    "latest_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-2113Z-ifrs-consolidation.md",
-    "latest_verified_utc": "2026-11-02T21:13:00Z",
+    "latest_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-2217Z-mit-finance-public-economics.md",
+    "latest_verified_utc": "2026-11-02T22:17:00Z",
     "syllabus_transition_status": "HOLD_PRIMARY_2027_CPA_SYLLABUS",
-    "source_json_readback": "267 prior IDs plus two dated incremental IDs; standing source/rights/usage CSVs 269; 92 video JSON/CSV/rights records; old >1MiB monolith preserved"
+    "source_json_readback": "269 prior canonical IDs plus two dated incremental IDs; monolithic historical JSON preserved; standing CSV and video JSON/rights reconciled after commit"
   }
 }

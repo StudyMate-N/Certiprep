@@ -32,3 +32,7 @@ The [two-record incremental shard](2026-11-02-1917Z-incremental.json) adds `VIDE
 ## 2026-11-02T21:13Z incremental review
 
 Two source decisions in `2026-11-02-2113Z-incremental.json`: one CPDbox IFRS3/10 ACCEPT_LINK with selected written-example arithmetic checked, and one CPDbox IFRS18 HOLD_ACCURACY over newly defined subtotals. Previous 267 IDs plus two distinct IDs = 269; the IFRS18 access overlay remains in force. No recordings downloaded; historical shards and >1 MiB monolith untouched. 2027 revised KASNEB syllabus PDF and transition circular not obtained.
+
+## 2026-11-02T22:17:00Z increment
+
+Two new external-only MIT Fall 2024 course records are in [2026-11-02-2217Z-incremental.json](2026-11-02-2217Z-incremental.json). Historical shards remain immutable. Canonical live count after verified sync: 271 distinct IDs; 154 accepted links, 94 video metadata, zero acquired recordings. The historical >1MiB monolithic JSON is not a current source of truth; current source CSV, rights exports and dated shards are reconciled with Supabase.

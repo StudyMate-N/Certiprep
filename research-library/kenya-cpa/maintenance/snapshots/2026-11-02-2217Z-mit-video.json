@@ -1,0 +1,29 @@
+{
+  "checked_utc": "2026-11-02T22:17:00Z",
+  "run_owner": "cpa-auto-20261102-2212Z-turn11",
+  "status": "maintained_research_collection_not_complete",
+  "source_decisions": 271,
+  "accepted_links": 154,
+  "video_metadata_records": 94,
+  "acquired_entries": 43,
+  "substantial_works": 29,
+  "acquired_recordings": 0,
+  "media_objects": 162,
+  "media_bytes": 277700279,
+  "total_observed_storage_bytes": 598089979,
+  "storage_bucket": "cpa-verified-library",
+  "storage_public": false,
+  "prior_full_byte_sha256_verified_objects": 162,
+  "new_media_acquired": 0,
+  "full_playback_reviews": 0,
+  "source_worked_examples_sampled": 2,
+  "expert_academic_review": "pending",
+  "revised_2027_syllabus": "HOLD_PRIMARY_PDF_AND_TRANSITION",
+  "files_in_snapshot": "metadata_only; no source recordings, no copyrighted MIT questions/solutions",
+  "source_ids": [
+    "VIDEO-MIT-18642-FINMATH2024",
+    "VIDEO-MIT-1441-PUBLICFINANCE2024"
+  ],
+  "rights_decision": "external-only MIT CC BY-NC-SA; commercial hosting and AI training not approved",
+  "archive_status": "original immutable archive preserved; separate delta release pending"
+}

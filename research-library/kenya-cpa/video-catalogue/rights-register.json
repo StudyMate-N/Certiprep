@@ -2143,5 +2143,57 @@
     "next_review_due": "2026-11-16",
     "rights_evidence": "Primary publisher https://www.cpdbox.com/ifrs-18-presentation-and-disclosure-in-financial-statements-summary/ checked 2026-11-02; current CPDbox terms https://www.cpdbox.com/terms/ clauses 1.2-1.5,6.3-6.6 checked 2026-11-02; IFRS Foundation https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/ checked 2026-11-02. No recording in-file licence or component clearance.",
     "decision": "HOLD_ACCURACY"
+  },
+  {
+    "id": "VIDEO-MIT-18642-FINMATH2024",
+    "source_url": "https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/resources/lecture-videos/",
+    "licence": "MIT OCW CC BY-NC-SA 4.0 (MIT-owned content); NC commercial reuse prohibited; recording-level third-party content unverified",
+    "licence_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+    "rights_actions": {
+      "link_to_primary_source": "Allowed descriptive manually curated attributed source link; no endorsement or access bypass",
+      "read_at_source": "Public MIT OCW publisher course and lesson pages, subject to current terms",
+      "download_for_private_research": "Not performed; exact recordings, slides, problem sets and embedded components not downloaded",
+      "download_for_redistribution": "NOT APPROVED; MIT CC BY-NC-SA 4.0 and unverified recording/component rights",
+      "host_exact_packaged_work": "NOT APPROVED; no full recording bytes or SHA-256, NC and component clearance absent",
+      "commercial_redistribution": "NOT APPROVED; MIT OCW NC prohibition includes commercial education products",
+      "adaptation": "NOT APPROVED for commercial use; no permission for recording edits, translations, transcriptions, slides or problem copies",
+      "extract_questions_and_solutions": "NOT APPROVED for commercial question bank; source questions/solutions remain at publisher",
+      "database_rights": "Only original bibliographic facts and independently written assessment; no bulk extraction or copyrighted content database",
+      "third_party_components": "Guest lecturers, industry logos, photographs, recorded slides, data, images, music, questions and solutions not separately cleared",
+      "ai_model_training": "MIT current terms permit only conditional NONCOMMERCIAL AI training with attribution/share-alike; commercial AI training NOT APPROVED; exact third-party components unresolved",
+      "rag_or_generated_outputs": "Separate gate unresolved for commercial transcript ingestion, RAG, generated outputs and derivatives",
+      "no_endorsement": "MIT name/logos cannot be used to imply affiliation, sponsorship or endorsement",
+      "remove_logos_or_components": "Not performed; AI/OCR/reformatting/removing branding does not clear rights"
+    },
+    "checked_utc": "2026-11-02T22:17:00Z",
+    "scope": "External link only; exact recording and third-party components not licensed for commercial distribution",
+    "rights_evidence": "MIT 18.642 publisher index and Bond Mathematics lesson, Fall 2024; PS1 publisher PDF; MIT OCW Terms CC BY-NC-SA 4.0, commercial prohibition, no endorsement, conditional noncommercial AI clause reviewed 2026-11-02; in-file video and third-party components unreviewed",
+    "rights_recheck_trigger": "2026-11-16 or sooner on official revised CPA syllabus/transition, changed MIT terms, new recording edition, rights-holder claim, component evidence or intended use"
+  },
+  {
+    "id": "VIDEO-MIT-1441-PUBLICFINANCE2024",
+    "source_url": "https://ocw.mit.edu/courses/14-41-public-finance-and-public-policy-fall-2024/resources/lecture-videos/",
+    "licence": "MIT OCW CC BY-NC-SA 4.0 (MIT-owned content); NC commercial reuse prohibited; recording-level third-party content unverified",
+    "licence_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+    "rights_actions": {
+      "link_to_primary_source": "Allowed descriptive manually curated attributed source link; no endorsement or access bypass",
+      "read_at_source": "Public MIT OCW publisher course and lesson pages, subject to current terms",
+      "download_for_private_research": "Not performed; exact recordings, slides, problem sets and embedded components not downloaded",
+      "download_for_redistribution": "NOT APPROVED; MIT CC BY-NC-SA 4.0 and unverified recording/component rights",
+      "host_exact_packaged_work": "NOT APPROVED; no full recording bytes or SHA-256, NC and component clearance absent",
+      "commercial_redistribution": "NOT APPROVED; MIT OCW NC prohibition includes commercial education products",
+      "adaptation": "NOT APPROVED for commercial use; no permission for recording edits, translations, transcriptions, slides or problem copies",
+      "extract_questions_and_solutions": "NOT APPROVED for commercial question bank; source questions/solutions remain at publisher",
+      "database_rights": "Only original bibliographic facts and independently written assessment; no bulk extraction or copyrighted content database",
+      "third_party_components": "Guest lecturers, industry logos, photographs, recorded slides, data, images, music, questions and solutions not separately cleared",
+      "ai_model_training": "MIT current terms permit only conditional NONCOMMERCIAL AI training with attribution/share-alike; commercial AI training NOT APPROVED; exact third-party components unresolved",
+      "rag_or_generated_outputs": "Separate gate unresolved for commercial transcript ingestion, RAG, generated outputs and derivatives",
+      "no_endorsement": "MIT name/logos cannot be used to imply affiliation, sponsorship or endorsement",
+      "remove_logos_or_components": "Not performed; AI/OCR/reformatting/removing branding does not clear rights"
+    },
+    "checked_utc": "2026-11-02T22:17:00Z",
+    "scope": "External link only; exact recording and third-party components not licensed for commercial distribution",
+    "rights_evidence": "MIT 14.41 Fall 2024 lecture index, lecture 18 and PS1 solution PDF; MIT OCW Terms CC BY-NC-SA 4.0, commercial prohibition, no endorsement and conditional noncommercial AI clause reviewed 2026-11-02; recording-specific third-party content unverified",
+    "rights_recheck_trigger": "2026-11-16 or sooner on official revised CPA syllabus/transition, changed MIT terms, new recording edition, rights-holder claim, component evidence or intended use"
   }
 ]
