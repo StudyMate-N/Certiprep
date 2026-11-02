@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-02T18:14:13Z",
+  "checked_utc": "2026-11-02T20:20:00Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
@@ -26,19 +26,16 @@
   "rights_note": "Private NC transcript and source HTML excluded from public package. Metadata/page hashes are provenance only, never media checksums.",
   "scope": "Manual user-directed multi-level catalogue batch; hourly acquisition limits unchanged.",
   "latest_batch": {
-    "checked_utc": "2026-11-02T18:14:13Z",
-    "candidates_assessed": 4,
-    "distinct_external_course_indexes_added": 1,
-    "held_gated_analytics": 1,
-    "held_no_recording": 1,
-    "existing_IFRS18_access_correction": 1,
-    "course_metadata": "ICPAK 11 lessons (2 advertised free); related Bafunde 7 free with signup, overlap unresolved",
-    "new_media_acquired": 0,
-    "new_media_bytes": 0,
+    "checked_utc": "2026-11-02T20:20:00Z",
+    "candidates_assessed": 3,
+    "external_access_metadata_added": 2,
+    "paid_gated_index_added": 1,
+    "hold_player_rights": 1,
     "full_playback_reviews": 0,
     "worked_answers_reviewed": 0,
-    "source_rights": "No exact recording or third-party commercial redistribution/adaptation, question extraction or AI permission",
-    "primary_2027_syllabus_obtained": false
+    "acquired_video_recordings": 0,
+    "acquired_video_bytes": 0,
+    "library_delta_sha256": "cb81998f594c14359db256c18481fae7a5ac2c49119db92e83abd90893f0ad49"
   },
   "latest_candidates_assessed": 6,
   "latest_new_catalogue_records": 3,
@@ -55,11 +52,11 @@
   "latest_worked_answers_reviewed": 0,
   "latest_candidate_links": 0,
   "latest_existing_links_demoted": 0,
-  "current_video_catalogue_records": 86,
-  "current_source_decisions": 262,
+  "current_video_catalogue_records": 90,
+  "current_source_decisions": 267,
   "current_accepted_links": 146,
   "current_actual_media_assets": 162,
-  "latest_review": "YorkSpace CA12 2021 CC BY 4.0 external video; 1-page transcript reviewed; 152.81 MB MP4 not downloaded or hosted; components pending",
+  "latest_review": "CDH/Kieti Law short Kenya company guide 2026; SGB CA12 paid dated class index; BRS player HOLD; no media acquired",
   "last_incremental_review": {
     "date": "2026-11-02T12:20:28Z",
     "new_external_context_video": 1,
@@ -67,7 +64,7 @@
     "candidates_rejected": 2,
     "record_id": "VIDEO-CABRI-REFORMIS-2026"
   },
-  "current_accepted_external_links": 147,
+  "current_accepted_external_links": 151,
   "current_media_assets": 162,
   "current_substantial_works": 29,
   "video_recordings_acquired_total": 0
