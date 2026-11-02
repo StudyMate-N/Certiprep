@@ -1738,5 +1738,83 @@
     "rights_evidence": "CABRI 2026 publisher page; CABRI terms checked 2026-11-02 explicitly restrict commercial/derivative uses and warn of third-party rights; National Treasury/PFMR official sources corroborate reform programme.",
     "expiry": "no commercial grant",
     "next_review": "2026-12-02"
+  },
+  {
+    "id": "VIDEO-NPTEL-ICMAI-COST-2026",
+    "source_url": "https://nptel.ac.in/courses/110106511",
+    "licence": "NPTEL archive reserves copyright; SWAYAM platform terms limit course media to personal use, prohibit bulk downloading and do not grant commercial reuse",
+    "licence_url": "https://onlinecourses-archive.nptel.ac.in/modules/nptel/assets/html/terms.html",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed bibliographic link only; no endorsement, enrolment bypass or copying licence",
+      "read_at_source": "NPTEL public course index; access to each recording separately governed by NPTEL/SWAYAM terms",
+      "download_for_private_research": "not performed; exact recording licence and access not established",
+      "download_for_redistribution": "not approved; exact video rights, third-party components and commercial reuse uncleared",
+      "host_exact_packaged_work": "not approved; zero downloaded verified recording bytes, no signature/payload/media SHA-256 checks",
+      "adaptation": "not approved; derivative and component permissions not established",
+      "commercial_redistribution": "not approved; no commercial recording licence",
+      "extract_questions_and_solutions": "not approved; exact question, answer, diagram and instructor solution rights unresolved",
+      "ai_model_training": "separate unresolved gate; not approved",
+      "rag_or_generated_outputs": "separate unresolved use and output rights gate; not approved",
+      "database_rights": "one manually curated bibliographic record only; no automated scraping, bulk extraction or database replication",
+      "remove_logos_or_components": "not performed; photographs, slides, graphics, music, questions and solutions uninspected",
+      "no_endorsement": "no endorsement by NPTEL / Institute of Cost Accountants of India, KASNEB or the instructors"
+    },
+    "checked_utc": "2026-11-02T13:23:16Z",
+    "scope": "external course index only",
+    "rights_evidence": "Primary NPTEL course https://nptel.ac.in/courses/110106511 checked 2026-11-02; archived NPTEL terms reserve copyright; current SWAYAM terms https://swayam.gov.in/terms_of_use restrict instructional content to personal course use and bulk scraping; recording-specific licence absent.",
+    "expiry": "no commercial grant",
+    "next_review": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-SUMMIT-CA25-2026",
+    "source_url": "https://portal.summittechnicalcollege.ac.ke/course/ca25-management-accounting/",
+    "licence": "Copyright © 2026 Summit Technical College; no recording-specific commercial licence or redistribution grant identified",
+    "licence_url": "https://portal.summittechnicalcollege.ac.ke/course/ca25-management-accounting/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed bibliographic link only; no endorsement, enrolment bypass or copying licence",
+      "read_at_source": "Public curriculum headings only; KSh 8,000 enrolment and password protection; no lesson unlocked",
+      "download_for_private_research": "not performed; exact recording licence and access not established",
+      "download_for_redistribution": "not approved; exact video rights, third-party components and commercial reuse uncleared",
+      "host_exact_packaged_work": "not approved; zero downloaded verified recording bytes, no signature/payload/media SHA-256 checks",
+      "adaptation": "not approved; derivative and component permissions not established",
+      "commercial_redistribution": "not approved; no commercial recording licence",
+      "extract_questions_and_solutions": "not approved; exact question, answer, diagram and instructor solution rights unresolved",
+      "ai_model_training": "separate unresolved gate; not approved",
+      "rag_or_generated_outputs": "separate unresolved use and output rights gate; not approved",
+      "database_rights": "one manually curated bibliographic record only; no automated scraping, bulk extraction or database replication",
+      "remove_logos_or_components": "not performed; photographs, slides, graphics, music, questions and solutions uninspected",
+      "no_endorsement": "no endorsement by Summit Technical College, KASNEB or the instructors"
+    },
+    "checked_utc": "2026-11-02T13:23:16Z",
+    "scope": "HOLD gated access; no recording acquired",
+    "rights_evidence": "Summit primary CA25 course page checked 2026-11-02; © 2026 footer, KSh 8,000 price, password-protected content, 23 lessons and 16 sections; no third-party/video licence.",
+    "expiry": "no commercial grant",
+    "next_review": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-SUMMIT-CA34S1-2026",
+    "source_url": "https://portal.summittechnicalcollege.ac.ke/course/ca34s1-advanced-taxation/",
+    "licence": "Copyright © 2026 Summit Technical College; no commercial recording redistribution or question-bank rights identified",
+    "licence_url": "https://portal.summittechnicalcollege.ac.ke/course/ca34s1-advanced-taxation/",
+    "rights_actions": {
+      "link_to_primary_source": "ordinary attributed bibliographic link only; no endorsement, enrolment bypass or copying licence",
+      "read_at_source": "Public topic index only; KSh 8,000 enrolment and password protection; no video playback verified",
+      "download_for_private_research": "not performed; exact recording licence and access not established",
+      "download_for_redistribution": "not approved; exact video rights, third-party components and commercial reuse uncleared",
+      "host_exact_packaged_work": "not approved; zero downloaded verified recording bytes, no signature/payload/media SHA-256 checks",
+      "adaptation": "not approved; derivative and component permissions not established",
+      "commercial_redistribution": "not approved; no commercial recording licence",
+      "extract_questions_and_solutions": "not approved; exact question, answer, diagram and instructor solution rights unresolved",
+      "ai_model_training": "separate unresolved gate; not approved",
+      "rag_or_generated_outputs": "separate unresolved use and output rights gate; not approved",
+      "database_rights": "one manually curated bibliographic record only; no automated scraping, bulk extraction or database replication",
+      "remove_logos_or_components": "not performed; photographs, slides, graphics, music, questions and solutions uninspected",
+      "no_endorsement": "no endorsement by Summit Technical College, KASNEB or the instructors"
+    },
+    "checked_utc": "2026-11-02T13:23:16Z",
+    "scope": "HOLD gated access; no recording acquired",
+    "rights_evidence": "Summit CA34S1 primary page checked 2026-11-02; © 2026 footer, KSh 8,000 and password gate, 11 listed lessons, last updated 2026-08-28; no exact recording permission.",
+    "expiry": "no commercial grant",
+    "next_review": "2026-11-16"
   }
 ]
