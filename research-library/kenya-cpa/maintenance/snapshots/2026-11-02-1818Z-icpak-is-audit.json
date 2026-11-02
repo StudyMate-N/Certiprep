@@ -1,0 +1,40 @@
+{
+  "checked_utc": "2026-11-02T18:18:23Z",
+  "project_ref": "pebkqsyfliytbowxzyun",
+  "schema": "cpa_library",
+  "bucket": "cpa-verified-library",
+  "public": false,
+  "source_decisions": 263,
+  "accepted_external_links": 147,
+  "video_catalogue_records": 86,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "actual_media_objects": 162,
+  "actual_media_bytes": 277700279,
+  "all_bucket_bytes_observed": 598089979,
+  "max_mirrored_object_bytes": 30235086,
+  "missing_objects": 0,
+  "size_mismatches": 0,
+  "content_address_mismatches": 0,
+  "previous_full_byte_sha256_verification_receipts": 162,
+  "new_full_byte_verifications": 0,
+  "new_hosted_media": 0,
+  "acquired_recordings": 0,
+  "transfer_endpoint_opened": false,
+  "metadata_only": true,
+  "added_source_ids": [
+    "VIDEO-ICPAK-IS-AUDIT-INDEX"
+  ],
+  "access_corrections": [
+    "VIDEO-IFRS18-WEBINARS2024"
+  ],
+  "held_candidates": [
+    "ICPAK audit data analytics course",
+    "Global Compact Kenya IFRS S1/S2 event without recording"
+  ],
+  "candidate_paths_assessed": 4,
+  "rights": "External course indexes only; commercial recording rights, third-party components, question-bank extraction and AI use unresolved",
+  "academic_complete": false,
+  "april_2027_syllabus_status": "HOLD_UNMAPPED",
+  "notes": "No fresh full-byte downloads. Source/rights CSV and JSON shards reconciled. No changes to immutable master ZIP."
+}
