@@ -326,13 +326,13 @@
     "url": "https://www.cabri-sbo.org/en/media/digital-pf-reform-stories-country-experiences-from-south-africa-ghana-namibia-kenya-rwanda-and-malawi",
     "decision": "REJECT_DUPLICATE_FOR_THIS_BATCH",
     "reason": "Regional overview overlaps new Kenya-specific REFORMiS example; no distinct worked teaching, rights clearance or playback verified.",
-    "checked_utc": "2026-11-02T12:30:00Z"
+    "checked_utc": "2026-11-02T12:20:28Z"
   },
   {
     "source": "Cliffe Dekker Hofmeyr South African director-law seminar (27 Feb 2025)",
     "url": "https://www.cliffedekkerhofmeyr.com/en/news/Seminars/Director-Law-Developments-Seminar-25-26-February-2025",
     "decision": "REJECT_KENYAN_LEGAL_AUTHORITY",
     "reason": "South African directors-law analysis is not authority for Kenya CA21 Company Law; no Kenyan statutory comparison or playback.",
-    "checked_utc": "2026-11-02T12:30:00Z"
+    "checked_utc": "2026-11-02T12:20:28Z"
   }
 ]
