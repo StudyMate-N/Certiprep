@@ -1664,5 +1664,27 @@
     "checked_utc": "2026-11-02T09:21:31Z",
     "scope": "external-only; no recording or component acquired",
     "metadata_evidence_sha256": "5d48baf15b0cb2bf687c073157d1370f4a1d9cd181447e4b21597997ef734c4b"
+  },
+  {
+    "id": "VIDEO-MIT-ANALYTICS-EDGE-2017",
+    "source_url": "https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/unit-index/",
+    "licence": "MIT OCW CC BY-NC-SA 4.0 generally; all-rights-reserved third-party exceptions",
+    "licence_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/",
+    "rights_actions": {
+      "read_at_source": "individual reading under publisher access terms",
+      "link_to_primary_source": "plain attributed source link; no endorsement",
+      "download_for_private_research": "not performed",
+      "download_for_redistribution": "not approved",
+      "host_exact_packaged_work": "not approved; no complete licensed SHA-256-verified bytes",
+      "commercial_redistribution": "not approved",
+      "adaptation": "not approved; third-party components not cleared",
+      "extract_questions_and_solutions": "not approved; none extracted",
+      "ai_model_training": "MIT conditional NC AI permission only; no commercial use or third-party clearance",
+      "rag_or_generated_outputs": "not approved without separate rights review",
+      "database_rights": "manual bibliographic metadata only; no bulk extraction",
+      "no_endorsement": "No publisher, standard-setter or KASNEB endorsement"
+    },
+    "checked_utc": "2026-11-02T10:10:44Z",
+    "scope": "historical external index only; zero acquired recordings"
   }
 ]

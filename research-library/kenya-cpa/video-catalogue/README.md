@@ -159,3 +159,10 @@ Three video candidates rejected/held (KBC launch news, internally inconsistent 2
 ## CA16 Kenya data-protection video gap — 2026-11-02T09:21:31Z
 
 One external-only [CIPIT 27 January 2026 enforcement panel](https://cipit.strathmore.edu/events/the-lived-reality-of-enforcement-of-kenyas-data-protection-act/) indexed for Kenyan ICT governance. Publisher page embeds YouTube ID `5ePXaNa1q8E`; **no playback, worked-answer review, exact recording licence or hosted video**. CIPIT site CC BY 4.0 footer does not clear third-party recording/components. Mt Kenya Hub 2026 webinar (0 resources) rejected as recording; CIPIT May 2026 AI-governance panel held without resolved player. April 2027 syllabus remains HOLD_UNMAPPED. **73 video metadata records, zero acquired recordings.** [Dated report](../maintenance/reviews/2026-11-02-0921Z-video.md).
+
+## 2026-11-02 10:10 UTC — analytics video and SRS 1 rights
+
+- [MIT Sloan The Analytics Edge (Spring 2017)](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/unit-index/) added for CA35P/CA15 as an external-only nine-unit video index with assignments. Historical R/software, NC licence and third-party exceptions; no playback, source worked-answer review, recording download or commercial grant.
+- [PSASB 3 March 2026 SRS 1 authority](https://psasb.go.ke/public-sector-entities-to-adopt-new-standard-on-sustainability-reporting/) added for CA34S4/CA26. Global effective 1 January 2028, **Kenya 1 July 2028**, early adoption permitted. Not mandatory 2026; 2025 World Bank exposure-draft video is not final-standard teaching.
+- IFAC January 2026 SRS 1 final PDF is **HOLD_RIGHTS**: explicit AI training/development/operation written-permission gate and IFRS Foundation third-party rights. No PDF acquired, hosted or mined for questions.
+- Revised 2027 KASNEB CPA syllabus/transition circular still missing; 22 mappings remain HOLD_UNMAPPED. No paper certified complete; zero video recordings acquired.

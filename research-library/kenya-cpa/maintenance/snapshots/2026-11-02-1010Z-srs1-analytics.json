@@ -1,0 +1,18 @@
+{
+  "checked_utc": "2026-11-02T10:10:44Z",
+  "metadata_only": true,
+  "source_decisions": 251,
+  "accepted_links": 138,
+  "video_access_records": 74,
+  "acquired_entries": 43,
+  "grouped_works": 29,
+  "private_media_objects": 162,
+  "private_media_bytes": 277700279,
+  "observed_all_storage_bytes": 598089979,
+  "asset_mapping_errors": 0,
+  "prior_full_download_verified_flags": 162,
+  "new_media": 0,
+  "master_archive_unchanged": true,
+  "official_2027_syllabus_obtained": false,
+  "academic_complete": false
+}
