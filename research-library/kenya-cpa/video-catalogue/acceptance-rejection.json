@@ -247,5 +247,23 @@
     "reason": "HOLD_ACCURACY: nonofficial 2025 interface and company filing details not verified against current BRSV2; no full playback",
     "rights": "Creator video has no established commercial or adaptation grant; YouTube availability is not a licence",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "World Bank Reimagining Public Finance 2025 conference plenary",
+    "url": "https://www.worldbank.org/en/events/2025/07/29/reimagining-public-finance--making-public-resources-work-for-dev",
+    "decision": "REJECT_AS_WORKED_TEACHING",
+    "checked_utc": "2026-11-02T07:25:00Z",
+    "reason": "Publisher confirms 2025 replay and panel, but no structured instruction or selected worked answer; optional context only, do not inflate instructional coverage.",
+    "rights": "World Bank site commercial reproduction and derivatives restricted; no exact recording/component clearance",
+    "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "KLRC video gallery",
+    "url": "https://www.klrc.go.ke/index.php/media-center/video-audio-gallery",
+    "decision": "REJECT_AS_CURRENT_KENYAN_LAW_TRAINING",
+    "checked_utc": "2026-11-02T07:25:00Z",
+    "reason": "Gallery contains service-charter, interviews and historical institutional videos, not dated substantive 2026 company-law instruction; no full playback.",
+    "rights": "No commercial recording rights or embedded third-party clearance",
+    "next_review_due": "on substantive dated lecture evidence"
   }
 ]
