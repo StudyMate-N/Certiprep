@@ -311,13 +311,39 @@
       "verified_utc": "2026-11-02T12:30:00Z",
       "delivery_status": "saved_successfully_and_materialized_sha256_matched",
       "academic_review": "pending",
-      "scope": "CABRI 2026 Kenyan digital PFM external video context and rights-only delta; no acquired recording"
+      "scope": "CABRI 2026 Kenyan digital PFM external video context and rights-only delta; no acquired recording",
+      "status": "superseded_due_to_premature_timestamp_label",
+      "superseded_by": "CPA_Library_Metadata_Delta_2026-11-02-1221Z_v2.zip",
+      "timestamp_note": "12:30Z label was ahead of actual verification clock; bytes and original SHA-256 retained immutably; do not use as current snapshot"
+    },
+    {
+      "type": "metadata_delta_corrected_timestamp_version",
+      "filename": "CPA_Library_Metadata_Delta_2026-11-02-1221Z_v2.zip",
+      "library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-1221Z_v2.zip",
+      "library_file_id": "libfile_578fc7e719dc81919801d2940a5edbca",
+      "file_id": "file_00000000701881f6bcf198dfa85b675c",
+      "bytes": 5445,
+      "sha256": "fa5042d4c957bfcac10d9f071f28cec1cb75d128faa86bdfd818d76a13b14c18",
+      "archive_crc": "passed",
+      "manifest_sha256": "passed",
+      "sqlite_integrity": "ok",
+      "library_readback_sha256": "passed",
+      "source_decisions_added": 1,
+      "rights_actions": 13,
+      "rejected_candidates": 2,
+      "media_files_included": 0,
+      "full_catalogue_included": false,
+      "verified_utc": "2026-11-02T12:20:28Z",
+      "delivery_status": "saved_successfully_and_materialized_sha256_matched",
+      "academic_review": "pending",
+      "supersedes": "CPA_Library_Metadata_Delta_2026-11-02-1230Z.zip",
+      "scope": "corrected source timestamp and immutable versioned metadata-only delta; no acquired video"
     }
   ],
   "dropbox_use_authorized": false,
   "dropbox_status": "declined_for_this_request; do_not_use_or_suggest",
   "current_catalogue": {
-    "updated_utc": "2026-11-02T12:30:00Z",
+    "updated_utc": "2026-11-02T12:20:28Z",
     "source_records": 253,
     "accepted_links": 140,
     "candidate_links": 13,
@@ -336,9 +362,9 @@
     "usage_rights_records": 253,
     "metadata_only": true,
     "latest_rights_correction": "Five IFAC-affiliated approved links moved to HOLD; rights CSV reconciled from 235 to 241 rows; original master archive checksum unchanged",
-    "metadata_delta_library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-1230Z.zip",
-    "metadata_delta_zip_sha256": "5d22c5291ef10a1b688918ee15406208a1c0b5188a9287ea5703a439a85f926a",
-    "metadata_delta_verified_utc": "2026-11-02T12:30:00Z",
+    "metadata_delta_library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-1221Z_v2.zip",
+    "metadata_delta_zip_sha256": "fa5042d4c957bfcac10d9f071f28cec1cb75d128faa86bdfd818d76a13b14c18",
+    "metadata_delta_verified_utc": "2026-11-02T12:20:28Z",
     "archive_unchanged": true,
     "latest_review": "CABRI Kenya 2026 REFORMiS external-only context; commercial/derivative rights not cleared; 2027 syllabus pending",
     "latest_syllabus_verification_utc": "2026-11-02T06:20:00Z",
@@ -348,6 +374,7 @@
     "april_2027_papers_certified": 0,
     "syllabus_transition_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-0843Z-syllabus-transition.md",
     "rights_csv_records": 253,
-    "source_decisions": 253
+    "source_decisions": 253,
+    "timestamp_correction": "1230Z delta superseded by 1221Z v2; earlier checksum preserved"
   }
 }
