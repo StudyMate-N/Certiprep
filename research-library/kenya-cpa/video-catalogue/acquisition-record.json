@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-11-02T13:23:16Z",
+  "checked_utc": "2026-11-02T15:13:00Z",
   "new_video_files_acquired": 0,
   "new_video_bytes_acquired": 0,
   "acquired_video_sha256": [],
@@ -25,7 +25,17 @@
   },
   "rights_note": "Private NC transcript and source HTML excluded from public package. Metadata/page hashes are provenance only, never media checksums.",
   "scope": "Manual user-directed multi-level catalogue batch; hourly acquisition limits unchanged.",
-  "latest_batch": "2026-11-02-1323Z-video",
+  "latest_batch": {
+    "checked_utc": "2026-11-02T15:13:00Z",
+    "new_candidates_assessed": 3,
+    "new_accepted_external_series": 1,
+    "new_hold_accuracy": 1,
+    "new_rejected_mirror": 1,
+    "new_media_acquired": 0,
+    "video_recordings_acquired_total": 0,
+    "academic_review": "pending",
+    "notes": "Microsoft PL-300 grouped four-episode index; CIPIT DPA section citation HOLD; third-party inconsistent duration rejected. No binary or video playback."
+  },
   "latest_candidates_assessed": 6,
   "latest_new_catalogue_records": 3,
   "latest_accepted_links": 1,
@@ -41,8 +51,8 @@
   "latest_worked_answers_reviewed": 0,
   "latest_candidate_links": 0,
   "latest_existing_links_demoted": 0,
-  "current_video_catalogue_records": 74,
-  "current_source_decisions": 251,
+  "current_video_catalogue_records": 81,
+  "current_source_decisions": 258,
   "current_accepted_links": 138,
   "current_actual_media_assets": 162,
   "latest_review": "YorkSpace CA12 2021 CC BY 4.0 external video; 1-page transcript reviewed; 152.81 MB MP4 not downloaded or hosted; components pending",
@@ -52,5 +62,8 @@
     "new_acquired_recordings": 0,
     "candidates_rejected": 2,
     "record_id": "VIDEO-CABRI-REFORMIS-2026"
-  }
+  },
+  "current_accepted_external_links": 142,
+  "current_media_assets": 162,
+  "current_substantial_works": 29
 }
