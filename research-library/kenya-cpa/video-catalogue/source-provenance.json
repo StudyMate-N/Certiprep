@@ -669,5 +669,53 @@
     "media_downloaded": false,
     "review_scope": "metadata only; no playback or worked answer",
     "rights_url": "https://learn.microsoft.com/en-us/legal/termsofuse"
+  },
+  {
+    "key": "VIDEO-KHAN-PVALUE-CA15",
+    "url": "https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/p-values-and-significance-tests",
+    "checked_utc": "2026-11-02T00:14:00Z",
+    "retrieval": "Publisher/index metadata only; no video download",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Lesson concept and transcript excerpt inspected; p-value conditional on null hypothesis. No complete playback or worked answer.",
+    "rights_url": "https://www.khanacademy.org/about/docs/khan-academy-terms-of-service"
+  },
+  {
+    "key": "VIDEO-MIT-VENTURES2025",
+    "url": "https://ocw.mit.edu/courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025/video_galleries/complete-lecture-videos/",
+    "checked_utc": "2026-11-02T00:14:00Z",
+    "retrieval": "Publisher/index metadata only; no video download",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "11 listed videos, explicitly missing Session 2 Part 1 and Session 5 Part 1; one Session 6 description inspected, no playback.",
+    "rights_url": "https://ocw.mit.edu/pages/privacy-and-terms-of-use/"
+  },
+  {
+    "key": "YT-e98OTNFCeXM",
+    "url": "https://www.youtube.com/watch?v=e98OTNFCeXM",
+    "checked_utc": "2026-11-02T00:14:00Z",
+    "retrieval": "Publisher/index metadata only; no video download",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "Publisher title, dated upload and topic description verified through indexed metadata; no playback or transcript.",
+    "rights_url": "https://www.youtube.com/t/terms"
+  },
+  {
+    "key": "VIDEO-CHANDAK-POWERBI-2025",
+    "url": "https://www.youtube.com/watch?v=cyWVzAQF9YU",
+    "checked_utc": "2026-11-02T00:14:00Z",
+    "retrieval": "Publisher/index metadata only; no video download",
+    "raw_bytes_hashed": false,
+    "evidence_sha256": null,
+    "media_sha256": null,
+    "media_downloaded": false,
+    "review_scope": "~20h listed chapter markers inspected; no playback, software execution or datasets verified.",
+    "rights_url": "https://www.youtube.com/t/terms"
   }
 ]

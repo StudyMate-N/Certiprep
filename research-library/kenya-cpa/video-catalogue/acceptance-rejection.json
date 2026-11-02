@@ -76,5 +76,23 @@
     "reason": "Repository lists MP4 50.76 MB, 2016 date; no full playback or source-byte verification. Repository 2023 terms prohibit systematic retrieval and commercial reuse without permission. Historical commentary is not sufficient CA31 teaching, exam practice or 2026 technology authority.",
     "rights": "DSpace End User Agreement updated 2023-05-04: personal noncommercial access; commercial reuse and systematic database compilation require permission. No licence for exact MP4 or interview components.",
     "next_review_due": "2026-12-01"
+  },
+  {
+    "source": "PPRA PPIP webinar on 12 November 2026",
+    "url": "https://ppra.go.ke/public-procurement-information-portal-reporting-webinar-12th-november-2026/",
+    "decision": "REJECT_AS_VIDEO_FUTURE_EVENT",
+    "checked_utc": "2026-11-02T00:14:00Z",
+    "reason": "Future paid (KES 1,500) webinar, not an available recorded lesson; no enrolment/payment.",
+    "rights": "No recording or commercial grant exists for review.",
+    "next_review_due": "2026-11-13"
+  },
+  {
+    "source": "Microsoft Learn DAX learning path",
+    "url": "https://learn.microsoft.com/en-us/training/paths/dax-power-bi/",
+    "decision": "REJECT_VIDEO_DUPLICATE_FORMAT",
+    "checked_utc": "2026-11-02T00:14:00Z",
+    "reason": "Self-paced text/exercise learning path, not distinct recording; existing Microsoft DAX video index already covered.",
+    "rights": "No video rights inferred.",
+    "next_review_due": "2026-12-01"
   }
 ]
