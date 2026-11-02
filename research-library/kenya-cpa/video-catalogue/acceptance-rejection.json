@@ -292,5 +292,19 @@
     "reason": "Official past webinar invitation does not prove persistent accessible recording or substantive lesson review",
     "rights": "Recording/participant/slides permissions unverified",
     "next_review_due": "official archived recording with rights"
+  },
+  {
+    "source": "Mt Kenya Hub / ODPC 2026 Data Protection for Innovators webinar",
+    "url": "https://mtkenyahub.com/webinars/data-protection-for-innovators",
+    "checked_utc": "2026-11-02T09:21:31Z",
+    "decision": "REJECT_RECORDING_CLASSIFICATION",
+    "reason": "Past event lists zero resources; no actual recorded lesson or worked practice established."
+  },
+  {
+    "source": "CIPIT May 2026 Industry Perspectives on AI Governance in East Africa",
+    "url": "https://cipit.strathmore.edu/events/industry-perspectives-on-ai-governance-in-east-africa/",
+    "checked_utc": "2026-11-02T09:21:31Z",
+    "decision": "HOLD_RECORDING_ACCESS",
+    "reason": "Publisher page lists ended event but no accessible video player; proposed AI Bill discussion not enacted Kenyan law or certified CPA syllabus."
   }
 ]

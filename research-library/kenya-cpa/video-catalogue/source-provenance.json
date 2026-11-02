@@ -949,5 +949,16 @@
     "raw_bytes_hashed": false,
     "media_sha256": null,
     "verification_scope": "World Bank primary page and 2025 embedded YouTube metadata; player fetch throttled, no playback"
+  },
+  {
+    "key": "cipit-dpa-enforcement-2026",
+    "url": "https://cipit.strathmore.edu/events/the-lived-reality-of-enforcement-of-kenyas-data-protection-act/",
+    "final_url": "https://cipit.strathmore.edu/events/the-lived-reality-of-enforcement-of-kenyas-data-protection-act/",
+    "checked_utc": "2026-11-02T09:21:31Z",
+    "status": "publisher_page_text_accessible",
+    "embedded_video_id": "5ePXaNa1q8E",
+    "metadata_evidence_sha256": "5d48baf15b0cb2bf687c073157d1370f4a1d9cd181447e4b21597997ef734c4b",
+    "hash_scope": "hand-curated metadata JSON only, not source HTML or recording",
+    "playback": "not_verified"
   }
 ]

@@ -1641,5 +1641,28 @@
     },
     "checked_utc": "2026-11-02T07:25:00Z",
     "scope": "External link only; no media downloaded or distributed"
+  },
+  {
+    "id": "VIDEO-CIPIT-KENYA-DPA-ENFORCEMENT-2026",
+    "source_url": "https://cipit.strathmore.edu/events/the-lived-reality-of-enforcement-of-kenyas-data-protection-act/",
+    "licence": "CIPIT site footer CC BY 4.0 except otherwise noted; embedded recording and third-party materials NOT shown to carry that licence",
+    "licence_url": "https://cipit.strathmore.edu/events/the-lived-reality-of-enforcement-of-kenyas-data-protection-act/",
+    "rights_actions": {
+      "link_to_primary_source": "allowed attributed plain link, no endorsement",
+      "read_at_source": "individual public page/embedded player access subject to provider terms",
+      "download_for_private_research": "not performed",
+      "download_for_redistribution": "not approved: recording-level grant absent",
+      "host_exact_packaged_work": "not approved: no exact recording/component rights or verified bytes",
+      "commercial_redistribution": "not approved",
+      "adaptation": "not approved: audiovisual, slides, photos and contributions uncleared",
+      "extract_questions_and_solutions": "not cleared; none copied",
+      "ai_model_training": "separate unresolved permission gate; not approved",
+      "rag_or_generated_outputs": "separate permission review required",
+      "database_rights": "manual factual metadata only; no bulk extraction",
+      "no_endorsement": "No CIPIT, Strathmore, ODPC, KASNEB or YouTube endorsement"
+    },
+    "checked_utc": "2026-11-02T09:21:31Z",
+    "scope": "external-only; no recording or component acquired",
+    "metadata_evidence_sha256": "5d48baf15b0cb2bf687c073157d1370f4a1d9cd181447e4b21597997ef734c4b"
   }
 ]
