@@ -35,7 +35,10 @@
     "selected_publisher_worked_examples_checked": 2,
     "recording_bytes_acquired": 0,
     "recordings_acquired": 0,
-    "media_mirror_changed": false
+    "media_mirror_changed": false,
+    "metadata_delta_sha256": "f3a4c91bd8db41366ccd6673fa5a86d3f6822d8eb5f1734b2a0d70c39a4f5113",
+    "library_upload_status": "succeeded",
+    "library_readback_status": "pending_visibility"
   },
   "latest_candidates_assessed": 3,
   "latest_new_catalogue_records": 2,

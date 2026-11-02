@@ -147,6 +147,11 @@
     "latest_review_path": "research-library/kenya-cpa/maintenance/reviews/2026-11-02-2217Z-mit-finance-public-economics.md",
     "latest_verified_utc": "2026-11-02T22:17:00Z",
     "syllabus_transition_status": "HOLD_PRIMARY_2027_CPA_SYLLABUS",
-    "source_json_readback": "269 prior canonical IDs plus two dated incremental IDs; monolithic historical JSON preserved; standing CSV and video JSON/rights reconciled after commit"
+    "source_json_readback": "269 prior canonical IDs plus two dated incremental IDs; monolithic historical JSON preserved; standing CSV and video JSON/rights reconciled after commit",
+    "latest_metadata_delta_sha256": "f3a4c91bd8db41366ccd6673fa5a86d3f6822d8eb5f1734b2a0d70c39a4f5113",
+    "latest_metadata_delta_library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-2217Z.zip",
+    "latest_metadata_delta_library_file_id": "libfile_8c8176175c348191ae2ab68b7e597b59",
+    "latest_metadata_delta_bytes": 8378,
+    "library_readback_status": "pending_visibility"
   }
 }

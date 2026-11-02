@@ -25,5 +25,11 @@
     "VIDEO-MIT-1441-PUBLICFINANCE2024"
   ],
   "rights_decision": "external-only MIT CC BY-NC-SA; commercial hosting and AI training not approved",
-  "archive_status": "original immutable archive preserved; separate delta release pending"
+  "archive_status": "original immutable archive preserved; separate delta release pending",
+  "metadata_delta_sha256": "f3a4c91bd8db41366ccd6673fa5a86d3f6822d8eb5f1734b2a0d70c39a4f5113",
+  "metadata_delta_bytes": 8378,
+  "metadata_delta_library_path": "/CPA/CPA_Library_Metadata_Delta_2026-11-02-2217Z.zip",
+  "metadata_delta_local_validation": "CRC+SHA256 manifest+SQLite integrity passed",
+  "library_upload": "succeeded",
+  "library_readback": "pending visibility; not independently hash checked"
 }
