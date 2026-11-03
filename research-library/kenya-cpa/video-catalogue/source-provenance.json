@@ -1152,5 +1152,53 @@
     "raw_page_sha256": null,
     "media_sha256": null,
     "summary": "2026-11-02 currency check: A separately indexed OpenTuition FR lesson is titled 'IFRS 18 – SOFP and SPL (part 1)', but an older commenter reported it was not updated for IFRS 18 and an admin said it remained valid for ACCA through June 2027. No full audiovisual playback, recording revision date or current IFRS 18 compliance established. Do not treat index title as updated IFRS 18 instruction or KASNEB 2027 authority. Primary IFRS Foundation 2026 agenda decisions require separate comparison."
+  },
+  {
+    "key": "VIDEO-WB-IESBA-REVISION-2026",
+    "url": "https://cfrr.worldbank.org/node/5317",
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "source_type": "publisher primary page",
+    "raw_page_bytes_retained": false,
+    "evidence_sha256": null,
+    "source_date": "2026-03-26 webinar; source page date, recording upload date not independently verified",
+    "rights_url": "https://www.worldbank.org/ext/en/legal/terms-conditions",
+    "decision": "ACCEPT_LINK",
+    "review_batch": "2026-11-03-0016Z"
+  },
+  {
+    "key": "VIDEO-CROWE-PUBLIC-AUDIT-AUTOMATION-2026",
+    "url": "https://www.crowe.com/insights/asset/s/smarter-public-sector-auditing-through-automation-rec",
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "source_type": "publisher primary page",
+    "raw_page_bytes_retained": false,
+    "evidence_sha256": null,
+    "source_date": "2026-07-24 publisher page; recording-level upload timestamp unverified",
+    "rights_url": "https://www.crowe.com/terms-of-use",
+    "decision": "ACCEPT_LINK",
+    "review_batch": "2026-11-03-0016Z"
+  },
+  {
+    "key": "VIDEO-IESBA-DECODING-ETHICS-2026-HOLD",
+    "url": "https://www.ethicsboard.org/news-events/2026-02/iesba-decoding-ethics-podcast",
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "source_type": "publisher primary page",
+    "raw_page_bytes_retained": false,
+    "evidence_sha256": null,
+    "source_date": "2026-02-17 landing-page date; episodes 1–10 listed, individual recording dates not established",
+    "rights_url": "https://www.ifac.org/terms-use",
+    "decision": "HOLD_LINK_TERMS",
+    "review_batch": "2026-11-03-0016Z"
+  },
+  {
+    "key": "STD-IFAC-IES4-2026-HOLD",
+    "url": "https://education.ifac.org/part/ies-4",
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "source_type": "publisher primary page",
+    "raw_page_bytes_retained": false,
+    "evidence_sha256": null,
+    "source_date": "2026 edition; effective 2026-07-01",
+    "rights_url": "https://www.ifac.org/terms-use",
+    "decision": "HOLD_LINK_TERMS",
+    "review_batch": "2026-11-03-0016Z"
   }
 ]

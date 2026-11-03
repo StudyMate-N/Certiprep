@@ -2273,5 +2273,71 @@
     "scope": "HOLD_ACCESS; external_access_only_no_recording; no exact audiovisual/third-party permission",
     "rights_review_basis": "Official Traction SGB course listing, copyright footer, published dated session headings and prices; exact recording and in-file licence unavailable; no identified standalone site licence authorizing commercial rehosting",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "id": "VIDEO-WB-IESBA-REVISION-2026",
+    "source_url": "https://cfrr.worldbank.org/node/5317",
+    "licence": "World Bank site terms amended 2025-07-25: noncommercial use; commercial and derivative use requires written permission; embedded IESBA/IFAC content separately restricted",
+    "licence_url": "https://www.worldbank.org/ext/en/legal/terms-conditions",
+    "rights_actions": {
+      "link_to_primary_source": "ACCEPT_LINK: attributed external publisher page only; no embed, access bypass or endorsement.",
+      "read_at_source": "Public publisher page accessible for individual reference subject to current site and player terms; no enrolment bypass.",
+      "download_for_redistribution": "NOT_APPROVED: no exact-recording or edition grant; do not download audiovisual or source documents.",
+      "host_exact_packaged_work": "NOT_APPROVED: no file acquired and no verified commercial hosting grant.",
+      "commercial_redistribution": "NOT_APPROVED: publisher materials restricted; no sublicence established.",
+      "adaptation": "NOT_APPROVED: no transcription, OCR, translation, AI rewriting or derivative rights.",
+      "extract_questions_and_solutions": "NOT_APPROVED: no individual questions, examples, worked answers or slide component rights cleared.",
+      "database_rights": "Manual bibliographic facts only; no bulk database copying, scraping or systematic collection.",
+      "ai_model_training": "NOT_APPROVED / unresolved separately; no express AI training permission.",
+      "rag_or_generated_outputs": "HOLD: separate permissions and source-boundary review required; no ingestion.",
+      "third_party_components": "UNCLEARED: presenter slides, music, photographs, screen captures, questions, code and solutions not separately licensed.",
+      "no_endorsement": "Do not imply KASNEB, World Bank, IESBA, IFAC or Crowe endorsement."
+    },
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "scope": "External publisher page only; no media distributed"
+  },
+  {
+    "id": "VIDEO-CROWE-PUBLIC-AUDIT-AUTOMATION-2026",
+    "source_url": "https://www.crowe.com/insights/asset/s/smarter-public-sector-auditing-through-automation-rec",
+    "licence": "Crowe terms effective 2026-08-07: personal noncommercial site use; no copying, derivative, transmission or commercial exploitation without authorization",
+    "licence_url": "https://www.crowe.com/terms-of-use",
+    "rights_actions": {
+      "link_to_primary_source": "ACCEPT_LINK: attributed external publisher page only; no embed, access bypass or endorsement.",
+      "read_at_source": "Public publisher page accessible for individual reference subject to current site and player terms; no enrolment bypass.",
+      "download_for_redistribution": "NOT_APPROVED: no exact-recording or edition grant; do not download audiovisual or source documents.",
+      "host_exact_packaged_work": "NOT_APPROVED: no file acquired and no verified commercial hosting grant.",
+      "commercial_redistribution": "NOT_APPROVED: publisher materials restricted; no sublicence established.",
+      "adaptation": "NOT_APPROVED: no transcription, OCR, translation, AI rewriting or derivative rights.",
+      "extract_questions_and_solutions": "NOT_APPROVED: no individual questions, examples, worked answers or slide component rights cleared.",
+      "database_rights": "Manual bibliographic facts only; no bulk database copying, scraping or systematic collection.",
+      "ai_model_training": "NOT_APPROVED / unresolved separately; no express AI training permission.",
+      "rag_or_generated_outputs": "HOLD: separate permissions and source-boundary review required; no ingestion.",
+      "third_party_components": "UNCLEARED: presenter slides, music, photographs, screen captures, questions, code and solutions not separately licensed.",
+      "no_endorsement": "Do not imply KASNEB, World Bank, IESBA, IFAC or Crowe endorsement."
+    },
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "scope": "External publisher page only; no media distributed"
+  },
+  {
+    "id": "VIDEO-IESBA-DECODING-ETHICS-2026-HOLD",
+    "source_url": "https://www.ethicsboard.org/news-events/2026-02/iesba-decoding-ethics-podcast",
+    "licence": "IFAC-affiliated site terms last updated 2015-06-15 expressly restrict linking/framing and commercial/public reuse without written permission; individual episode audiovisual grants absent",
+    "licence_url": "https://www.ifac.org/terms-use",
+    "rights_actions": {
+      "link_to_primary_source": "HOLD: IFAC Terms of Use §1.2 expressly restrict linking/framing to website publications without written permission; retain locator only in internal provenance.",
+      "read_at_source": "Public publisher page accessible for individual reference subject to current site and player terms; no enrolment bypass.",
+      "download_for_redistribution": "NOT_APPROVED: no exact-recording or edition grant; do not download audiovisual or source documents.",
+      "host_exact_packaged_work": "NOT_APPROVED: no file acquired and no verified commercial hosting grant.",
+      "commercial_redistribution": "NOT_APPROVED: publisher materials restricted; no sublicence established.",
+      "adaptation": "NOT_APPROVED: no transcription, OCR, translation, AI rewriting or derivative rights.",
+      "extract_questions_and_solutions": "NOT_APPROVED: no individual questions, examples, worked answers or slide component rights cleared.",
+      "database_rights": "Manual bibliographic facts only; no bulk database copying, scraping or systematic collection.",
+      "ai_model_training": "NOT_APPROVED / unresolved separately; no express AI training permission.",
+      "rag_or_generated_outputs": "HOLD: separate permissions and source-boundary review required; no ingestion.",
+      "third_party_components": "UNCLEARED: presenter slides, music, photographs, screen captures, questions, code and solutions not separately licensed.",
+      "no_endorsement": "Do not imply KASNEB, World Bank, IESBA, IFAC or Crowe endorsement."
+    },
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "scope": "HOLD; no public link or media"
   }
 ]

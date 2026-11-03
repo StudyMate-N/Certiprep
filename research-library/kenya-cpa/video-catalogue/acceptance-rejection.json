@@ -460,5 +460,21 @@
     "reason": "Current heading says IFRS18 but older user comment says recording not updated and admin asserts ACCA validity through June 2027. Recording content/revision not playback-verified; keep existing general FR link, no current IFRS18 instructional certification.",
     "checked_utc": "2026-11-02T23:18:56Z",
     "next_review_due": "2026-11-16"
+  },
+  {
+    "source": "https://www.theiia.org/en/content/videos/webinar/2026/transforming-audit-quality-with-data-analytics-lessons-from-leading-global-audit-functions/",
+    "url": "https://www.theiia.org/en/content/videos/webinar/2026/transforming-audit-quality-with-data-analytics-lessons-from-leading-global-audit-functions/",
+    "decision": "HOLD_ACCESS",
+    "reason": "2026-03-12 webinar member-only playback, no purchase or access bypass.",
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "review_batch": "2026-11-03-0016Z"
+  },
+  {
+    "source": "https://cema-africa.uonbi.ac.ke/capacity-strengthening/seminar-series/science-runs-on-software",
+    "url": "https://cema-africa.uonbi.ac.ke/capacity-strengthening/seminar-series/science-runs-on-software",
+    "decision": "HOLD_SCOPE",
+    "reason": "2026-06-10 60-minute University of Nairobi software/AI seminar, but general research software rather than demonstrated CPA exam topic teaching; no worked accounting practice.",
+    "checked_utc": "2026-11-03T00:16:08Z",
+    "review_batch": "2026-11-03-0016Z"
   }
 ]
