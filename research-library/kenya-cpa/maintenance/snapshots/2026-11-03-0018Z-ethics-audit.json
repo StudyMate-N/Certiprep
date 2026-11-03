@@ -1,0 +1,22 @@
+{
+  "checked_utc": "2026-11-03T00:16:08Z",
+  "source_decisions": 278,
+  "video_catalogue_records": 100,
+  "accepted_external_links": 157,
+  "acquired_entries": 43,
+  "grouped_substantial_works": 29,
+  "media_objects": 162,
+  "media_bytes": 277700279,
+  "total_observed_storage_bytes": 598089979,
+  "storage_private": true,
+  "storage_missing": 0,
+  "storage_size_mismatch": 0,
+  "content_address_mismatch": 0,
+  "prior_download_verified": 162,
+  "new_recordings_acquired": 0,
+  "independent_academic_review": "pending",
+  "april_2027_mapping": "HOLD_UNMAPPED",
+  "metadata_delta_zip_sha256": "047299fad617d97267b5d4e53239fbf111f4eecc5a2a935c67f335643183c1cb",
+  "metadata_delta_library_file_id": "libfile_4f6605df57808191bb105f936c3dc3bc",
+  "archive_unchanged": true
+}

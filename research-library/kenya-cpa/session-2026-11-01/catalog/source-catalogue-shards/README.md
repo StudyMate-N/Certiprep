@@ -40,3 +40,7 @@ Two new external-only MIT Fall 2024 course records are in [2026-11-02-2217Z-incr
 ### 2026-11-02 23:18 UTC
 
 Append `2026-11-02-2318Z-incremental.json` (three new source records: CA25, CA31, CA34S3 HOLD) and apply `2026-11-02-2318Z-currency-overlay.json` by ID as a field-level replacement for existing VIDEO-OT-FR. Earlier base shards and historical increments remain immutable; do not double-count the overlay. Canonical live resources and standing source/rights/usage CSV contain 274 unique IDs; video catalogue 97. Reconcile IDs and last-write overlay precedence before rebuilding an export.
+
+## 2026-11-03 00:16 UTC
+
+New `2026-11-03-0016Z-incremental.json` contains four canonical source IDs; `2026-11-03-0016Z-rights-overlay.json` records the existing `STD-IPSAS2026` ACCEPT_LINK → HOLD_LINK_TERMS change. Keep all original base shards, prior increments and immutable master archive. Effective current source count 278, standing source/rights/usage CSVs 278 distinct IDs; historical monolithic JSON is not overwritten.
