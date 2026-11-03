@@ -1,0 +1,16 @@
+{
+  "id": "STD-IPSAS2026",
+  "old_decision": "ACCEPT_LINK",
+  "new_decision": "HOLD_LINK_TERMS",
+  "checked_utc": "2026-11-03T00:16:08Z",
+  "reason": "Current IPSASB /terms-use redirects to IFAC Terms of Use (last updated 2015-06-15), §1.2 expressly disallowing linking/framing to site publications without written permission; earlier record asserted ordinary link allowed without evidence. No media bytes or old licence grant exist.",
+  "evidence": [
+    "https://www.ipsasb.org/terms-use",
+    "https://www.ifac.org/terms-use"
+  ],
+  "rights_action_change": {
+    "link_to_primary_source": "HOLD: IFAC Terms §1.2 require express permission for linking to website publications; keep locator as non-distributed provenance."
+  },
+  "preserve_old_decision_history": true,
+  "next_review": "2026-11-17 or written IFAC/IPSASB permission, terms change, exact edition change"
+}
